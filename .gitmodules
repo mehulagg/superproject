@@ -1,0 +1,2112 @@
+[submodule "art"]
+	branch = n-iot-preview-2
+	path = art
+	url = ../art
+[submodule "bionic"]
+	branch = n-iot-preview-2
+	path = bionic
+	url = ../bionic
+[submodule "bootable/recovery"]
+	branch = n-iot-preview-2
+	path = bootable/recovery
+	url = ../bootable/recovery
+[submodule "build"]
+	branch = n-iot-preview-2
+	path = build
+	url = ../build
+[submodule "cts"]
+	branch = n-iot-preview-2
+	path = cts
+	url = ../cts
+[submodule "dalvik"]
+	branch = n-iot-preview-2
+	path = dalvik
+	url = ../dalvik
+[submodule "developers/build"]
+	branch = n-iot-preview-2
+	path = developers/build
+	url = ../developers/build
+[submodule "developers/demos"]
+	branch = n-iot-preview-2
+	path = developers/demos
+	url = ../developers/demos
+[submodule "developers/samples/android"]
+	branch = n-iot-preview-2
+	path = developers/samples/android
+	url = ../developers/samples/android
+[submodule "development"]
+	branch = n-iot-preview-2
+	path = development
+	url = ../development
+[submodule "device/asus/deb"]
+	branch = n-iot-preview-2
+	path = device/asus/deb
+	url = ../../device/asus/deb
+[submodule "device/asus/flo-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/asus/flo-kernel
+	url = ../../device/asus/flo-kernel
+[submodule "device/asus/flo"]
+	branch = n-iot-preview-2
+	path = device/asus/flo
+	url = ../../device/asus/flo
+[submodule "device/asus/fugu-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/asus/fugu-kernel
+	url = ../../device/asus/fugu-kernel
+[submodule "device/asus/fugu"]
+	branch = n-iot-preview-2
+	path = device/asus/fugu
+	url = ../../device/asus/fugu
+[submodule "device/common"]
+	branch = n-iot-preview-2
+	path = device/common
+	url = ../../device/common
+[submodule "device/generic/arm64"]
+	branch = n-iot-preview-2
+	path = device/generic/arm64
+	url = ../../device/generic/arm64
+[submodule "device/generic/armv7-a-neon"]
+	branch = n-iot-preview-2
+	path = device/generic/armv7-a-neon
+	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/common"]
+	branch = n-iot-preview-2
+	path = device/generic/common
+	url = ../../device/generic/common
+[submodule "device/generic/goldfish"]
+	branch = n-iot-preview-2
+	path = device/generic/goldfish
+	url = ../../device/generic/goldfish
+[submodule "device/generic/mini-emulator-arm64"]
+	branch = n-iot-preview-2
+	path = device/generic/mini-emulator-arm64
+	url = ../../device/generic/mini-emulator-arm64
+[submodule "device/generic/mini-emulator-armv7-a-neon"]
+	branch = n-iot-preview-2
+	path = device/generic/mini-emulator-armv7-a-neon
+	url = ../../device/generic/mini-emulator-armv7-a-neon
+[submodule "device/generic/mini-emulator-mips"]
+	branch = n-iot-preview-2
+	path = device/generic/mini-emulator-mips
+	url = ../../device/generic/mini-emulator-mips
+[submodule "device/generic/mini-emulator-x86"]
+	branch = n-iot-preview-2
+	path = device/generic/mini-emulator-x86
+	url = ../../device/generic/mini-emulator-x86
+[submodule "device/generic/mini-emulator-x86_64"]
+	branch = n-iot-preview-2
+	path = device/generic/mini-emulator-x86_64
+	url = ../../device/generic/mini-emulator-x86_64
+[submodule "device/generic/mips"]
+	branch = n-iot-preview-2
+	path = device/generic/mips
+	url = ../../device/generic/mips
+[submodule "device/generic/qemu"]
+	branch = n-iot-preview-2
+	path = device/generic/qemu
+	url = ../../device/generic/qemu
+[submodule "device/generic/x86"]
+	branch = n-iot-preview-2
+	path = device/generic/x86
+	url = ../../device/generic/x86
+[submodule "device/generic/x86_64"]
+	branch = n-iot-preview-2
+	path = device/generic/x86_64
+	url = ../../device/generic/x86_64
+[submodule "device/google/accessory/arduino"]
+	branch = n-iot-preview-2
+	path = device/google/accessory/arduino
+	url = ../../device/google/accessory/arduino
+[submodule "device/google/accessory/demokit"]
+	branch = n-iot-preview-2
+	path = device/google/accessory/demokit
+	url = ../../device/google/accessory/demokit
+[submodule "device/google/atv"]
+	branch = n-iot-preview-2
+	path = device/google/atv
+	url = ../../device/google/atv
+[submodule "device/google/contexthub"]
+	branch = n-iot-preview-2
+	path = device/google/contexthub
+	url = ../../device/google/contexthub
+[submodule "device/htc/flounder-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/htc/flounder-kernel
+	url = ../../device/htc/flounder-kernel
+[submodule "device/htc/flounder"]
+	branch = n-iot-preview-2
+	path = device/htc/flounder
+	url = ../../device/htc/flounder
+[submodule "device/huawei/angler-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/huawei/angler-kernel
+	url = ../../device/huawei/angler-kernel
+[submodule "device/huawei/angler"]
+	branch = n-iot-preview-2
+	path = device/huawei/angler
+	url = ../../device/huawei/angler
+[submodule "device/lge/bullhead-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/lge/bullhead-kernel
+	url = ../../device/lge/bullhead-kernel
+[submodule "device/lge/bullhead"]
+	branch = n-iot-preview-2
+	path = device/lge/bullhead
+	url = ../../device/lge/bullhead
+[submodule "device/lge/hammerhead-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/lge/hammerhead-kernel
+	url = ../../device/lge/hammerhead-kernel
+[submodule "device/lge/hammerhead"]
+	branch = n-iot-preview-2
+	path = device/lge/hammerhead
+	url = ../../device/lge/hammerhead
+[submodule "device/linaro/bootloader/OpenPlatformPkg"]
+	branch = n-iot-preview-2
+	path = device/linaro/bootloader/OpenPlatformPkg
+	url = ../../device/linaro/bootloader/OpenPlatformPkg
+[submodule "device/linaro/bootloader/arm-trusted-firmware"]
+	branch = n-iot-preview-2
+	path = device/linaro/bootloader/arm-trusted-firmware
+	url = ../../device/linaro/bootloader/arm-trusted-firmware
+[submodule "device/linaro/bootloader/edk2"]
+	branch = n-iot-preview-2
+	path = device/linaro/bootloader/edk2
+	url = ../../device/linaro/bootloader/edk2
+[submodule "device/linaro/hikey-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/linaro/hikey-kernel
+	url = ../../device/linaro/hikey-kernel
+[submodule "device/linaro/hikey"]
+	branch = n-iot-preview-2
+	path = device/linaro/hikey
+	url = ../../device/linaro/hikey
+[submodule "device/moto/shamu-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = device/moto/shamu-kernel
+	url = ../../device/moto/shamu-kernel
+[submodule "device/moto/shamu"]
+	branch = n-iot-preview-2
+	path = device/moto/shamu
+	url = ../../device/moto/shamu
+[submodule "device/sample"]
+	branch = n-iot-preview-2
+	path = device/sample
+	url = ../../device/sample
+[submodule "docs/source.android.com"]
+	branch = n-iot-preview-2
+	path = docs/source.android.com
+	url = ../docs/source.android.com
+[submodule "external/aac"]
+	branch = n-iot-preview-2
+	path = external/aac
+	url = ../external/aac
+[submodule "external/android-clat"]
+	branch = n-iot-preview-2
+	path = external/android-clat
+	url = ../external/android-clat
+[submodule "external/androidplot"]
+	branch = n-iot-preview-2
+	path = external/androidplot
+	url = ../external/androidplot
+[submodule "external/ant-glob"]
+	branch = n-iot-preview-2
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "external/antlr"]
+	branch = n-iot-preview-2
+	path = external/antlr
+	url = ../external/antlr
+[submodule "external/apache-commons-math"]
+	branch = n-iot-preview-2
+	path = external/apache-commons-math
+	url = ../external/apache-commons-math
+[submodule "external/apache-harmony"]
+	branch = n-iot-preview-2
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "external/apache-http"]
+	branch = n-iot-preview-2
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "external/apache-xml"]
+	branch = n-iot-preview-2
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "external/autotest"]
+	branch = n-iot-preview-2
+	path = external/autotest
+	url = ../external/autotest
+[submodule "external/avahi"]
+	branch = n-iot-preview-2
+	path = external/avahi
+	url = ../external/avahi
+[submodule "external/bison"]
+	branch = n-iot-preview-2
+	path = external/bison
+	url = ../external/bison
+[submodule "external/blktrace"]
+	branch = n-iot-preview-2
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "external/boringssl"]
+	branch = n-iot-preview-2
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "external/bouncycastle"]
+	branch = n-iot-preview-2
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "external/bsdiff"]
+	branch = n-iot-preview-2
+	path = external/bsdiff
+	url = ../external/bsdiff
+[submodule "external/bzip2"]
+	branch = n-iot-preview-2
+	path = external/bzip2
+	url = ../external/bzip2
+[submodule "external/c-ares"]
+	branch = n-iot-preview-2
+	path = external/c-ares
+	url = ../external/c-ares
+[submodule "external/caliper"]
+	branch = n-iot-preview-2
+	path = external/caliper
+	url = ../external/caliper
+[submodule "external/cblas"]
+	branch = n-iot-preview-2
+	path = external/cblas
+	url = ../external/cblas
+[submodule "external/ceres-solver"]
+	branch = n-iot-preview-2
+	path = external/ceres-solver
+	url = ../external/ceres-solver
+[submodule "external/chromium-libpac"]
+	branch = n-iot-preview-2
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "external/chromium-trace"]
+	branch = n-iot-preview-2
+	path = external/chromium-trace
+	url = ../external/chromium-trace
+[submodule "external/chromium-webview"]
+	branch = n-iot-preview-2
+	path = external/chromium-webview
+	url = ../external/chromium-webview
+[submodule "external/clang"]
+	branch = n-iot-preview-2
+	path = external/clang
+	url = ../external/clang
+[submodule "external/cmockery"]
+	branch = n-iot-preview-2
+	path = external/cmockery
+	url = ../external/cmockery
+[submodule "external/compiler-rt"]
+	branch = n-iot-preview-2
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "external/conscrypt"]
+	branch = n-iot-preview-2
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "external/crcalc"]
+	branch = n-iot-preview-2
+	path = external/crcalc
+	url = ../external/crcalc
+[submodule "external/cros/system_api"]
+	branch = n-iot-preview-2
+	path = external/cros/system_api
+	url = ../external/cros/system_api
+[submodule "external/curl"]
+	branch = n-iot-preview-2
+	path = external/curl
+	url = ../external/curl
+[submodule "external/dagger2"]
+	branch = n-iot-preview-2
+	path = external/dagger2
+	url = ../external/dagger2
+[submodule "external/dbus-binding-generator"]
+	branch = n-iot-preview-2
+	path = external/dbus-binding-generator
+	url = ../external/dbus-binding-generator
+[submodule "external/dbus"]
+	branch = n-iot-preview-2
+	path = external/dbus
+	url = ../external/dbus
+[submodule "external/deqp"]
+	branch = n-iot-preview-2
+	path = external/deqp
+	url = ../external/deqp
+[submodule "external/dexmaker"]
+	branch = n-iot-preview-2
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "external/dhcpcd-6.8.2"]
+	branch = n-iot-preview-2
+	path = external/dhcpcd-6.8.2
+	url = ../external/dhcpcd-6.8.2
+[submodule "external/dhcpcd"]
+	branch = n-iot-preview-2
+	path = external/dhcpcd
+	url = ../external/dhcpcd
+[submodule "external/dlmalloc"]
+	branch = n-iot-preview-2
+	path = external/dlmalloc
+	url = ../external/dlmalloc
+[submodule "external/dng_sdk"]
+	branch = n-iot-preview-2
+	path = external/dng_sdk
+	url = ../external/dng_sdk
+[submodule "external/dnsmasq"]
+	branch = n-iot-preview-2
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "external/doclava"]
+	branch = n-iot-preview-2
+	path = external/doclava
+	url = ../external/doclava
+[submodule "external/donuts"]
+	branch = n-iot-preview-2
+	path = external/donuts
+	url = ../external/donuts
+[submodule "external/drm_gralloc"]
+	branch = n-iot-preview-2
+	path = external/drm_gralloc
+	url = ../external/drm_gralloc
+[submodule "external/drm_hwcomposer"]
+	branch = n-iot-preview-2
+	path = external/drm_hwcomposer
+	url = ../external/drm_hwcomposer
+[submodule "external/droiddriver"]
+	branch = n-iot-preview-2
+	path = external/droiddriver
+	url = ../external/droiddriver
+[submodule "external/dtc"]
+	branch = n-iot-preview-2
+	path = external/dtc
+	url = ../external/dtc
+[submodule "external/e2fsprogs"]
+	branch = n-iot-preview-2
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "external/easymock"]
+	branch = n-iot-preview-2
+	path = external/easymock
+	url = ../external/easymock
+[submodule "external/eclipse-basebuilder"]
+	branch = n-iot-preview-2
+	path = external/eclipse-basebuilder
+	url = ../external/eclipse-basebuilder
+[submodule "external/eclipse-windowbuilder"]
+	branch = n-iot-preview-2
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "external/eigen"]
+	branch = n-iot-preview-2
+	path = external/eigen
+	url = ../external/eigen
+[submodule "external/elfutils"]
+	branch = n-iot-preview-2
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "external/emma"]
+	branch = n-iot-preview-2
+	path = external/emma
+	url = ../external/emma
+[submodule "external/esd"]
+	branch = n-iot-preview-2
+	path = external/esd
+	url = ../external/esd
+[submodule "external/expat"]
+	branch = n-iot-preview-2
+	path = external/expat
+	url = ../external/expat
+[submodule "external/eyes-free"]
+	branch = n-iot-preview-2
+	path = external/eyes-free
+	url = ../external/eyes-free
+[submodule "external/f2fs-tools"]
+	branch = n-iot-preview-2
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "external/fdlibm"]
+	branch = n-iot-preview-2
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "external/fec"]
+	branch = n-iot-preview-2
+	path = external/fec
+	url = ../external/fec
+[submodule "external/fio"]
+	branch = n-iot-preview-2
+	path = external/fio
+	url = ../external/fio
+[submodule "external/flac"]
+	branch = n-iot-preview-2
+	path = external/flac
+	url = ../external/flac
+[submodule "external/fonttools"]
+	branch = n-iot-preview-2
+	path = external/fonttools
+	url = ../external/fonttools
+[submodule "external/freetype"]
+	branch = n-iot-preview-2
+	path = external/freetype
+	url = ../external/freetype
+[submodule "external/fsck_msdos"]
+	branch = n-iot-preview-2
+	path = external/fsck_msdos
+	url = ../external/fsck_msdos
+[submodule "external/gemmlowp"]
+	branch = n-iot-preview-2
+	path = external/gemmlowp
+	url = ../external/gemmlowp
+[submodule "external/giflib"]
+	branch = n-iot-preview-2
+	path = external/giflib
+	url = ../external/giflib
+[submodule "external/glide"]
+	branch = n-iot-preview-2
+	path = external/glide
+	url = ../external/glide
+[submodule "external/gmock"]
+	branch = n-iot-preview-2
+	path = external/gmock
+	url = ../external/gmock
+[submodule "external/google-benchmark"]
+	branch = n-iot-preview-2
+	path = external/google-benchmark
+	url = ../external/google-benchmark
+[submodule "external/google-breakpad"]
+	branch = n-iot-preview-2
+	path = external/google-breakpad
+	url = ../external/google-breakpad
+[submodule "external/google-fonts/carrois-gothic-sc"]
+	branch = n-iot-preview-2
+	path = external/google-fonts/carrois-gothic-sc
+	url = ../external/google-fonts/carrois-gothic-sc
+[submodule "external/google-fonts/coming-soon"]
+	branch = n-iot-preview-2
+	path = external/google-fonts/coming-soon
+	url = ../external/google-fonts/coming-soon
+[submodule "external/google-fonts/cutive-mono"]
+	branch = n-iot-preview-2
+	path = external/google-fonts/cutive-mono
+	url = ../external/google-fonts/cutive-mono
+[submodule "external/google-fonts/dancing-script"]
+	branch = n-iot-preview-2
+	path = external/google-fonts/dancing-script
+	url = ../external/google-fonts/dancing-script
+[submodule "external/google-tv-pairing-protocol"]
+	branch = n-iot-preview-2
+	path = external/google-tv-pairing-protocol
+	url = ../external/google-tv-pairing-protocol
+[submodule "external/googletest"]
+	branch = n-iot-preview-2
+	path = external/googletest
+	url = ../external/googletest
+[submodule "external/gptfdisk"]
+	branch = n-iot-preview-2
+	path = external/gptfdisk
+	url = ../external/gptfdisk
+[submodule "external/gtest"]
+	branch = n-iot-preview-2
+	path = external/gtest
+	url = ../external/gtest
+[submodule "external/guava"]
+	branch = n-iot-preview-2
+	path = external/guava
+	url = ../external/guava
+[submodule "external/guice"]
+	branch = n-iot-preview-2
+	path = external/guice
+	url = ../external/guice
+[submodule "external/hamcrest"]
+	branch = n-iot-preview-2
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "external/harfbuzz_ng"]
+	branch = n-iot-preview-2
+	path = external/harfbuzz_ng
+	url = ../external/harfbuzz_ng
+[submodule "external/hyphenation-patterns"]
+	branch = n-iot-preview-2
+	path = external/hyphenation-patterns
+	url = ../external/hyphenation-patterns
+[submodule "external/icu"]
+	branch = n-iot-preview-2
+	path = external/icu
+	url = ../external/icu
+[submodule "external/iproute2"]
+	branch = n-iot-preview-2
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "external/ipsec-tools"]
+	branch = n-iot-preview-2
+	path = external/ipsec-tools
+	url = ../external/ipsec-tools
+[submodule "external/iptables"]
+	branch = n-iot-preview-2
+	path = external/iptables
+	url = ../external/iptables
+[submodule "external/iputils"]
+	branch = n-iot-preview-2
+	path = external/iputils
+	url = ../external/iputils
+[submodule "external/iw"]
+	branch = n-iot-preview-2
+	path = external/iw
+	url = ../external/iw
+[submodule "external/jacoco"]
+	branch = n-iot-preview-2
+	path = external/jacoco
+	url = ../external/jacoco
+[submodule "external/jarjar"]
+	branch = n-iot-preview-2
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "external/javasqlite"]
+	branch = n-iot-preview-2
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "external/javassist"]
+	branch = n-iot-preview-2
+	path = external/javassist
+	url = ../external/javassist
+[submodule "external/jcommander"]
+	branch = n-iot-preview-2
+	path = external/jcommander
+	url = ../external/jcommander
+[submodule "external/jdiff"]
+	branch = n-iot-preview-2
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "external/jemalloc"]
+	branch = n-iot-preview-2
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "external/jetty"]
+	branch = n-iot-preview-2
+	path = external/jetty
+	url = ../external/jetty
+[submodule "external/jhead"]
+	branch = n-iot-preview-2
+	path = external/jhead
+	url = ../external/jhead
+[submodule "external/jmdns"]
+	branch = n-iot-preview-2
+	path = external/jmdns
+	url = ../external/jmdns
+[submodule "external/jpeg"]
+	branch = n-iot-preview-2
+	path = external/jpeg
+	url = ../external/jpeg
+[submodule "external/jsilver"]
+	branch = n-iot-preview-2
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "external/jsmn"]
+	branch = n-iot-preview-2
+	path = external/jsmn
+	url = ../external/jsmn
+[submodule "external/jsoncpp"]
+	branch = n-iot-preview-2
+	path = external/jsoncpp
+	url = ../external/jsoncpp
+[submodule "external/jsr305"]
+	branch = n-iot-preview-2
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "external/jsr330"]
+	branch = n-iot-preview-2
+	path = external/jsr330
+	url = ../external/jsr330
+[submodule "external/junit"]
+	branch = n-iot-preview-2
+	path = external/junit
+	url = ../external/junit
+[submodule "external/kernel-headers"]
+	branch = n-iot-preview-2
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "external/ksoap2"]
+	branch = n-iot-preview-2
+	path = external/ksoap2
+	url = ../external/ksoap2
+[submodule "external/libavc"]
+	branch = n-iot-preview-2
+	path = external/libavc
+	url = ../external/libavc
+[submodule "external/libbrillo"]
+	branch = n-iot-preview-2
+	path = external/libbrillo
+	url = ../external/libbrillo
+[submodule "external/libcap-ng"]
+	branch = n-iot-preview-2
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "external/libcap"]
+	branch = n-iot-preview-2
+	path = external/libcap
+	url = ../external/libcap
+[submodule "external/libchrome"]
+	branch = n-iot-preview-2
+	path = external/libchrome
+	url = ../external/libchrome
+[submodule "external/libconstrainedcrypto"]
+	branch = n-iot-preview-2
+	path = external/libconstrainedcrypto
+	url = ../external/libconstrainedcrypto
+[submodule "external/libcxx"]
+	branch = n-iot-preview-2
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "external/libcxxabi"]
+	branch = n-iot-preview-2
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "external/libdaemon"]
+	branch = n-iot-preview-2
+	path = external/libdaemon
+	url = ../external/libdaemon
+[submodule "external/libdivsufsort"]
+	branch = n-iot-preview-2
+	path = external/libdivsufsort
+	url = ../external/libdivsufsort
+[submodule "external/libdrm"]
+	branch = n-iot-preview-2
+	path = external/libdrm
+	url = ../external/libdrm
+[submodule "external/libedit"]
+	branch = n-iot-preview-2
+	path = external/libedit
+	url = ../external/libedit
+[submodule "external/libevent"]
+	branch = n-iot-preview-2
+	path = external/libevent
+	url = ../external/libevent
+[submodule "external/libexif"]
+	branch = n-iot-preview-2
+	path = external/libexif
+	url = ../external/libexif
+[submodule "external/libgsm"]
+	branch = n-iot-preview-2
+	path = external/libgsm
+	url = ../external/libgsm
+[submodule "external/libhevc"]
+	branch = n-iot-preview-2
+	path = external/libhevc
+	url = ../external/libhevc
+[submodule "external/liblzf"]
+	branch = n-iot-preview-2
+	path = external/liblzf
+	url = ../external/liblzf
+[submodule "external/libmicrohttpd"]
+	branch = n-iot-preview-2
+	path = external/libmicrohttpd
+	url = ../external/libmicrohttpd
+[submodule "external/libmojo"]
+	branch = n-iot-preview-2
+	path = external/libmojo
+	url = ../external/libmojo
+[submodule "external/libmpeg2"]
+	branch = n-iot-preview-2
+	path = external/libmpeg2
+	url = ../external/libmpeg2
+[submodule "external/libmtp"]
+	branch = n-iot-preview-2
+	path = external/libmtp
+	url = ../external/libmtp
+[submodule "external/libnfc-nci"]
+	branch = n-iot-preview-2
+	path = external/libnfc-nci
+	url = ../external/libnfc-nci
+[submodule "external/libnfc-nxp"]
+	branch = n-iot-preview-2
+	path = external/libnfc-nxp
+	url = ../external/libnfc-nxp
+[submodule "external/libnl"]
+	branch = n-iot-preview-2
+	path = external/libnl
+	url = ../external/libnl
+[submodule "external/libogg"]
+	branch = n-iot-preview-2
+	path = external/libogg
+	url = ../external/libogg
+[submodule "external/libopus"]
+	branch = n-iot-preview-2
+	path = external/libopus
+	url = ../external/libopus
+[submodule "external/libpcap"]
+	branch = n-iot-preview-2
+	path = external/libpcap
+	url = ../external/libpcap
+[submodule "external/libphonenumber"]
+	branch = n-iot-preview-2
+	path = external/libphonenumber
+	url = ../external/libphonenumber
+[submodule "external/libpng"]
+	branch = n-iot-preview-2
+	path = external/libpng
+	url = ../external/libpng
+[submodule "external/libselinux"]
+	branch = n-iot-preview-2
+	path = external/libselinux
+	url = ../external/libselinux
+[submodule "external/libunwind"]
+	branch = n-iot-preview-2
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "external/libunwind_llvm"]
+	branch = n-iot-preview-2
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "external/libusb-compat"]
+	branch = n-iot-preview-2
+	path = external/libusb-compat
+	url = ../external/libusb-compat
+[submodule "external/libusb"]
+	branch = n-iot-preview-2
+	path = external/libusb
+	url = ../external/libusb
+[submodule "external/libutf"]
+	branch = n-iot-preview-2
+	path = external/libutf
+	url = ../external/libutf
+[submodule "external/libvncserver"]
+	branch = n-iot-preview-2
+	path = external/libvncserver
+	url = ../external/libvncserver
+[submodule "external/libvorbis"]
+	branch = n-iot-preview-2
+	path = external/libvorbis
+	url = ../external/libvorbis
+[submodule "external/libvpx"]
+	branch = n-iot-preview-2
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "external/libvterm"]
+	branch = n-iot-preview-2
+	path = external/libvterm
+	url = ../external/libvterm
+[submodule "external/libweave"]
+	branch = n-iot-preview-2
+	path = external/libweave
+	url = ../external/libweave
+[submodule "external/libxml2"]
+	branch = n-iot-preview-2
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "external/libyuv"]
+	branch = n-iot-preview-2
+	path = external/libyuv
+	url = ../external/libyuv
+[submodule "external/littlemock"]
+	branch = n-iot-preview-2
+	path = external/littlemock
+	url = ../external/littlemock
+[submodule "external/lld"]
+	branch = n-iot-preview-2
+	path = external/lld
+	url = ../external/lld
+[submodule "external/llvm"]
+	branch = n-iot-preview-2
+	path = external/llvm
+	url = ../external/llvm
+[submodule "external/ltrace"]
+	branch = n-iot-preview-2
+	path = external/ltrace
+	url = ../external/ltrace
+[submodule "external/lz4"]
+	branch = n-iot-preview-2
+	path = external/lz4
+	url = ../external/lz4
+[submodule "external/lzma"]
+	branch = n-iot-preview-2
+	path = external/lzma
+	url = ../external/lzma
+[submodule "external/marisa-trie"]
+	branch = n-iot-preview-2
+	path = external/marisa-trie
+	url = ../external/marisa-trie
+[submodule "external/markdown"]
+	branch = n-iot-preview-2
+	path = external/markdown
+	url = ../external/markdown
+[submodule "external/mdnsresponder"]
+	branch = n-iot-preview-2
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "external/mesa3d"]
+	branch = n-iot-preview-2
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "external/messageformat"]
+	branch = n-iot-preview-2
+	path = external/messageformat
+	url = ../external/messageformat
+[submodule "external/minijail"]
+	branch = n-iot-preview-2
+	path = external/minijail
+	url = ../external/minijail
+[submodule "external/mksh"]
+	branch = n-iot-preview-2
+	path = external/mksh
+	url = ../external/mksh
+[submodule "external/mmc-utils"]
+	branch = n-iot-preview-2
+	path = external/mmc-utils
+	url = ../external/mmc-utils
+[submodule "external/mockftpserver"]
+	branch = n-iot-preview-2
+	path = external/mockftpserver
+	url = ../external/mockftpserver
+[submodule "external/mockito"]
+	branch = n-iot-preview-2
+	path = external/mockito
+	url = ../external/mockito
+[submodule "external/mockwebserver"]
+	branch = n-iot-preview-2
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "external/modp_b64"]
+	branch = n-iot-preview-2
+	path = external/modp_b64
+	url = ../external/modp_b64
+[submodule "external/mp4parser"]
+	branch = n-iot-preview-2
+	path = external/mp4parser
+	url = ../external/mp4parser
+[submodule "external/mtpd"]
+	branch = n-iot-preview-2
+	path = external/mtpd
+	url = ../external/mtpd
+[submodule "external/nanohttpd"]
+	branch = n-iot-preview-2
+	path = external/nanohttpd
+	url = ../external/nanohttpd
+[submodule "external/nanopb-c"]
+	branch = n-iot-preview-2
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "external/naver-fonts"]
+	branch = n-iot-preview-2
+	path = external/naver-fonts
+	url = ../external/naver-fonts
+[submodule "external/netcat"]
+	branch = n-iot-preview-2
+	path = external/netcat
+	url = ../external/netcat
+[submodule "external/netperf"]
+	branch = n-iot-preview-2
+	path = external/netperf
+	url = ../external/netperf
+[submodule "external/neven"]
+	branch = n-iot-preview-2
+	path = external/neven
+	url = ../external/neven
+[submodule "external/nfacct"]
+	branch = n-iot-preview-2
+	path = external/nfacct
+	url = ../external/nfacct
+[submodule "external/nist-pkits"]
+	branch = n-iot-preview-2
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "external/nist-sip"]
+	branch = n-iot-preview-2
+	path = external/nist-sip
+	url = ../external/nist-sip
+[submodule "external/noto-fonts"]
+	branch = n-iot-preview-2
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "external/oauth"]
+	branch = n-iot-preview-2
+	path = external/oauth
+	url = ../external/oauth
+[submodule "external/objenesis"]
+	branch = n-iot-preview-2
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "external/okhttp"]
+	branch = n-iot-preview-2
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "external/opencv"]
+	branch = n-iot-preview-2
+	path = external/opencv
+	url = ../external/opencv
+[submodule "external/opencv3"]
+	branch = n-iot-preview-2
+	path = external/opencv3
+	url = ../external/opencv3
+[submodule "external/owasp/sanitizer"]
+	branch = n-iot-preview-2
+	path = external/owasp/sanitizer
+	url = ../external/owasp/sanitizer
+[submodule "external/parameter-framework"]
+	branch = n-iot-preview-2
+	path = external/parameter-framework
+	url = ../external/parameter-framework
+[submodule "external/pcre"]
+	branch = n-iot-preview-2
+	path = external/pcre
+	url = ../external/pcre
+[submodule "external/pdfium"]
+	branch = n-iot-preview-2
+	path = external/pdfium
+	url = ../external/pdfium
+[submodule "external/piex"]
+	branch = n-iot-preview-2
+	path = external/piex
+	url = ../external/piex
+[submodule "external/ppp"]
+	branch = n-iot-preview-2
+	path = external/ppp
+	url = ../external/ppp
+[submodule "external/proguard"]
+	branch = n-iot-preview-2
+	path = external/proguard
+	url = ../external/proguard
+[submodule "external/protobuf"]
+	branch = n-iot-preview-2
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "external/regex-re2"]
+	branch = n-iot-preview-2
+	path = external/regex-re2
+	url = ../external/regex-re2
+[submodule "external/replicaisland"]
+	branch = n-iot-preview-2
+	path = external/replicaisland
+	url = ../external/replicaisland
+[submodule "external/rmi4utils"]
+	branch = n-iot-preview-2
+	path = external/rmi4utils
+	url = ../external/rmi4utils
+[submodule "external/robolectric"]
+	branch = n-iot-preview-2
+	path = external/robolectric
+	url = ../external/robolectric
+[submodule "external/roboto-fonts"]
+	branch = n-iot-preview-2
+	path = external/roboto-fonts
+	url = ../external/roboto-fonts
+[submodule "external/rootdev"]
+	branch = n-iot-preview-2
+	path = external/rootdev
+	url = ../external/rootdev
+[submodule "external/safe-iop"]
+	branch = n-iot-preview-2
+	path = external/safe-iop
+	url = ../external/safe-iop
+[submodule "external/scrypt"]
+	branch = n-iot-preview-2
+	path = external/scrypt
+	url = ../external/scrypt
+[submodule "external/seccomp-tests"]
+	branch = n-iot-preview-2
+	path = external/seccomp-tests
+	url = ../external/seccomp-tests
+[submodule "external/selinux"]
+	branch = n-iot-preview-2
+	path = external/selinux
+	url = ../external/selinux
+[submodule "external/sfntly"]
+	branch = n-iot-preview-2
+	path = external/sfntly
+	url = ../external/sfntly
+[submodule "external/shflags"]
+	branch = n-iot-preview-2
+	path = external/shflags
+	url = ../external/shflags
+[submodule "external/skia"]
+	branch = n-iot-preview-2
+	path = external/skia
+	url = ../external/skia
+[submodule "external/sl4a"]
+	branch = n-iot-preview-2
+	path = external/sl4a
+	url = ../external/sl4a
+[submodule "external/slf4j"]
+	branch = n-iot-preview-2
+	path = external/slf4j
+	url = ../external/slf4j
+[submodule "external/smali"]
+	branch = n-iot-preview-2
+	path = external/smali
+	url = ../external/smali
+[submodule "external/snakeyaml"]
+	branch = n-iot-preview-2
+	path = external/snakeyaml
+	url = ../external/snakeyaml
+[submodule "external/sonic"]
+	branch = n-iot-preview-2
+	path = external/sonic
+	url = ../external/sonic
+[submodule "external/sonivox"]
+	branch = n-iot-preview-2
+	path = external/sonivox
+	url = ../external/sonivox
+[submodule "external/speex"]
+	branch = n-iot-preview-2
+	path = external/speex
+	url = ../external/speex
+[submodule "external/sqlite"]
+	branch = n-iot-preview-2
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "external/squashfs-tools"]
+	branch = n-iot-preview-2
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
+[submodule "external/srtp"]
+	branch = n-iot-preview-2
+	path = external/srtp
+	url = ../external/srtp
+[submodule "external/strace"]
+	branch = n-iot-preview-2
+	path = external/strace
+	url = ../external/strace
+[submodule "external/svox"]
+	branch = n-iot-preview-2
+	path = external/svox
+	url = ../external/svox
+[submodule "external/tagsoup"]
+	branch = n-iot-preview-2
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "external/tcpdump"]
+	branch = n-iot-preview-2
+	path = external/tcpdump
+	url = ../external/tcpdump
+[submodule "external/testng"]
+	branch = n-iot-preview-2
+	path = external/testng
+	url = ../external/testng
+[submodule "external/timezonepicker-support"]
+	branch = n-iot-preview-2
+	path = external/timezonepicker-support
+	url = ../external/timezonepicker-support
+[submodule "external/tinyalsa"]
+	branch = n-iot-preview-2
+	path = external/tinyalsa
+	url = ../external/tinyalsa
+[submodule "external/tinycompress"]
+	branch = n-iot-preview-2
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "external/tinyxml"]
+	branch = n-iot-preview-2
+	path = external/tinyxml
+	url = ../external/tinyxml
+[submodule "external/tinyxml2"]
+	branch = n-iot-preview-2
+	path = external/tinyxml2
+	url = ../external/tinyxml2
+[submodule "external/tlsdate"]
+	branch = n-iot-preview-2
+	path = external/tlsdate
+	url = ../external/tlsdate
+[submodule "external/toybox"]
+	branch = n-iot-preview-2
+	path = external/toybox
+	url = ../external/toybox
+[submodule "external/tpm2"]
+	branch = n-iot-preview-2
+	path = external/tpm2
+	url = ../external/tpm2
+[submodule "external/tremolo"]
+	branch = n-iot-preview-2
+	path = external/tremolo
+	url = ../external/tremolo
+[submodule "external/u-boot"]
+	branch = n-iot-preview-2
+	path = external/u-boot
+	url = ../external/u-boot
+[submodule "external/v8"]
+	branch = n-iot-preview-2
+	path = external/v8
+	url = ../external/v8
+[submodule "external/valgrind"]
+	branch = n-iot-preview-2
+	path = external/valgrind
+	url = ../external/valgrind
+[submodule "external/vboot_reference"]
+	branch = n-iot-preview-2
+	path = external/vboot_reference
+	url = ../external/vboot_reference
+[submodule "external/vixl"]
+	branch = n-iot-preview-2
+	path = external/vixl
+	url = ../external/vixl
+[submodule "external/vogar"]
+	branch = n-iot-preview-2
+	path = external/vogar
+	url = ../external/vogar
+[submodule "external/vulkan-validation-layers"]
+	branch = n-iot-preview-2
+	path = external/vulkan-validation-layers
+	url = ../external/vulkan-validation-layers
+[submodule "external/webp"]
+	branch = n-iot-preview-2
+	path = external/webp
+	url = ../external/webp
+[submodule "external/webrtc"]
+	branch = n-iot-preview-2
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "external/wpa_supplicant_8"]
+	branch = n-iot-preview-2
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "external/xmlrpcpp"]
+	branch = n-iot-preview-2
+	path = external/xmlrpcpp
+	url = ../external/xmlrpcpp
+[submodule "external/xmlwriter"]
+	branch = n-iot-preview-2
+	path = external/xmlwriter
+	url = ../external/xmlwriter
+[submodule "external/xmp_toolkit"]
+	branch = n-iot-preview-2
+	path = external/xmp_toolkit
+	url = ../external/xmp_toolkit
+[submodule "external/zlib"]
+	branch = n-iot-preview-2
+	path = external/zlib
+	url = ../external/zlib
+[submodule "external/zopfli"]
+	branch = n-iot-preview-2
+	path = external/zopfli
+	url = ../external/zopfli
+[submodule "external/zxing"]
+	branch = n-iot-preview-2
+	path = external/zxing
+	url = ../external/zxing
+[submodule "frameworks/av"]
+	branch = n-iot-preview-2
+	path = frameworks/av
+	url = ../frameworks/av
+[submodule "frameworks/base"]
+	branch = n-iot-preview-2
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "frameworks/compile/libbcc"]
+	branch = n-iot-preview-2
+	path = frameworks/compile/libbcc
+	url = ../frameworks/compile/libbcc
+[submodule "frameworks/compile/mclinker"]
+	branch = n-iot-preview-2
+	path = frameworks/compile/mclinker
+	url = ../frameworks/compile/mclinker
+[submodule "frameworks/compile/slang"]
+	branch = n-iot-preview-2
+	path = frameworks/compile/slang
+	url = ../frameworks/compile/slang
+[submodule "frameworks/data-binding"]
+	branch = n-iot-preview-2
+	path = frameworks/data-binding
+	url = ../frameworks/data-binding
+[submodule "frameworks/ex"]
+	branch = n-iot-preview-2
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "frameworks/minikin"]
+	branch = n-iot-preview-2
+	path = frameworks/minikin
+	url = ../frameworks/minikin
+[submodule "frameworks/ml"]
+	branch = n-iot-preview-2
+	path = frameworks/ml
+	url = ../frameworks/ml
+[submodule "frameworks/multidex"]
+	branch = n-iot-preview-2
+	path = frameworks/multidex
+	url = ../frameworks/multidex
+[submodule "frameworks/native"]
+	branch = n-iot-preview-2
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "frameworks/opt/bitmap"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/bitmap
+	url = ../frameworks/opt/bitmap
+[submodule "frameworks/opt/bluetooth"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/bluetooth
+	url = ../frameworks/opt/bluetooth
+[submodule "frameworks/opt/calendar"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/calendar
+	url = ../frameworks/opt/calendar
+[submodule "frameworks/opt/chips"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/chips
+	url = ../frameworks/opt/chips
+[submodule "frameworks/opt/colorpicker"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/colorpicker
+	url = ../frameworks/opt/colorpicker
+[submodule "frameworks/opt/datetimepicker"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/datetimepicker
+	url = ../frameworks/opt/datetimepicker
+[submodule "frameworks/opt/emoji"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/emoji
+	url = ../frameworks/opt/emoji
+[submodule "frameworks/opt/inputconnectioncommon"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/inputconnectioncommon
+	url = ../frameworks/opt/inputconnectioncommon
+[submodule "frameworks/opt/inputmethodcommon"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/inputmethodcommon
+	url = ../frameworks/opt/inputmethodcommon
+[submodule "frameworks/opt/net/ethernet"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/net/ethernet
+	url = ../frameworks/opt/net/ethernet
+[submodule "frameworks/opt/net/ims"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/net/ims
+	url = ../frameworks/opt/net/ims
+[submodule "frameworks/opt/net/voip"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/net/voip
+	url = ../frameworks/opt/net/voip
+[submodule "frameworks/opt/net/wifi"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/net/wifi
+	url = ../frameworks/opt/net/wifi
+[submodule "frameworks/opt/photoviewer"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/photoviewer
+	url = ../frameworks/opt/photoviewer
+[submodule "frameworks/opt/setupwizard"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/setupwizard
+	url = ../frameworks/opt/setupwizard
+[submodule "frameworks/opt/telephony"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/telephony
+	url = ../frameworks/opt/telephony
+[submodule "frameworks/opt/timezonepicker"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/timezonepicker
+	url = ../frameworks/opt/timezonepicker
+[submodule "frameworks/opt/vcard"]
+	branch = n-iot-preview-2
+	path = frameworks/opt/vcard
+	url = ../frameworks/opt/vcard
+[submodule "frameworks/rs"]
+	branch = n-iot-preview-2
+	path = frameworks/rs
+	url = ../frameworks/rs
+[submodule "frameworks/support"]
+	branch = n-iot-preview-2
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "frameworks/volley"]
+	branch = n-iot-preview-2
+	path = frameworks/volley
+	url = ../frameworks/volley
+[submodule "frameworks/webview"]
+	branch = n-iot-preview-2
+	path = frameworks/webview
+	url = ../frameworks/webview
+[submodule "frameworks/wilhelm"]
+	branch = n-iot-preview-2
+	path = frameworks/wilhelm
+	url = ../frameworks/wilhelm
+[submodule "hardware/akm"]
+	branch = n-iot-preview-2
+	path = hardware/akm
+	url = ../hardware/akm
+[submodule "hardware/broadcom/libbt"]
+	branch = n-iot-preview-2
+	path = hardware/broadcom/libbt
+	url = ../hardware/broadcom/libbt
+[submodule "hardware/broadcom/wlan"]
+	branch = n-iot-preview-2
+	path = hardware/broadcom/wlan
+	url = ../hardware/broadcom/wlan
+[submodule "hardware/bsp/kernel/intel/broxton-v4.4"]
+	branch = n-iot-preview-2
+	path = hardware/bsp/kernel/intel/broxton-v4.4
+	url = ../hardware/bsp/kernel/intel/broxton-v4.4
+[submodule "hardware/bsp/kernel/intel/edison-v3.10"]
+	branch = n-iot-preview-2
+	path = hardware/bsp/kernel/intel/edison-v3.10
+	url = ../hardware/bsp/kernel/intel/edison-v3.10
+[submodule "hardware/bsp/kernel/nxp/imx-v4.1"]
+	branch = n-iot-preview-2
+	path = hardware/bsp/kernel/nxp/imx-v4.1
+	url = ../hardware/bsp/kernel/nxp/imx-v4.1
+[submodule "hardware/bsp/kernel/raspberrypi/pi-v4.4"]
+	branch = n-iot-preview-2
+	path = hardware/bsp/kernel/raspberrypi/pi-v4.4
+	url = ../hardware/bsp/kernel/raspberrypi/pi-v4.4
+[submodule "hardware/intel/audio_media"]
+	branch = n-iot-preview-2
+	path = hardware/intel/audio_media
+	url = ../hardware/intel/audio_media
+[submodule "hardware/intel/bootstub"]
+	branch = n-iot-preview-2
+	path = hardware/intel/bootstub
+	url = ../hardware/intel/bootstub
+[submodule "hardware/intel/common/bd_prov"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/bd_prov
+	url = ../hardware/intel/common/bd_prov
+[submodule "hardware/intel/common/libmix"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/libmix
+	url = ../hardware/intel/common/libmix
+[submodule "hardware/intel/common/libstagefrighthw"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/libstagefrighthw
+	url = ../hardware/intel/common/libstagefrighthw
+[submodule "hardware/intel/common/libva"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/libva
+	url = ../hardware/intel/common/libva
+[submodule "hardware/intel/common/libwsbm"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/libwsbm
+	url = ../hardware/intel/common/libwsbm
+[submodule "hardware/intel/common/omx-components"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/omx-components
+	url = ../hardware/intel/common/omx-components
+[submodule "hardware/intel/common/utils"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/utils
+	url = ../hardware/intel/common/utils
+[submodule "hardware/intel/common/wrs_omxil_core"]
+	branch = n-iot-preview-2
+	path = hardware/intel/common/wrs_omxil_core
+	url = ../hardware/intel/common/wrs_omxil_core
+[submodule "hardware/intel/img/hwcomposer"]
+	branch = n-iot-preview-2
+	path = hardware/intel/img/hwcomposer
+	url = ../hardware/intel/img/hwcomposer
+[submodule "hardware/intel/img/psb_headers"]
+	branch = n-iot-preview-2
+	path = hardware/intel/img/psb_headers
+	url = ../hardware/intel/img/psb_headers
+[submodule "hardware/intel/img/psb_video"]
+	branch = n-iot-preview-2
+	path = hardware/intel/img/psb_video
+	url = ../hardware/intel/img/psb_video
+[submodule "hardware/intel/sensors"]
+	branch = n-iot-preview-2
+	path = hardware/intel/sensors
+	url = ../hardware/intel/sensors
+[submodule "hardware/invensense"]
+	branch = n-iot-preview-2
+	path = hardware/invensense
+	url = ../hardware/invensense
+[submodule "hardware/libhardware"]
+	branch = n-iot-preview-2
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "hardware/libhardware_legacy"]
+	branch = n-iot-preview-2
+	path = hardware/libhardware_legacy
+	url = ../hardware/libhardware_legacy
+[submodule "hardware/marvell/bt"]
+	branch = n-iot-preview-2
+	path = hardware/marvell/bt
+	url = ../hardware/marvell/bt
+[submodule "hardware/mediatek"]
+	branch = n-iot-preview-2
+	path = hardware/mediatek
+	url = ../hardware/mediatek
+[submodule "hardware/qcom/audio"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/audio
+	url = ../hardware/qcom/audio
+[submodule "hardware/qcom/bt"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/bt
+	url = ../hardware/qcom/bt
+[submodule "hardware/qcom/camera"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/camera
+	url = ../hardware/qcom/camera
+[submodule "hardware/qcom/display"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/display
+	url = ../hardware/qcom/display
+[submodule "hardware/qcom/gps"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/gps
+	url = ../hardware/qcom/gps
+[submodule "hardware/qcom/keymaster"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/keymaster
+	url = ../hardware/qcom/keymaster
+[submodule "hardware/qcom/media"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/media
+	url = ../hardware/qcom/media
+[submodule "hardware/qcom/msm8960"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/msm8960
+	url = ../hardware/qcom/msm8960
+[submodule "hardware/qcom/msm8994"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/msm8994
+	url = ../hardware/qcom/msm8994
+[submodule "hardware/qcom/msm8x26"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/msm8x26
+	url = ../hardware/qcom/msm8x26
+[submodule "hardware/qcom/msm8x27"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/msm8x27
+	url = ../hardware/qcom/msm8x27
+[submodule "hardware/qcom/msm8x74"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/msm8x74
+	url = ../hardware/qcom/msm8x74
+[submodule "hardware/qcom/msm8x84"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/msm8x84
+	url = ../hardware/qcom/msm8x84
+[submodule "hardware/qcom/power"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/power
+	url = ../hardware/qcom/power
+[submodule "hardware/qcom/wlan"]
+	branch = n-iot-preview-2
+	path = hardware/qcom/wlan
+	url = ../hardware/qcom/wlan
+[submodule "hardware/ril"]
+	branch = n-iot-preview-2
+	path = hardware/ril
+	url = ../hardware/ril
+[submodule "hardware/ti/omap3"]
+	branch = n-iot-preview-2
+	path = hardware/ti/omap3
+	url = ../hardware/ti/omap3
+[submodule "hardware/ti/omap4-aah"]
+	branch = n-iot-preview-2
+	path = hardware/ti/omap4-aah
+	url = ../hardware/ti/omap4-aah
+[submodule "hardware/ti/omap4xxx"]
+	branch = n-iot-preview-2
+	path = hardware/ti/omap4xxx
+	url = ../hardware/ti/omap4xxx
+[submodule "kernel/tests"]
+	branch = n-iot-preview-2
+	path = kernel/tests
+	url = ../../kernel/tests
+[submodule "libcore"]
+	branch = n-iot-preview-2
+	path = libcore
+	url = ../libcore
+[submodule "libnativehelper"]
+	branch = n-iot-preview-2
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "ndk"]
+	branch = n-iot-preview-2
+	path = ndk
+	url = ../ndk
+[submodule "packages/apps/BasicSmsReceiver"]
+	branch = n-iot-preview-2
+	path = packages/apps/BasicSmsReceiver
+	url = ../packages/apps/BasicSmsReceiver
+[submodule "packages/apps/Bluetooth"]
+	branch = n-iot-preview-2
+	path = packages/apps/Bluetooth
+	url = ../packages/apps/Bluetooth
+[submodule "packages/apps/Browser2"]
+	branch = n-iot-preview-2
+	path = packages/apps/Browser2
+	url = ../packages/apps/Browser2
+[submodule "packages/apps/Calculator"]
+	branch = n-iot-preview-2
+	path = packages/apps/Calculator
+	url = ../packages/apps/Calculator
+[submodule "packages/apps/Calendar"]
+	branch = n-iot-preview-2
+	path = packages/apps/Calendar
+	url = ../packages/apps/Calendar
+[submodule "packages/apps/Camera"]
+	branch = n-iot-preview-2
+	path = packages/apps/Camera
+	url = ../packages/apps/Camera
+[submodule "packages/apps/Camera2"]
+	branch = n-iot-preview-2
+	path = packages/apps/Camera2
+	url = ../packages/apps/Camera2
+[submodule "packages/apps/CarrierConfig"]
+	branch = n-iot-preview-2
+	path = packages/apps/CarrierConfig
+	url = ../packages/apps/CarrierConfig
+[submodule "packages/apps/CellBroadcastReceiver"]
+	branch = n-iot-preview-2
+	path = packages/apps/CellBroadcastReceiver
+	url = ../packages/apps/CellBroadcastReceiver
+[submodule "packages/apps/CertInstaller"]
+	branch = n-iot-preview-2
+	path = packages/apps/CertInstaller
+	url = ../packages/apps/CertInstaller
+[submodule "packages/apps/Contacts"]
+	branch = n-iot-preview-2
+	path = packages/apps/Contacts
+	url = ../packages/apps/Contacts
+[submodule "packages/apps/ContactsCommon"]
+	branch = n-iot-preview-2
+	path = packages/apps/ContactsCommon
+	url = ../packages/apps/ContactsCommon
+[submodule "packages/apps/DeskClock"]
+	branch = n-iot-preview-2
+	path = packages/apps/DeskClock
+	url = ../packages/apps/DeskClock
+[submodule "packages/apps/Dialer"]
+	branch = n-iot-preview-2
+	path = packages/apps/Dialer
+	url = ../packages/apps/Dialer
+[submodule "packages/apps/Email"]
+	branch = n-iot-preview-2
+	path = packages/apps/Email
+	url = ../packages/apps/Email
+[submodule "packages/apps/EmergencyInfo"]
+	branch = n-iot-preview-2
+	path = packages/apps/EmergencyInfo
+	url = ../packages/apps/EmergencyInfo
+[submodule "packages/apps/ExactCalculator"]
+	branch = n-iot-preview-2
+	path = packages/apps/ExactCalculator
+	url = ../packages/apps/ExactCalculator
+[submodule "packages/apps/Exchange"]
+	branch = n-iot-preview-2
+	path = packages/apps/Exchange
+	url = ../packages/apps/Exchange
+[submodule "packages/apps/FMRadio"]
+	branch = n-iot-preview-2
+	path = packages/apps/FMRadio
+	url = ../packages/apps/FMRadio
+[submodule "packages/apps/Gallery"]
+	branch = n-iot-preview-2
+	path = packages/apps/Gallery
+	url = ../packages/apps/Gallery
+[submodule "packages/apps/Gallery2"]
+	branch = n-iot-preview-2
+	path = packages/apps/Gallery2
+	url = ../packages/apps/Gallery2
+[submodule "packages/apps/HTMLViewer"]
+	branch = n-iot-preview-2
+	path = packages/apps/HTMLViewer
+	url = ../packages/apps/HTMLViewer
+[submodule "packages/apps/InCallUI"]
+	branch = n-iot-preview-2
+	path = packages/apps/InCallUI
+	url = ../packages/apps/InCallUI
+[submodule "packages/apps/KeyChain"]
+	branch = n-iot-preview-2
+	path = packages/apps/KeyChain
+	url = ../packages/apps/KeyChain
+[submodule "packages/apps/Launcher2"]
+	branch = n-iot-preview-2
+	path = packages/apps/Launcher2
+	url = ../packages/apps/Launcher2
+[submodule "packages/apps/Launcher3"]
+	branch = n-iot-preview-2
+	path = packages/apps/Launcher3
+	url = ../packages/apps/Launcher3
+[submodule "packages/apps/LegacyCamera"]
+	branch = n-iot-preview-2
+	path = packages/apps/LegacyCamera
+	url = ../packages/apps/LegacyCamera
+[submodule "packages/apps/ManagedProvisioning"]
+	branch = n-iot-preview-2
+	path = packages/apps/ManagedProvisioning
+	url = ../packages/apps/ManagedProvisioning
+[submodule "packages/apps/Messaging"]
+	branch = n-iot-preview-2
+	path = packages/apps/Messaging
+	url = ../packages/apps/Messaging
+[submodule "packages/apps/Music"]
+	branch = n-iot-preview-2
+	path = packages/apps/Music
+	url = ../packages/apps/Music
+[submodule "packages/apps/MusicFX"]
+	branch = n-iot-preview-2
+	path = packages/apps/MusicFX
+	url = ../packages/apps/MusicFX
+[submodule "packages/apps/Nfc"]
+	branch = n-iot-preview-2
+	path = packages/apps/Nfc
+	url = ../packages/apps/Nfc
+[submodule "packages/apps/OneTimeInitializer"]
+	branch = n-iot-preview-2
+	path = packages/apps/OneTimeInitializer
+	url = ../packages/apps/OneTimeInitializer
+[submodule "packages/apps/PackageInstaller"]
+	branch = n-iot-preview-2
+	path = packages/apps/PackageInstaller
+	url = ../packages/apps/PackageInstaller
+[submodule "packages/apps/Phone"]
+	branch = n-iot-preview-2
+	path = packages/apps/Phone
+	url = ../packages/apps/Phone
+[submodule "packages/apps/PhoneCommon"]
+	branch = n-iot-preview-2
+	path = packages/apps/PhoneCommon
+	url = ../packages/apps/PhoneCommon
+[submodule "packages/apps/Protips"]
+	branch = n-iot-preview-2
+	path = packages/apps/Protips
+	url = ../packages/apps/Protips
+[submodule "packages/apps/Provision"]
+	branch = n-iot-preview-2
+	path = packages/apps/Provision
+	url = ../packages/apps/Provision
+[submodule "packages/apps/QuickSearchBox"]
+	branch = n-iot-preview-2
+	path = packages/apps/QuickSearchBox
+	url = ../packages/apps/QuickSearchBox
+[submodule "packages/apps/Settings"]
+	branch = n-iot-preview-2
+	path = packages/apps/Settings
+	url = ../packages/apps/Settings
+[submodule "packages/apps/SoundRecorder"]
+	branch = n-iot-preview-2
+	path = packages/apps/SoundRecorder
+	url = ../packages/apps/SoundRecorder
+[submodule "packages/apps/SpareParts"]
+	branch = n-iot-preview-2
+	path = packages/apps/SpareParts
+	url = ../packages/apps/SpareParts
+[submodule "packages/apps/SpeechRecorder"]
+	branch = n-iot-preview-2
+	path = packages/apps/SpeechRecorder
+	url = ../packages/apps/SpeechRecorder
+[submodule "packages/apps/Stk"]
+	branch = n-iot-preview-2
+	path = packages/apps/Stk
+	url = ../packages/apps/Stk
+[submodule "packages/apps/Tag"]
+	branch = n-iot-preview-2
+	path = packages/apps/Tag
+	url = ../packages/apps/Tag
+[submodule "packages/apps/Terminal"]
+	branch = n-iot-preview-2
+	path = packages/apps/Terminal
+	url = ../packages/apps/Terminal
+[submodule "packages/apps/Test/connectivity"]
+	branch = n-iot-preview-2
+	path = packages/apps/Test/connectivity
+	url = ../packages/apps/Test/connectivity
+[submodule "packages/apps/TvSettings"]
+	branch = n-iot-preview-2
+	path = packages/apps/TvSettings
+	url = ../packages/apps/TvSettings
+[submodule "packages/apps/UnifiedEmail"]
+	branch = n-iot-preview-2
+	path = packages/apps/UnifiedEmail
+	url = ../packages/apps/UnifiedEmail
+[submodule "packages/experimental"]
+	branch = n-iot-preview-2
+	path = packages/experimental
+	url = ../packages/experimental
+[submodule "packages/inputmethods/LatinIME"]
+	branch = n-iot-preview-2
+	path = packages/inputmethods/LatinIME
+	url = ../packages/inputmethods/LatinIME
+[submodule "packages/inputmethods/OpenWnn"]
+	branch = n-iot-preview-2
+	path = packages/inputmethods/OpenWnn
+	url = ../packages/inputmethods/OpenWnn
+[submodule "packages/providers/ApplicationsProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/ApplicationsProvider
+	url = ../packages/providers/ApplicationsProvider
+[submodule "packages/providers/BookmarkProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/BookmarkProvider
+	url = ../packages/providers/BookmarkProvider
+[submodule "packages/providers/CalendarProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/CalendarProvider
+	url = ../packages/providers/CalendarProvider
+[submodule "packages/providers/CallLogProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/CallLogProvider
+	url = ../packages/providers/CallLogProvider
+[submodule "packages/providers/ContactsProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/ContactsProvider
+	url = ../packages/providers/ContactsProvider
+[submodule "packages/providers/DownloadProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/DownloadProvider
+	url = ../packages/providers/DownloadProvider
+[submodule "packages/providers/MediaProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/MediaProvider
+	url = ../packages/providers/MediaProvider
+[submodule "packages/providers/PartnerBookmarksProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/PartnerBookmarksProvider
+	url = ../packages/providers/PartnerBookmarksProvider
+[submodule "packages/providers/TelephonyProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/TelephonyProvider
+	url = ../packages/providers/TelephonyProvider
+[submodule "packages/providers/TvProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/TvProvider
+	url = ../packages/providers/TvProvider
+[submodule "packages/providers/UserDictionaryProvider"]
+	branch = n-iot-preview-2
+	path = packages/providers/UserDictionaryProvider
+	url = ../packages/providers/UserDictionaryProvider
+[submodule "packages/screensavers/Basic"]
+	branch = n-iot-preview-2
+	path = packages/screensavers/Basic
+	url = ../packages/screensavers/Basic
+[submodule "packages/screensavers/PhotoTable"]
+	branch = n-iot-preview-2
+	path = packages/screensavers/PhotoTable
+	url = ../packages/screensavers/PhotoTable
+[submodule "packages/screensavers/WebView"]
+	branch = n-iot-preview-2
+	path = packages/screensavers/WebView
+	url = ../packages/screensavers/WebView
+[submodule "packages/services/Mms"]
+	branch = n-iot-preview-2
+	path = packages/services/Mms
+	url = ../packages/services/Mms
+[submodule "packages/services/Telecomm"]
+	branch = n-iot-preview-2
+	path = packages/services/Telecomm
+	url = ../packages/services/Telecomm
+[submodule "packages/services/Telephony"]
+	branch = n-iot-preview-2
+	path = packages/services/Telephony
+	url = ../packages/services/Telephony
+[submodule "packages/wallpapers/LivePicker"]
+	branch = n-iot-preview-2
+	path = packages/wallpapers/LivePicker
+	url = ../packages/wallpapers/LivePicker
+[submodule "pdk"]
+	branch = n-iot-preview-2
+	path = pdk
+	url = ../pdk
+[submodule "platform_testing"]
+	branch = n-iot-preview-2
+	path = platform_testing
+	url = ../platform_testing
+[submodule "prebuilts/android-emulator"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "prebuilts/build-tools"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
+[submodule "prebuilts/clang/darwin-x86/host/3.6"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/clang/darwin-x86/host/3.6
+	url = ../prebuilts/clang/darwin-x86/host/3.6
+[submodule "prebuilts/clang/host/darwin-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "prebuilts/clang/host/linux-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "prebuilts/clang/linux-x86/host/3.6"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/clang/linux-x86/host/3.6
+	url = ../prebuilts/clang/linux-x86/host/3.6
+[submodule "prebuilts/devtools"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "prebuilts/eclipse"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+[submodule "prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+[submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "prebuilts/gdb/darwin-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gdb/darwin-x86
+	url = ../prebuilts/gdb/darwin-x86
+[submodule "prebuilts/gdb/linux-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gdb/linux-x86
+	url = ../prebuilts/gdb/linux-x86
+[submodule "prebuilts/go/darwin-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "prebuilts/go/linux-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "prebuilts/gradle-plugin"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "prebuilts/libs/libedit"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/libs/libedit
+	url = ../prebuilts/libs/libedit
+[submodule "prebuilts/maven_repo/android"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "prebuilts/misc"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "prebuilts/ndk"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "prebuilts/ninja/darwin-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "prebuilts/ninja/linux-x86"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "prebuilts/python/darwin-x86/2.7.5"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "prebuilts/python/linux-x86/2.7.5"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "prebuilts/qemu-kernel"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "prebuilts/sdk"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "prebuilts/tools"]
+	branch = n-iot-preview-2
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "sdk"]
+	branch = n-iot-preview-2
+	path = sdk
+	url = ../sdk
+[submodule "system/bt"]
+	branch = n-iot-preview-2
+	path = system/bt
+	url = ../system/bt
+[submodule "system/ca-certificates"]
+	branch = n-iot-preview-2
+	path = system/ca-certificates
+	url = ../system/ca-certificates
+[submodule "system/connectivity/apmanager"]
+	branch = n-iot-preview-2
+	path = system/connectivity/apmanager
+	url = ../system/connectivity/apmanager
+[submodule "system/connectivity/dhcp_client"]
+	branch = n-iot-preview-2
+	path = system/connectivity/dhcp_client
+	url = ../system/connectivity/dhcp_client
+[submodule "system/connectivity/shill"]
+	branch = n-iot-preview-2
+	path = system/connectivity/shill
+	url = ../system/connectivity/shill
+[submodule "system/connectivity/wificond"]
+	branch = n-iot-preview-2
+	path = system/connectivity/wificond
+	url = ../system/connectivity/wificond
+[submodule "system/core"]
+	branch = n-iot-preview-2
+	path = system/core
+	url = ../system/core
+[submodule "system/extras"]
+	branch = n-iot-preview-2
+	path = system/extras
+	url = ../system/extras
+[submodule "system/firewalld"]
+	branch = n-iot-preview-2
+	path = system/firewalld
+	url = ../system/firewalld
+[submodule "system/gatekeeper"]
+	branch = n-iot-preview-2
+	path = system/gatekeeper
+	url = ../system/gatekeeper
+[submodule "system/keymaster"]
+	branch = n-iot-preview-2
+	path = system/keymaster
+	url = ../system/keymaster
+[submodule "system/media"]
+	branch = n-iot-preview-2
+	path = system/media
+	url = ../system/media
+[submodule "system/nativepower"]
+	branch = n-iot-preview-2
+	path = system/nativepower
+	url = ../system/nativepower
+[submodule "system/netd"]
+	branch = n-iot-preview-2
+	path = system/netd
+	url = ../system/netd
+[submodule "system/nvram"]
+	branch = n-iot-preview-2
+	path = system/nvram
+	url = ../system/nvram
+[submodule "system/security"]
+	branch = n-iot-preview-2
+	path = system/security
+	url = ../system/security
+[submodule "system/sepolicy"]
+	branch = n-iot-preview-2
+	path = system/sepolicy
+	url = ../system/sepolicy
+[submodule "system/tools/aidl"]
+	branch = n-iot-preview-2
+	path = system/tools/aidl
+	url = ../system/tools/aidl
+[submodule "system/tpm"]
+	branch = n-iot-preview-2
+	path = system/tpm
+	url = ../system/tpm
+[submodule "system/update_engine"]
+	branch = n-iot-preview-2
+	path = system/update_engine
+	url = ../system/update_engine
+[submodule "system/vold"]
+	branch = n-iot-preview-2
+	path = system/vold
+	url = ../system/vold
+[submodule "system/weaved"]
+	branch = n-iot-preview-2
+	path = system/weaved
+	url = ../system/weaved
+[submodule "system/webservd"]
+	branch = n-iot-preview-2
+	path = system/webservd
+	url = ../system/webservd
+[submodule "toolchain/binutils"]
+	branch = n-iot-preview-2
+	path = toolchain/binutils
+	url = ../../toolchain/binutils
+[submodule "tools/apksig"]
+	branch = n-iot-preview-2
+	path = tools/apksig
+	url = ../tools/apksig
+[submodule "tools/external/fat32lib"]
+	branch = n-iot-preview-2
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "tools/external/gradle"]
+	branch = n-iot-preview-2
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "tools/test/connectivity"]
+	branch = n-iot-preview-2
+	path = tools/test/connectivity
+	url = ../tools/test/connectivity
