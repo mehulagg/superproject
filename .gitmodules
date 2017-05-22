@@ -165,15 +165,6 @@
 	branch = master
 	path = device/google/marlin
 	url = ../../device/google/marlin
-[submodule "device/htc/flounder-kernel"]
-	branch = master
-	shallow = true
-	path = device/htc/flounder-kernel
-	url = ../../device/htc/flounder-kernel
-[submodule "device/htc/flounder"]
-	branch = master
-	path = device/htc/flounder
-	url = ../../device/htc/flounder
 [submodule "device/huawei/angler-kernel"]
 	branch = master
 	shallow = true
@@ -213,15 +204,6 @@
 	branch = master
 	path = device/linaro/hikey
 	url = ../../device/linaro/hikey
-[submodule "device/moto/shamu-kernel"]
-	branch = master
-	shallow = true
-	path = device/moto/shamu-kernel
-	url = ../../device/moto/shamu-kernel
-[submodule "device/moto/shamu"]
-	branch = master
-	path = device/moto/shamu
-	url = ../../device/moto/shamu
 [submodule "device/sample"]
 	branch = master
 	path = device/sample
