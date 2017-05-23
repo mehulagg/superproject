@@ -292,6 +292,10 @@
 	branch = master
 	path = external/bouncycastle
 	url = ../external/bouncycastle
+[submodule "external/brotli"]
+	branch = master
+	path = external/brotli
+	url = ../external/brotli
 [submodule "external/bsdiff"]
 	branch = master
 	path = external/bsdiff
