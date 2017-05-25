@@ -83,10 +83,18 @@
 	branch = master
 	path = external/dlmalloc
 	url = ../external/dlmalloc
+[submodule "external/e2fsprogs"]
+	branch = master
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
 [submodule "external/expat"]
 	branch = master
 	path = external/expat
 	url = ../external/expat
+[submodule "external/f2fs-tools"]
+	branch = master
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
 [submodule "external/fdlibm"]
 	branch = master
 	path = external/fdlibm
