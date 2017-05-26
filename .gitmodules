@@ -2160,6 +2160,18 @@
 	branch = master
 	path = system/vold
 	url = ../system/vold
+[submodule "test/vti/dashboard"]
+	branch = master
+	path = test/vti/dashboard
+	url = ../test/vti/dashboard
+[submodule "test/vti/fuzz_test_serving"]
+	branch = master
+	path = test/vti/fuzz_test_serving
+	url = ../test/vti/fuzz_test_serving
+[submodule "test/vti/test_serving"]
+	branch = master
+	path = test/vti/test_serving
+	url = ../test/vti/test_serving
 [submodule "test/vts-testcase/fuzz"]
 	branch = master
 	path = test/vts-testcase/fuzz
