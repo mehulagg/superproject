@@ -19,6 +19,7 @@
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "build"]
+	branch = refs/tags/android-cts-5.1_r20
 	path = build
 	url = ../build
 [submodule "cts"]
