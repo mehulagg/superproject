@@ -1,0 +1,26 @@
+[submodule "external/clang"]
+	branch = lldb-master-dev
+	path = external/clang
+	url = ../external/clang
+[submodule "external/libedit"]
+	branch = lldb-master-dev
+	path = external/libedit
+	url = ../external/libedit
+[submodule "external/lldb-utils"]
+	branch = lldb-master-dev
+	path = external/lldb-utils
+	url = ../external/lldb-utils
+[submodule "external/lldb"]
+	branch = lldb-master-dev
+	path = external/lldb
+	url = ../external/lldb
+[submodule "external/llvm"]
+	branch = lldb-master-dev
+	path = external/llvm
+	url = ../external/llvm
+[submodule "external/pcre"]
+	path = external/pcre
+	url = ../external/pcre
+[submodule "external/swig"]
+	path = external/swig
+	url = ../external/swig
