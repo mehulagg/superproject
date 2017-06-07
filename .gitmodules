@@ -2152,6 +2152,10 @@
 	branch = master
 	path = system/sepolicy
 	url = ../system/sepolicy
+[submodule "system/timezone"]
+	branch = master
+	path = system/timezone
+	url = ../system/timezone
 [submodule "system/tools/aidl"]
 	branch = master
 	path = system/tools/aidl
