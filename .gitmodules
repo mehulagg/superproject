@@ -2,10 +2,6 @@
 	branch = master
 	path = bionic
 	url = ../bionic
-[submodule "llvm"]
-	branch = master
-	path = llvm
-	url = ../../toolchain/llvm
 [submodule "prebuilts/clang/host/darwin-x86"]
 	branch = master
 	path = prebuilts/clang/host/darwin-x86
@@ -82,3 +78,7 @@
 	branch = master
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
+[submodule "toolchain/llvm"]
+	branch = master
+	path = toolchain/llvm
+	url = ../../toolchain/llvm
