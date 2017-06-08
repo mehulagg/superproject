@@ -18,9 +18,3 @@
 	branch = lldb-master-dev
 	path = external/llvm
 	url = ../external/llvm
-[submodule "external/pcre"]
-	path = external/pcre
-	url = ../external/pcre
-[submodule "external/swig"]
-	path = external/swig
-	url = ../external/swig
