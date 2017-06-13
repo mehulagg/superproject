@@ -408,6 +408,10 @@
 	branch = master
 	path = external/droiddriver
 	url = ../external/droiddriver
+[submodule "external/drrickorang"]
+	branch = master
+	path = external/drrickorang
+	url = ../external/drrickorang
 [submodule "external/dtc"]
 	branch = master
 	path = external/dtc
