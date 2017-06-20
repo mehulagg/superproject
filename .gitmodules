@@ -1,0 +1,52 @@
+[submodule "external/jetbrains/jdk8u"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u
+	url = ../external/jetbrains/jdk8u
+[submodule "external/jetbrains/jdk8u_corba"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u_corba
+	url = ../external/jetbrains/jdk8u_corba
+[submodule "external/jetbrains/jdk8u_hotspot"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u_hotspot
+	url = ../external/jetbrains/jdk8u_hotspot
+[submodule "external/jetbrains/jdk8u_jaxp"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u_jaxp
+	url = ../external/jetbrains/jdk8u_jaxp
+[submodule "external/jetbrains/jdk8u_jaxws"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u_jaxws
+	url = ../external/jetbrains/jdk8u_jaxws
+[submodule "external/jetbrains/jdk8u_jdk"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u_jdk
+	url = ../external/jetbrains/jdk8u_jdk
+[submodule "external/jetbrains/jdk8u_langtools"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u_langtools
+	url = ../external/jetbrains/jdk8u_langtools
+[submodule "external/jetbrains/jdk8u_nashorn"]
+	branch = studio-master-dev
+	path = external/jetbrains/jdk8u_nashorn
+	url = ../external/jetbrains/jdk8u_nashorn
+[submodule "prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "prebuilts/studio/jdk"]
+	branch = studio-master-dev
+	shallow = true
+	path = prebuilts/studio/jdk
+	url = ../prebuilts/studio/jdk
+[submodule "toolchain/jdk/build"]
+	branch = master
+	shallow = true
+	path = toolchain/jdk/build
+	url = ../../toolchain/jdk/build
