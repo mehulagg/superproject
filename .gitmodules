@@ -123,6 +123,10 @@
 	branch = master
 	path = device/generic/qemu
 	url = ../../device/generic/qemu
+[submodule "device/generic/uml"]
+	branch = master
+	path = device/generic/uml
+	url = ../../device/generic/uml
 [submodule "device/generic/x86"]
 	branch = master
 	path = device/generic/x86
