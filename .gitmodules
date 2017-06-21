@@ -1244,6 +1244,10 @@
 	branch = master
 	path = external/xmp_toolkit
 	url = ../external/xmp_toolkit
+[submodule "external/xz-embedded"]
+	branch = master
+	path = external/xz-embedded
+	url = ../external/xz-embedded
 [submodule "external/zlib"]
 	branch = master
 	path = external/zlib
