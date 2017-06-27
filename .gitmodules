@@ -35,6 +35,16 @@
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
+[submodule "prebuilts/clang/host/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
 	shallow = true
