@@ -2035,6 +2035,11 @@
 	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
+[submodule "prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
 [submodule "prebuilts/libs/libedit"]
 	branch = master
 	shallow = true
