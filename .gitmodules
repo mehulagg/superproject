@@ -1772,6 +1772,10 @@
 	branch = master
 	path = packages/apps/TimeZoneData
 	url = ../packages/apps/TimeZoneData
+[submodule "packages/apps/TimeZoneUpdater"]
+	branch = master
+	path = packages/apps/TimeZoneUpdater
+	url = ../packages/apps/TimeZoneUpdater
 [submodule "packages/apps/TvSettings"]
 	branch = master
 	path = packages/apps/TvSettings
