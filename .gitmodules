@@ -2201,6 +2201,10 @@
 	branch = master
 	path = system/vold
 	url = ../system/vold
+[submodule "test/vti/alert"]
+	branch = master
+	path = test/vti/alert
+	url = ../test/vti/alert
 [submodule "test/vti/dashboard"]
 	branch = master
 	path = test/vti/dashboard
