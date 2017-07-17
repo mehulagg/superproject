@@ -363,3 +363,7 @@
 	branch = master
 	path = system/timezone
 	url = ../system/timezone
+[submodule "tools/apksig"]
+	branch = master
+	path = tools/apksig
+	url = ../tools/apksig
