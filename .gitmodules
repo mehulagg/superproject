@@ -6,10 +6,22 @@
 	branch = master
 	path = bionic
 	url = ../bionic
-[submodule "build"]
+[submodule "build/blueprint"]
 	branch = master
-	path = build
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "build/kati"]
+	branch = master
+	path = build/kati
+	url = ../build/kati
+[submodule "build/make"]
+	branch = master
+	path = build/make
 	url = ../build
+[submodule "build/soong"]
+	branch = master
+	path = build/soong
+	url = ../build/soong
 [submodule "dalvik"]
 	branch = master
 	path = dalvik
@@ -280,22 +292,27 @@
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 [submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 [submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "prebuilts/gdb/linux-x86"]
@@ -305,14 +322,17 @@
 	url = ../prebuilts/gdb/linux-x86
 [submodule "prebuilts/go/linux-x86"]
 	branch = master
+	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "prebuilts/misc"]
 	branch = master
+	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
 [submodule "prebuilts/ndk"]
 	branch = master
+	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "prebuilts/ninja/linux-x86"]
@@ -321,10 +341,12 @@
 	url = ../prebuilts/ninja/linux-x86
 [submodule "prebuilts/sdk"]
 	branch = master
+	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "prebuilts/tools"]
 	branch = master
+	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "system/core"]
