@@ -99,10 +99,6 @@
 	branch = master
 	path = external/fdlibm
 	url = ../external/fdlibm
-[submodule "external/gcc-demangle"]
-	branch = master
-	path = external/gcc-demangle
-	url = ../external/gcc-demangle
 [submodule "external/googletest"]
 	branch = master
 	path = external/googletest
@@ -155,10 +151,6 @@
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
-[submodule "external/libcxxrt"]
-	branch = master
-	path = external/libcxxrt
-	url = ../external/libcxxrt
 [submodule "external/libunwind"]
 	branch = master
 	path = external/libunwind
@@ -240,10 +232,6 @@
 	branch = master
 	path = external/smali
 	url = ../external/smali
-[submodule "external/stlport"]
-	branch = master
-	path = external/stlport
-	url = ../external/stlport
 [submodule "external/toybox"]
 	branch = master
 	path = external/toybox
