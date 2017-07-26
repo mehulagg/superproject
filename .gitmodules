@@ -828,10 +828,6 @@
 	branch = master
 	path = external/libusb
 	url = ../external/libusb
-[submodule "external/libutf"]
-	branch = master
-	path = external/libutf
-	url = ../external/libutf
 [submodule "external/libvncserver"]
 	branch = master
 	path = external/libvncserver
