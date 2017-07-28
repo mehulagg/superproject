@@ -74,11 +74,11 @@
 	branch = master
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "prebuilts/ndk"]
-	branch = master
-	path = prebuilts/ndk
-	url = ../prebuilts/ndk
 [submodule "toolchain/llvm"]
 	branch = master
 	path = toolchain/llvm
 	url = ../../toolchain/llvm
+[submodule "toolchain/prebuilts/ndk/r15"]
+	branch = master
+	path = toolchain/prebuilts/ndk/r15
+	url = ../../toolchain/prebuilts/ndk/r15
