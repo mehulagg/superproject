@@ -2253,6 +2253,10 @@
 	branch = master
 	path = toolchain/llvm
 	url = ../../toolchain/llvm
+[submodule "toolchain/prebuilts/ndk/r15"]
+	branch = master
+	path = toolchain/prebuilts/ndk/r15
+	url = ../../toolchain/prebuilts/ndk/r15
 [submodule "tools/apksig"]
 	branch = master
 	path = tools/apksig
