@@ -1180,6 +1180,10 @@
 	branch = master
 	path = external/tremolo
 	url = ../external/tremolo
+[submodule "external/turbine"]
+	branch = master
+	path = external/turbine
+	url = ../external/turbine
 [submodule "external/unicode"]
 	branch = master
 	path = external/unicode
