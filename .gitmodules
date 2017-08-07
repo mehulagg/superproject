@@ -1076,6 +1076,10 @@
 	branch = master
 	path = external/sfntly
 	url = ../external/sfntly
+[submodule "external/shaderc/spirv-headers"]
+	branch = master
+	path = external/shaderc/spirv-headers
+	url = ../external/shaderc/spirv-headers
 [submodule "external/shflags"]
 	branch = master
 	path = external/shflags
