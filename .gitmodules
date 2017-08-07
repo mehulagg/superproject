@@ -2245,6 +2245,10 @@
 	branch = master
 	path = test/vts
 	url = ../test/vts
+[submodule "toolchain/benchmark"]
+	branch = master
+	path = toolchain/benchmark
+	url = ../../toolchain/benchmark
 [submodule "toolchain/binutils"]
 	branch = master
 	path = toolchain/binutils
