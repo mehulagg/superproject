@@ -508,6 +508,10 @@
 	branch = master
 	path = external/glide
 	url = ../external/glide
+[submodule "external/golang-protobuf"]
+	branch = master
+	path = external/golang-protobuf
+	url = ../external/golang-protobuf
 [submodule "external/google-benchmark"]
 	branch = master
 	path = external/google-benchmark
