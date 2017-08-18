@@ -62,8 +62,6 @@
 	path = prebuilts/android-emulator-build/qemu-android-deps
 	url = ../prebuilts/android-emulator-build/qemu-android-deps
 [submodule "prebuilts/android-emulator-build/qt"]
-	branch = emu-2.4-release
-	shallow = true
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
 [submodule "prebuilts/android-emulator"]
