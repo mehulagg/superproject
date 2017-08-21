@@ -74,6 +74,10 @@
 	branch = master
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "toolchain/binutils"]
+	branch = master
+	path = toolchain/binutils
+	url = ../../toolchain/binutils
 [submodule "toolchain/llvm"]
 	branch = master
 	path = toolchain/llvm
