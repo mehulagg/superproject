@@ -75,6 +75,10 @@
 	branch = master
 	path = device/generic/armv7-a-neon
 	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/car"]
+	branch = master
+	path = device/generic/car
+	url = ../../device/generic/car
 [submodule "device/generic/common"]
 	branch = master
 	path = device/generic/common
@@ -169,6 +173,11 @@
 	branch = master
 	path = device/google/marlin
 	url = ../../device/google/marlin
+[submodule "device/google/vrservices"]
+	branch = master
+	shallow = true
+	path = device/google/vrservices
+	url = ../../device/google/vrservices
 [submodule "device/huawei/angler-kernel"]
 	branch = master
 	shallow = true
@@ -272,6 +281,10 @@
 	branch = master
 	path = external/archive-patcher
 	url = ../external/archive-patcher
+[submodule "external/arm-neon-tests"]
+	branch = master
+	path = external/arm-neon-tests
+	url = ../external/arm-neon-tests
 [submodule "external/autotest"]
 	branch = master
 	path = external/autotest
@@ -480,6 +493,10 @@
 	branch = master
 	path = external/flac
 	url = ../external/flac
+[submodule "external/flatbuffers"]
+	branch = master
+	path = external/flatbuffers
+	url = ../external/flatbuffers
 [submodule "external/fmtlib"]
 	branch = master
 	path = external/fmtlib
@@ -624,10 +641,6 @@
 	branch = master
 	path = external/jemalloc
 	url = ../external/jemalloc
-[submodule "external/jetty"]
-	branch = master
-	path = external/jetty
-	url = ../external/jetty
 [submodule "external/jline"]
 	branch = master
 	path = external/jline
@@ -744,10 +757,6 @@
 	branch = master
 	path = external/libexif
 	url = ../external/libexif
-[submodule "external/libgdx"]
-	branch = master
-	path = external/libgdx
-	url = ../external/libgdx
 [submodule "external/libgsm"]
 	branch = master
 	path = external/libgsm
@@ -816,6 +825,10 @@
 	branch = master
 	path = external/libpng
 	url = ../external/libpng
+[submodule "external/libtextclassifier"]
+	branch = master
+	path = external/libtextclassifier
+	url = ../external/libtextclassifier
 [submodule "external/libunwind"]
 	branch = master
 	path = external/libunwind
@@ -1136,10 +1149,22 @@
 	branch = master
 	path = external/strace
 	url = ../external/strace
+[submodule "external/stressapptest"]
+	branch = master
+	path = external/stressapptest
+	url = ../external/stressapptest
 [submodule "external/svox"]
 	branch = master
 	path = external/svox
 	url = ../external/svox
+[submodule "external/swiftshader"]
+	branch = master
+	path = external/swiftshader
+	url = ../external/swiftshader
+[submodule "external/syslinux"]
+	branch = master
+	path = external/syslinux
+	url = ../external/syslinux
 [submodule "external/tagsoup"]
 	branch = master
 	path = external/tagsoup
@@ -1244,6 +1269,10 @@
 	branch = master
 	path = external/wycheproof
 	url = ../external/wycheproof
+[submodule "external/x264"]
+	branch = master
+	path = external/x264
+	url = ../external/x264
 [submodule "external/xmlrpcpp"]
 	branch = master
 	path = external/xmlrpcpp
@@ -1512,10 +1541,6 @@
 	branch = master
 	path = hardware/qcom/bt
 	url = ../hardware/qcom/bt
-[submodule "hardware/qcom/camera"]
-	branch = master
-	path = hardware/qcom/camera
-	url = ../hardware/qcom/camera
 [submodule "hardware/qcom/data/ipacfg-mgr"]
 	branch = master
 	path = hardware/qcom/data/ipacfg-mgr
@@ -1548,6 +1573,10 @@
 	branch = master
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
+[submodule "hardware/qcom/msm8x09"]
+	branch = master
+	path = hardware/qcom/msm8x09
+	url = ../hardware/qcom/msm8x09
 [submodule "hardware/qcom/msm8x26"]
 	branch = master
 	path = hardware/qcom/msm8x26
@@ -1596,10 +1625,6 @@
 	branch = master
 	path = packages/apps/Browser2
 	url = ../packages/apps/Browser2
-[submodule "packages/apps/Calculator"]
-	branch = master
-	path = packages/apps/Calculator
-	url = ../packages/apps/Calculator
 [submodule "packages/apps/Calendar"]
 	branch = master
 	path = packages/apps/Calendar
@@ -1608,6 +1633,62 @@
 	branch = master
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
+[submodule "packages/apps/Car/Dialer"]
+	branch = master
+	path = packages/apps/Car/Dialer
+	url = ../packages/apps/Car/Dialer
+[submodule "packages/apps/Car/Hvac"]
+	branch = master
+	path = packages/apps/Car/Hvac
+	url = ../packages/apps/Car/Hvac
+[submodule "packages/apps/Car/LatinIME"]
+	branch = master
+	path = packages/apps/Car/LatinIME
+	url = ../packages/apps/Car/LatinIME
+[submodule "packages/apps/Car/LensPicker"]
+	branch = master
+	path = packages/apps/Car/LensPicker
+	url = ../packages/apps/Car/LensPicker
+[submodule "packages/apps/Car/LocalMediaPlayer"]
+	branch = master
+	path = packages/apps/Car/LocalMediaPlayer
+	url = ../packages/apps/Car/LocalMediaPlayer
+[submodule "packages/apps/Car/Media"]
+	branch = master
+	path = packages/apps/Car/Media
+	url = ../packages/apps/Car/Media
+[submodule "packages/apps/Car/Messenger"]
+	branch = master
+	path = packages/apps/Car/Messenger
+	url = ../packages/apps/Car/Messenger
+[submodule "packages/apps/Car/Overview"]
+	branch = master
+	path = packages/apps/Car/Overview
+	url = ../packages/apps/Car/Overview
+[submodule "packages/apps/Car/Radio"]
+	branch = master
+	path = packages/apps/Car/Radio
+	url = ../packages/apps/Car/Radio
+[submodule "packages/apps/Car/Settings"]
+	branch = master
+	path = packages/apps/Car/Settings
+	url = ../packages/apps/Car/Settings
+[submodule "packages/apps/Car/Stream"]
+	branch = master
+	path = packages/apps/Car/Stream
+	url = ../packages/apps/Car/Stream
+[submodule "packages/apps/Car/SystemUpdater"]
+	branch = master
+	path = packages/apps/Car/SystemUpdater
+	url = ../packages/apps/Car/SystemUpdater
+[submodule "packages/apps/Car/UserManagement"]
+	branch = master
+	path = packages/apps/Car/UserManagement
+	url = ../packages/apps/Car/UserManagement
+[submodule "packages/apps/Car/libs"]
+	branch = master
+	path = packages/apps/Car/libs
+	url = ../packages/apps/Car/libs
 [submodule "packages/apps/CarrierConfig"]
 	branch = master
 	path = packages/apps/CarrierConfig
@@ -1624,10 +1705,6 @@
 	branch = master
 	path = packages/apps/Contacts
 	url = ../packages/apps/Contacts
-[submodule "packages/apps/ContactsCommon"]
-	branch = master
-	path = packages/apps/ContactsCommon
-	url = ../packages/apps/ContactsCommon
 [submodule "packages/apps/DeskClock"]
 	branch = master
 	path = packages/apps/DeskClock
@@ -1640,6 +1717,10 @@
 	branch = master
 	path = packages/apps/Dialer
 	url = ../packages/apps/Dialer
+[submodule "packages/apps/DocumentsUI"]
+	branch = master
+	path = packages/apps/DocumentsUI
+	url = ../packages/apps/DocumentsUI
 [submodule "packages/apps/Email"]
 	branch = master
 	path = packages/apps/Email
@@ -1924,6 +2005,11 @@
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
+[submodule "prebuilts/checkcolor"]
+	branch = master
+	shallow = true
+	path = prebuilts/checkcolor
+	url = ../prebuilts/checkcolor
 [submodule "prebuilts/checkstyle"]
 	branch = master
 	shallow = true
@@ -1949,7 +2035,6 @@
 	url = ../prebuilts/cmake/linux-x86
 [submodule "prebuilts/deqp"]
 	branch = master
-	shallow = true
 	path = prebuilts/deqp
 	url = ../prebuilts/deqp
 [submodule "prebuilts/devtools"]
@@ -2062,6 +2147,11 @@
 	shallow = true
 	path = prebuilts/maven_repo/android
 	url = ../prebuilts/maven_repo/android
+[submodule "prebuilts/maven_repo/bumptech"]
+	branch = master
+	shallow = true
+	path = prebuilts/maven_repo/bumptech
+	url = ../prebuilts/maven_repo/bumptech
 [submodule "prebuilts/misc"]
 	branch = master
 	shallow = true
@@ -2109,6 +2199,10 @@
 	branch = master
 	path = system/ca-certificates
 	url = ../system/ca-certificates
+[submodule "system/chre"]
+	branch = master
+	path = system/chre
+	url = ../system/chre
 [submodule "system/connectivity/wificond"]
 	branch = master
 	path = system/connectivity/wificond
