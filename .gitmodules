@@ -2223,6 +2223,10 @@
 	branch = master
 	path = system/hwservicemanager
 	url = ../system/hwservicemanager
+[submodule "system/iot/attestation"]
+	branch = master
+	path = system/iot/attestation
+	url = ../system/iot/attestation
 [submodule "system/keymaster"]
 	branch = master
 	path = system/keymaster
