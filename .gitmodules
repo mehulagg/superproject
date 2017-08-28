@@ -461,6 +461,10 @@
 	branch = master
 	path = external/emma
 	url = ../external/emma
+[submodule "external/error_prone"]
+	branch = master
+	path = external/error_prone
+	url = ../external/error_prone
 [submodule "external/esd"]
 	branch = master
 	path = external/esd
