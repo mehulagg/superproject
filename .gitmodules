@@ -2367,6 +2367,10 @@
 	branch = master
 	path = tools/apksig
 	url = ../tools/apksig
+[submodule "tools/dexter"]
+	branch = master
+	path = tools/dexter
+	url = ../tools/dexter
 [submodule "tools/external/fat32lib"]
 	branch = master
 	path = tools/external/fat32lib
