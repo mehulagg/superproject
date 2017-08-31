@@ -248,6 +248,10 @@
 	branch = master
 	path = external/toybox
 	url = ../external/toybox
+[submodule "external/turbine"]
+	branch = master
+	path = external/turbine
+	url = ../external/turbine
 [submodule "external/valgrind"]
 	branch = master
 	path = external/valgrind
