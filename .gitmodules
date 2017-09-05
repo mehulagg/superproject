@@ -26,6 +26,10 @@
 	branch = oreo-dev
 	path = build/soong
 	url = ../build/soong
+[submodule "compatibility/cdd"]
+	branch = oreo-dev
+	path = compatibility/cdd
+	url = ../compatibility/cdd
 [submodule "cts"]
 	branch = oreo-dev
 	path = cts
