@@ -1609,6 +1609,10 @@
 	branch = master
 	path = hardware/ril
 	url = ../hardware/ril
+[submodule "kernel/configs"]
+	branch = master
+	path = kernel/configs
+	url = ../../kernel/configs
 [submodule "kernel/tests"]
 	branch = master
 	path = kernel/tests
