@@ -1,0 +1,1552 @@
+[submodule "abi/cpp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = abi/cpp
+	url = ../abi/cpp
+[submodule "art"]
+	branch = refs/tags/android-4.4.4_r2
+	path = art
+	url = ../art
+[submodule "bionic"]
+	branch = refs/tags/android-4.4.4_r2
+	path = bionic
+	url = ../bionic
+[submodule "bootable/bootloader/legacy"]
+	branch = refs/tags/android-4.4.4_r2
+	path = bootable/bootloader/legacy
+	url = ../bootable/bootloader/legacy
+[submodule "bootable/diskinstaller"]
+	branch = refs/tags/android-4.4.4_r2
+	path = bootable/diskinstaller
+	url = ../bootable/diskinstaller
+[submodule "bootable/recovery"]
+	branch = refs/tags/android-4.4.4_r2
+	path = bootable/recovery
+	url = ../bootable/recovery
+[submodule "build"]
+	branch = refs/tags/android-4.4.4_r2
+	path = build
+	url = ../build
+[submodule "cts"]
+	branch = refs/tags/android-4.4.4_r2
+	path = cts
+	url = ../cts
+[submodule "dalvik"]
+	branch = refs/tags/android-4.4.4_r2
+	path = dalvik
+	url = ../dalvik
+[submodule "developers/build"]
+	branch = refs/tags/android-4.4.4_r2
+	path = developers/build
+	url = ../developers/build
+[submodule "developers/demos"]
+	branch = refs/tags/android-4.4.4_r2
+	path = developers/demos
+	url = ../developers/demos
+[submodule "developers/docs"]
+	branch = refs/tags/android-4.4.4_r2
+	path = developers/docs
+	url = ../developers/docs
+[submodule "developers/samples/android"]
+	branch = refs/tags/android-4.4.4_r2
+	path = developers/samples/android
+	url = ../developers/samples/android
+[submodule "development"]
+	branch = refs/tags/android-4.4.4_r2
+	path = development
+	url = ../development
+[submodule "device/asus/deb"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/asus/deb
+	url = ../../device/asus/deb
+[submodule "device/asus/flo-kernel"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/asus/flo-kernel
+	url = ../../device/asus/flo-kernel
+[submodule "device/asus/flo"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/asus/flo
+	url = ../../device/asus/flo
+[submodule "device/asus/grouper"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/asus/grouper
+	url = ../../device/asus/grouper
+[submodule "device/asus/tilapia"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/asus/tilapia
+	url = ../../device/asus/tilapia
+[submodule "device/common"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/common
+	url = ../../device/common
+[submodule "device/generic/armv7-a-neon"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/armv7-a-neon
+	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/common"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/common
+	url = ../../device/generic/common
+[submodule "device/generic/goldfish"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/goldfish
+	url = ../../device/generic/goldfish
+[submodule "device/generic/mini-emulator-armv7-a-neon"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/mini-emulator-armv7-a-neon
+	url = ../../device/generic/mini-emulator-armv7-a-neon
+[submodule "device/generic/mini-emulator-mips"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/mini-emulator-mips
+	url = ../../device/generic/mini-emulator-mips
+[submodule "device/generic/mini-emulator-x86"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/mini-emulator-x86
+	url = ../../device/generic/mini-emulator-x86
+[submodule "device/generic/mips"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/mips
+	url = ../../device/generic/mips
+[submodule "device/generic/x86"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/generic/x86
+	url = ../../device/generic/x86
+[submodule "device/google/accessory/arduino"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/google/accessory/arduino
+	url = ../../device/google/accessory/arduino
+[submodule "device/google/accessory/demokit"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/google/accessory/demokit
+	url = ../../device/google/accessory/demokit
+[submodule "device/lge/hammerhead-kernel"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/lge/hammerhead-kernel
+	url = ../../device/lge/hammerhead-kernel
+[submodule "device/lge/hammerhead"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/lge/hammerhead
+	url = ../../device/lge/hammerhead
+[submodule "device/lge/mako-kernel"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/lge/mako-kernel
+	url = ../../device/lge/mako-kernel
+[submodule "device/lge/mako"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/lge/mako
+	url = ../../device/lge/mako
+[submodule "device/sample"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/sample
+	url = ../../device/sample
+[submodule "device/samsung/manta"]
+	branch = refs/tags/android-4.4.4_r2
+	path = device/samsung/manta
+	url = ../../device/samsung/manta
+[submodule "docs/source.android.com"]
+	branch = refs/tags/android-4.4.4_r2
+	path = docs/source.android.com
+	url = ../docs/source.android.com
+[submodule "external/aac"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/aac
+	url = ../external/aac
+[submodule "external/android-clat"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/android-clat
+	url = ../external/android-clat
+[submodule "external/android-mock"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/android-mock
+	url = ../external/android-mock
+[submodule "external/ant-glob"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "external/antlr"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/antlr
+	url = ../external/antlr
+[submodule "external/apache-harmony"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "external/apache-http"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "external/apache-qp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/apache-qp
+	url = ../external/apache-qp
+[submodule "external/apache-xml"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "external/arduino"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/arduino
+	url = ../external/arduino
+[submodule "external/bison"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/bison
+	url = ../external/bison
+[submodule "external/blktrace"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "external/bluetooth/bluedroid"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/bluetooth/bluedroid
+	url = ../external/bluetooth/bluedroid
+[submodule "external/bouncycastle"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "external/bsdiff"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/bsdiff
+	url = ../external/bsdiff
+[submodule "external/bzip2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/bzip2
+	url = ../external/bzip2
+[submodule "external/ceres-solver"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/ceres-solver
+	url = ../external/ceres-solver
+[submodule "external/checkpolicy"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/checkpolicy
+	url = ../external/checkpolicy
+[submodule "external/chromium-libpac"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "external/chromium-trace"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/chromium-trace
+	url = ../external/chromium-trace
+[submodule "external/chromium"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/chromium
+	url = ../external/chromium
+[submodule "external/chromium_org"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/chromium_org
+	url = ../external/chromium_org
+[submodule "external/clang"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/clang
+	url = ../external/clang
+[submodule "external/compiler-rt"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "external/dexmaker"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "external/dhcpcd"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/dhcpcd
+	url = ../external/dhcpcd
+[submodule "external/dnsmasq"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "external/doclava"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/doclava
+	url = ../external/doclava
+[submodule "external/droiddriver"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/droiddriver
+	url = ../external/droiddriver
+[submodule "external/dropbear"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/dropbear
+	url = ../external/dropbear
+[submodule "external/e2fsprogs"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "external/easymock"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/easymock
+	url = ../external/easymock
+[submodule "external/eclipse-basebuilder"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/eclipse-basebuilder
+	url = ../external/eclipse-basebuilder
+[submodule "external/eclipse-windowbuilder"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "external/eigen"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/eigen
+	url = ../external/eigen
+[submodule "external/elfutils"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "external/embunit"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/embunit
+	url = ../external/embunit
+[submodule "external/emma"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/emma
+	url = ../external/emma
+[submodule "external/esd"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/esd
+	url = ../external/esd
+[submodule "external/expat"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/expat
+	url = ../external/expat
+[submodule "external/eyes-free"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/eyes-free
+	url = ../external/eyes-free
+[submodule "external/fdlibm"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "external/flac"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/flac
+	url = ../external/flac
+[submodule "external/freetype"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/freetype
+	url = ../external/freetype
+[submodule "external/fsck_msdos"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/fsck_msdos
+	url = ../external/fsck_msdos
+[submodule "external/ganymed-ssh2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/ganymed-ssh2
+	url = ../external/ganymed-ssh2
+[submodule "external/gcc-demangle"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/gcc-demangle
+	url = ../external/gcc-demangle
+[submodule "external/genext2fs"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/genext2fs
+	url = ../external/genext2fs
+[submodule "external/giflib"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/giflib
+	url = ../external/giflib
+[submodule "external/google-diff-match-patch"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/google-diff-match-patch
+	url = ../external/google-diff-match-patch
+[submodule "external/grub"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/grub
+	url = ../external/grub
+[submodule "external/gtest"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/gtest
+	url = ../external/gtest
+[submodule "external/guava"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/guava
+	url = ../external/guava
+[submodule "external/hamcrest"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "external/harfbuzz"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/harfbuzz
+	url = ../external/harfbuzz
+[submodule "external/harfbuzz_ng"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/harfbuzz_ng
+	url = ../external/harfbuzz_ng
+[submodule "external/hyphenation"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/hyphenation
+	url = ../external/hyphenation
+[submodule "external/icu4c"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/icu4c
+	url = ../external/icu4c
+[submodule "external/iproute2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "external/ipsec-tools"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/ipsec-tools
+	url = ../external/ipsec-tools
+[submodule "external/iptables"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/iptables
+	url = ../external/iptables
+[submodule "external/iputils"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/iputils
+	url = ../external/iputils
+[submodule "external/jack"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jack
+	url = ../external/jack
+[submodule "external/javasqlite"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "external/javassist"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/javassist
+	url = ../external/javassist
+[submodule "external/jdiff"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "external/jhead"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jhead
+	url = ../external/jhead
+[submodule "external/jmdns"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jmdns
+	url = ../external/jmdns
+[submodule "external/jmonkeyengine"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jmonkeyengine
+	url = ../external/jmonkeyengine
+[submodule "external/jpeg"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jpeg
+	url = ../external/jpeg
+[submodule "external/jsilver"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "external/jsr305"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "external/junit"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/junit
+	url = ../external/junit
+[submodule "external/kernel-headers"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "external/libcap-ng"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "external/libexif"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libexif
+	url = ../external/libexif
+[submodule "external/libffi"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libffi
+	url = ../external/libffi
+[submodule "external/libgsm"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libgsm
+	url = ../external/libgsm
+[submodule "external/liblzf"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/liblzf
+	url = ../external/liblzf
+[submodule "external/libmtp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libmtp
+	url = ../external/libmtp
+[submodule "external/libnfc-nci"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libnfc-nci
+	url = ../external/libnfc-nci
+[submodule "external/libnfc-nxp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libnfc-nxp
+	url = ../external/libnfc-nxp
+[submodule "external/libnl-headers"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libnl-headers
+	url = ../external/libnl-headers
+[submodule "external/libogg"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libogg
+	url = ../external/libogg
+[submodule "external/libpcap"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libpcap
+	url = ../external/libpcap
+[submodule "external/libphonenumber"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libphonenumber
+	url = ../external/libphonenumber
+[submodule "external/libpng"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libpng
+	url = ../external/libpng
+[submodule "external/libppp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libppp
+	url = ../external/libppp
+[submodule "external/libselinux"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libselinux
+	url = ../external/libselinux
+[submodule "external/libsepol"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libsepol
+	url = ../external/libsepol
+[submodule "external/libssh2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libssh2
+	url = ../external/libssh2
+[submodule "external/libusb-compat"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libusb-compat
+	url = ../external/libusb-compat
+[submodule "external/libusb"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libusb
+	url = ../external/libusb
+[submodule "external/libvorbis"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libvorbis
+	url = ../external/libvorbis
+[submodule "external/libvpx"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "external/libxml2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "external/libxslt"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libxslt
+	url = ../external/libxslt
+[submodule "external/libyuv"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/libyuv
+	url = ../external/libyuv
+[submodule "external/linux-tools-perf"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/linux-tools-perf
+	url = ../external/linux-tools-perf
+[submodule "external/littlemock"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/littlemock
+	url = ../external/littlemock
+[submodule "external/llvm"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/llvm
+	url = ../external/llvm
+[submodule "external/lzma"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/lzma
+	url = ../external/lzma
+[submodule "external/marisa-trie"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/marisa-trie
+	url = ../external/marisa-trie
+[submodule "external/markdown"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/markdown
+	url = ../external/markdown
+[submodule "external/mdnsresponder"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "external/mesa3d"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "external/mksh"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/mksh
+	url = ../external/mksh
+[submodule "external/mockito"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/mockito
+	url = ../external/mockito
+[submodule "external/mockwebserver"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "external/mp4parser"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/mp4parser
+	url = ../external/mp4parser
+[submodule "external/mtpd"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/mtpd
+	url = ../external/mtpd
+[submodule "external/naver-fonts"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/naver-fonts
+	url = ../external/naver-fonts
+[submodule "external/netcat"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/netcat
+	url = ../external/netcat
+[submodule "external/netperf"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/netperf
+	url = ../external/netperf
+[submodule "external/neven"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/neven
+	url = ../external/neven
+[submodule "external/nist-pkits"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "external/nist-sip"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/nist-sip
+	url = ../external/nist-sip
+[submodule "external/noto-fonts"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "external/oauth"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/oauth
+	url = ../external/oauth
+[submodule "external/objenesis"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "external/okhttp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "external/open-vcdiff"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/open-vcdiff
+	url = ../external/open-vcdiff
+[submodule "external/opencv"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/opencv
+	url = ../external/opencv
+[submodule "external/openfst"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/openfst
+	url = ../external/openfst
+[submodule "external/openssh"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/openssh
+	url = ../external/openssh
+[submodule "external/openssl"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/openssl
+	url = ../external/openssl
+[submodule "external/oprofile"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/oprofile
+	url = ../external/oprofile
+[submodule "external/pixman"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/pixman
+	url = ../external/pixman
+[submodule "external/ppp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/ppp
+	url = ../external/ppp
+[submodule "external/proguard"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/proguard
+	url = ../external/proguard
+[submodule "external/protobuf"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "external/qemu-pc-bios"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/qemu-pc-bios
+	url = ../external/qemu-pc-bios
+[submodule "external/qemu"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/qemu
+	url = ../external/qemu
+[submodule "external/regex-re2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/regex-re2
+	url = ../external/regex-re2
+[submodule "external/replicaisland"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/replicaisland
+	url = ../external/replicaisland
+[submodule "external/robolectric"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/robolectric
+	url = ../external/robolectric
+[submodule "external/safe-iop"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/safe-iop
+	url = ../external/safe-iop
+[submodule "external/scrypt"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/scrypt
+	url = ../external/scrypt
+[submodule "external/sepolicy"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/sepolicy
+	url = ../external/sepolicy
+[submodule "external/sfntly"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/sfntly
+	url = ../external/sfntly
+[submodule "external/sil-fonts"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/sil-fonts
+	url = ../external/sil-fonts
+[submodule "external/skia"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/skia
+	url = ../external/skia
+[submodule "external/smack"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/smack
+	url = ../external/smack
+[submodule "external/smali"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/smali
+	url = ../external/smali
+[submodule "external/sonivox"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/sonivox
+	url = ../external/sonivox
+[submodule "external/speex"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/speex
+	url = ../external/speex
+[submodule "external/sqlite"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "external/srec"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/srec
+	url = ../external/srec
+[submodule "external/srtp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/srtp
+	url = ../external/srtp
+[submodule "external/stlport"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/stlport
+	url = ../external/stlport
+[submodule "external/strace"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/strace
+	url = ../external/strace
+[submodule "external/stressapptest"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/stressapptest
+	url = ../external/stressapptest
+[submodule "external/svox"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/svox
+	url = ../external/svox
+[submodule "external/tagsoup"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "external/tcpdump"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/tcpdump
+	url = ../external/tcpdump
+[submodule "external/timezonepicker-support"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/timezonepicker-support
+	url = ../external/timezonepicker-support
+[submodule "external/tinyalsa"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/tinyalsa
+	url = ../external/tinyalsa
+[submodule "external/tinycompress"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "external/tinyxml"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/tinyxml
+	url = ../external/tinyxml
+[submodule "external/tinyxml2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/tinyxml2
+	url = ../external/tinyxml2
+[submodule "external/tremolo"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/tremolo
+	url = ../external/tremolo
+[submodule "external/v8"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/v8
+	url = ../external/v8
+[submodule "external/valgrind"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/valgrind
+	url = ../external/valgrind
+[submodule "external/webp"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/webp
+	url = ../external/webp
+[submodule "external/webrtc"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "external/wpa_supplicant_8"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "external/xmlwriter"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/xmlwriter
+	url = ../external/xmlwriter
+[submodule "external/xmp_toolkit"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/xmp_toolkit
+	url = ../external/xmp_toolkit
+[submodule "external/yaffs2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/yaffs2
+	url = ../external/yaffs2
+[submodule "external/zlib"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/zlib
+	url = ../external/zlib
+[submodule "external/zxing"]
+	branch = refs/tags/android-4.4.4_r2
+	path = external/zxing
+	url = ../external/zxing
+[submodule "frameworks/av"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/av
+	url = ../frameworks/av
+[submodule "frameworks/base"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "frameworks/compile/libbcc"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/compile/libbcc
+	url = ../frameworks/compile/libbcc
+[submodule "frameworks/compile/mclinker"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/compile/mclinker
+	url = ../frameworks/compile/mclinker
+[submodule "frameworks/compile/slang"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/compile/slang
+	url = ../frameworks/compile/slang
+[submodule "frameworks/ex"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "frameworks/mff"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/mff
+	url = ../frameworks/mff
+[submodule "frameworks/ml"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/ml
+	url = ../frameworks/ml
+[submodule "frameworks/native"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "frameworks/opt/calendar"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/calendar
+	url = ../frameworks/opt/calendar
+[submodule "frameworks/opt/carddav"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/carddav
+	url = ../frameworks/opt/carddav
+[submodule "frameworks/opt/colorpicker"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/colorpicker
+	url = ../frameworks/opt/colorpicker
+[submodule "frameworks/opt/datetimepicker"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/datetimepicker
+	url = ../frameworks/opt/datetimepicker
+[submodule "frameworks/opt/emoji"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/emoji
+	url = ../frameworks/opt/emoji
+[submodule "frameworks/opt/inputmethodcommon"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/inputmethodcommon
+	url = ../frameworks/opt/inputmethodcommon
+[submodule "frameworks/opt/mailcommon"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/mailcommon
+	url = ../frameworks/opt/mailcommon
+[submodule "frameworks/opt/mms"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/mms
+	url = ../frameworks/opt/mms
+[submodule "frameworks/opt/net/voip"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/net/voip
+	url = ../frameworks/opt/net/voip
+[submodule "frameworks/opt/photoviewer"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/photoviewer
+	url = ../frameworks/opt/photoviewer
+[submodule "frameworks/opt/telephony"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/telephony
+	url = ../frameworks/opt/telephony
+[submodule "frameworks/opt/timezonepicker"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/timezonepicker
+	url = ../frameworks/opt/timezonepicker
+[submodule "frameworks/opt/vcard"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/vcard
+	url = ../frameworks/opt/vcard
+[submodule "frameworks/opt/widget"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/opt/widget
+	url = ../frameworks/opt/widget
+[submodule "frameworks/rs"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/rs
+	url = ../frameworks/rs
+[submodule "frameworks/support"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "frameworks/testing"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/testing
+	url = ../frameworks/testing
+[submodule "frameworks/volley"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/volley
+	url = ../frameworks/volley
+[submodule "frameworks/webview"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/webview
+	url = ../frameworks/webview
+[submodule "frameworks/wilhelm"]
+	branch = refs/tags/android-4.4.4_r2
+	path = frameworks/wilhelm
+	url = ../frameworks/wilhelm
+[submodule "hardware/akm"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/akm
+	url = ../hardware/akm
+[submodule "hardware/broadcom/libbt"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/broadcom/libbt
+	url = ../hardware/broadcom/libbt
+[submodule "hardware/broadcom/wlan"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/broadcom/wlan
+	url = ../hardware/broadcom/wlan
+[submodule "hardware/invensense"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/invensense
+	url = ../hardware/invensense
+[submodule "hardware/libhardware"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "hardware/libhardware_legacy"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/libhardware_legacy
+	url = ../hardware/libhardware_legacy
+[submodule "hardware/qcom/audio"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/audio
+	url = ../hardware/qcom/audio
+[submodule "hardware/qcom/bt"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/bt
+	url = ../hardware/qcom/bt
+[submodule "hardware/qcom/camera"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/camera
+	url = ../hardware/qcom/camera
+[submodule "hardware/qcom/display"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/display
+	url = ../hardware/qcom/display
+[submodule "hardware/qcom/keymaster"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/keymaster
+	url = ../hardware/qcom/keymaster
+[submodule "hardware/qcom/media"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/media
+	url = ../hardware/qcom/media
+[submodule "hardware/qcom/msm8960"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/msm8960
+	url = ../hardware/qcom/msm8960
+[submodule "hardware/qcom/msm8x74"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/msm8x74
+	url = ../hardware/qcom/msm8x74
+[submodule "hardware/qcom/power"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/power
+	url = ../hardware/qcom/power
+[submodule "hardware/qcom/sensors"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/sensors
+	url = ../hardware/qcom/sensors
+[submodule "hardware/qcom/wlan"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/qcom/wlan
+	url = ../hardware/qcom/wlan
+[submodule "hardware/ril"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/ril
+	url = ../hardware/ril
+[submodule "hardware/samsung_slsi/exynos5"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/samsung_slsi/exynos5
+	url = ../hardware/samsung_slsi/exynos5
+[submodule "hardware/ti/omap3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/ti/omap3
+	url = ../hardware/ti/omap3
+[submodule "hardware/ti/omap4xxx"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/ti/omap4xxx
+	url = ../hardware/ti/omap4xxx
+[submodule "hardware/ti/wlan"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/ti/wlan
+	url = ../hardware/ti/wlan
+[submodule "hardware/ti/wpan"]
+	branch = refs/tags/android-4.4.4_r2
+	path = hardware/ti/wpan
+	url = ../hardware/ti/wpan
+[submodule "libcore"]
+	branch = refs/tags/android-4.4.4_r2
+	path = libcore
+	url = ../libcore
+[submodule "libnativehelper"]
+	branch = refs/tags/android-4.4.4_r2
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "ndk"]
+	branch = refs/tags/android-4.4.4_r2
+	path = ndk
+	url = ../ndk
+[submodule "packages/apps/BasicSmsReceiver"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/BasicSmsReceiver
+	url = ../packages/apps/BasicSmsReceiver
+[submodule "packages/apps/Bluetooth"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Bluetooth
+	url = ../packages/apps/Bluetooth
+[submodule "packages/apps/Browser"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Browser
+	url = ../packages/apps/Browser
+[submodule "packages/apps/Calculator"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Calculator
+	url = ../packages/apps/Calculator
+[submodule "packages/apps/Calendar"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Calendar
+	url = ../packages/apps/Calendar
+[submodule "packages/apps/Camera"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Camera
+	url = ../packages/apps/Camera
+[submodule "packages/apps/Camera2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Camera2
+	url = ../packages/apps/Camera2
+[submodule "packages/apps/CellBroadcastReceiver"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/CellBroadcastReceiver
+	url = ../packages/apps/CellBroadcastReceiver
+[submodule "packages/apps/CertInstaller"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/CertInstaller
+	url = ../packages/apps/CertInstaller
+[submodule "packages/apps/Contacts"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Contacts
+	url = ../packages/apps/Contacts
+[submodule "packages/apps/ContactsCommon"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/ContactsCommon
+	url = ../packages/apps/ContactsCommon
+[submodule "packages/apps/DeskClock"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/DeskClock
+	url = ../packages/apps/DeskClock
+[submodule "packages/apps/Dialer"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Dialer
+	url = ../packages/apps/Dialer
+[submodule "packages/apps/Email"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Email
+	url = ../packages/apps/Email
+[submodule "packages/apps/Exchange"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Exchange
+	url = ../packages/apps/Exchange
+[submodule "packages/apps/Gallery"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Gallery
+	url = ../packages/apps/Gallery
+[submodule "packages/apps/Gallery2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Gallery2
+	url = ../packages/apps/Gallery2
+[submodule "packages/apps/HTMLViewer"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/HTMLViewer
+	url = ../packages/apps/HTMLViewer
+[submodule "packages/apps/InCallUI"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/InCallUI
+	url = ../packages/apps/InCallUI
+[submodule "packages/apps/KeyChain"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/KeyChain
+	url = ../packages/apps/KeyChain
+[submodule "packages/apps/Launcher2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Launcher2
+	url = ../packages/apps/Launcher2
+[submodule "packages/apps/Launcher3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Launcher3
+	url = ../packages/apps/Launcher3
+[submodule "packages/apps/LegacyCamera"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/LegacyCamera
+	url = ../packages/apps/LegacyCamera
+[submodule "packages/apps/Mms"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Mms
+	url = ../packages/apps/Mms
+[submodule "packages/apps/Music"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Music
+	url = ../packages/apps/Music
+[submodule "packages/apps/MusicFX"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/MusicFX
+	url = ../packages/apps/MusicFX
+[submodule "packages/apps/Nfc"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Nfc
+	url = ../packages/apps/Nfc
+[submodule "packages/apps/OneTimeInitializer"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/OneTimeInitializer
+	url = ../packages/apps/OneTimeInitializer
+[submodule "packages/apps/PackageInstaller"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/PackageInstaller
+	url = ../packages/apps/PackageInstaller
+[submodule "packages/apps/Phone"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Phone
+	url = ../packages/apps/Phone
+[submodule "packages/apps/PhoneCommon"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/PhoneCommon
+	url = ../packages/apps/PhoneCommon
+[submodule "packages/apps/Protips"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Protips
+	url = ../packages/apps/Protips
+[submodule "packages/apps/Provision"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Provision
+	url = ../packages/apps/Provision
+[submodule "packages/apps/QuickSearchBox"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/QuickSearchBox
+	url = ../packages/apps/QuickSearchBox
+[submodule "packages/apps/Settings"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Settings
+	url = ../packages/apps/Settings
+[submodule "packages/apps/SmartCardService"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/SmartCardService
+	url = ../packages/apps/SmartCardService
+[submodule "packages/apps/SoundRecorder"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/SoundRecorder
+	url = ../packages/apps/SoundRecorder
+[submodule "packages/apps/SpareParts"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/SpareParts
+	url = ../packages/apps/SpareParts
+[submodule "packages/apps/SpeechRecorder"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/SpeechRecorder
+	url = ../packages/apps/SpeechRecorder
+[submodule "packages/apps/Stk"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Stk
+	url = ../packages/apps/Stk
+[submodule "packages/apps/Tag"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/Tag
+	url = ../packages/apps/Tag
+[submodule "packages/apps/UnifiedEmail"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/UnifiedEmail
+	url = ../packages/apps/UnifiedEmail
+[submodule "packages/apps/VideoEditor"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/VideoEditor
+	url = ../packages/apps/VideoEditor
+[submodule "packages/apps/VoiceDialer"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/apps/VoiceDialer
+	url = ../packages/apps/VoiceDialer
+[submodule "packages/experimental"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/experimental
+	url = ../packages/experimental
+[submodule "packages/inputmethods/LatinIME"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/inputmethods/LatinIME
+	url = ../packages/inputmethods/LatinIME
+[submodule "packages/inputmethods/OpenWnn"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/inputmethods/OpenWnn
+	url = ../packages/inputmethods/OpenWnn
+[submodule "packages/inputmethods/PinyinIME"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/inputmethods/PinyinIME
+	url = ../packages/inputmethods/PinyinIME
+[submodule "packages/providers/ApplicationsProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/ApplicationsProvider
+	url = ../packages/providers/ApplicationsProvider
+[submodule "packages/providers/CalendarProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/CalendarProvider
+	url = ../packages/providers/CalendarProvider
+[submodule "packages/providers/ContactsProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/ContactsProvider
+	url = ../packages/providers/ContactsProvider
+[submodule "packages/providers/DownloadProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/DownloadProvider
+	url = ../packages/providers/DownloadProvider
+[submodule "packages/providers/MediaProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/MediaProvider
+	url = ../packages/providers/MediaProvider
+[submodule "packages/providers/PartnerBookmarksProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/PartnerBookmarksProvider
+	url = ../packages/providers/PartnerBookmarksProvider
+[submodule "packages/providers/TelephonyProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/TelephonyProvider
+	url = ../packages/providers/TelephonyProvider
+[submodule "packages/providers/UserDictionaryProvider"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/providers/UserDictionaryProvider
+	url = ../packages/providers/UserDictionaryProvider
+[submodule "packages/screensavers/Basic"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/screensavers/Basic
+	url = ../packages/screensavers/Basic
+[submodule "packages/screensavers/PhotoTable"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/screensavers/PhotoTable
+	url = ../packages/screensavers/PhotoTable
+[submodule "packages/screensavers/WebView"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/screensavers/WebView
+	url = ../packages/screensavers/WebView
+[submodule "packages/services/Telephony"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/services/Telephony
+	url = ../packages/services/Telephony
+[submodule "packages/wallpapers/Basic"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/Basic
+	url = ../packages/wallpapers/Basic
+[submodule "packages/wallpapers/Galaxy4"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/Galaxy4
+	url = ../packages/wallpapers/Galaxy4
+[submodule "packages/wallpapers/HoloSpiral"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/HoloSpiral
+	url = ../packages/wallpapers/HoloSpiral
+[submodule "packages/wallpapers/LivePicker"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/LivePicker
+	url = ../packages/wallpapers/LivePicker
+[submodule "packages/wallpapers/MagicSmoke"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/MagicSmoke
+	url = ../packages/wallpapers/MagicSmoke
+[submodule "packages/wallpapers/MusicVisualization"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/MusicVisualization
+	url = ../packages/wallpapers/MusicVisualization
+[submodule "packages/wallpapers/NoiseField"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/NoiseField
+	url = ../packages/wallpapers/NoiseField
+[submodule "packages/wallpapers/PhaseBeam"]
+	branch = refs/tags/android-4.4.4_r2
+	path = packages/wallpapers/PhaseBeam
+	url = ../packages/wallpapers/PhaseBeam
+[submodule "pdk"]
+	branch = refs/tags/android-4.4.4_r2
+	path = pdk
+	url = ../pdk
+[submodule "prebuilts/clang/darwin-x86/3.1"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/darwin-x86/3.1
+	url = ../prebuilts/clang/darwin-x86/3.1
+[submodule "prebuilts/clang/darwin-x86/3.2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/darwin-x86/3.2
+	url = ../prebuilts/clang/darwin-x86/3.2
+[submodule "prebuilts/clang/darwin-x86/arm/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/darwin-x86/arm/3.3
+	url = ../prebuilts/clang/darwin-x86/arm/3.3
+[submodule "prebuilts/clang/darwin-x86/host/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/darwin-x86/host/3.3
+	url = ../prebuilts/clang/darwin-x86/host/3.3
+[submodule "prebuilts/clang/darwin-x86/mips/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/darwin-x86/mips/3.3
+	url = ../prebuilts/clang/darwin-x86/mips/3.3
+[submodule "prebuilts/clang/darwin-x86/x86/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/darwin-x86/x86/3.3
+	url = ../prebuilts/clang/darwin-x86/x86/3.3
+[submodule "prebuilts/clang/linux-x86/3.1"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/linux-x86/3.1
+	url = ../prebuilts/clang/linux-x86/3.1
+[submodule "prebuilts/clang/linux-x86/3.2"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/linux-x86/3.2
+	url = ../prebuilts/clang/linux-x86/3.2
+[submodule "prebuilts/clang/linux-x86/arm/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/linux-x86/arm/3.3
+	url = ../prebuilts/clang/linux-x86/arm/3.3
+[submodule "prebuilts/clang/linux-x86/host/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/linux-x86/host/3.3
+	url = ../prebuilts/clang/linux-x86/host/3.3
+[submodule "prebuilts/clang/linux-x86/mips/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/linux-x86/mips/3.3
+	url = ../prebuilts/clang/linux-x86/mips/3.3
+[submodule "prebuilts/clang/linux-x86/x86/3.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/clang/linux-x86/x86/3.3
+	url = ../prebuilts/clang/linux-x86/x86/3.3
+[submodule "prebuilts/devtools"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "prebuilts/eclipse"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7
+[submodule "prebuilts/gcc/darwin-x86/host/headers"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/host/headers
+	url = ../prebuilts/gcc/darwin-x86/host/headers
+[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6
+	url = ../prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6
+[submodule "prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7
+	url = ../prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7
+[submodule "prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6
+	url = ../prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6
+[submodule "prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7
+	url = ../prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7
+[submodule "prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7
+[submodule "prebuilts/gcc/linux-x86/arm/arm-eabi-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/arm/arm-eabi-4.6
+	url = ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.6
+[submodule "prebuilts/gcc/linux-x86/arm/arm-eabi-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/arm/arm-eabi-4.7
+	url = ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.7
+[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6
+[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7
+[submodule "prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3
+	url = ../prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3
+[submodule "prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6
+	url = ../prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6
+[submodule "prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6
+	url = ../prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6
+[submodule "prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7
+	url = ../prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7
+[submodule "prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6
+	url = ../prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6
+[submodule "prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7
+	url = ../prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7
+[submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7
+[submodule "prebuilts/gradle-plugin"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "prebuilts/maven_repo/android"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "prebuilts/misc"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "prebuilts/ndk"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "prebuilts/python/darwin-x86/2.7.5"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "prebuilts/python/linux-x86/2.7.5"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "prebuilts/qemu-kernel"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "prebuilts/runtime"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/runtime
+	url = ../prebuilts/runtime
+[submodule "prebuilts/sdk"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "prebuilts/tools"]
+	branch = refs/tags/android-4.4.4_r2
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "sdk"]
+	branch = refs/tags/android-4.4.4_r2
+	path = sdk
+	url = ../sdk
+[submodule "system/core"]
+	branch = refs/tags/android-4.4.4_r2
+	path = system/core
+	url = ../system/core
+[submodule "system/extras"]
+	branch = refs/tags/android-4.4.4_r2
+	path = system/extras
+	url = ../system/extras
+[submodule "system/media"]
+	branch = refs/tags/android-4.4.4_r2
+	path = system/media
+	url = ../system/media
+[submodule "system/netd"]
+	branch = refs/tags/android-4.4.4_r2
+	path = system/netd
+	url = ../system/netd
+[submodule "system/security"]
+	branch = refs/tags/android-4.4.4_r2
+	path = system/security
+	url = ../system/security
+[submodule "system/vold"]
+	branch = refs/tags/android-4.4.4_r2
+	path = system/vold
+	url = ../system/vold
+[submodule "tools/external/fat32lib"]
+	branch = refs/tags/android-4.4.4_r2
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "tools/external/gradle"]
+	branch = refs/tags/android-4.4.4_r2
+	path = tools/external/gradle
+	url = ../tools/external/gradle
