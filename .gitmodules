@@ -1029,6 +1029,10 @@
 	branch = master
 	path = external/pdfium
 	url = ../external/pdfium
+[submodule "external/perfetto"]
+	branch = master
+	path = external/perfetto
+	url = ../external/perfetto
 [submodule "external/piex"]
 	branch = master
 	path = external/piex
