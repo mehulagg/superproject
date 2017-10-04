@@ -60,3 +60,35 @@
 	shallow = true
 	path = toolchain/jdk/build
 	url = ../../toolchain/jdk/build
+[submodule "toolchain/jdk/jdk9"]
+	branch = master
+	path = toolchain/jdk/jdk9
+	url = ../../toolchain/jdk/jdk9
+[submodule "toolchain/jdk/jdk9_corba"]
+	branch = master
+	path = toolchain/jdk/jdk9_corba
+	url = ../../toolchain/jdk/jdk9_corba
+[submodule "toolchain/jdk/jdk9_hotspot"]
+	branch = master
+	path = toolchain/jdk/jdk9_hotspot
+	url = ../../toolchain/jdk/jdk9_hotspot
+[submodule "toolchain/jdk/jdk9_jaxp"]
+	branch = master
+	path = toolchain/jdk/jdk9_jaxp
+	url = ../../toolchain/jdk/jdk9_jaxp
+[submodule "toolchain/jdk/jdk9_jaxws"]
+	branch = master
+	path = toolchain/jdk/jdk9_jaxws
+	url = ../../toolchain/jdk/jdk9_jaxws
+[submodule "toolchain/jdk/jdk9_jdk"]
+	branch = master
+	path = toolchain/jdk/jdk9_jdk
+	url = ../../toolchain/jdk/jdk9_jdk
+[submodule "toolchain/jdk/jdk9_langtools"]
+	branch = master
+	path = toolchain/jdk/jdk9_langtools
+	url = ../../toolchain/jdk/jdk9_langtools
+[submodule "toolchain/jdk/jdk9_nashorn"]
+	branch = master
+	path = toolchain/jdk/jdk9_nashorn
+	url = ../../toolchain/jdk/jdk9_nashorn
