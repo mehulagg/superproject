@@ -2145,6 +2145,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
+[submodule "prebuilts/jdk/jdk9"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk9
+	url = ../prebuilts/jdk/jdk9
 [submodule "prebuilts/libs/libedit"]
 	branch = master
 	shallow = true
