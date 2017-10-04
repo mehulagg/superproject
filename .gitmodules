@@ -1,0 +1,239 @@
+[submodule "bionic"]
+	branch = master
+	shallow = true
+	path = bionic
+	url = ../bionic
+[submodule "build/blueprint"]
+	branch = master
+	shallow = true
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "build/kati"]
+	branch = master
+	shallow = true
+	path = build/kati
+	url = ../build/kati
+[submodule "build/make"]
+	branch = master
+	shallow = true
+	path = build/make
+	url = ../build
+[submodule "build/soong"]
+	branch = master
+	shallow = true
+	path = build/soong
+	url = ../build/soong
+[submodule "external/apache-http"]
+	branch = master
+	shallow = true
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "external/clang"]
+	branch = master
+	shallow = true
+	path = external/clang
+	url = ../external/clang
+[submodule "external/compiler-rt"]
+	branch = master
+	shallow = true
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "external/dexmaker"]
+	branch = master
+	shallow = true
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "external/guava"]
+	branch = master
+	shallow = true
+	path = external/guava
+	url = ../external/guava
+[submodule "external/hamcrest"]
+	branch = master
+	shallow = true
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "external/icu"]
+	branch = master
+	shallow = true
+	path = external/icu
+	url = ../external/icu
+[submodule "external/jemalloc"]
+	branch = master
+	shallow = true
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "external/jsr305"]
+	branch = master
+	shallow = true
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "external/junit"]
+	branch = master
+	shallow = true
+	path = external/junit
+	url = ../external/junit
+[submodule "external/libcap"]
+	branch = master
+	shallow = true
+	path = external/libcap
+	url = ../external/libcap
+[submodule "external/libcxx"]
+	branch = master
+	shallow = true
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "external/libcxxabi"]
+	branch = master
+	shallow = true
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "external/libunwind_llvm"]
+	branch = master
+	shallow = true
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "external/llvm"]
+	branch = master
+	shallow = true
+	path = external/llvm
+	url = ../external/llvm
+[submodule "external/minijail"]
+	branch = master
+	shallow = true
+	path = external/minijail
+	url = ../external/minijail
+[submodule "external/mockito"]
+	branch = master
+	shallow = true
+	path = external/mockito
+	url = ../external/mockito
+[submodule "external/objenesis"]
+	branch = master
+	shallow = true
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "external/proguard"]
+	branch = master
+	shallow = true
+	path = external/proguard
+	url = ../external/proguard
+[submodule "external/protobuf"]
+	branch = master
+	shallow = true
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "external/zlib"]
+	branch = master
+	shallow = true
+	path = external/zlib
+	url = ../external/zlib
+[submodule "frameworks/ex"]
+	branch = master
+	shallow = true
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "libnativehelper"]
+	branch = master
+	shallow = true
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "packages/apps/TV"]
+	branch = android-live-tv
+	path = packages/apps/TV
+	url = ../packages/apps/TV
+[submodule "prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
+[submodule "prebuilts/clang/host/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "prebuilts/devtools"]
+	branch = master
+	shallow = true
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "prebuilts/go/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "prebuilts/go/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "prebuilts/misc"]
+	branch = master
+	shallow = true
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "prebuilts/ndk"]
+	branch = master
+	shallow = true
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "prebuilts/sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "prebuilts/tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "system/core"]
+	branch = master
+	shallow = true
+	path = system/core
+	url = ../system/core
+[submodule "tools/repohooks"]
+	branch = master
+	shallow = true
+	path = tools/repohooks
+	url = ../tools/repohooks
