@@ -855,7 +855,7 @@
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "external/linux-kselftest"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "external/littlemock"]
@@ -871,7 +871,7 @@
 	path = external/llvm
 	url = ../external/llvm
 [submodule "external/ltp"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = external/ltp
 	url = ../external/ltp
 [submodule "external/lz4"]
@@ -2254,35 +2254,35 @@
 	path = system/vold
 	url = ../system/vold
 [submodule "test/vts-testcase/fuzz"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts-testcase/fuzz
 	url = ../test/vts-testcase/fuzz
 [submodule "test/vts-testcase/hal-trace"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts-testcase/hal-trace
 	url = ../test/vts-testcase/hal-trace
 [submodule "test/vts-testcase/hal"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal
 [submodule "test/vts-testcase/kernel"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
 [submodule "test/vts-testcase/performance"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
 [submodule "test/vts-testcase/security"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts-testcase/security
 	url = ../test/vts-testcase/security
 [submodule "test/vts-testcase/vndk"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
 [submodule "test/vts"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = test/vts
 	url = ../test/vts
 [submodule "toolchain/binutils"]
