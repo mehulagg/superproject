@@ -13,6 +13,10 @@
 	branch = master
 	path = external/gtest
 	url = ../external/gtest
+[submodule "external/libyuv"]
+	branch = master
+	path = external/libyuv
+	url = ../external/libyuv
 [submodule "external/protobuf"]
 	branch = emu-master-dev
 	path = external/protobuf
