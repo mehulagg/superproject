@@ -253,6 +253,10 @@
 	branch = master
 	path = external/androidplot
 	url = ../external/androidplot
+[submodule "external/annotation-tools"]
+	branch = master
+	path = external/annotation-tools
+	url = ../external/annotation-tools
 [submodule "external/ant-glob"]
 	branch = master
 	path = external/ant-glob
