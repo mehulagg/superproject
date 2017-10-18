@@ -525,6 +525,10 @@
 	branch = master
 	path = external/gemmlowp
 	url = ../external/gemmlowp
+[submodule "external/gflags"]
+	branch = master
+	path = external/gflags
+	url = ../external/gflags
 [submodule "external/giflib"]
 	branch = master
 	path = external/giflib
