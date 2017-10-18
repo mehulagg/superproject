@@ -1173,10 +1173,6 @@
 	branch = master
 	path = external/stressapptest
 	url = ../external/stressapptest
-[submodule "external/svox"]
-	branch = master
-	path = external/svox
-	url = ../external/svox
 [submodule "external/swiftshader"]
 	branch = master
 	path = external/swiftshader
