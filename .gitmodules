@@ -193,7 +193,6 @@
 	path = external/mdnsresponder
 	url = ../external/mdnsresponder
 [submodule "external/mksh"]
-	branch = master
 	path = external/mksh
 	url = ../external/mksh
 [submodule "external/mockftpserver"]
