@@ -445,14 +445,6 @@
 	branch = master
 	path = external/easymock
 	url = ../external/easymock
-[submodule "external/eclipse-basebuilder"]
-	branch = master
-	path = external/eclipse-basebuilder
-	url = ../external/eclipse-basebuilder
-[submodule "external/eclipse-windowbuilder"]
-	branch = master
-	path = external/eclipse-windowbuilder
-	url = ../external/eclipse-windowbuilder
 [submodule "external/eigen"]
 	branch = master
 	path = external/eigen
@@ -2054,11 +2046,6 @@
 	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
-[submodule "prebuilts/eclipse"]
-	branch = master
-	shallow = true
-	path = prebuilts/eclipse
-	url = ../prebuilts/eclipse
 [submodule "prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
 	shallow = true
