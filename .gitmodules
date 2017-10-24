@@ -173,11 +173,28 @@
 	branch = master
 	path = device/google/marlin
 	url = ../../device/google/marlin
+[submodule "device/google/muskie"]
+	branch = master
+	path = device/google/muskie
+	url = ../../device/google/muskie
+[submodule "device/google/taimen"]
+	branch = master
+	path = device/google/taimen
+	url = ../../device/google/taimen
 [submodule "device/google/vrservices"]
 	branch = master
 	shallow = true
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
+[submodule "device/google/wahoo-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/wahoo-kernel
+	url = ../../device/google/wahoo-kernel
+[submodule "device/google/wahoo"]
+	branch = master
+	path = device/google/wahoo
+	url = ../../device/google/wahoo
 [submodule "device/huawei/angler-kernel"]
 	branch = master
 	shallow = true
@@ -297,6 +314,10 @@
 	branch = master
 	path = external/avb
 	url = ../external/avb
+[submodule "external/bart"]
+	branch = master
+	path = external/bart
+	url = ../external/bart
 [submodule "external/bison"]
 	branch = master
 	path = external/bison
@@ -389,6 +410,10 @@
 	branch = master
 	path = external/desugar
 	url = ../external/desugar
+[submodule "external/devlib"]
+	branch = master
+	path = external/devlib
+	url = ../external/devlib
 [submodule "external/dexmaker"]
 	branch = master
 	path = external/dexmaker
@@ -417,10 +442,6 @@
 	branch = master
 	path = external/donuts
 	url = ../external/donuts
-[submodule "external/drm_gralloc"]
-	branch = master
-	path = external/drm_gralloc
-	url = ../external/drm_gralloc
 [submodule "external/drm_hwcomposer"]
 	branch = master
 	path = external/drm_hwcomposer
@@ -881,6 +902,10 @@
 	branch = master
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
+[submodule "external/lisa"]
+	branch = master
+	path = external/lisa
+	url = ../external/lisa
 [submodule "external/littlemock"]
 	branch = master
 	path = external/littlemock
@@ -893,6 +918,10 @@
 	branch = master
 	path = external/llvm
 	url = ../external/llvm
+[submodule "external/lmfit"]
+	branch = master
+	path = external/lmfit
+	url = ../external/lmfit
 [submodule "external/ltp"]
 	branch = master
 	path = external/ltp
@@ -1037,6 +1066,10 @@
 	branch = master
 	path = external/piex
 	url = ../external/piex
+[submodule "external/ply"]
+	branch = master
+	path = external/ply
+	url = ../external/ply
 [submodule "external/ppp"]
 	branch = master
 	path = external/ppp
@@ -1217,6 +1250,10 @@
 	branch = master
 	path = external/tpm2
 	url = ../external/tpm2
+[submodule "external/trappy"]
+	branch = master
+	path = external/trappy
+	url = ../external/trappy
 [submodule "external/tremolo"]
 	branch = master
 	path = external/tremolo
@@ -1233,6 +1270,10 @@
 	branch = master
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
+[submodule "external/v4l2_codec2"]
+	branch = master
+	path = external/v4l2_codec2
+	url = ../external/v4l2_codec2
 [submodule "external/v8"]
 	branch = master
 	path = external/v8
@@ -1261,6 +1302,10 @@
 	branch = master
 	path = external/vulkan-validation-layers
 	url = ../external/vulkan-validation-layers
+[submodule "external/walt"]
+	branch = master
+	path = external/walt
+	url = ../external/walt
 [submodule "external/webp"]
 	branch = master
 	path = external/webp
@@ -1341,6 +1386,10 @@
 	branch = master
 	path = frameworks/hardware/interfaces
 	url = ../frameworks/hardware/interfaces
+[submodule "frameworks/layoutlib"]
+	branch = master
+	path = frameworks/layoutlib
+	url = ../frameworks/layoutlib
 [submodule "frameworks/minikin"]
 	branch = master
 	path = frameworks/minikin
@@ -1381,10 +1430,6 @@
 	branch = master
 	path = frameworks/opt/datetimepicker
 	url = ../frameworks/opt/datetimepicker
-[submodule "frameworks/opt/emoji"]
-	branch = master
-	path = frameworks/opt/emoji
-	url = ../frameworks/opt/emoji
 [submodule "frameworks/opt/inputconnectioncommon"]
 	branch = master
 	path = frameworks/opt/inputconnectioncommon
@@ -1401,6 +1446,10 @@
 	branch = master
 	path = frameworks/opt/net/ims
 	url = ../frameworks/opt/net/ims
+[submodule "frameworks/opt/net/lowpan"]
+	branch = master
+	path = frameworks/opt/net/lowpan
+	url = ../frameworks/opt/net/lowpan
 [submodule "frameworks/opt/net/voip"]
 	branch = master
 	path = frameworks/opt/net/voip
@@ -1461,6 +1510,10 @@
 	branch = master
 	path = hardware/google/apf
 	url = ../hardware/google/apf
+[submodule "hardware/google/easel"]
+	branch = master
+	path = hardware/google/easel
+	url = ../hardware/google/easel
 [submodule "hardware/intel/audio_media"]
 	branch = master
 	path = hardware/intel/audio_media
@@ -1549,6 +1602,10 @@
 	branch = master
 	path = hardware/qcom/bt
 	url = ../hardware/qcom/bt
+[submodule "hardware/qcom/camera"]
+	branch = master
+	path = hardware/qcom/camera
+	url = ../hardware/qcom/camera
 [submodule "hardware/qcom/data/ipacfg-mgr"]
 	branch = master
 	path = hardware/qcom/data/ipacfg-mgr
@@ -1581,6 +1638,10 @@
 	branch = master
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
+[submodule "hardware/qcom/msm8998"]
+	branch = master
+	path = hardware/qcom/msm8998
+	url = ../hardware/qcom/msm8998
 [submodule "hardware/qcom/msm8x09"]
 	branch = master
 	path = hardware/qcom/msm8x09
@@ -1801,10 +1862,6 @@
 	branch = master
 	path = packages/apps/PackageInstaller
 	url = ../packages/apps/PackageInstaller
-[submodule "packages/apps/Phone"]
-	branch = master
-	path = packages/apps/Phone
-	url = ../packages/apps/Phone
 [submodule "packages/apps/PhoneCommon"]
 	branch = master
 	path = packages/apps/PhoneCommon
@@ -1841,10 +1898,6 @@
 	branch = master
 	path = packages/apps/SpareParts
 	url = ../packages/apps/SpareParts
-[submodule "packages/apps/SpeechRecorder"]
-	branch = master
-	path = packages/apps/SpeechRecorder
-	url = ../packages/apps/SpeechRecorder
 [submodule "packages/apps/Stk"]
 	branch = master
 	path = packages/apps/Stk
