@@ -70,6 +70,10 @@
 	branch = master
 	path = external/r8
 	url = ../external/r8
+[submodule "external/turbine"]
+	branch = master
+	path = external/turbine
+	url = ../external/turbine
 [submodule "external/zlib"]
 	branch = master
 	path = external/zlib
