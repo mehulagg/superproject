@@ -1,0 +1,6 @@
+// This file is copied by repo to tools/settings.gradle
+
+// To enable pre-submit checks, it imports settings-real.gradle,
+// so changes are effective immediately, without a manual copy.
+apply from: 'buildSrc/base/settings-real.gradle'
+// Do not add anything else here.
