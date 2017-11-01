@@ -86,6 +86,10 @@
 	branch = master
 	path = toolchain/llvm
 	url = ../../toolchain/llvm
+[submodule "toolchain/llvm_android"]
+	branch = master
+	path = toolchain/llvm_android
+	url = ../../toolchain/llvm_android
 [submodule "toolchain/prebuilts/ndk/r15"]
 	branch = master
 	path = toolchain/prebuilts/ndk/r15
