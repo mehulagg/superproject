@@ -271,6 +271,10 @@
 	branch = master
 	path = external/zlib
 	url = ../external/zlib
+[submodule "external/zopfli"]
+	branch = master
+	path = external/zopfli
+	url = ../external/zopfli
 [submodule "frameworks/native"]
 	branch = master
 	path = frameworks/native
