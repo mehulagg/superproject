@@ -359,6 +359,11 @@
 	branch = master
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "prebuilts/r8"]
+	branch = master
+	shallow = true
+	path = prebuilts/r8
+	url = ../prebuilts/r8
 [submodule "prebuilts/sdk"]
 	branch = master
 	shallow = true
