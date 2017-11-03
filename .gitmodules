@@ -2246,6 +2246,11 @@
 	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
+[submodule "prebuilts/r8"]
+	branch = master
+	shallow = true
+	path = prebuilts/r8
+	url = ../prebuilts/r8
 [submodule "prebuilts/sdk"]
 	branch = master
 	shallow = true
