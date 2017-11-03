@@ -1034,6 +1034,10 @@
 	branch = master
 	path = external/objenesis
 	url = ../external/objenesis
+[submodule "external/oj-libjdwp"]
+	branch = master
+	path = external/oj-libjdwp
+	url = ../external/oj-libjdwp
 [submodule "external/okhttp"]
 	branch = master
 	path = external/okhttp
