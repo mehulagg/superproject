@@ -82,6 +82,30 @@
 	branch = master
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "toolchain/clang-tools-extra"]
+	branch = master
+	path = toolchain/clang-tools-extra
+	url = ../../toolchain/clang-tools-extra
+[submodule "toolchain/clang"]
+	branch = master
+	path = toolchain/clang
+	url = ../../toolchain/clang
+[submodule "toolchain/compiler-rt"]
+	branch = master
+	path = toolchain/compiler-rt
+	url = ../../toolchain/compiler-rt
+[submodule "toolchain/libcxx"]
+	branch = master
+	path = toolchain/libcxx
+	url = ../../toolchain/libcxx
+[submodule "toolchain/libcxxabi"]
+	branch = master
+	path = toolchain/libcxxabi
+	url = ../../toolchain/libcxxabi
+[submodule "toolchain/lld"]
+	branch = master
+	path = toolchain/lld
+	url = ../../toolchain/lld
 [submodule "toolchain/llvm"]
 	branch = master
 	path = toolchain/llvm
@@ -90,6 +114,10 @@
 	branch = master
 	path = toolchain/llvm_android
 	url = ../../toolchain/llvm_android
+[submodule "toolchain/openmp_llvm"]
+	branch = master
+	path = toolchain/openmp_llvm
+	url = ../../toolchain/openmp_llvm
 [submodule "toolchain/prebuilts/ndk/r15"]
 	branch = master
 	path = toolchain/prebuilts/ndk/r15
