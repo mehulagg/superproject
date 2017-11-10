@@ -769,6 +769,9 @@
 [submodule "external/objenesis"]
 	path = external/objenesis
 	url = ../external/objenesis
+[submodule "external/oj-libjdwp"]
+	path = external/oj-libjdwp
+	url = ../external/oj-libjdwp
 [submodule "external/okhttp"]
 	path = external/okhttp
 	url = ../external/okhttp
@@ -1441,6 +1444,9 @@
 [submodule "packages/apps/TimeZoneUpdater"]
 	path = packages/apps/TimeZoneUpdater
 	url = ../packages/apps/TimeZoneUpdater
+[submodule "packages/apps/Traceur"]
+	path = packages/apps/Traceur
+	url = ../packages/apps/Traceur
 [submodule "packages/apps/TvSettings"]
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
@@ -1642,6 +1648,9 @@
 [submodule "prebuilts/qemu-kernel"]
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
+[submodule "prebuilts/r8"]
+	path = prebuilts/r8
+	url = ../prebuilts/r8
 [submodule "prebuilts/sdk"]
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
