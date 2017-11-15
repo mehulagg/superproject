@@ -111,6 +111,10 @@
 	branch = master
 	path = external/fdlibm
 	url = ../external/fdlibm
+[submodule "external/google-styleguide"]
+	branch = master
+	path = external/google-styleguide
+	url = ../external/google-styleguide
 [submodule "external/googletest"]
 	branch = master
 	path = external/googletest
