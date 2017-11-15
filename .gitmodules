@@ -2421,6 +2421,10 @@
 	branch = master
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
+[submodule "test/vts-testcase/nbu"]
+	branch = master
+	path = test/vts-testcase/nbu
+	url = ../test/vts-testcase/nbu
 [submodule "test/vts-testcase/performance"]
 	branch = master
 	path = test/vts-testcase/performance
