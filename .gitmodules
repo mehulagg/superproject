@@ -578,6 +578,10 @@
 	branch = master
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
+[submodule "external/google-styleguide"]
+	branch = master
+	path = external/google-styleguide
+	url = ../external/google-styleguide
 [submodule "external/google-tv-pairing-protocol"]
 	branch = master
 	path = external/google-tv-pairing-protocol
