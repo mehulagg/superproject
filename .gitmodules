@@ -1098,10 +1098,6 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
-[submodule "external/r8"]
-	branch = master
-	path = external/r8
-	url = ../external/r8
 [submodule "external/regex-re2"]
 	branch = master
 	path = external/regex-re2
