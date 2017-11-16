@@ -235,10 +235,6 @@
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "external/r8"]
-	branch = master
-	path = external/r8
-	url = ../external/r8
 [submodule "external/safe-iop"]
 	branch = master
 	path = external/safe-iop
