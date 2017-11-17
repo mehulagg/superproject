@@ -25,6 +25,10 @@
 	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
+[submodule "external/tinyobjloader"]
+	branch = master
+	path = external/tinyobjloader
+	url = ../external/tinyobjloader
 [submodule "frameworks/native"]
 	branch = lollipop-release
 	path = frameworks/native
