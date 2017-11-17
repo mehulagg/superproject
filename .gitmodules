@@ -22,6 +22,10 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "external/bison"]
+	branch = master
+	path = external/bison
+	url = ../external/bison
 [submodule "external/clang"]
 	branch = master
 	path = external/clang
@@ -38,6 +42,10 @@
 	branch = master
 	path = external/desugar
 	url = ../external/desugar
+[submodule "external/googletest"]
+	branch = master
+	path = external/googletest
+	url = ../external/googletest
 [submodule "external/libcxx"]
 	branch = master
 	path = external/libcxx
@@ -70,6 +78,10 @@
 	branch = master
 	path = external/r8
 	url = ../external/r8
+[submodule "external/safe-iop"]
+	branch = master
+	path = external/safe-iop
+	url = ../external/safe-iop
 [submodule "external/turbine"]
 	branch = master
 	path = external/turbine
@@ -78,6 +90,10 @@
 	branch = master
 	path = external/zlib
 	url = ../external/zlib
+[submodule "external/zopfli"]
+	branch = master
+	path = external/zopfli
+	url = ../external/zopfli
 [submodule "prebuilts/build-tools"]
 	branch = master
 	shallow = true
@@ -148,6 +164,14 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "system/core"]
+	branch = master
+	path = system/core
+	url = ../system/core
+[submodule "system/tools/aidl"]
+	branch = master
+	path = system/tools/aidl
+	url = ../system/tools/aidl
 [submodule "toolchain/go"]
 	branch = master
 	path = toolchain/go
