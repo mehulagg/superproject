@@ -368,6 +368,7 @@
 	url = ../external/chromium-trace
 [submodule "external/chromium-webview"]
 	branch = master
+	shallow = true
 	path = external/chromium-webview
 	url = ../external/chromium-webview
 [submodule "external/clang"]
