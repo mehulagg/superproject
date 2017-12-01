@@ -1223,6 +1223,10 @@
 	branch = master
 	path = external/tcpdump
 	url = ../external/tcpdump
+[submodule "external/tensorflow"]
+	branch = master
+	path = external/tensorflow
+	url = ../external/tensorflow
 [submodule "external/testng"]
 	branch = master
 	path = external/testng
