@@ -1047,6 +1047,10 @@
 	branch = master
 	path = external/okhttp
 	url = ../external/okhttp
+[submodule "external/one-true-awk"]
+	branch = master
+	path = external/one-true-awk
+	url = ../external/one-true-awk
 [submodule "external/opencv"]
 	branch = master
 	path = external/opencv
