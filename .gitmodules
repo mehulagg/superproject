@@ -2234,6 +2234,11 @@
 	shallow = true
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
+[submodule "prebuilts/maven_repo/google-play-service-client-libraries-3p"]
+	branch = master
+	shallow = true
+	path = prebuilts/maven_repo/google-play-service-client-libraries-3p
+	url = ../prebuilts/maven_repo/google-play-service-client-libraries-3p
 [submodule "prebuilts/misc"]
 	branch = master
 	shallow = true
