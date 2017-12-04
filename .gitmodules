@@ -1899,6 +1899,10 @@
 	branch = master
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
+[submodule "packages/apps/SecureElement"]
+	branch = master
+	path = packages/apps/SecureElement
+	url = ../packages/apps/SecureElement
 [submodule "packages/apps/Settings"]
 	branch = master
 	path = packages/apps/Settings
