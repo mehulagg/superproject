@@ -555,6 +555,10 @@
 	branch = master
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
+[submodule "external/google-api-services-storage"]
+	branch = master
+	path = external/google-api-services-storage
+	url = ../external/google-api-services-storage
 [submodule "external/google-benchmark"]
 	branch = master
 	path = external/google-benchmark
@@ -1891,10 +1895,6 @@
 	branch = master
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
-[submodule "packages/apps/RetailDemo"]
-	branch = master
-	path = packages/apps/RetailDemo
-	url = ../packages/apps/RetailDemo
 [submodule "packages/apps/SafetyRegulatoryInfo"]
 	branch = master
 	path = packages/apps/SafetyRegulatoryInfo
@@ -2399,6 +2399,10 @@
 	branch = master
 	path = test/framework
 	url = ../test/framework
+[submodule "test/sts"]
+	branch = master
+	path = test/sts
+	url = ../test/sts
 [submodule "test/vti/alert"]
 	branch = master
 	path = test/vti/alert
