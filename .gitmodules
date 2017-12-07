@@ -11,15 +11,15 @@
 	path = external/googletest
 	url = ../external/googletest
 [submodule "external/libcxx"]
-	branch = ndk
+	branch = master
 	path = external/libcxx
 	url = ../external/libcxx
 [submodule "external/libcxxabi"]
-	branch = ndk
+	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
 [submodule "external/libunwind_llvm"]
-	branch = ndk
+	branch = master
 	path = external/libunwind_llvm
 	url = ../external/libunwind_llvm
 [submodule "external/llvm"]
@@ -27,19 +27,19 @@
 	path = external/llvm
 	url = ../external/llvm
 [submodule "external/shaderc/glslang"]
-	branch = master-ndk
+	branch = master
 	path = external/shaderc/glslang
 	url = ../external/shaderc/glslang
 [submodule "external/shaderc/shaderc"]
-	branch = master-ndk
+	branch = master
 	path = external/shaderc/shaderc
 	url = ../external/shaderc/shaderc
 [submodule "external/shaderc/spirv-headers"]
-	branch = master-ndk
+	branch = master
 	path = external/shaderc/spirv-headers
 	url = ../external/shaderc/spirv-headers
 [submodule "external/shaderc/spirv-tools"]
-	branch = master-ndk
+	branch = master
 	path = external/shaderc/spirv-tools
 	url = ../external/shaderc/spirv-tools
 [submodule "external/vulkan-validation-layers"]
@@ -135,7 +135,7 @@
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "prebuilts/ndk"]
-	branch = dev
+	branch = master
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "prebuilts/ninja/darwin-x86"]
