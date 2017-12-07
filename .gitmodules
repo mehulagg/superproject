@@ -1,79 +1,7 @@
-[submodule "bionic"]
-	branch = master
-	path = bionic
-	url = ../bionic
-[submodule "development"]
-	branch = master
-	path = development
-	url = ../development
-[submodule "external/googletest"]
-	branch = master
-	path = external/googletest
-	url = ../external/googletest
-[submodule "external/libcxx"]
-	branch = master
-	path = external/libcxx
-	url = ../external/libcxx
-[submodule "external/libcxxabi"]
-	branch = master
-	path = external/libcxxabi
-	url = ../external/libcxxabi
-[submodule "external/libunwind_llvm"]
-	branch = master
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
-[submodule "external/llvm"]
-	branch = master
-	path = external/llvm
-	url = ../external/llvm
-[submodule "external/shaderc/glslang"]
-	branch = master
-	path = external/shaderc/glslang
-	url = ../external/shaderc/glslang
-[submodule "external/shaderc/shaderc"]
-	branch = master
-	path = external/shaderc/shaderc
-	url = ../external/shaderc/shaderc
-[submodule "external/shaderc/spirv-headers"]
-	branch = master
-	path = external/shaderc/spirv-headers
-	url = ../external/shaderc/spirv-headers
-[submodule "external/shaderc/spirv-tools"]
-	branch = master
-	path = external/shaderc/spirv-tools
-	url = ../external/shaderc/spirv-tools
-[submodule "external/vulkan-validation-layers"]
-	branch = master
-	path = external/vulkan-validation-layers
-	url = ../external/vulkan-validation-layers
 [submodule "ndk"]
 	branch = master
 	path = ndk
 	url = ../ndk
-[submodule "prebuilts/clang/host/darwin-x86"]
-	branch = master
-	path = prebuilts/clang/host/darwin-x86
-	url = ../prebuilts/clang/host/darwin-x86
-[submodule "prebuilts/clang/host/linux-x86"]
-	branch = master
-	path = prebuilts/clang/host/linux-x86
-	url = ../prebuilts/clang/host/linux-x86
-[submodule "prebuilts/clang/host/windows-x86"]
-	branch = master
-	path = prebuilts/clang/host/windows-x86
-	url = ../prebuilts/clang/host/windows-x86
-[submodule "prebuilts/clang/host/windows-x86_32"]
-	branch = master
-	path = prebuilts/clang/host/windows-x86_32
-	url = ../prebuilts/clang/host/windows-x86_32
-[submodule "prebuilts/cmake/darwin-x86"]
-	branch = master
-	path = prebuilts/cmake/darwin-x86
-	url = ../prebuilts/cmake/darwin-x86
-[submodule "prebuilts/cmake/linux-x86"]
-	branch = master
-	path = prebuilts/cmake/linux-x86
-	url = ../prebuilts/cmake/linux-x86
 [submodule "prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
@@ -94,10 +22,6 @@
 	branch = master
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-[submodule "prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
-	branch = master
-	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
-	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
 [submodule "prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
@@ -126,10 +50,6 @@
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-[submodule "prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
-	branch = master
-	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 [submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
@@ -138,95 +58,7 @@
 	branch = master
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
-[submodule "prebuilts/ninja/darwin-x86"]
-	branch = master
-	path = prebuilts/ninja/darwin-x86
-	url = ../prebuilts/ninja/darwin-x86
-[submodule "prebuilts/ninja/linux-x86"]
-	branch = master
-	path = prebuilts/ninja/linux-x86
-	url = ../prebuilts/ninja/linux-x86
-[submodule "prebuilts/python/darwin-x86/2.7.5"]
-	branch = master
-	path = prebuilts/python/darwin-x86/2.7.5
-	url = ../prebuilts/python/darwin-x86/2.7.5
-[submodule "prebuilts/python/linux-x86/2.7.5"]
-	branch = master
-	path = prebuilts/python/linux-x86/2.7.5
-	url = ../prebuilts/python/linux-x86/2.7.5
-[submodule "prebuilts/renderscript/host/darwin-x86"]
-	branch = master
-	path = prebuilts/renderscript/host/darwin-x86
-	url = ../prebuilts/renderscript/host/darwin-x86
-[submodule "prebuilts/renderscript/host/linux-x86"]
-	branch = master
-	path = prebuilts/renderscript/host/linux-x86
-	url = ../prebuilts/renderscript/host/linux-x86
-[submodule "prebuilts/renderscript/host/windows-x86"]
-	branch = master
-	path = prebuilts/renderscript/host/windows-x86
-	url = ../prebuilts/renderscript/host/windows-x86
-[submodule "prebuilts/simpleperf"]
-	branch = master
-	path = prebuilts/simpleperf
-	url = ../prebuilts/simpleperf
 [submodule "toolchain/binutils"]
 	branch = master
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
-[submodule "toolchain/build"]
-	branch = master
-	path = toolchain/build
-	url = ../../toolchain/build
-[submodule "toolchain/cloog"]
-	branch = master
-	path = toolchain/cloog
-	url = ../../toolchain/cloog
-[submodule "toolchain/expat"]
-	branch = master
-	path = toolchain/expat
-	url = ../../toolchain/expat
-[submodule "toolchain/gcc"]
-	branch = master
-	path = toolchain/gcc
-	url = ../../toolchain/gcc
-[submodule "toolchain/gdb"]
-	branch = master
-	path = toolchain/gdb
-	url = ../../toolchain/gdb
-[submodule "toolchain/gmp"]
-	branch = master
-	path = toolchain/gmp
-	url = ../../toolchain/gmp
-[submodule "toolchain/isl"]
-	branch = master
-	path = toolchain/isl
-	url = ../../toolchain/isl
-[submodule "toolchain/mpc"]
-	branch = master
-	path = toolchain/mpc
-	url = ../../toolchain/mpc
-[submodule "toolchain/mpfr"]
-	branch = master
-	path = toolchain/mpfr
-	url = ../../toolchain/mpfr
-[submodule "toolchain/ppl"]
-	branch = master
-	path = toolchain/ppl
-	url = ../../toolchain/ppl
-[submodule "toolchain/python"]
-	branch = master
-	path = toolchain/python
-	url = ../../toolchain/python
-[submodule "toolchain/sed"]
-	branch = master
-	path = toolchain/sed
-	url = ../../toolchain/sed
-[submodule "toolchain/xz"]
-	branch = master
-	path = toolchain/xz
-	url = ../../toolchain/xz
-[submodule "toolchain/yasm"]
-	branch = master
-	path = toolchain/yasm
-	url = ../../toolchain/yasm
