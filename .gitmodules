@@ -452,10 +452,6 @@
 	branch = master
 	path = external/doclava
 	url = ../external/doclava
-[submodule "external/donuts"]
-	branch = master
-	path = external/donuts
-	url = ../external/donuts
 [submodule "external/drm_hwcomposer"]
 	branch = master
 	path = external/drm_hwcomposer
