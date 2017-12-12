@@ -115,6 +115,15 @@
 [submodule "device/google/contexthub"]
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
+[submodule "device/google/cuttlefish"]
+	path = device/google/cuttlefish
+	url = ../../device/google/cuttlefish
+[submodule "device/google/cuttlefish_common"]
+	path = device/google/cuttlefish_common
+	url = ../../device/google/cuttlefish_common
+[submodule "device/google/cuttlefish_kernel"]
+	path = device/google/cuttlefish_kernel
+	url = ../../device/google/cuttlefish_kernel
 [submodule "device/google/dragon-kernel"]
 	path = device/google/dragon-kernel
 	url = ../../device/google/dragon-kernel
@@ -409,6 +418,9 @@
 [submodule "external/golang-protobuf"]
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
+[submodule "external/google-api-services-storage"]
+	path = external/google-api-services-storage
+	url = ../external/google-api-services-storage
 [submodule "external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
@@ -427,6 +439,9 @@
 [submodule "external/google-fonts/dancing-script"]
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
+[submodule "external/google-styleguide"]
+	path = external/google-styleguide
+	url = ../external/google-styleguide
 [submodule "external/google-tv-pairing-protocol"]
 	path = external/google-tv-pairing-protocol
 	url = ../external/google-tv-pairing-protocol
@@ -775,6 +790,9 @@
 [submodule "external/okhttp"]
 	path = external/okhttp
 	url = ../external/okhttp
+[submodule "external/one-true-awk"]
+	path = external/one-true-awk
+	url = ../external/one-true-awk
 [submodule "external/opencv"]
 	path = external/opencv
 	url = ../external/opencv
@@ -814,9 +832,6 @@
 [submodule "external/python/cpython3"]
 	path = external/python/cpython3
 	url = ../external/python/cpython3
-[submodule "external/r8"]
-	path = external/r8
-	url = ../external/r8
 [submodule "external/regex-re2"]
 	path = external/regex-re2
 	url = ../external/regex-re2
@@ -907,6 +922,9 @@
 [submodule "external/tcpdump"]
 	path = external/tcpdump
 	url = ../external/tcpdump
+[submodule "external/tensorflow"]
+	path = external/tensorflow
+	url = ../external/tensorflow
 [submodule "external/testng"]
 	path = external/testng
 	url = ../external/testng
@@ -1405,12 +1423,12 @@
 [submodule "packages/apps/QuickSearchBox"]
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
-[submodule "packages/apps/RetailDemo"]
-	path = packages/apps/RetailDemo
-	url = ../packages/apps/RetailDemo
 [submodule "packages/apps/SafetyRegulatoryInfo"]
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
+[submodule "packages/apps/SecureElement"]
+	path = packages/apps/SecureElement
+	url = ../packages/apps/SecureElement
 [submodule "packages/apps/Settings"]
 	path = packages/apps/Settings
 	url = ../packages/apps/Settings
@@ -1633,6 +1651,9 @@
 [submodule "prebuilts/maven_repo/bumptech"]
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
+[submodule "prebuilts/maven_repo/google-play-service-client-libraries-3p"]
+	path = prebuilts/maven_repo/google-play-service-client-libraries-3p
+	url = ../prebuilts/maven_repo/google-play-service-client-libraries-3p
 [submodule "prebuilts/misc"]
 	path = prebuilts/misc
 	url = ../prebuilts/misc
@@ -1750,6 +1771,9 @@
 [submodule "test/framework"]
 	path = test/framework
 	url = ../test/framework
+[submodule "test/sts"]
+	path = test/sts
+	url = ../test/sts
 [submodule "test/vti/alert"]
 	path = test/vti/alert
 	url = ../test/vti/alert
@@ -1774,6 +1798,9 @@
 [submodule "test/vts-testcase/kernel"]
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
+[submodule "test/vts-testcase/nbu"]
+	path = test/vts-testcase/nbu
+	url = ../test/vts-testcase/nbu
 [submodule "test/vts-testcase/performance"]
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
