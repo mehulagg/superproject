@@ -1,174 +1,117 @@
 [submodule "external/adt-infra"]
-	branch = emu-2.6-release
 	path = external/adt-infra
 	url = ../external/adt-infra
 [submodule "external/angle"]
-	branch = emu-2.6-release
 	path = external/angle
 	url = ../external/angle
 [submodule "external/google-benchmark"]
-	branch = emu-2.6-release
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "external/gtest"]
-	branch = emu-2.6-release
 	path = external/gtest
 	url = ../external/gtest
 [submodule "external/libyuv"]
-	branch = emu-2.6-release
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "external/protobuf"]
-	branch = emu-2.6-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "external/qemu"]
-	branch = emu-2.6-release
 	path = external/qemu
 	url = ../external/qemu
 [submodule "external/tinyobjloader"]
-	branch = emu-2.6-release
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "frameworks/native"]
-	branch = emu-2.6-release
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "prebuilts/android-emulator-build/archive"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/archive
 	url = ../prebuilts/android-emulator-build/archive
 [submodule "prebuilts/android-emulator-build/common"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/common
 	url = ../prebuilts/android-emulator-build/common
 [submodule "prebuilts/android-emulator-build/curl"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/curl
 	url = ../prebuilts/android-emulator-build/curl
 [submodule "prebuilts/android-emulator-build/mesa-deps"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/mesa-deps
 	url = ../prebuilts/android-emulator-build/mesa-deps
 [submodule "prebuilts/android-emulator-build/mesa"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/mesa
 	url = ../prebuilts/android-emulator-build/mesa
 [submodule "prebuilts/android-emulator-build/protobuf"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/protobuf
 	url = ../prebuilts/android-emulator-build/protobuf
 [submodule "prebuilts/android-emulator-build/qemu-android-deps"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/qemu-android-deps
 	url = ../prebuilts/android-emulator-build/qemu-android-deps
 [submodule "prebuilts/android-emulator-build/qt"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/android-emulator-build/qt
 	url = ../prebuilts/android-emulator-build/qt
 [submodule "prebuilts/android-emulator"]
-	branch = emu-2.6-release
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "prebuilts/clang/darwin-x86/host/3.5"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/clang/darwin-x86/host/3.5
 	url = ../prebuilts/clang/darwin-x86/host/3.5
 [submodule "prebuilts/clang/darwin-x86/host/3.6"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/clang/darwin-x86/host/3.6
 	url = ../prebuilts/clang/darwin-x86/host/3.6
 [submodule "prebuilts/clang/darwin-x86/sdk/3.5"]
-	branch = emu-2.6-release
 	path = prebuilts/clang/darwin-x86/sdk/3.5
 	url = ../prebuilts/clang/darwin-x86/sdk/3.5
 [submodule "prebuilts/clang/host/darwin-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "prebuilts/clang/host/linux-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "prebuilts/cmake/darwin-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/cmake/darwin-x86
 	url = ../prebuilts/cmake/darwin-x86
 [submodule "prebuilts/cmake/linux-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/cmake/linux-x86
 	url = ../prebuilts/cmake/linux-x86
 [submodule "prebuilts/cmake/windows-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
-	branch = emu-2.6-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = emu-2.6-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = emu-2.6-release
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "prebuilts/ninja/darwin-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
 [submodule "prebuilts/ninja/linux-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
 [submodule "prebuilts/ninja/windows-x86"]
-	branch = emu-2.6-release
-	shallow = true
 	path = prebuilts/ninja/windows-x86
 	url = ../prebuilts/ninja/windows-x86
 [submodule "prebuilts/qemu-kernel"]
-	branch = emu-2.6-release
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "prebuilts/tools"]
-	branch = emu-2.6-release
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "sdk"]
-	branch = emu-2.6-release
 	path = sdk
 	url = ../sdk
 [submodule "tools/buildSrc"]
-	branch = emu-2.6-release
 	path = tools/buildSrc
 	url = ../tools/buildSrc
 [submodule "tools/emulator"]
-	branch = emu-2.6-release
 	path = tools/emulator
 	url = ../tools/emulator
 [submodule "tools/external/gradle"]
-	branch = emu-2.6-release
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "tools/gradle"]
-	branch = emu-2.6-release
 	path = tools/gradle
 	url = ../tools/gradle
