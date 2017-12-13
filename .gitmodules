@@ -1599,6 +1599,10 @@
 	branch = master
 	path = hardware/marvell/bt
 	url = ../hardware/marvell/bt
+[submodule "hardware/nxp/nfc"]
+	branch = master
+	path = hardware/nxp/nfc
+	url = ../hardware/nxp/nfc
 [submodule "hardware/qcom/audio"]
 	branch = master
 	path = hardware/qcom/audio
