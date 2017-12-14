@@ -1311,7 +1311,7 @@
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "frameworks/native"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "frameworks/opt/bitmap"]
@@ -1475,7 +1475,7 @@
 	path = hardware/intel/sensors
 	url = ../hardware/intel/sensors
 [submodule "hardware/interfaces"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "hardware/invensense"]
@@ -2190,7 +2190,7 @@
 	path = system/keymaster
 	url = ../system/keymaster
 [submodule "system/libfmq"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = system/libfmq
 	url = ../system/libfmq
 [submodule "system/libhidl"]
@@ -2198,7 +2198,7 @@
 	path = system/libhidl
 	url = ../system/libhidl
 [submodule "system/libhwbinder"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = system/libhwbinder
 	url = ../system/libhwbinder
 [submodule "system/libufdt"]
@@ -2214,7 +2214,7 @@
 	path = system/media
 	url = ../system/media
 [submodule "system/netd"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	path = system/netd
 	url = ../system/netd
 [submodule "system/nfc"]
