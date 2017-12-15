@@ -19,6 +19,9 @@
 [submodule "build/soong"]
 	path = build/soong
 	url = ../build/soong
+[submodule "compatibility/cdd"]
+	path = compatibility/cdd
+	url = ../compatibility/cdd
 [submodule "cts"]
 	path = cts
 	url = ../cts
