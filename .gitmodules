@@ -907,10 +907,6 @@
 	branch = master
 	path = external/lisa
 	url = ../external/lisa
-[submodule "external/littlemock"]
-	branch = master
-	path = external/littlemock
-	url = ../external/littlemock
 [submodule "external/lld"]
 	branch = master
 	path = external/lld
