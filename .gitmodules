@@ -924,10 +924,6 @@
 	branch = master
 	path = external/lisa
 	url = ../external/lisa
-[submodule "external/lld"]
-	branch = master
-	path = external/lld
-	url = ../external/lld
 [submodule "external/llvm"]
 	branch = master
 	path = external/llvm
