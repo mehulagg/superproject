@@ -18,6 +18,26 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "external/clang"]
+	branch = master
+	path = external/clang
+	url = ../external/clang
+[submodule "external/compiler-rt"]
+	branch = master
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "external/libcxx"]
+	branch = master
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "external/libcxxabi"]
+	branch = master
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "external/llvm"]
+	branch = master
+	path = external/llvm
+	url = ../external/llvm
 [submodule "external/ninja"]
 	branch = master
 	path = external/ninja
