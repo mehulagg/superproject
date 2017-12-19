@@ -2503,6 +2503,10 @@
 	branch = master
 	path = toolchain/prebuilts/ndk/r16
 	url = ../../toolchain/prebuilts/ndk/r16
+[submodule "tools/acloud"]
+	branch = master
+	path = tools/acloud
+	url = ../tools/acloud
 [submodule "tools/apksig"]
 	branch = master
 	path = tools/apksig
