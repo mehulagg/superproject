@@ -2468,6 +2468,10 @@
 	branch = master
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "tools/acloud"]
+	branch = master
+	path = tools/acloud
+	url = ../tools/acloud
 [submodule "tools/apksig"]
 	branch = master
 	path = tools/apksig
