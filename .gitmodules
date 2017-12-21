@@ -1331,10 +1331,6 @@
 	branch = master
 	path = external/xmlrpcpp
 	url = ../external/xmlrpcpp
-[submodule "external/xmlwriter"]
-	branch = master
-	path = external/xmlwriter
-	url = ../external/xmlwriter
 [submodule "external/xmp_toolkit"]
 	branch = master
 	path = external/xmp_toolkit
