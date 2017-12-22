@@ -1100,6 +1100,10 @@
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "external/puffin"]
+	branch = master
+	path = external/puffin
+	url = ../external/puffin
 [submodule "external/python/cpython2"]
 	branch = master
 	path = external/python/cpython2
