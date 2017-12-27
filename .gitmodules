@@ -1363,6 +1363,10 @@
 	branch = refs/tags/android-cts-8.1_r1
 	path = frameworks/ex
 	url = ../frameworks/ex
+[submodule "frameworks/hardware/interfaces"]
+	branch = refs/tags/android-cts-8.1_r1
+	path = frameworks/hardware/interfaces
+	url = ../frameworks/hardware/interfaces
 [submodule "frameworks/layoutlib"]
 	branch = refs/tags/android-cts-8.1_r1
 	path = frameworks/layoutlib
@@ -1548,7 +1552,7 @@
 	path = hardware/intel/sensors
 	url = ../hardware/intel/sensors
 [submodule "hardware/interfaces"]
-	branch = refs/tags/android-vts-8.1_rc2
+	branch = refs/tags/android-cts-8.1_r1
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "hardware/invensense"]
