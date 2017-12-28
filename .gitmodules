@@ -1087,6 +1087,18 @@
 	branch = master
 	path = external/puffin
 	url = ../external/puffin
+[submodule "external/python/Pillow"]
+	branch = master
+	path = external/python/Pillow
+	url = ../external/python/Pillow
+[submodule "external/python/appdirs"]
+	branch = master
+	path = external/python/appdirs
+	url = ../external/python/appdirs
+[submodule "external/python/cachetools"]
+	branch = master
+	path = external/python/cachetools
+	url = ../external/python/cachetools
 [submodule "external/python/cpython2"]
 	branch = master
 	path = external/python/cpython2
@@ -1095,6 +1107,142 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "external/python/dill"]
+	branch = master
+	path = external/python/dill
+	url = ../external/python/dill
+[submodule "external/python/enum"]
+	branch = master
+	path = external/python/enum
+	url = ../external/python/enum
+[submodule "external/python/enum34"]
+	branch = master
+	path = external/python/enum34
+	url = ../external/python/enum34
+[submodule "external/python/future"]
+	branch = master
+	path = external/python/future
+	url = ../external/python/future
+[submodule "external/python/futures"]
+	branch = master
+	path = external/python/futures
+	url = ../external/python/futures
+[submodule "external/python/gapic-google-cloud-pubsub-v1"]
+	branch = master
+	path = external/python/gapic-google-cloud-pubsub-v1
+	url = ../external/python/gapic-google-cloud-pubsub-v1
+[submodule "external/python/google-api-python-client"]
+	branch = master
+	path = external/python/google-api-python-client
+	url = ../external/python/google-api-python-client
+[submodule "external/python/google-auth-httplib2"]
+	branch = master
+	path = external/python/google-auth-httplib2
+	url = ../external/python/google-auth-httplib2
+[submodule "external/python/google-auth"]
+	branch = master
+	path = external/python/google-auth
+	url = ../external/python/google-auth
+[submodule "external/python/google-cloud-core"]
+	branch = master
+	path = external/python/google-cloud-core
+	url = ../external/python/google-cloud-core
+[submodule "external/python/google-cloud-pubsub"]
+	branch = master
+	path = external/python/google-cloud-pubsub
+	url = ../external/python/google-cloud-pubsub
+[submodule "external/python/google-gax"]
+	branch = master
+	path = external/python/google-gax
+	url = ../external/python/google-gax
+[submodule "external/python/googleapis"]
+	branch = master
+	path = external/python/googleapis
+	url = ../external/python/googleapis
+[submodule "external/python/grpc-google-iam-v1"]
+	branch = master
+	path = external/python/grpc-google-iam-v1
+	url = ../external/python/grpc-google-iam-v1
+[submodule "external/python/grpcio"]
+	branch = master
+	path = external/python/grpcio
+	url = ../external/python/grpcio
+[submodule "external/python/httplib2"]
+	branch = master
+	path = external/python/httplib2
+	url = ../external/python/httplib2
+[submodule "external/python/matplotlib"]
+	branch = master
+	path = external/python/matplotlib
+	url = ../external/python/matplotlib
+[submodule "external/python/numpy"]
+	branch = master
+	path = external/python/numpy
+	url = ../external/python/numpy
+[submodule "external/python/oauth2client"]
+	branch = master
+	path = external/python/oauth2client
+	url = ../external/python/oauth2client
+[submodule "external/python/olefile"]
+	branch = master
+	path = external/python/olefile
+	url = ../external/python/olefile
+[submodule "external/python/packaging"]
+	branch = master
+	path = external/python/packaging
+	url = ../external/python/packaging
+[submodule "external/python/parse"]
+	branch = master
+	path = external/python/parse
+	url = ../external/python/parse
+[submodule "external/python/ply"]
+	branch = master
+	path = external/python/ply
+	url = ../external/python/ply
+[submodule "external/python/proto-google-cloud-pubsub-v1"]
+	branch = master
+	path = external/python/proto-google-cloud-pubsub-v1
+	url = ../external/python/proto-google-cloud-pubsub-v1
+[submodule "external/python/protobuf"]
+	branch = master
+	path = external/python/protobuf
+	url = ../external/python/protobuf
+[submodule "external/python/pyasn1-modules"]
+	branch = master
+	path = external/python/pyasn1-modules
+	url = ../external/python/pyasn1-modules
+[submodule "external/python/pyasn1"]
+	branch = master
+	path = external/python/pyasn1
+	url = ../external/python/pyasn1
+[submodule "external/python/pyparsing"]
+	branch = master
+	path = external/python/pyparsing
+	url = ../external/python/pyparsing
+[submodule "external/python/requests"]
+	branch = master
+	path = external/python/requests
+	url = ../external/python/requests
+[submodule "external/python/rsa"]
+	branch = master
+	path = external/python/rsa
+	url = ../external/python/rsa
+[submodule "external/python/scipy"]
+	branch = master
+	path = external/python/scipy
+	url = ../external/python/scipy
+[submodule "external/python/setuptools"]
+	branch = master
+	path = external/python/setuptools
+	url = ../external/python/setuptools
+[submodule "external/python/six"]
+	branch = master
+	path = external/python/six
+	url = ../external/python/six
+[submodule "external/python/uritemplates"]
+	branch = master
+	path = external/python/uritemplates
+	url = ../external/python/uritemplates
 [submodule "external/regex-re2"]
 	branch = master
 	path = external/regex-re2
