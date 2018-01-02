@@ -1559,10 +1559,6 @@
 	branch = master
 	path = frameworks/opt/bitmap
 	url = ../frameworks/opt/bitmap
-[submodule "frameworks/opt/bluetooth"]
-	branch = master
-	path = frameworks/opt/bluetooth
-	url = ../frameworks/opt/bluetooth
 [submodule "frameworks/opt/calendar"]
 	branch = master
 	path = frameworks/opt/calendar
