@@ -1260,10 +1260,6 @@
 	branch = master
 	path = external/python/uritemplates
 	url = ../external/python/uritemplates
-[submodule "external/regex-re2"]
-	branch = master
-	path = external/regex-re2
-	url = ../external/regex-re2
 [submodule "external/replicaisland"]
 	branch = master
 	path = external/replicaisland
