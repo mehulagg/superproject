@@ -1,2417 +1,1776 @@
 [submodule "art"]
-	branch = oreo-mr1-cts-release
 	path = art
 	url = ../art
 [submodule "bionic"]
-	branch = oreo-mr1-cts-release
 	path = bionic
 	url = ../bionic
 [submodule "bootable/recovery"]
-	branch = oreo-mr1-cts-release
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "build/blueprint"]
-	branch = oreo-mr1-cts-release
 	path = build/blueprint
 	url = ../build/blueprint
 [submodule "build/kati"]
-	branch = oreo-mr1-cts-release
 	path = build/kati
 	url = ../build/kati
 [submodule "build/make"]
-	branch = oreo-mr1-cts-release
 	path = build/make
 	url = ../build
 [submodule "build/soong"]
-	branch = oreo-mr1-cts-release
 	path = build/soong
 	url = ../build/soong
 [submodule "compatibility/cdd"]
-	branch = oreo-mr1-cts-release
 	path = compatibility/cdd
 	url = ../compatibility/cdd
 [submodule "cts"]
-	branch = oreo-mr1-cts-release
 	path = cts
 	url = ../cts
 [submodule "dalvik"]
-	branch = oreo-mr1-cts-release
 	path = dalvik
 	url = ../dalvik
 [submodule "developers/build"]
-	branch = oreo-mr1-cts-release
 	path = developers/build
 	url = ../developers/build
 [submodule "developers/demos"]
-	branch = oreo-mr1-cts-release
 	path = developers/demos
 	url = ../developers/demos
 [submodule "developers/samples/android"]
-	branch = oreo-mr1-cts-release
 	path = developers/samples/android
 	url = ../developers/samples/android
 [submodule "development"]
-	branch = oreo-mr1-cts-release
 	path = development
 	url = ../development
 [submodule "device/asus/fugu-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/asus/fugu-kernel
 	url = ../../device/asus/fugu-kernel
 [submodule "device/asus/fugu"]
-	branch = oreo-mr1-cts-release
 	path = device/asus/fugu
 	url = ../../device/asus/fugu
 [submodule "device/common"]
-	branch = oreo-mr1-cts-release
 	path = device/common
 	url = ../../device/common
 [submodule "device/generic/arm64"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/arm64
 	url = ../../device/generic/arm64
 [submodule "device/generic/armv7-a-neon"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/armv7-a-neon
 	url = ../../device/generic/armv7-a-neon
 [submodule "device/generic/car"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/car
 	url = ../../device/generic/car
 [submodule "device/generic/common"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/common
 	url = ../../device/generic/common
 [submodule "device/generic/goldfish-opengl"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/goldfish"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/goldfish
 	url = ../../device/generic/goldfish
 [submodule "device/generic/mini-emulator-arm64"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mini-emulator-arm64
 	url = ../../device/generic/mini-emulator-arm64
 [submodule "device/generic/mini-emulator-armv7-a-neon"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mini-emulator-armv7-a-neon
 	url = ../../device/generic/mini-emulator-armv7-a-neon
 [submodule "device/generic/mini-emulator-mips"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mini-emulator-mips
 	url = ../../device/generic/mini-emulator-mips
 [submodule "device/generic/mini-emulator-mips64"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mini-emulator-mips64
 	url = ../../device/generic/mini-emulator-mips64
 [submodule "device/generic/mini-emulator-x86"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mini-emulator-x86
 	url = ../../device/generic/mini-emulator-x86
 [submodule "device/generic/mini-emulator-x86_64"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
 [submodule "device/generic/mips"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mips
 	url = ../../device/generic/mips
 [submodule "device/generic/mips64"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/mips64
 	url = ../../device/generic/mips64
 [submodule "device/generic/qemu"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/qemu
 	url = ../../device/generic/qemu
 [submodule "device/generic/uml"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/uml
 	url = ../../device/generic/uml
 [submodule "device/generic/x86"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/x86
 	url = ../../device/generic/x86
 [submodule "device/generic/x86_64"]
-	branch = oreo-mr1-cts-release
 	path = device/generic/x86_64
 	url = ../../device/generic/x86_64
 [submodule "device/google/accessory/arduino"]
-	branch = oreo-mr1-cts-release
 	path = device/google/accessory/arduino
 	url = ../../device/google/accessory/arduino
 [submodule "device/google/accessory/demokit"]
-	branch = oreo-mr1-cts-release
 	path = device/google/accessory/demokit
 	url = ../../device/google/accessory/demokit
 [submodule "device/google/atv"]
-	branch = oreo-mr1-cts-release
 	path = device/google/atv
 	url = ../../device/google/atv
 [submodule "device/google/contexthub"]
-	branch = oreo-mr1-cts-release
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
 [submodule "device/google/dragon-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/google/dragon-kernel
 	url = ../../device/google/dragon-kernel
 [submodule "device/google/dragon"]
-	branch = oreo-mr1-cts-release
 	path = device/google/dragon
 	url = ../../device/google/dragon
 [submodule "device/google/marlin-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/google/marlin-kernel
 	url = ../../device/google/marlin-kernel
 [submodule "device/google/marlin"]
-	branch = oreo-mr1-cts-release
 	path = device/google/marlin
 	url = ../../device/google/marlin
 [submodule "device/google/muskie"]
-	branch = oreo-mr1-cts-release
 	path = device/google/muskie
 	url = ../../device/google/muskie
 [submodule "device/google/taimen"]
-	branch = oreo-mr1-cts-release
 	path = device/google/taimen
 	url = ../../device/google/taimen
 [submodule "device/google/vrservices"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
 [submodule "device/google/wahoo-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/google/wahoo-kernel
 	url = ../../device/google/wahoo-kernel
 [submodule "device/google/wahoo"]
-	branch = oreo-mr1-cts-release
 	path = device/google/wahoo
 	url = ../../device/google/wahoo
 [submodule "device/huawei/angler-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/huawei/angler-kernel
 	url = ../../device/huawei/angler-kernel
 [submodule "device/huawei/angler"]
-	branch = oreo-mr1-cts-release
 	path = device/huawei/angler
 	url = ../../device/huawei/angler
 [submodule "device/lge/bullhead-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/lge/bullhead-kernel
 	url = ../../device/lge/bullhead-kernel
 [submodule "device/lge/bullhead"]
-	branch = oreo-mr1-cts-release
 	path = device/lge/bullhead
 	url = ../../device/lge/bullhead
 [submodule "device/linaro/bootloader/OpenPlatformPkg"]
-	branch = oreo-mr1-cts-release
 	path = device/linaro/bootloader/OpenPlatformPkg
 	url = ../../device/linaro/bootloader/OpenPlatformPkg
 [submodule "device/linaro/bootloader/arm-trusted-firmware"]
-	branch = oreo-mr1-cts-release
 	path = device/linaro/bootloader/arm-trusted-firmware
 	url = ../../device/linaro/bootloader/arm-trusted-firmware
 [submodule "device/linaro/bootloader/edk2"]
-	branch = oreo-mr1-cts-release
 	path = device/linaro/bootloader/edk2
 	url = ../../device/linaro/bootloader/edk2
 [submodule "device/linaro/hikey-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = device/linaro/hikey-kernel
 	url = ../../device/linaro/hikey-kernel
 [submodule "device/linaro/hikey"]
-	branch = oreo-mr1-cts-release
 	path = device/linaro/hikey
 	url = ../../device/linaro/hikey
 [submodule "device/sample"]
-	branch = oreo-mr1-cts-release
 	path = device/sample
 	url = ../../device/sample
 [submodule "docs/source.android.com"]
-	branch = oreo-mr1-cts-release
 	path = docs/source.android.com
 	url = ../docs/source.android.com
 [submodule "external/ImageMagick"]
-	branch = oreo-mr1-cts-release
 	path = external/ImageMagick
 	url = ../external/ImageMagick
 [submodule "external/Microsoft-GSL"]
-	branch = oreo-mr1-cts-release
 	path = external/Microsoft-GSL
 	url = ../external/Microsoft-GSL
 [submodule "external/aac"]
-	branch = oreo-mr1-cts-release
 	path = external/aac
 	url = ../external/aac
 [submodule "external/abi-compliance-checker"]
-	branch = oreo-mr1-cts-release
 	path = external/abi-compliance-checker
 	url = ../external/abi-compliance-checker
 [submodule "external/abi-dumper"]
-	branch = oreo-mr1-cts-release
 	path = external/abi-dumper
 	url = ../external/abi-dumper
 [submodule "external/android-clat"]
-	branch = oreo-mr1-cts-release
 	path = external/android-clat
 	url = ../external/android-clat
 [submodule "external/androidplot"]
-	branch = oreo-mr1-cts-release
 	path = external/androidplot
 	url = ../external/androidplot
 [submodule "external/ant-glob"]
-	branch = oreo-mr1-cts-release
 	path = external/ant-glob
 	url = ../external/ant-glob
 [submodule "external/antlr"]
-	branch = oreo-mr1-cts-release
 	path = external/antlr
 	url = ../external/antlr
 [submodule "external/apache-commons-math"]
-	branch = oreo-mr1-cts-release
 	path = external/apache-commons-math
 	url = ../external/apache-commons-math
 [submodule "external/apache-harmony"]
-	branch = oreo-mr1-cts-release
 	path = external/apache-harmony
 	url = ../external/apache-harmony
 [submodule "external/apache-http"]
-	branch = oreo-mr1-cts-release
 	path = external/apache-http
 	url = ../external/apache-http
 [submodule "external/apache-xml"]
-	branch = oreo-mr1-cts-release
 	path = external/apache-xml
 	url = ../external/apache-xml
 [submodule "external/archive-patcher"]
-	branch = oreo-mr1-cts-release
 	path = external/archive-patcher
 	url = ../external/archive-patcher
 [submodule "external/arm-neon-tests"]
-	branch = oreo-mr1-cts-release
 	path = external/arm-neon-tests
 	url = ../external/arm-neon-tests
 [submodule "external/autotest"]
-	branch = oreo-mr1-cts-release
 	path = external/autotest
 	url = ../external/autotest
 [submodule "external/avb"]
-	branch = oreo-mr1-cts-release
 	path = external/avb
 	url = ../external/avb
 [submodule "external/bart"]
-	branch = oreo-mr1-cts-release
 	path = external/bart
 	url = ../external/bart
 [submodule "external/bison"]
-	branch = oreo-mr1-cts-release
 	path = external/bison
 	url = ../external/bison
 [submodule "external/blktrace"]
-	branch = oreo-mr1-cts-release
 	path = external/blktrace
 	url = ../external/blktrace
 [submodule "external/boringssl"]
-	branch = oreo-mr1-cts-release
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "external/bouncycastle"]
-	branch = oreo-mr1-cts-release
 	path = external/bouncycastle
 	url = ../external/bouncycastle
 [submodule "external/brotli"]
-	branch = oreo-mr1-cts-release
 	path = external/brotli
 	url = ../external/brotli
 [submodule "external/bsdiff"]
-	branch = oreo-mr1-cts-release
 	path = external/bsdiff
 	url = ../external/bsdiff
 [submodule "external/bzip2"]
-	branch = oreo-mr1-cts-release
 	path = external/bzip2
 	url = ../external/bzip2
 [submodule "external/c-ares"]
-	branch = oreo-mr1-cts-release
 	path = external/c-ares
 	url = ../external/c-ares
 [submodule "external/caliper"]
-	branch = oreo-mr1-cts-release
 	path = external/caliper
 	url = ../external/caliper
 [submodule "external/cblas"]
-	branch = oreo-mr1-cts-release
 	path = external/cblas
 	url = ../external/cblas
 [submodule "external/chromium-libpac"]
-	branch = oreo-mr1-cts-release
 	path = external/chromium-libpac
 	url = ../external/chromium-libpac
 [submodule "external/chromium-trace"]
-	branch = oreo-mr1-cts-release
 	path = external/chromium-trace
 	url = ../external/chromium-trace
 [submodule "external/chromium-webview"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = external/chromium-webview
 	url = ../external/chromium-webview
 [submodule "external/clang"]
-	branch = oreo-mr1-cts-release
 	path = external/clang
 	url = ../external/clang
 [submodule "external/cmockery"]
-	branch = oreo-mr1-cts-release
 	path = external/cmockery
 	url = ../external/cmockery
 [submodule "external/compiler-rt"]
-	branch = oreo-mr1-cts-release
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "external/conscrypt"]
-	branch = oreo-mr1-cts-release
 	path = external/conscrypt
 	url = ../external/conscrypt
 [submodule "external/crcalc"]
-	branch = oreo-mr1-cts-release
 	path = external/crcalc
 	url = ../external/crcalc
 [submodule "external/cros/system_api"]
-	branch = oreo-mr1-cts-release
 	path = external/cros/system_api
 	url = ../external/cros/system_api
 [submodule "external/curl"]
-	branch = oreo-mr1-cts-release
 	path = external/curl
 	url = ../external/curl
 [submodule "external/dagger2"]
-	branch = oreo-mr1-cts-release
 	path = external/dagger2
 	url = ../external/dagger2
 [submodule "external/deqp"]
-	branch = oreo-mr1-cts-release
 	path = external/deqp
 	url = ../external/deqp
 [submodule "external/desugar"]
-	branch = oreo-mr1-cts-release
 	path = external/desugar
 	url = ../external/desugar
 [submodule "external/devlib"]
-	branch = oreo-mr1-cts-release
 	path = external/devlib
 	url = ../external/devlib
 [submodule "external/dexmaker"]
-	branch = oreo-mr1-cts-release
 	path = external/dexmaker
 	url = ../external/dexmaker
 [submodule "external/dhcpcd-6.8.2"]
-	branch = oreo-mr1-cts-release
 	path = external/dhcpcd-6.8.2
 	url = ../external/dhcpcd-6.8.2
 [submodule "external/dlmalloc"]
-	branch = oreo-mr1-cts-release
 	path = external/dlmalloc
 	url = ../external/dlmalloc
 [submodule "external/dng_sdk"]
-	branch = oreo-mr1-cts-release
 	path = external/dng_sdk
 	url = ../external/dng_sdk
 [submodule "external/dnsmasq"]
-	branch = oreo-mr1-cts-release
 	path = external/dnsmasq
 	url = ../external/dnsmasq
 [submodule "external/doclava"]
-	branch = oreo-mr1-cts-release
 	path = external/doclava
 	url = ../external/doclava
 [submodule "external/donuts"]
-	branch = oreo-mr1-cts-release
 	path = external/donuts
 	url = ../external/donuts
 [submodule "external/drm_hwcomposer"]
-	branch = oreo-mr1-cts-release
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
 [submodule "external/droiddriver"]
-	branch = oreo-mr1-cts-release
 	path = external/droiddriver
 	url = ../external/droiddriver
 [submodule "external/drrickorang"]
-	branch = oreo-mr1-cts-release
 	path = external/drrickorang
 	url = ../external/drrickorang
 [submodule "external/dtc"]
-	branch = oreo-mr1-cts-release
 	path = external/dtc
 	url = ../external/dtc
 [submodule "external/e2fsprogs"]
-	branch = oreo-mr1-cts-release
 	path = external/e2fsprogs
 	url = ../external/e2fsprogs
 [submodule "external/easymock"]
-	branch = oreo-mr1-cts-release
 	path = external/easymock
 	url = ../external/easymock
 [submodule "external/eigen"]
-	branch = oreo-mr1-cts-release
 	path = external/eigen
 	url = ../external/eigen
 [submodule "external/elfutils"]
-	branch = oreo-mr1-cts-release
 	path = external/elfutils
 	url = ../external/elfutils
 [submodule "external/emma"]
-	branch = oreo-mr1-cts-release
 	path = external/emma
 	url = ../external/emma
 [submodule "external/esd"]
-	branch = oreo-mr1-cts-release
 	path = external/esd
 	url = ../external/esd
 [submodule "external/expat"]
-	branch = oreo-mr1-cts-release
 	path = external/expat
 	url = ../external/expat
 [submodule "external/eyes-free"]
-	branch = oreo-mr1-cts-release
 	path = external/eyes-free
 	url = ../external/eyes-free
 [submodule "external/f2fs-tools"]
-	branch = oreo-mr1-cts-release
 	path = external/f2fs-tools
 	url = ../external/f2fs-tools
 [submodule "external/fdlibm"]
-	branch = oreo-mr1-cts-release
 	path = external/fdlibm
 	url = ../external/fdlibm
 [submodule "external/fec"]
-	branch = oreo-mr1-cts-release
 	path = external/fec
 	url = ../external/fec
 [submodule "external/fio"]
-	branch = oreo-mr1-cts-release
 	path = external/fio
 	url = ../external/fio
 [submodule "external/flac"]
-	branch = oreo-mr1-cts-release
 	path = external/flac
 	url = ../external/flac
 [submodule "external/flatbuffers"]
-	branch = oreo-mr1-cts-release
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "external/fmtlib"]
-	branch = oreo-mr1-cts-release
 	path = external/fmtlib
 	url = ../external/fmtlib
 [submodule "external/fonttools"]
-	branch = oreo-mr1-cts-release
 	path = external/fonttools
 	url = ../external/fonttools
 [submodule "external/freetype"]
-	branch = oreo-mr1-cts-release
 	path = external/freetype
 	url = ../external/freetype
 [submodule "external/fsck_msdos"]
-	branch = oreo-mr1-cts-release
 	path = external/fsck_msdos
 	url = ../external/fsck_msdos
 [submodule "external/gemmlowp"]
-	branch = oreo-mr1-cts-release
 	path = external/gemmlowp
 	url = ../external/gemmlowp
 [submodule "external/giflib"]
-	branch = oreo-mr1-cts-release
 	path = external/giflib
 	url = ../external/giflib
 [submodule "external/glide"]
-	branch = oreo-mr1-cts-release
 	path = external/glide
 	url = ../external/glide
 [submodule "external/google-api-services-storage"]
-	branch = oreo-mr1-cts-release
 	path = external/google-api-services-storage
 	url = ../external/google-api-services-storage
 [submodule "external/google-benchmark"]
-	branch = oreo-mr1-cts-release
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "external/google-breakpad"]
-	branch = oreo-mr1-cts-release
 	path = external/google-breakpad
 	url = ../external/google-breakpad
 [submodule "external/google-fonts/carrois-gothic-sc"]
-	branch = oreo-mr1-cts-release
 	path = external/google-fonts/carrois-gothic-sc
 	url = ../external/google-fonts/carrois-gothic-sc
 [submodule "external/google-fonts/coming-soon"]
-	branch = oreo-mr1-cts-release
 	path = external/google-fonts/coming-soon
 	url = ../external/google-fonts/coming-soon
 [submodule "external/google-fonts/cutive-mono"]
-	branch = oreo-mr1-cts-release
 	path = external/google-fonts/cutive-mono
 	url = ../external/google-fonts/cutive-mono
 [submodule "external/google-fonts/dancing-script"]
-	branch = oreo-mr1-cts-release
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
 [submodule "external/google-tv-pairing-protocol"]
-	branch = oreo-mr1-cts-release
 	path = external/google-tv-pairing-protocol
 	url = ../external/google-tv-pairing-protocol
 [submodule "external/googletest"]
-	branch = oreo-mr1-cts-release
 	path = external/googletest
 	url = ../external/googletest
 [submodule "external/gptfdisk"]
-	branch = oreo-mr1-cts-release
 	path = external/gptfdisk
 	url = ../external/gptfdisk
 [submodule "external/guava"]
-	branch = oreo-mr1-cts-release
 	path = external/guava
 	url = ../external/guava
 [submodule "external/guice"]
-	branch = oreo-mr1-cts-release
 	path = external/guice
 	url = ../external/guice
 [submodule "external/hamcrest"]
-	branch = oreo-mr1-cts-release
 	path = external/hamcrest
 	url = ../external/hamcrest
 [submodule "external/harfbuzz_ng"]
-	branch = oreo-mr1-cts-release
 	path = external/harfbuzz_ng
 	url = ../external/harfbuzz_ng
 [submodule "external/hyphenation-patterns"]
-	branch = oreo-mr1-cts-release
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
 [submodule "external/icu"]
-	branch = oreo-mr1-cts-release
 	path = external/icu
 	url = ../external/icu
 [submodule "external/ims"]
-	branch = oreo-mr1-cts-release
 	path = external/ims
 	url = ../external/ims
 [submodule "external/iproute2"]
-	branch = oreo-mr1-cts-release
 	path = external/iproute2
 	url = ../external/iproute2
 [submodule "external/ipsec-tools"]
-	branch = oreo-mr1-cts-release
 	path = external/ipsec-tools
 	url = ../external/ipsec-tools
 [submodule "external/iptables"]
-	branch = oreo-mr1-cts-release
 	path = external/iptables
 	url = ../external/iptables
 [submodule "external/iputils"]
-	branch = oreo-mr1-cts-release
 	path = external/iputils
 	url = ../external/iputils
 [submodule "external/iw"]
-	branch = oreo-mr1-cts-release
 	path = external/iw
 	url = ../external/iw
 [submodule "external/jacoco"]
-	branch = oreo-mr1-cts-release
 	path = external/jacoco
 	url = ../external/jacoco
 [submodule "external/jarjar"]
-	branch = oreo-mr1-cts-release
 	path = external/jarjar
 	url = ../external/jarjar
 [submodule "external/javasqlite"]
-	branch = oreo-mr1-cts-release
 	path = external/javasqlite
 	url = ../external/javasqlite
 [submodule "external/javassist"]
-	branch = oreo-mr1-cts-release
 	path = external/javassist
 	url = ../external/javassist
 [submodule "external/jcommander"]
-	branch = oreo-mr1-cts-release
 	path = external/jcommander
 	url = ../external/jcommander
 [submodule "external/jdiff"]
-	branch = oreo-mr1-cts-release
 	path = external/jdiff
 	url = ../external/jdiff
 [submodule "external/jemalloc"]
-	branch = oreo-mr1-cts-release
 	path = external/jemalloc
 	url = ../external/jemalloc
 [submodule "external/jline"]
-	branch = oreo-mr1-cts-release
 	path = external/jline
 	url = ../external/jline
 [submodule "external/jmdns"]
-	branch = oreo-mr1-cts-release
 	path = external/jmdns
 	url = ../external/jmdns
 [submodule "external/jsilver"]
-	branch = oreo-mr1-cts-release
 	path = external/jsilver
 	url = ../external/jsilver
 [submodule "external/jsmn"]
-	branch = oreo-mr1-cts-release
 	path = external/jsmn
 	url = ../external/jsmn
 [submodule "external/jsoncpp"]
-	branch = oreo-mr1-cts-release
 	path = external/jsoncpp
 	url = ../external/jsoncpp
 [submodule "external/jsr305"]
-	branch = oreo-mr1-cts-release
 	path = external/jsr305
 	url = ../external/jsr305
 [submodule "external/jsr330"]
-	branch = oreo-mr1-cts-release
 	path = external/jsr330
 	url = ../external/jsr330
 [submodule "external/junit-params"]
-	branch = oreo-mr1-cts-release
 	path = external/junit-params
 	url = ../external/junit-params
 [submodule "external/junit"]
-	branch = oreo-mr1-cts-release
 	path = external/junit
 	url = ../external/junit
 [submodule "external/kernel-headers"]
-	branch = oreo-mr1-cts-release
 	path = external/kernel-headers
 	url = ../external/kernel-headers
 [submodule "external/kmod"]
-	branch = oreo-mr1-cts-release
 	path = external/kmod
 	url = ../external/kmod
 [submodule "external/ksoap2"]
-	branch = oreo-mr1-cts-release
 	path = external/ksoap2
 	url = ../external/ksoap2
 [submodule "external/libavc"]
-	branch = oreo-mr1-cts-release
 	path = external/libavc
 	url = ../external/libavc
 [submodule "external/libbackup"]
-	branch = oreo-mr1-cts-release
 	path = external/libbackup
 	url = ../external/libbackup
 [submodule "external/libbrillo"]
-	branch = oreo-mr1-cts-release
 	path = external/libbrillo
 	url = ../external/libbrillo
 [submodule "external/libcap-ng"]
-	branch = oreo-mr1-cts-release
 	path = external/libcap-ng
 	url = ../external/libcap-ng
 [submodule "external/libcap"]
-	branch = oreo-mr1-cts-release
 	path = external/libcap
 	url = ../external/libcap
 [submodule "external/libchrome"]
-	branch = oreo-mr1-cts-release
 	path = external/libchrome
 	url = ../external/libchrome
 [submodule "external/libconstrainedcrypto"]
-	branch = oreo-mr1-cts-release
 	path = external/libconstrainedcrypto
 	url = ../external/libconstrainedcrypto
 [submodule "external/libcups"]
-	branch = oreo-mr1-cts-release
 	path = external/libcups
 	url = ../external/libcups
 [submodule "external/libcxx"]
-	branch = oreo-mr1-cts-release
 	path = external/libcxx
 	url = ../external/libcxx
 [submodule "external/libcxxabi"]
-	branch = oreo-mr1-cts-release
 	path = external/libcxxabi
 	url = ../external/libcxxabi
 [submodule "external/libdaemon"]
-	branch = oreo-mr1-cts-release
 	path = external/libdaemon
 	url = ../external/libdaemon
 [submodule "external/libdivsufsort"]
-	branch = oreo-mr1-cts-release
 	path = external/libdivsufsort
 	url = ../external/libdivsufsort
 [submodule "external/libdrm"]
-	branch = oreo-mr1-cts-release
 	path = external/libdrm
 	url = ../external/libdrm
 [submodule "external/libedit"]
-	branch = oreo-mr1-cts-release
 	path = external/libedit
 	url = ../external/libedit
 [submodule "external/libese"]
-	branch = oreo-mr1-cts-release
 	path = external/libese
 	url = ../external/libese
 [submodule "external/libevent"]
-	branch = oreo-mr1-cts-release
 	path = external/libevent
 	url = ../external/libevent
 [submodule "external/libexif"]
-	branch = oreo-mr1-cts-release
 	path = external/libexif
 	url = ../external/libexif
 [submodule "external/libgsm"]
-	branch = oreo-mr1-cts-release
 	path = external/libgsm
 	url = ../external/libgsm
 [submodule "external/libhevc"]
-	branch = oreo-mr1-cts-release
 	path = external/libhevc
 	url = ../external/libhevc
 [submodule "external/libjpeg-turbo"]
-	branch = oreo-mr1-cts-release
 	path = external/libjpeg-turbo
 	url = ../external/libjpeg-turbo
 [submodule "external/libldac"]
-	branch = oreo-mr1-cts-release
 	path = external/libldac
 	url = ../external/libldac
 [submodule "external/liblzf"]
-	branch = oreo-mr1-cts-release
 	path = external/liblzf
 	url = ../external/liblzf
 [submodule "external/libmicrohttpd"]
-	branch = oreo-mr1-cts-release
 	path = external/libmicrohttpd
 	url = ../external/libmicrohttpd
 [submodule "external/libmojo"]
-	branch = oreo-mr1-cts-release
 	path = external/libmojo
 	url = ../external/libmojo
 [submodule "external/libmpeg2"]
-	branch = oreo-mr1-cts-release
 	path = external/libmpeg2
 	url = ../external/libmpeg2
 [submodule "external/libmtp"]
-	branch = oreo-mr1-cts-release
 	path = external/libmtp
 	url = ../external/libmtp
 [submodule "external/libnetfilter_conntrack"]
-	branch = oreo-mr1-cts-release
 	path = external/libnetfilter_conntrack
 	url = ../external/libnetfilter_conntrack
 [submodule "external/libnfnetlink"]
-	branch = oreo-mr1-cts-release
 	path = external/libnfnetlink
 	url = ../external/libnfnetlink
 [submodule "external/libnl"]
-	branch = oreo-mr1-cts-release
 	path = external/libnl
 	url = ../external/libnl
 [submodule "external/libogg"]
-	branch = oreo-mr1-cts-release
 	path = external/libogg
 	url = ../external/libogg
 [submodule "external/libopus"]
-	branch = oreo-mr1-cts-release
 	path = external/libopus
 	url = ../external/libopus
 [submodule "external/libpcap"]
-	branch = oreo-mr1-cts-release
 	path = external/libpcap
 	url = ../external/libpcap
 [submodule "external/libphonenumber"]
-	branch = oreo-mr1-cts-release
 	path = external/libphonenumber
 	url = ../external/libphonenumber
 [submodule "external/libpng"]
-	branch = oreo-mr1-cts-release
 	path = external/libpng
 	url = ../external/libpng
 [submodule "external/libtextclassifier"]
-	branch = oreo-mr1-cts-release
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
 [submodule "external/libunwind"]
-	branch = oreo-mr1-cts-release
 	path = external/libunwind
 	url = ../external/libunwind
 [submodule "external/libunwind_llvm"]
-	branch = oreo-mr1-cts-release
 	path = external/libunwind_llvm
 	url = ../external/libunwind_llvm
 [submodule "external/libusb-compat"]
-	branch = oreo-mr1-cts-release
 	path = external/libusb-compat
 	url = ../external/libusb-compat
 [submodule "external/libusb"]
-	branch = oreo-mr1-cts-release
 	path = external/libusb
 	url = ../external/libusb
 [submodule "external/libvncserver"]
-	branch = oreo-mr1-cts-release
 	path = external/libvncserver
 	url = ../external/libvncserver
 [submodule "external/libvorbis"]
-	branch = oreo-mr1-cts-release
 	path = external/libvorbis
 	url = ../external/libvorbis
 [submodule "external/libvpx"]
-	branch = oreo-mr1-cts-release
 	path = external/libvpx
 	url = ../external/libvpx
 [submodule "external/libvterm"]
-	branch = oreo-mr1-cts-release
 	path = external/libvterm
 	url = ../external/libvterm
 [submodule "external/libxml2"]
-	branch = oreo-mr1-cts-release
 	path = external/libxml2
 	url = ../external/libxml2
 [submodule "external/libyuv"]
-	branch = oreo-mr1-cts-release
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "external/linux-kselftest"]
-	branch = oreo-mr1-cts-release
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "external/lisa"]
-	branch = oreo-mr1-cts-release
 	path = external/lisa
 	url = ../external/lisa
 [submodule "external/littlemock"]
-	branch = oreo-mr1-cts-release
 	path = external/littlemock
 	url = ../external/littlemock
 [submodule "external/lld"]
-	branch = oreo-mr1-cts-release
 	path = external/lld
 	url = ../external/lld
 [submodule "external/llvm"]
-	branch = oreo-mr1-cts-release
 	path = external/llvm
 	url = ../external/llvm
 [submodule "external/lmfit"]
-	branch = oreo-mr1-cts-release
 	path = external/lmfit
 	url = ../external/lmfit
 [submodule "external/ltp"]
-	branch = oreo-mr1-cts-release
 	path = external/ltp
 	url = ../external/ltp
 [submodule "external/lz4"]
-	branch = oreo-mr1-cts-release
 	path = external/lz4
 	url = ../external/lz4
 [submodule "external/lzma"]
-	branch = oreo-mr1-cts-release
 	path = external/lzma
 	url = ../external/lzma
 [submodule "external/markdown"]
-	branch = oreo-mr1-cts-release
 	path = external/markdown
 	url = ../external/markdown
 [submodule "external/mdnsresponder"]
-	branch = oreo-mr1-cts-release
 	path = external/mdnsresponder
 	url = ../external/mdnsresponder
 [submodule "external/mesa3d"]
-	branch = oreo-mr1-cts-release
 	path = external/mesa3d
 	url = ../external/mesa3d
 [submodule "external/messageformat"]
-	branch = oreo-mr1-cts-release
 	path = external/messageformat
 	url = ../external/messageformat
 [submodule "external/minijail"]
-	branch = oreo-mr1-cts-release
 	path = external/minijail
 	url = ../external/minijail
 [submodule "external/mksh"]
-	branch = oreo-mr1-cts-release
 	path = external/mksh
 	url = ../external/mksh
 [submodule "external/mmc-utils"]
-	branch = oreo-mr1-cts-release
 	path = external/mmc-utils
 	url = ../external/mmc-utils
 [submodule "external/mockftpserver"]
-	branch = oreo-mr1-cts-release
 	path = external/mockftpserver
 	url = ../external/mockftpserver
 [submodule "external/mockito"]
-	branch = oreo-mr1-cts-release
 	path = external/mockito
 	url = ../external/mockito
 [submodule "external/mockwebserver"]
-	branch = oreo-mr1-cts-release
 	path = external/mockwebserver
 	url = ../external/mockwebserver
 [submodule "external/modp_b64"]
-	branch = oreo-mr1-cts-release
 	path = external/modp_b64
 	url = ../external/modp_b64
 [submodule "external/mp4parser"]
-	branch = oreo-mr1-cts-release
 	path = external/mp4parser
 	url = ../external/mp4parser
 [submodule "external/mtpd"]
-	branch = oreo-mr1-cts-release
 	path = external/mtpd
 	url = ../external/mtpd
 [submodule "external/nanohttpd"]
-	branch = oreo-mr1-cts-release
 	path = external/nanohttpd
 	url = ../external/nanohttpd
 [submodule "external/nanopb-c"]
-	branch = oreo-mr1-cts-release
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "external/naver-fonts"]
-	branch = oreo-mr1-cts-release
 	path = external/naver-fonts
 	url = ../external/naver-fonts
 [submodule "external/netcat"]
-	branch = oreo-mr1-cts-release
 	path = external/netcat
 	url = ../external/netcat
 [submodule "external/netperf"]
-	branch = oreo-mr1-cts-release
 	path = external/netperf
 	url = ../external/netperf
 [submodule "external/neven"]
-	branch = oreo-mr1-cts-release
 	path = external/neven
 	url = ../external/neven
 [submodule "external/nfacct"]
-	branch = oreo-mr1-cts-release
 	path = external/nfacct
 	url = ../external/nfacct
 [submodule "external/nist-pkits"]
-	branch = oreo-mr1-cts-release
 	path = external/nist-pkits
 	url = ../external/nist-pkits
 [submodule "external/nist-sip"]
-	branch = oreo-mr1-cts-release
 	path = external/nist-sip
 	url = ../external/nist-sip
 [submodule "external/noto-fonts"]
-	branch = oreo-mr1-cts-release
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "external/oauth"]
-	branch = oreo-mr1-cts-release
 	path = external/oauth
 	url = ../external/oauth
 [submodule "external/objenesis"]
-	branch = oreo-mr1-cts-release
 	path = external/objenesis
 	url = ../external/objenesis
 [submodule "external/okhttp"]
-	branch = oreo-mr1-cts-release
 	path = external/okhttp
 	url = ../external/okhttp
 [submodule "external/opencv"]
-	branch = oreo-mr1-cts-release
 	path = external/opencv
 	url = ../external/opencv
 [submodule "external/openssh"]
-	branch = oreo-mr1-cts-release
 	path = external/openssh
 	url = ../external/openssh
 [submodule "external/owasp/sanitizer"]
-	branch = oreo-mr1-cts-release
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
 [submodule "external/parameter-framework"]
-	branch = oreo-mr1-cts-release
 	path = external/parameter-framework
 	url = ../external/parameter-framework
 [submodule "external/pcre"]
-	branch = oreo-mr1-cts-release
 	path = external/pcre
 	url = ../external/pcre
 [submodule "external/pdfium"]
-	branch = oreo-mr1-cts-release
 	path = external/pdfium
 	url = ../external/pdfium
 [submodule "external/piex"]
-	branch = oreo-mr1-cts-release
 	path = external/piex
 	url = ../external/piex
 [submodule "external/ply"]
-	branch = oreo-mr1-cts-release
 	path = external/ply
 	url = ../external/ply
 [submodule "external/ppp"]
-	branch = oreo-mr1-cts-release
 	path = external/ppp
 	url = ../external/ppp
 [submodule "external/proguard"]
-	branch = oreo-mr1-cts-release
 	path = external/proguard
 	url = ../external/proguard
 [submodule "external/protobuf"]
-	branch = oreo-mr1-cts-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "external/python/cpython2"]
-	branch = oreo-mr1-cts-release
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "external/python/cpython3"]
-	branch = oreo-mr1-cts-release
 	path = external/python/cpython3
 	url = ../external/python/cpython3
 [submodule "external/r8"]
-	branch = oreo-mr1-cts-release
 	path = external/r8
 	url = ../external/r8
 [submodule "external/regex-re2"]
-	branch = oreo-mr1-cts-release
 	path = external/regex-re2
 	url = ../external/regex-re2
 [submodule "external/replicaisland"]
-	branch = oreo-mr1-cts-release
 	path = external/replicaisland
 	url = ../external/replicaisland
 [submodule "external/rmi4utils"]
-	branch = oreo-mr1-cts-release
 	path = external/rmi4utils
 	url = ../external/rmi4utils
 [submodule "external/robolectric"]
-	branch = oreo-mr1-cts-release
 	path = external/robolectric
 	url = ../external/robolectric
 [submodule "external/roboto-fonts"]
-	branch = oreo-mr1-cts-release
 	path = external/roboto-fonts
 	url = ../external/roboto-fonts
 [submodule "external/rootdev"]
-	branch = oreo-mr1-cts-release
 	path = external/rootdev
 	url = ../external/rootdev
 [submodule "external/safe-iop"]
-	branch = oreo-mr1-cts-release
 	path = external/safe-iop
 	url = ../external/safe-iop
 [submodule "external/scrypt"]
-	branch = oreo-mr1-cts-release
 	path = external/scrypt
 	url = ../external/scrypt
 [submodule "external/seccomp-tests"]
-	branch = oreo-mr1-cts-release
 	path = external/seccomp-tests
 	url = ../external/seccomp-tests
 [submodule "external/selinux"]
-	branch = oreo-mr1-cts-release
 	path = external/selinux
 	url = ../external/selinux
 [submodule "external/sfntly"]
-	branch = oreo-mr1-cts-release
 	path = external/sfntly
 	url = ../external/sfntly
 [submodule "external/shflags"]
-	branch = oreo-mr1-cts-release
 	path = external/shflags
 	url = ../external/shflags
 [submodule "external/skia"]
-	branch = oreo-mr1-cts-release
 	path = external/skia
 	url = ../external/skia
 [submodule "external/sl4a"]
-	branch = oreo-mr1-cts-release
 	path = external/sl4a
 	url = ../external/sl4a
 [submodule "external/slf4j"]
-	branch = oreo-mr1-cts-release
 	path = external/slf4j
 	url = ../external/slf4j
 [submodule "external/smali"]
-	branch = oreo-mr1-cts-release
 	path = external/smali
 	url = ../external/smali
 [submodule "external/snakeyaml"]
-	branch = oreo-mr1-cts-release
 	path = external/snakeyaml
 	url = ../external/snakeyaml
 [submodule "external/sonic"]
-	branch = oreo-mr1-cts-release
 	path = external/sonic
 	url = ../external/sonic
 [submodule "external/sonivox"]
-	branch = oreo-mr1-cts-release
 	path = external/sonivox
 	url = ../external/sonivox
 [submodule "external/speex"]
-	branch = oreo-mr1-cts-release
 	path = external/speex
 	url = ../external/speex
 [submodule "external/spirv-llvm"]
-	branch = oreo-mr1-cts-release
 	path = external/spirv-llvm
 	url = ../external/spirv-llvm
 [submodule "external/sqlite"]
-	branch = oreo-mr1-cts-release
 	path = external/sqlite
 	url = ../external/sqlite
 [submodule "external/squashfs-tools"]
-	branch = oreo-mr1-cts-release
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
 [submodule "external/strace"]
-	branch = oreo-mr1-cts-release
 	path = external/strace
 	url = ../external/strace
 [submodule "external/stressapptest"]
-	branch = oreo-mr1-cts-release
 	path = external/stressapptest
 	url = ../external/stressapptest
 [submodule "external/svox"]
-	branch = oreo-mr1-cts-release
 	path = external/svox
 	url = ../external/svox
 [submodule "external/swiftshader"]
-	branch = oreo-mr1-cts-release
 	path = external/swiftshader
 	url = ../external/swiftshader
 [submodule "external/syslinux"]
-	branch = oreo-mr1-cts-release
 	path = external/syslinux
 	url = ../external/syslinux
 [submodule "external/tagsoup"]
-	branch = oreo-mr1-cts-release
 	path = external/tagsoup
 	url = ../external/tagsoup
 [submodule "external/tcpdump"]
-	branch = oreo-mr1-cts-release
 	path = external/tcpdump
 	url = ../external/tcpdump
 [submodule "external/testng"]
-	branch = oreo-mr1-cts-release
 	path = external/testng
 	url = ../external/testng
 [submodule "external/timezonepicker-support"]
-	branch = oreo-mr1-cts-release
 	path = external/timezonepicker-support
 	url = ../external/timezonepicker-support
 [submodule "external/tinyalsa"]
-	branch = oreo-mr1-cts-release
 	path = external/tinyalsa
 	url = ../external/tinyalsa
 [submodule "external/tinycompress"]
-	branch = oreo-mr1-cts-release
 	path = external/tinycompress
 	url = ../external/tinycompress
 [submodule "external/tinyxml"]
-	branch = oreo-mr1-cts-release
 	path = external/tinyxml
 	url = ../external/tinyxml
 [submodule "external/tinyxml2"]
-	branch = oreo-mr1-cts-release
 	path = external/tinyxml2
 	url = ../external/tinyxml2
 [submodule "external/toolchain-utils"]
-	branch = oreo-mr1-cts-release
 	path = external/toolchain-utils
 	url = ../external/toolchain-utils
 [submodule "external/toybox"]
-	branch = oreo-mr1-cts-release
 	path = external/toybox
 	url = ../external/toybox
 [submodule "external/tpm2"]
-	branch = oreo-mr1-cts-release
 	path = external/tpm2
 	url = ../external/tpm2
 [submodule "external/trappy"]
-	branch = oreo-mr1-cts-release
 	path = external/trappy
 	url = ../external/trappy
 [submodule "external/tremolo"]
-	branch = oreo-mr1-cts-release
 	path = external/tremolo
 	url = ../external/tremolo
 [submodule "external/unicode"]
-	branch = oreo-mr1-cts-release
 	path = external/unicode
 	url = ../external/unicode
 [submodule "external/universal-tween-engine"]
-	branch = oreo-mr1-cts-release
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
 [submodule "external/v4l2_codec2"]
-	branch = oreo-mr1-cts-release
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
 [submodule "external/v8"]
-	branch = oreo-mr1-cts-release
 	path = external/v8
 	url = ../external/v8
 [submodule "external/valgrind"]
-	branch = oreo-mr1-cts-release
 	path = external/valgrind
 	url = ../external/valgrind
 [submodule "external/vboot_reference"]
-	branch = oreo-mr1-cts-release
 	path = external/vboot_reference
 	url = ../external/vboot_reference
 [submodule "external/vixl"]
-	branch = oreo-mr1-cts-release
 	path = external/vixl
 	url = ../external/vixl
 [submodule "external/vogar"]
-	branch = oreo-mr1-cts-release
 	path = external/vogar
 	url = ../external/vogar
 [submodule "external/volley"]
-	branch = oreo-mr1-cts-release
 	path = external/volley
 	url = ../external/volley
 [submodule "external/vulkan-validation-layers"]
-	branch = oreo-mr1-cts-release
 	path = external/vulkan-validation-layers
 	url = ../external/vulkan-validation-layers
 [submodule "external/walt"]
-	branch = oreo-mr1-cts-release
 	path = external/walt
 	url = ../external/walt
 [submodule "external/webp"]
-	branch = oreo-mr1-cts-release
 	path = external/webp
 	url = ../external/webp
 [submodule "external/webrtc"]
-	branch = oreo-mr1-cts-release
 	path = external/webrtc
 	url = ../external/webrtc
 [submodule "external/wpa_supplicant_8"]
-	branch = oreo-mr1-cts-release
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
 [submodule "external/wycheproof"]
-	branch = oreo-mr1-cts-release
 	path = external/wycheproof
 	url = ../external/wycheproof
 [submodule "external/x264"]
-	branch = oreo-mr1-cts-release
 	path = external/x264
 	url = ../external/x264
 [submodule "external/xmlrpcpp"]
-	branch = oreo-mr1-cts-release
 	path = external/xmlrpcpp
 	url = ../external/xmlrpcpp
 [submodule "external/xmlwriter"]
-	branch = oreo-mr1-cts-release
 	path = external/xmlwriter
 	url = ../external/xmlwriter
 [submodule "external/xmp_toolkit"]
-	branch = oreo-mr1-cts-release
 	path = external/xmp_toolkit
 	url = ../external/xmp_toolkit
 [submodule "external/xz-embedded"]
-	branch = oreo-mr1-cts-release
 	path = external/xz-embedded
 	url = ../external/xz-embedded
 [submodule "external/zlib"]
-	branch = oreo-mr1-cts-release
 	path = external/zlib
 	url = ../external/zlib
 [submodule "external/zopfli"]
-	branch = oreo-mr1-cts-release
 	path = external/zopfli
 	url = ../external/zopfli
 [submodule "external/zxing"]
-	branch = oreo-mr1-cts-release
 	path = external/zxing
 	url = ../external/zxing
 [submodule "frameworks/av"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/av
 	url = ../frameworks/av
 [submodule "frameworks/base"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/base
 	url = ../frameworks/base
 [submodule "frameworks/compile/libbcc"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/compile/libbcc
 	url = ../frameworks/compile/libbcc
 [submodule "frameworks/compile/mclinker"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/compile/mclinker
 	url = ../frameworks/compile/mclinker
 [submodule "frameworks/compile/slang"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/compile/slang
 	url = ../frameworks/compile/slang
 [submodule "frameworks/data-binding"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/data-binding
 	url = ../frameworks/data-binding
 [submodule "frameworks/ex"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/ex
 	url = ../frameworks/ex
 [submodule "frameworks/hardware/interfaces"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/hardware/interfaces
 	url = ../frameworks/hardware/interfaces
 [submodule "frameworks/layoutlib"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
 [submodule "frameworks/minikin"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/minikin
 	url = ../frameworks/minikin
 [submodule "frameworks/ml"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/ml
 	url = ../frameworks/ml
 [submodule "frameworks/multidex"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "frameworks/native"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "frameworks/opt/bitmap"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/bitmap
 	url = ../frameworks/opt/bitmap
 [submodule "frameworks/opt/bluetooth"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/bluetooth
 	url = ../frameworks/opt/bluetooth
 [submodule "frameworks/opt/calendar"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/calendar
 	url = ../frameworks/opt/calendar
 [submodule "frameworks/opt/chips"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/chips
 	url = ../frameworks/opt/chips
 [submodule "frameworks/opt/colorpicker"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/colorpicker
 	url = ../frameworks/opt/colorpicker
 [submodule "frameworks/opt/datetimepicker"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/datetimepicker
 	url = ../frameworks/opt/datetimepicker
 [submodule "frameworks/opt/inputconnectioncommon"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/inputconnectioncommon
 	url = ../frameworks/opt/inputconnectioncommon
 [submodule "frameworks/opt/inputmethodcommon"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/inputmethodcommon
 	url = ../frameworks/opt/inputmethodcommon
 [submodule "frameworks/opt/net/ethernet"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/net/ethernet
 	url = ../frameworks/opt/net/ethernet
 [submodule "frameworks/opt/net/ims"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/net/ims
 	url = ../frameworks/opt/net/ims
 [submodule "frameworks/opt/net/lowpan"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/net/lowpan
 	url = ../frameworks/opt/net/lowpan
 [submodule "frameworks/opt/net/voip"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/net/voip
 	url = ../frameworks/opt/net/voip
 [submodule "frameworks/opt/net/wifi"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/net/wifi
 	url = ../frameworks/opt/net/wifi
 [submodule "frameworks/opt/photoviewer"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/photoviewer
 	url = ../frameworks/opt/photoviewer
 [submodule "frameworks/opt/setupwizard"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/setupwizard
 	url = ../frameworks/opt/setupwizard
 [submodule "frameworks/opt/telephony"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/telephony
 	url = ../frameworks/opt/telephony
 [submodule "frameworks/opt/timezonepicker"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/timezonepicker
 	url = ../frameworks/opt/timezonepicker
 [submodule "frameworks/opt/vcard"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/opt/vcard
 	url = ../frameworks/opt/vcard
 [submodule "frameworks/rs"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/rs
 	url = ../frameworks/rs
 [submodule "frameworks/support"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "frameworks/webview"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/webview
 	url = ../frameworks/webview
 [submodule "frameworks/wilhelm"]
-	branch = oreo-mr1-cts-release
 	path = frameworks/wilhelm
 	url = ../frameworks/wilhelm
 [submodule "hardware/akm"]
-	branch = oreo-mr1-cts-release
 	path = hardware/akm
 	url = ../hardware/akm
 [submodule "hardware/broadcom/libbt"]
-	branch = oreo-mr1-cts-release
 	path = hardware/broadcom/libbt
 	url = ../hardware/broadcom/libbt
 [submodule "hardware/broadcom/wlan"]
-	branch = oreo-mr1-cts-release
 	path = hardware/broadcom/wlan
 	url = ../hardware/broadcom/wlan
 [submodule "hardware/google/apf"]
-	branch = oreo-mr1-cts-release
 	path = hardware/google/apf
 	url = ../hardware/google/apf
 [submodule "hardware/google/easel"]
-	branch = oreo-mr1-cts-release
 	path = hardware/google/easel
 	url = ../hardware/google/easel
 [submodule "hardware/intel/audio_media"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/audio_media
 	url = ../hardware/intel/audio_media
 [submodule "hardware/intel/bootstub"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/bootstub
 	url = ../hardware/intel/bootstub
 [submodule "hardware/intel/common/bd_prov"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/bd_prov
 	url = ../hardware/intel/common/bd_prov
 [submodule "hardware/intel/common/libmix"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/libmix
 	url = ../hardware/intel/common/libmix
 [submodule "hardware/intel/common/libstagefrighthw"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/libstagefrighthw
 	url = ../hardware/intel/common/libstagefrighthw
 [submodule "hardware/intel/common/libva"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/libva
 	url = ../hardware/intel/common/libva
 [submodule "hardware/intel/common/libwsbm"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/libwsbm
 	url = ../hardware/intel/common/libwsbm
 [submodule "hardware/intel/common/omx-components"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/omx-components
 	url = ../hardware/intel/common/omx-components
 [submodule "hardware/intel/common/utils"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/utils
 	url = ../hardware/intel/common/utils
 [submodule "hardware/intel/common/wrs_omxil_core"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/common/wrs_omxil_core
 	url = ../hardware/intel/common/wrs_omxil_core
 [submodule "hardware/intel/img/hwcomposer"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/img/hwcomposer
 	url = ../hardware/intel/img/hwcomposer
 [submodule "hardware/intel/img/psb_headers"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/img/psb_headers
 	url = ../hardware/intel/img/psb_headers
 [submodule "hardware/intel/img/psb_video"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/img/psb_video
 	url = ../hardware/intel/img/psb_video
 [submodule "hardware/intel/sensors"]
-	branch = oreo-mr1-cts-release
 	path = hardware/intel/sensors
 	url = ../hardware/intel/sensors
 [submodule "hardware/interfaces"]
-	branch = oreo-mr1-cts-release
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "hardware/invensense"]
-	branch = oreo-mr1-cts-release
 	path = hardware/invensense
 	url = ../hardware/invensense
 [submodule "hardware/libhardware"]
-	branch = oreo-mr1-cts-release
 	path = hardware/libhardware
 	url = ../hardware/libhardware
 [submodule "hardware/libhardware_legacy"]
-	branch = oreo-mr1-cts-release
 	path = hardware/libhardware_legacy
 	url = ../hardware/libhardware_legacy
 [submodule "hardware/marvell/bt"]
-	branch = oreo-mr1-cts-release
 	path = hardware/marvell/bt
 	url = ../hardware/marvell/bt
 [submodule "hardware/qcom/audio"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/audio
 	url = ../hardware/qcom/audio
 [submodule "hardware/qcom/bootctrl"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/bootctrl
 	url = ../hardware/qcom/bootctrl
 [submodule "hardware/qcom/bt"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/bt
 	url = ../hardware/qcom/bt
 [submodule "hardware/qcom/camera"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/camera
 	url = ../hardware/qcom/camera
 [submodule "hardware/qcom/data/ipacfg-mgr"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/data/ipacfg-mgr
 	url = ../hardware/qcom/data/ipacfg-mgr
 [submodule "hardware/qcom/display"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/display
 	url = ../hardware/qcom/display
 [submodule "hardware/qcom/gps"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/gps
 	url = ../hardware/qcom/gps
 [submodule "hardware/qcom/keymaster"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/keymaster
 	url = ../hardware/qcom/keymaster
 [submodule "hardware/qcom/media"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/media
 	url = ../hardware/qcom/media
 [submodule "hardware/qcom/msm8960"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8960
 	url = ../hardware/qcom/msm8960
 [submodule "hardware/qcom/msm8994"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8994
 	url = ../hardware/qcom/msm8994
 [submodule "hardware/qcom/msm8996"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
 [submodule "hardware/qcom/msm8998"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8998
 	url = ../hardware/qcom/msm8998
 [submodule "hardware/qcom/msm8x09"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8x09
 	url = ../hardware/qcom/msm8x09
 [submodule "hardware/qcom/msm8x26"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8x26
 	url = ../hardware/qcom/msm8x26
 [submodule "hardware/qcom/msm8x27"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8x27
 	url = ../hardware/qcom/msm8x27
 [submodule "hardware/qcom/msm8x84"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/msm8x84
 	url = ../hardware/qcom/msm8x84
 [submodule "hardware/qcom/power"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
 [submodule "hardware/qcom/wlan"]
-	branch = oreo-mr1-cts-release
 	path = hardware/qcom/wlan
 	url = ../hardware/qcom/wlan
 [submodule "hardware/ril"]
-	branch = oreo-mr1-cts-release
 	path = hardware/ril
 	url = ../hardware/ril
 [submodule "kernel/tests"]
-	branch = oreo-mr1-cts-release
 	path = kernel/tests
 	url = ../../kernel/tests
 [submodule "libcore"]
-	branch = oreo-mr1-cts-release
 	path = libcore
 	url = ../libcore
 [submodule "libnativehelper"]
-	branch = oreo-mr1-cts-release
 	path = libnativehelper
 	url = ../libnativehelper
 [submodule "packages/apps/BasicSmsReceiver"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/BasicSmsReceiver
 	url = ../packages/apps/BasicSmsReceiver
 [submodule "packages/apps/Bluetooth"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Bluetooth
 	url = ../packages/apps/Bluetooth
 [submodule "packages/apps/Browser2"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Browser2
 	url = ../packages/apps/Browser2
 [submodule "packages/apps/Calendar"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Calendar
 	url = ../packages/apps/Calendar
 [submodule "packages/apps/Camera2"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
 [submodule "packages/apps/Car/Dialer"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Dialer
 	url = ../packages/apps/Car/Dialer
 [submodule "packages/apps/Car/Hvac"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Hvac
 	url = ../packages/apps/Car/Hvac
 [submodule "packages/apps/Car/LatinIME"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/LatinIME
 	url = ../packages/apps/Car/LatinIME
 [submodule "packages/apps/Car/LensPicker"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/LensPicker
 	url = ../packages/apps/Car/LensPicker
 [submodule "packages/apps/Car/LocalMediaPlayer"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/LocalMediaPlayer
 	url = ../packages/apps/Car/LocalMediaPlayer
 [submodule "packages/apps/Car/Media"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Media
 	url = ../packages/apps/Car/Media
 [submodule "packages/apps/Car/Messenger"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Messenger
 	url = ../packages/apps/Car/Messenger
 [submodule "packages/apps/Car/Overview"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Overview
 	url = ../packages/apps/Car/Overview
 [submodule "packages/apps/Car/Radio"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Radio
 	url = ../packages/apps/Car/Radio
 [submodule "packages/apps/Car/Settings"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Settings
 	url = ../packages/apps/Car/Settings
 [submodule "packages/apps/Car/Stream"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/Stream
 	url = ../packages/apps/Car/Stream
 [submodule "packages/apps/Car/SystemUpdater"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
 [submodule "packages/apps/Car/UserManagement"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/UserManagement
 	url = ../packages/apps/Car/UserManagement
 [submodule "packages/apps/Car/libs"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
 [submodule "packages/apps/CarrierConfig"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/CarrierConfig
 	url = ../packages/apps/CarrierConfig
 [submodule "packages/apps/CellBroadcastReceiver"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/CellBroadcastReceiver
 	url = ../packages/apps/CellBroadcastReceiver
 [submodule "packages/apps/CertInstaller"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/CertInstaller
 	url = ../packages/apps/CertInstaller
 [submodule "packages/apps/Contacts"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Contacts
 	url = ../packages/apps/Contacts
 [submodule "packages/apps/DeskClock"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/DeskClock
 	url = ../packages/apps/DeskClock
 [submodule "packages/apps/DevCamera"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/DevCamera
 	url = ../packages/apps/DevCamera
 [submodule "packages/apps/Dialer"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Dialer
 	url = ../packages/apps/Dialer
 [submodule "packages/apps/DocumentsUI"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/DocumentsUI
 	url = ../packages/apps/DocumentsUI
 [submodule "packages/apps/Email"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Email
 	url = ../packages/apps/Email
 [submodule "packages/apps/EmergencyInfo"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/EmergencyInfo
 	url = ../packages/apps/EmergencyInfo
 [submodule "packages/apps/ExactCalculator"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/ExactCalculator
 	url = ../packages/apps/ExactCalculator
 [submodule "packages/apps/Gallery"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Gallery
 	url = ../packages/apps/Gallery
 [submodule "packages/apps/Gallery2"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Gallery2
 	url = ../packages/apps/Gallery2
 [submodule "packages/apps/HTMLViewer"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/HTMLViewer
 	url = ../packages/apps/HTMLViewer
 [submodule "packages/apps/KeyChain"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/KeyChain
 	url = ../packages/apps/KeyChain
 [submodule "packages/apps/Launcher2"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Launcher2
 	url = ../packages/apps/Launcher2
 [submodule "packages/apps/Launcher3"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Launcher3
 	url = ../packages/apps/Launcher3
 [submodule "packages/apps/LegacyCamera"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/LegacyCamera
 	url = ../packages/apps/LegacyCamera
 [submodule "packages/apps/ManagedProvisioning"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/ManagedProvisioning
 	url = ../packages/apps/ManagedProvisioning
 [submodule "packages/apps/Messaging"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Messaging
 	url = ../packages/apps/Messaging
 [submodule "packages/apps/Music"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Music
 	url = ../packages/apps/Music
 [submodule "packages/apps/MusicFX"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/MusicFX
 	url = ../packages/apps/MusicFX
 [submodule "packages/apps/Nfc"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Nfc
 	url = ../packages/apps/Nfc
 [submodule "packages/apps/OneTimeInitializer"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/OneTimeInitializer
 	url = ../packages/apps/OneTimeInitializer
 [submodule "packages/apps/PackageInstaller"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/PackageInstaller
 	url = ../packages/apps/PackageInstaller
 [submodule "packages/apps/PhoneCommon"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/PhoneCommon
 	url = ../packages/apps/PhoneCommon
 [submodule "packages/apps/Protips"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Protips
 	url = ../packages/apps/Protips
 [submodule "packages/apps/Provision"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Provision
 	url = ../packages/apps/Provision
 [submodule "packages/apps/QuickSearchBox"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
 [submodule "packages/apps/SafetyRegulatoryInfo"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
 [submodule "packages/apps/Settings"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Settings
 	url = ../packages/apps/Settings
 [submodule "packages/apps/SoundRecorder"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/SoundRecorder
 	url = ../packages/apps/SoundRecorder
 [submodule "packages/apps/SpareParts"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/SpareParts
 	url = ../packages/apps/SpareParts
 [submodule "packages/apps/Stk"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Stk
 	url = ../packages/apps/Stk
 [submodule "packages/apps/StorageManager"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/StorageManager
 	url = ../packages/apps/StorageManager
 [submodule "packages/apps/TV"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/TV
 	url = ../packages/apps/TV
 [submodule "packages/apps/Tag"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Tag
 	url = ../packages/apps/Tag
 [submodule "packages/apps/Terminal"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Terminal
 	url = ../packages/apps/Terminal
 [submodule "packages/apps/Test/connectivity"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/Test/connectivity
 	url = ../packages/apps/Test/connectivity
 [submodule "packages/apps/TimeZoneData"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/TimeZoneData
 	url = ../packages/apps/TimeZoneData
 [submodule "packages/apps/TimeZoneUpdater"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/TimeZoneUpdater
 	url = ../packages/apps/TimeZoneUpdater
 [submodule "packages/apps/TvSettings"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
 [submodule "packages/apps/UnifiedEmail"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/UnifiedEmail
 	url = ../packages/apps/UnifiedEmail
 [submodule "packages/apps/WallpaperPicker"]
-	branch = oreo-mr1-cts-release
 	path = packages/apps/WallpaperPicker
 	url = ../packages/apps/WallpaperPicker
 [submodule "packages/experimental"]
-	branch = oreo-mr1-cts-release
 	path = packages/experimental
 	url = ../packages/experimental
 [submodule "packages/inputmethods/LatinIME"]
-	branch = oreo-mr1-cts-release
 	path = packages/inputmethods/LatinIME
 	url = ../packages/inputmethods/LatinIME
 [submodule "packages/inputmethods/OpenWnn"]
-	branch = oreo-mr1-cts-release
 	path = packages/inputmethods/OpenWnn
 	url = ../packages/inputmethods/OpenWnn
 [submodule "packages/providers/ApplicationsProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/ApplicationsProvider
 	url = ../packages/providers/ApplicationsProvider
 [submodule "packages/providers/BlockedNumberProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/BlockedNumberProvider
 	url = ../packages/providers/BlockedNumberProvider
 [submodule "packages/providers/BookmarkProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/BookmarkProvider
 	url = ../packages/providers/BookmarkProvider
 [submodule "packages/providers/CalendarProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/CalendarProvider
 	url = ../packages/providers/CalendarProvider
 [submodule "packages/providers/CallLogProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/CallLogProvider
 	url = ../packages/providers/CallLogProvider
 [submodule "packages/providers/ContactsProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/ContactsProvider
 	url = ../packages/providers/ContactsProvider
 [submodule "packages/providers/DownloadProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/DownloadProvider
 	url = ../packages/providers/DownloadProvider
 [submodule "packages/providers/MediaProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/MediaProvider
 	url = ../packages/providers/MediaProvider
 [submodule "packages/providers/PartnerBookmarksProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/PartnerBookmarksProvider
 	url = ../packages/providers/PartnerBookmarksProvider
 [submodule "packages/providers/TelephonyProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/TelephonyProvider
 	url = ../packages/providers/TelephonyProvider
 [submodule "packages/providers/TvProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/TvProvider
 	url = ../packages/providers/TvProvider
 [submodule "packages/providers/UserDictionaryProvider"]
-	branch = oreo-mr1-cts-release
 	path = packages/providers/UserDictionaryProvider
 	url = ../packages/providers/UserDictionaryProvider
 [submodule "packages/screensavers/Basic"]
-	branch = oreo-mr1-cts-release
 	path = packages/screensavers/Basic
 	url = ../packages/screensavers/Basic
 [submodule "packages/screensavers/PhotoTable"]
-	branch = oreo-mr1-cts-release
 	path = packages/screensavers/PhotoTable
 	url = ../packages/screensavers/PhotoTable
 [submodule "packages/screensavers/WebView"]
-	branch = oreo-mr1-cts-release
 	path = packages/screensavers/WebView
 	url = ../packages/screensavers/WebView
 [submodule "packages/services/BuiltInPrintService"]
-	branch = oreo-mr1-cts-release
 	path = packages/services/BuiltInPrintService
 	url = ../packages/services/BuiltInPrintService
 [submodule "packages/services/Car"]
-	branch = oreo-mr1-cts-release
 	path = packages/services/Car
 	url = ../packages/services/Car
 [submodule "packages/services/Mms"]
-	branch = oreo-mr1-cts-release
 	path = packages/services/Mms
 	url = ../packages/services/Mms
 [submodule "packages/services/NetworkRecommendation"]
-	branch = oreo-mr1-cts-release
 	path = packages/services/NetworkRecommendation
 	url = ../packages/services/NetworkRecommendation
 [submodule "packages/services/Telecomm"]
-	branch = oreo-mr1-cts-release
 	path = packages/services/Telecomm
 	url = ../packages/services/Telecomm
 [submodule "packages/services/Telephony"]
-	branch = oreo-mr1-cts-release
 	path = packages/services/Telephony
 	url = ../packages/services/Telephony
 [submodule "packages/wallpapers/LivePicker"]
-	branch = oreo-mr1-cts-release
 	path = packages/wallpapers/LivePicker
 	url = ../packages/wallpapers/LivePicker
 [submodule "pdk"]
-	branch = oreo-mr1-cts-release
 	path = pdk
 	url = ../pdk
 [submodule "platform_testing"]
-	branch = oreo-mr1-cts-release
 	path = platform_testing
 	url = ../platform_testing
 [submodule "prebuilts/abi-dumps/ndk"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/abi-dumps/ndk
 	url = ../prebuilts/abi-dumps/ndk
 [submodule "prebuilts/abi-dumps/vndk"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/abi-dumps/vndk
 	url = ../prebuilts/abi-dumps/vndk
 [submodule "prebuilts/android-emulator"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "prebuilts/build-tools"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "prebuilts/checkcolor"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/checkcolor
 	url = ../prebuilts/checkcolor
 [submodule "prebuilts/checkstyle"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "prebuilts/clang/host/darwin-x86"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "prebuilts/clang/host/linux-x86"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
 [submodule "prebuilts/deqp"]
-	branch = oreo-mr1-cts-release
 	path = prebuilts/deqp
 	url = ../prebuilts/deqp
 [submodule "prebuilts/devtools"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
 [submodule "prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 [submodule "prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
 	url = ../prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
 [submodule "prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
 [submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 [submodule "prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
 [submodule "prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 [submodule "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 [submodule "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
 	url = ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
 [submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 [submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "prebuilts/gdb/darwin-x86"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gdb/darwin-x86
 	url = ../prebuilts/gdb/darwin-x86
 [submodule "prebuilts/gdb/linux-x86"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gdb/linux-x86
 	url = ../prebuilts/gdb/linux-x86
 [submodule "prebuilts/go/darwin-x86"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
 [submodule "prebuilts/go/linux-x86"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "prebuilts/gradle-plugin"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
 [submodule "prebuilts/jdk/jdk8"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "prebuilts/libs/libedit"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/libs/libedit
 	url = ../prebuilts/libs/libedit
 [submodule "prebuilts/maven_repo/android"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/maven_repo/android
 	url = ../prebuilts/maven_repo/android
 [submodule "prebuilts/maven_repo/bumptech"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
 [submodule "prebuilts/misc"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
 [submodule "prebuilts/ndk"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "prebuilts/python/darwin-x86/2.7.5"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/python/darwin-x86/2.7.5
 	url = ../prebuilts/python/darwin-x86/2.7.5
 [submodule "prebuilts/python/linux-x86/2.7.5"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/python/linux-x86/2.7.5
 	url = ../prebuilts/python/linux-x86/2.7.5
 [submodule "prebuilts/qemu-kernel"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "prebuilts/sdk"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "prebuilts/tools"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "sdk"]
-	branch = oreo-mr1-cts-release
 	path = sdk
 	url = ../sdk
 [submodule "system/bt"]
-	branch = oreo-mr1-cts-release
 	path = system/bt
 	url = ../system/bt
 [submodule "system/ca-certificates"]
-	branch = oreo-mr1-cts-release
 	path = system/ca-certificates
 	url = ../system/ca-certificates
 [submodule "system/chre"]
-	branch = oreo-mr1-cts-release
 	path = system/chre
 	url = ../system/chre
 [submodule "system/connectivity/wificond"]
-	branch = oreo-mr1-cts-release
 	path = system/connectivity/wificond
 	url = ../system/connectivity/wificond
 [submodule "system/connectivity/wifilogd"]
-	branch = oreo-mr1-cts-release
 	path = system/connectivity/wifilogd
 	url = ../system/connectivity/wifilogd
 [submodule "system/core"]
-	branch = oreo-mr1-cts-release
 	path = system/core
 	url = ../system/core
 [submodule "system/extras"]
-	branch = oreo-mr1-cts-release
 	path = system/extras
 	url = ../system/extras
 [submodule "system/gatekeeper"]
-	branch = oreo-mr1-cts-release
 	path = system/gatekeeper
 	url = ../system/gatekeeper
 [submodule "system/hardware/interfaces"]
-	branch = oreo-mr1-cts-release
 	path = system/hardware/interfaces
 	url = ../system/hardware/interfaces
 [submodule "system/hwservicemanager"]
-	branch = oreo-mr1-cts-release
 	path = system/hwservicemanager
 	url = ../system/hwservicemanager
 [submodule "system/keymaster"]
-	branch = oreo-mr1-cts-release
 	path = system/keymaster
 	url = ../system/keymaster
 [submodule "system/libfmq"]
-	branch = oreo-mr1-cts-release
 	path = system/libfmq
 	url = ../system/libfmq
 [submodule "system/libhidl"]
-	branch = oreo-mr1-cts-release
 	path = system/libhidl
 	url = ../system/libhidl
 [submodule "system/libhwbinder"]
-	branch = oreo-mr1-cts-release
 	path = system/libhwbinder
 	url = ../system/libhwbinder
 [submodule "system/libufdt"]
-	branch = oreo-mr1-cts-release
 	path = system/libufdt
 	url = ../system/libufdt
 [submodule "system/libvintf"]
-	branch = oreo-mr1-cts-release
 	path = system/libvintf
 	url = ../system/libvintf
 [submodule "system/media"]
-	branch = oreo-mr1-cts-release
 	path = system/media
 	url = ../system/media
 [submodule "system/netd"]
-	branch = oreo-mr1-cts-release
 	path = system/netd
 	url = ../system/netd
 [submodule "system/nfc"]
-	branch = oreo-mr1-cts-release
 	path = system/nfc
 	url = ../system/nfc
 [submodule "system/nvram"]
-	branch = oreo-mr1-cts-release
 	path = system/nvram
 	url = ../system/nvram
 [submodule "system/security"]
-	branch = oreo-mr1-cts-release
 	path = system/security
 	url = ../system/security
 [submodule "system/sepolicy"]
-	branch = oreo-mr1-cts-release
 	path = system/sepolicy
 	url = ../system/sepolicy
 [submodule "system/timezone"]
-	branch = oreo-mr1-cts-release
 	path = system/timezone
 	url = ../system/timezone
 [submodule "system/tools/aidl"]
-	branch = oreo-mr1-cts-release
 	path = system/tools/aidl
 	url = ../system/tools/aidl
 [submodule "system/tools/hidl"]
-	branch = oreo-mr1-cts-release
 	path = system/tools/hidl
 	url = ../system/tools/hidl
 [submodule "system/tpm"]
-	branch = oreo-mr1-cts-release
 	path = system/tpm
 	url = ../system/tpm
 [submodule "system/update_engine"]
-	branch = oreo-mr1-cts-release
 	path = system/update_engine
 	url = ../system/update_engine
 [submodule "system/vold"]
-	branch = oreo-mr1-cts-release
 	path = system/vold
 	url = ../system/vold
 [submodule "test/framework"]
-	branch = oreo-mr1-cts-release
 	path = test/framework
 	url = ../test/framework
 [submodule "test/sts"]
-	branch = oreo-mr1-cts-release
 	path = test/sts
 	url = ../test/sts
 [submodule "test/vts-testcase/fuzz"]
-	branch = oreo-mr1-cts-release
 	path = test/vts-testcase/fuzz
 	url = ../test/vts-testcase/fuzz
 [submodule "test/vts-testcase/hal-trace"]
-	branch = oreo-mr1-cts-release
 	path = test/vts-testcase/hal-trace
 	url = ../test/vts-testcase/hal-trace
 [submodule "test/vts-testcase/hal"]
-	branch = oreo-mr1-cts-release
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal
 [submodule "test/vts-testcase/kernel"]
-	branch = oreo-mr1-cts-release
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
 [submodule "test/vts-testcase/performance"]
-	branch = oreo-mr1-cts-release
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
 [submodule "test/vts-testcase/security"]
-	branch = oreo-mr1-cts-release
 	path = test/vts-testcase/security
 	url = ../test/vts-testcase/security
 [submodule "test/vts-testcase/vndk"]
-	branch = oreo-mr1-cts-release
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
 [submodule "test/vts"]
-	branch = oreo-mr1-cts-release
 	path = test/vts
 	url = ../test/vts
 [submodule "toolchain/binutils"]
-	branch = oreo-mr1-cts-release
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
 [submodule "tools/apksig"]
-	branch = oreo-mr1-cts-release
 	path = tools/apksig
 	url = ../tools/apksig
 [submodule "tools/external/fat32lib"]
-	branch = oreo-mr1-cts-release
 	path = tools/external/fat32lib
 	url = ../tools/external/fat32lib
 [submodule "tools/external/gradle"]
-	branch = oreo-mr1-cts-release
-	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "tools/loganalysis"]
-	branch = oreo-mr1-cts-release
 	path = tools/loganalysis
 	url = ../tools/loganalysis
 [submodule "tools/repohooks"]
-	branch = oreo-mr1-cts-release
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "tools/test/connectivity"]
-	branch = oreo-mr1-cts-release
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
 [submodule "tools/tradefederation/contrib"]
-	branch = oreo-mr1-cts-release
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
 [submodule "tools/tradefederation/core"]
-	branch = oreo-mr1-cts-release
 	path = tools/tradefederation/core
 	url = ../tools/tradefederation
