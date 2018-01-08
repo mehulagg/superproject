@@ -884,7 +884,7 @@
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "external/linux-kselftest"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "external/lisa"]
@@ -908,7 +908,7 @@
 	path = external/lmfit
 	url = ../external/lmfit
 [submodule "external/ltp"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = external/ltp
 	url = ../external/ltp
 [submodule "external/lz4"]
@@ -1384,7 +1384,7 @@
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "frameworks/native"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "frameworks/opt/bitmap"]
@@ -1552,7 +1552,7 @@
 	path = hardware/intel/sensors
 	url = ../hardware/intel/sensors
 [submodule "hardware/interfaces"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "hardware/invensense"]
@@ -2259,7 +2259,7 @@
 	path = system/gatekeeper
 	url = ../system/gatekeeper
 [submodule "system/hardware/interfaces"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = system/hardware/interfaces
 	url = ../system/hardware/interfaces
 [submodule "system/hwservicemanager"]
@@ -2271,7 +2271,7 @@
 	path = system/keymaster
 	url = ../system/keymaster
 [submodule "system/libfmq"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = system/libfmq
 	url = ../system/libfmq
 [submodule "system/libhidl"]
@@ -2279,7 +2279,7 @@
 	path = system/libhidl
 	url = ../system/libhidl
 [submodule "system/libhwbinder"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = system/libhwbinder
 	url = ../system/libhwbinder
 [submodule "system/libufdt"]
@@ -2295,7 +2295,7 @@
 	path = system/media
 	url = ../system/media
 [submodule "system/netd"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = system/netd
 	url = ../system/netd
 [submodule "system/nfc"]
@@ -2339,49 +2339,65 @@
 	path = system/vold
 	url = ../system/vold
 [submodule "test/framework"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/framework
 	url = ../test/framework
 [submodule "test/sts"]
 	branch = oreo-mr1-release
 	path = test/sts
 	url = ../test/sts
+[submodule "test/vti/dashboard"]
+	branch = oreo-mr1-vts-dev
+	path = test/vti/dashboard
+	url = ../test/vti/dashboard
+[submodule "test/vti/fuzz_test_serving"]
+	branch = oreo-mr1-vts-dev
+	path = test/vti/fuzz_test_serving
+	url = ../test/vti/fuzz_test_serving
+[submodule "test/vti/test_serving"]
+	branch = oreo-mr1-vts-dev
+	path = test/vti/test_serving
+	url = ../test/vti/test_serving
 [submodule "test/vts-testcase/fuzz"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts-testcase/fuzz
 	url = ../test/vts-testcase/fuzz
 [submodule "test/vts-testcase/hal-trace"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts-testcase/hal-trace
 	url = ../test/vts-testcase/hal-trace
 [submodule "test/vts-testcase/hal"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal
 [submodule "test/vts-testcase/kernel"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
 [submodule "test/vts-testcase/performance"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
 [submodule "test/vts-testcase/security"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts-testcase/security
 	url = ../test/vts-testcase/security
 [submodule "test/vts-testcase/vndk"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
 [submodule "test/vts"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = test/vts
 	url = ../test/vts
 [submodule "toolchain/binutils"]
 	branch = oreo-mr1-release
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "tools/acloud"]
+	branch = oreo-mr1-vts-dev
+	path = tools/acloud
+	url = ../tools/acloud
 [submodule "tools/apksig"]
 	branch = oreo-mr1-release
 	path = tools/apksig
