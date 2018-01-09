@@ -1752,6 +1752,10 @@
 	branch = master
 	path = hardware/nxp/nfc
 	url = ../hardware/nxp/nfc
+[submodule "hardware/nxp/secure_element"]
+	branch = master
+	path = hardware/nxp/secure_element
+	url = ../hardware/nxp/secure_element
 [submodule "hardware/qcom/audio"]
 	branch = master
 	path = hardware/qcom/audio
