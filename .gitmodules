@@ -331,10 +331,6 @@
 	branch = master
 	path = external/bart
 	url = ../external/bart
-[submodule "external/bison"]
-	branch = master
-	path = external/bison
-	url = ../external/bison
 [submodule "external/blktrace"]
 	branch = master
 	path = external/blktrace
