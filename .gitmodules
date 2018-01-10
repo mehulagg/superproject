@@ -908,6 +908,10 @@
 	branch = master
 	path = external/libvterm
 	url = ../external/libvterm
+[submodule "external/libxcam"]
+	branch = master
+	path = external/libxcam
+	url = ../external/libxcam
 [submodule "external/libxml2"]
 	branch = master
 	path = external/libxml2
