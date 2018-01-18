@@ -403,6 +403,10 @@
 	branch = master
 	path = system/timezone
 	url = ../system/timezone
+[submodule "toolchain/pgo-profiles"]
+	branch = master
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
 [submodule "tools/apksig"]
 	branch = master
 	path = tools/apksig
