@@ -2643,6 +2643,10 @@
 	branch = master
 	path = toolchain/openmp_llvm
 	url = ../../toolchain/openmp_llvm
+[submodule "toolchain/pgo-profiles"]
+	branch = master
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
 [submodule "toolchain/prebuilts/ndk/r15"]
 	branch = master
 	path = toolchain/prebuilts/ndk/r15
