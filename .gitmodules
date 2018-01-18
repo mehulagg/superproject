@@ -2616,6 +2616,10 @@
 	branch = master
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "toolchain/pgo-profiles"]
+	branch = master
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
 [submodule "tools/acloud"]
 	branch = master
 	path = tools/acloud
