@@ -388,6 +388,10 @@
 	branch = master
 	path = external/cmockery
 	url = ../external/cmockery
+[submodule "external/cn-cbor"]
+	branch = master
+	path = external/cn-cbor
+	url = ../external/cn-cbor
 [submodule "external/compiler-rt"]
 	branch = master
 	path = external/compiler-rt
