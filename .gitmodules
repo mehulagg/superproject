@@ -14,6 +14,10 @@
 	branch = master
 	path = build/soong
 	url = ../build/soong
+[submodule "dalvik"]
+	branch = master
+	path = dalvik
+	url = ../dalvik
 [submodule "development"]
 	branch = master
 	path = development
@@ -26,6 +30,10 @@
 	branch = master
 	path = external/compiler-rt
 	url = ../external/compiler-rt
+[submodule "external/googletest"]
+	branch = master
+	path = external/googletest
+	url = ../external/googletest
 [submodule "external/libcxx"]
 	branch = master
 	path = external/libcxx
@@ -34,6 +42,14 @@
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
+[submodule "external/libunwind"]
+	branch = master
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "external/libunwind_llvm"]
+	branch = master
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
 [submodule "external/llvm"]
 	branch = master
 	path = external/llvm
@@ -50,11 +66,20 @@
 	branch = master
 	path = external/zlib
 	url = ../external/zlib
+[submodule "external/zopfli"]
+	branch = master
+	path = external/zopfli
+	url = ../external/zopfli
 [submodule "prebuilts/build-tools"]
 	branch = master
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
+[submodule "prebuilts/clang-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang-tools
+	url = ../prebuilts/clang-tools
 [submodule "prebuilts/clang/host/darwin-x86"]
 	branch = master
 	shallow = true
@@ -80,11 +105,31 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "prebuilts/go/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
 [submodule "prebuilts/go/linux-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
+[submodule "prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "prebuilts/jdk/jdk9"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk9
+	url = ../prebuilts/jdk/jdk9
+[submodule "prebuilts/misc"]
+	branch = master
+	shallow = true
+	path = prebuilts/misc
+	url = ../prebuilts/misc
 [submodule "prebuilts/ninja/darwin-x86"]
 	branch = master
 	shallow = true
@@ -95,6 +140,10 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "system/core"]
+	branch = master
+	path = system/core
+	url = ../system/core
 [submodule "toolchain/go"]
 	branch = master
 	path = toolchain/go
