@@ -2241,6 +2241,11 @@
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
+[submodule "prebuilts/clang-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang-tools
+	url = ../prebuilts/clang-tools
 [submodule "prebuilts/clang/host/darwin-x86"]
 	branch = master
 	shallow = true
