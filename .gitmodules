@@ -2684,6 +2684,10 @@
 	branch = master
 	path = tools/loganalysis
 	url = ../tools/loganalysis
+[submodule "tools/metalava"]
+	branch = master
+	path = tools/metalava
+	url = ../tools/metalava
 [submodule "tools/repohooks"]
 	branch = master
 	path = tools/repohooks
