@@ -1288,6 +1288,10 @@
 	branch = master
 	path = external/safe-iop
 	url = ../external/safe-iop
+[submodule "external/scapy"]
+	branch = master
+	path = external/scapy
+	url = ../external/scapy
 [submodule "external/scrypt"]
 	branch = master
 	path = external/scrypt
