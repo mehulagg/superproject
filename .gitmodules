@@ -2672,6 +2672,10 @@
 	branch = master
 	path = tools/apksig
 	url = ../tools/apksig
+[submodule "tools/apkzlib"]
+	branch = master
+	path = tools/apkzlib
+	url = ../tools/apkzlib
 [submodule "tools/dexter"]
 	branch = master
 	path = tools/dexter
