@@ -144,7 +144,3 @@
 	branch = master
 	path = system/core
 	url = ../system/core
-[submodule "toolchain/go"]
-	branch = master
-	path = toolchain/go
-	url = ../../toolchain/go
