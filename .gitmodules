@@ -1567,6 +1567,10 @@
 	branch = master
 	path = frameworks/opt/calendar
 	url = ../frameworks/opt/calendar
+[submodule "frameworks/opt/car/services"]
+	branch = master
+	path = frameworks/opt/car/services
+	url = ../frameworks/opt/car/services
 [submodule "frameworks/opt/chips"]
 	branch = master
 	path = frameworks/opt/chips
