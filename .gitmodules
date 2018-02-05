@@ -1351,6 +1351,11 @@
 	branch = master
 	path = external/stressapptest
 	url = ../external/stressapptest
+[submodule "external/subsampling-scale-image-view"]
+	branch = master
+	shallow = true
+	path = external/subsampling-scale-image-view
+	url = ../external/subsampling-scale-image-view
 [submodule "external/swiftshader"]
 	branch = master
 	path = external/swiftshader
