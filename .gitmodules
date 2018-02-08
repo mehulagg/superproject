@@ -1841,6 +1841,10 @@
 	branch = master
 	path = hardware/qcom/msm8x84
 	url = ../hardware/qcom/msm8x84
+[submodule "hardware/qcom/neuralnetworks/hvxservice"]
+	branch = master
+	path = hardware/qcom/neuralnetworks/hvxservice
+	url = ../hardware/qcom/neuralnetworks/hvxservice
 [submodule "hardware/qcom/power"]
 	branch = master
 	path = hardware/qcom/power
