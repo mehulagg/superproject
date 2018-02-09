@@ -820,10 +820,6 @@
 	branch = master
 	path = external/libldac
 	url = ../external/libldac
-[submodule "external/liblzf"]
-	branch = master
-	path = external/liblzf
-	url = ../external/liblzf
 [submodule "external/libmicrohttpd"]
 	branch = master
 	path = external/libmicrohttpd
