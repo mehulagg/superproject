@@ -2656,6 +2656,7 @@
 	url = ../tools/external/fat32lib
 [submodule "tools/external/gradle"]
 	branch = master
+	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "tools/loganalysis"]
