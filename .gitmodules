@@ -2570,6 +2570,10 @@
 	branch = master
 	path = test/framework
 	url = ../test/framework
+[submodule "test/sts"]
+	branch = master
+	path = test/sts
+	url = ../test/sts
 [submodule "test/vti/alert"]
 	branch = master
 	path = test/vti/alert
