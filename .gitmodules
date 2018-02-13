@@ -1008,10 +1008,6 @@
 	branch = master
 	path = external/netcat
 	url = ../external/netcat
-[submodule "external/netperf"]
-	branch = master
-	path = external/netperf
-	url = ../external/netperf
 [submodule "external/neven"]
 	branch = master
 	path = external/neven
