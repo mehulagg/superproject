@@ -251,10 +251,6 @@
 	branch = master
 	path = device/sample
 	url = ../../device/sample
-[submodule "docs/source.android.com"]
-	branch = master
-	path = docs/source.android.com
-	url = ../docs/source.android.com
 [submodule "external/ImageMagick"]
 	branch = master
 	path = external/ImageMagick
