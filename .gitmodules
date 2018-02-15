@@ -308,6 +308,11 @@
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
+[submodule "prebuilts/clang-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang-tools
+	url = ../prebuilts/clang-tools
 [submodule "prebuilts/clang/host/linux-x86"]
 	branch = master
 	shallow = true
