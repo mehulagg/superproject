@@ -34,6 +34,10 @@
 	branch = master
 	path = device/generic/art
 	url = ../../device/generic/art
+[submodule "external/annotation-tools"]
+	branch = master
+	path = external/annotation-tools
+	url = ../external/annotation-tools
 [submodule "external/antlr"]
 	branch = master
 	path = external/antlr
@@ -95,6 +99,10 @@
 	branch = master
 	path = external/dlmalloc
 	url = ../external/dlmalloc
+[submodule "external/doclava"]
+	branch = master
+	path = external/doclava
+	url = ../external/doclava
 [submodule "external/e2fsprogs"]
 	branch = master
 	path = external/e2fsprogs
@@ -147,6 +155,10 @@
 	branch = master
 	path = external/jemalloc
 	url = ../external/jemalloc
+[submodule "external/jsilver"]
+	branch = master
+	path = external/jsilver
+	url = ../external/jsilver
 [submodule "external/jsr305"]
 	branch = master
 	path = external/jsr305
@@ -259,6 +271,10 @@
 	branch = master
 	path = external/smali
 	url = ../external/smali
+[submodule "external/tagsoup"]
+	branch = master
+	path = external/tagsoup
+	url = ../external/tagsoup
 [submodule "external/toybox"]
 	branch = master
 	path = external/toybox
