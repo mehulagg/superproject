@@ -948,10 +948,6 @@
 	branch = master
 	path = external/mesa3d
 	url = ../external/mesa3d
-[submodule "external/messageformat"]
-	branch = master
-	path = external/messageformat
-	url = ../external/messageformat
 [submodule "external/minijail"]
 	branch = master
 	path = external/minijail
