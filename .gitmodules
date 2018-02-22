@@ -1889,6 +1889,10 @@
 	branch = master
 	path = packages/apps/Car/LatinIME
 	url = ../packages/apps/Car/LatinIME
+[submodule "packages/apps/Car/Launcher"]
+	branch = master
+	path = packages/apps/Car/Launcher
+	url = ../packages/apps/Car/Launcher
 [submodule "packages/apps/Car/LensPicker"]
 	branch = master
 	path = packages/apps/Car/LensPicker
