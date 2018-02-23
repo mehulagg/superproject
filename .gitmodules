@@ -2284,6 +2284,7 @@
 	url = ../prebuilts/cmake/linux-x86
 [submodule "prebuilts/deqp"]
 	branch = master
+	shallow = true
 	path = prebuilts/deqp
 	url = ../prebuilts/deqp
 [submodule "prebuilts/devtools"]
