@@ -351,10 +351,6 @@
 	branch = master
 	path = external/bzip2
 	url = ../external/bzip2
-[submodule "external/c-ares"]
-	branch = master
-	path = external/c-ares
-	url = ../external/c-ares
 [submodule "external/caliper"]
 	branch = master
 	path = external/caliper
