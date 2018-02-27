@@ -652,6 +652,10 @@
 	branch = master
 	path = external/jarjar
 	url = ../external/jarjar
+[submodule "external/javaparser"]
+	branch = master
+	path = external/javaparser
+	url = ../external/javaparser
 [submodule "external/javasqlite"]
 	branch = master
 	path = external/javasqlite
