@@ -1,0 +1,44 @@
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = master
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = master
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "toolchain/binutils"]
+	branch = master
+	path = toolchain/binutils
+	url = ../../toolchain/binutils
+[submodule "toolchain/cloog"]
+	branch = master
+	path = toolchain/cloog
+	url = ../../toolchain/cloog
+[submodule "toolchain/gcc"]
+	branch = master
+	path = toolchain/gcc
+	url = ../../toolchain/gcc
+[submodule "toolchain/gmp"]
+	branch = master
+	path = toolchain/gmp
+	url = ../../toolchain/gmp
+[submodule "toolchain/isl"]
+	branch = master
+	path = toolchain/isl
+	url = ../../toolchain/isl
+[submodule "toolchain/mingw"]
+	branch = master
+	path = toolchain/mingw
+	url = ../../toolchain/mingw
+[submodule "toolchain/mpc"]
+	branch = master
+	path = toolchain/mpc
+	url = ../../toolchain/mpc
+[submodule "toolchain/mpfr"]
+	branch = master
+	path = toolchain/mpfr
+	url = ../../toolchain/mpfr
+[submodule "toolchain/ppl"]
+	branch = master
+	path = toolchain/ppl
+	url = ../../toolchain/ppl
