@@ -1673,6 +1673,10 @@
 	branch = master
 	path = hardware/google/easel
 	url = ../hardware/google/easel
+[submodule "hardware/google/interfaces"]
+	branch = master
+	path = hardware/google/interfaces
+	url = ../hardware/google/interfaces
 [submodule "hardware/intel/audio_media"]
 	branch = master
 	path = hardware/intel/audio_media
