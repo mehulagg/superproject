@@ -508,10 +508,6 @@
 	branch = master
 	path = external/fec
 	url = ../external/fec
-[submodule "external/fio"]
-	branch = master
-	path = external/fio
-	url = ../external/fio
 [submodule "external/flac"]
 	branch = master
 	path = external/flac
