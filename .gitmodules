@@ -177,3 +177,7 @@
 	branch = master
 	path = toolchain/go
 	url = ../../toolchain/go
+[submodule "toolchain/xz"]
+	branch = master
+	path = toolchain/xz
+	url = ../../toolchain/xz
