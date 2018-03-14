@@ -2137,7 +2137,7 @@
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "prebuilts/tools"]
-	branch = oreo-release
+	branch = oreo-vts-dev
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
