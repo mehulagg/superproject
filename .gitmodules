@@ -444,6 +444,10 @@
 	branch = master
 	path = external/doclava
 	url = ../external/doclava
+[submodule "external/dokka"]
+	branch = master
+	path = external/dokka
+	url = ../external/dokka
 [submodule "external/drm_hwcomposer"]
 	branch = master
 	path = external/drm_hwcomposer
