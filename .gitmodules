@@ -2679,6 +2679,10 @@
 	branch = master
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
+[submodule "tools/test/graphicsbenchmark"]
+	branch = master
+	path = tools/test/graphicsbenchmark
+	url = ../tools/test/graphicsbenchmark
 [submodule "tools/tradefederation/contrib"]
 	branch = master
 	path = tools/tradefederation/contrib
