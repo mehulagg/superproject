@@ -114,10 +114,6 @@
 	branch = master
 	path = toolchain/openmp_llvm
 	url = ../../toolchain/openmp_llvm
-[submodule "toolchain/prebuilts/ndk/r15"]
-	branch = master
-	path = toolchain/prebuilts/ndk/r15
-	url = ../../toolchain/prebuilts/ndk/r15
 [submodule "toolchain/prebuilts/ndk/r16"]
 	branch = master
 	path = toolchain/prebuilts/ndk/r16
