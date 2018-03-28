@@ -2675,6 +2675,10 @@
 	branch = master
 	path = tools/repohooks
 	url = ../tools/repohooks
+[submodule "tools/security"]
+	branch = master
+	path = tools/security
+	url = ../tools/security
 [submodule "tools/test/connectivity"]
 	branch = master
 	path = tools/test/connectivity
