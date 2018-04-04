@@ -77,20 +77,6 @@
 	branch = emu-master-dev
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
-[submodule "prebuilts/clang/darwin-x86/host/3.5"]
-	branch = master
-	shallow = true
-	path = prebuilts/clang/darwin-x86/host/3.5
-	url = ../prebuilts/clang/darwin-x86/host/3.5
-[submodule "prebuilts/clang/darwin-x86/host/3.6"]
-	branch = emu-master-dev
-	shallow = true
-	path = prebuilts/clang/darwin-x86/host/3.6
-	url = ../prebuilts/clang/darwin-x86/host/3.6
-[submodule "prebuilts/clang/darwin-x86/sdk/3.5"]
-	branch = master
-	path = prebuilts/clang/darwin-x86/sdk/3.5
-	url = ../prebuilts/clang/darwin-x86/sdk/3.5
 [submodule "prebuilts/clang/host/darwin-x86"]
 	branch = master
 	shallow = true
