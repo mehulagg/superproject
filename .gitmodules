@@ -1381,10 +1381,6 @@
 	branch = master
 	path = external/testng
 	url = ../external/testng
-[submodule "external/timezonepicker-support"]
-	branch = master
-	path = external/timezonepicker-support
-	url = ../external/timezonepicker-support
 [submodule "external/tinyalsa"]
 	branch = master
 	path = external/tinyalsa
