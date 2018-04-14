@@ -52,15 +52,6 @@
 [submodule "prebuilts/android-emulator"]
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
-[submodule "prebuilts/clang/darwin-x86/host/3.5"]
-	path = prebuilts/clang/darwin-x86/host/3.5
-	url = ../prebuilts/clang/darwin-x86/host/3.5
-[submodule "prebuilts/clang/darwin-x86/host/3.6"]
-	path = prebuilts/clang/darwin-x86/host/3.6
-	url = ../prebuilts/clang/darwin-x86/host/3.6
-[submodule "prebuilts/clang/darwin-x86/sdk/3.5"]
-	path = prebuilts/clang/darwin-x86/sdk/3.5
-	url = ../prebuilts/clang/darwin-x86/sdk/3.5
 [submodule "prebuilts/clang/host/darwin-x86"]
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
