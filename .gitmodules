@@ -171,6 +171,10 @@
 	branch = master
 	path = external/junit
 	url = ../external/junit
+[submodule "external/kotlinc"]
+	branch = master
+	path = external/kotlinc
+	url = ../external/kotlinc
 [submodule "external/libcxx"]
 	branch = master
 	path = external/libcxx
