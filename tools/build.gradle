@@ -1,0 +1,162 @@
+apply plugin: 'clone-artifacts'
+
+buildscript {
+    apply from: "$rootDir/buildSrc/base/version.gradle"
+
+    repositories {
+        maven { url "$rootDir/../prebuilts/tools/common/m2/repository" }
+    }
+
+    dependencies {
+        classpath libs.kotlin_gradle_plugin
+    }
+}
+
+allprojects { subproject ->
+    tasks.withType(JavaForkOptions) {
+        // Prevent forked processes from stealing focus (on MacOS at least)
+        jvmArgs '-Djava.awt.headless=true'
+    }
+}
+
+// artifact cloning destinations
+cloneArtifacts {
+    repository = "$rootDir/../prebuilts/tools/common/m2/repository"
+}
+
+if (System.env.USE_EXTERNAL_REPO != null) {
+  allprojects {
+    repositories {
+        maven { url = uri(rootProject.cloneArtifacts.repository) }
+        jcenter()
+        maven { url 'https://repo.gradle.org/gradle/libs-snapshots-local' }
+        maven { url 'https://repo.gradle.org/gradle/libs-releases-local' }
+    }
+  }
+}
+
+/*
+ * With the build server you are given two env variables.
+ * The OUT_DIR is a temporary directory you can use to put things during the build.
+ * The DIST_DIR is where you want to save things from the build.
+ *
+ * The build server will copy the contents of DIST_DIR to somewhere and make it available.
+ */
+// ext.androidHostOut is shared by all tools/{base,build,swt} gradle projects
+if (System.env.OUT_DIR != null) {
+    ext.androidHostOut = file(System.env.OUT_DIR)
+} else {
+    ext.androidHostOut = file("$rootDir/../out")
+}
+if (System.env.DIST_DIR != null) {
+    ext.androidHostDist = file(System.env.DIST_DIR)
+} else {
+    ext.androidHostDist = new File(ext.androidHostOut, "dist")
+}
+
+
+// rootProject.buildDir is specific to this gradle build.
+buildDir = new File(ext.androidHostOut, "build/root")
+
+
+// apply this after the buildDir has been changed.
+apply plugin: 'sdk-tools'
+
+
+ext.localRepo = project.hasProperty('localRepo') ? localRepo : "$ext.androidHostOut/repo"
+
+subprojects { Project project ->
+    // Change buildDir first so that all plugins pick up the new value.
+    project.buildDir = project.file("$project.parent.buildDir/../$project.name/build")
+}
+
+// delay evaluation of this project before all subprojects have been evaluated.
+subprojects.each { subproject -> evaluationDependsOn(subproject.path) }
+
+def testTasks = subprojects.collect { it.tasks.withType(Test) }.flatten()
+
+// Print failed tests to the console early.
+testTasks.each { task ->
+    task.testLogging {
+        events "failed", "skipped"
+    }
+}
+
+task aggregateResults(type: Copy) {
+    from { testTasks*.binResultsDir*.parentFile*.parentFile }
+    into { file("$buildDir/results") }
+}
+
+testTasks.each { task ->
+    aggregateResults.mustRunAfter task
+}
+
+task prepareRepo(type: Copy) {
+    from { rootProject.cloneArtifacts.repository }
+    into { "$rootProject.ext.androidHostOut/repo" }
+}
+
+task("copyGradleProperty").doLast {
+    def gradleProperties = file("${System.env.HOME}/.gradle/gradle.properties")
+    if (gradleProperties.exists()) {
+        project.copy {
+            from { gradleProperties }
+            into { gradle.gradleUserHomeDir }
+        }
+    }
+}
+
+def publishLocalTask = tasks.create(name: 'publishLocal')
+// publishLocalPluginTask that publishes just the plugin dependencies, not any of the runtime
+// artifacts like data binding
+def publishLocalPluginTask = tasks.create(name: 'publishAndroidGradleLocal')
+publishLocalPluginTask.description = """Publishes artifacts that are direct dependencies of the
+    plugin without the runtime artifacts (e.g. data binding runtime lib)."""
+publishLocalTask.dependsOn publishLocalPluginTask
+
+subprojects { project ->
+    if (project.tasks.findByName('publishLocal') != null) {
+        rootProject.publishAndroidGradleLocal.dependsOn project.publishLocal
+        // if we are in release mode, only publish modules that have the
+        // signing plugin applied (found in bintray.gradle)
+        if (project.hasProperty("release")) {
+          project.tasks.publishLocal.enabled=project.plugins.findPlugin('signing') != null
+        }
+    }
+}
+
+subprojects { project ->
+    if (project.hasProperty("runtimeArtifactTasks")) {
+        project.getProperty("runtimeArtifactTasks").each { runtimeArtifactTask ->
+            rootProject.publishLocal.dependsOn runtimeArtifactTask
+            runtimeArtifactTask.dependsOn publishLocalPluginTask
+            def disableRuntimeArtifact = rootProject.hasProperty("disableRuntimeArtifacts") ||
+                    project.hasProperty("disableRuntimeArtifacts")
+            runtimeArtifactTask.enabled = !disableRuntimeArtifact
+        }
+    }
+}
+
+// basic task for custom distribution of project should the build server.
+task('dist').doLast {}
+
+apply plugin: 'offline-repo'
+
+task('clean').doLast {
+  delete 'build'
+
+  new File("$localRepo/com/android/tools").eachFile {
+    if (it.name != "external") {
+      delete it
+    }
+  }
+}
+
+apply plugin: 'presubmit-runner'
+// Task for initializing a fresh repo.
+task init {
+  dependsOn prepareRepo
+  dependsOn copyGradleProperty
+  dependsOn tasks.findByPath(':base:gradle-core:generateGrammarSource')
+  dependsOn tasks.findByPath(':base:build-system:integration-test:framework:generateProto')
+}
