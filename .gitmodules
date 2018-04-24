@@ -2554,6 +2554,10 @@
 	branch = master
 	path = system/tools/aidl
 	url = ../system/tools/aidl
+[submodule "system/tools/bpt"]
+	branch = master
+	path = system/tools/bpt
+	url = ../system/tools/bpt
 [submodule "system/tools/hidl"]
 	branch = master
 	path = system/tools/hidl
