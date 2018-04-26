@@ -360,6 +360,10 @@
 	branch = master
 	path = external/clang
 	url = ../external/clang
+[submodule "external/cldr"]
+	branch = master
+	path = external/cldr
+	url = ../external/cldr
 [submodule "external/cmockery"]
 	branch = master
 	path = external/cmockery
