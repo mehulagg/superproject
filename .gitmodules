@@ -99,14 +99,6 @@
 	branch = master
 	path = device/generic/mini-emulator-armv7-a-neon
 	url = ../../device/generic/mini-emulator-armv7-a-neon
-[submodule "device/generic/mini-emulator-mips"]
-	branch = master
-	path = device/generic/mini-emulator-mips
-	url = ../../device/generic/mini-emulator-mips
-[submodule "device/generic/mini-emulator-mips64"]
-	branch = master
-	path = device/generic/mini-emulator-mips64
-	url = ../../device/generic/mini-emulator-mips64
 [submodule "device/generic/mini-emulator-x86"]
 	branch = master
 	path = device/generic/mini-emulator-x86
@@ -115,14 +107,6 @@
 	branch = master
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
-[submodule "device/generic/mips"]
-	branch = master
-	path = device/generic/mips
-	url = ../../device/generic/mips
-[submodule "device/generic/mips64"]
-	branch = master
-	path = device/generic/mips64
-	url = ../../device/generic/mips64
 [submodule "device/generic/qemu"]
 	branch = master
 	path = device/generic/qemu
