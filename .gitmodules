@@ -1376,7 +1376,7 @@
 	path = frameworks/minikin
 	url = ../frameworks/minikin
 [submodule "frameworks/ml"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-vts-dev
 	path = frameworks/ml
 	url = ../frameworks/ml
 [submodule "frameworks/multidex"]
