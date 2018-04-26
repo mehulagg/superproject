@@ -816,10 +816,6 @@
 	branch = master
 	path = external/libmicrohttpd
 	url = ../external/libmicrohttpd
-[submodule "external/libmojo"]
-	branch = master
-	path = external/libmojo
-	url = ../external/libmojo
 [submodule "external/libmpeg2"]
 	branch = master
 	path = external/libmpeg2
