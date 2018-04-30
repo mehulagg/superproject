@@ -1,0 +1,2033 @@
+[submodule "abi/cpp"]
+	branch = nougat-iot-release
+	path = abi/cpp
+	url = ../abi/cpp
+[submodule "art"]
+	branch = nougat-iot-release
+	path = art
+	url = ../art
+[submodule "bionic"]
+	branch = nougat-iot-release
+	path = bionic
+	url = ../bionic
+[submodule "bootable/recovery"]
+	branch = nougat-iot-release
+	path = bootable/recovery
+	url = ../bootable/recovery
+[submodule "build"]
+	branch = nougat-iot-release
+	path = build
+	url = ../build
+[submodule "compatibility/cdd"]
+	branch = nougat-iot-release
+	path = compatibility/cdd
+	url = ../compatibility/cdd
+[submodule "cts"]
+	branch = nougat-iot-release
+	path = cts
+	url = ../cts
+[submodule "dalvik"]
+	branch = nougat-iot-release
+	path = dalvik
+	url = ../dalvik
+[submodule "developers/build"]
+	branch = nougat-iot-release
+	path = developers/build
+	url = ../developers/build
+[submodule "developers/demos"]
+	branch = nougat-iot-release
+	path = developers/demos
+	url = ../developers/demos
+[submodule "developers/samples/android"]
+	branch = nougat-iot-release
+	path = developers/samples/android
+	url = ../developers/samples/android
+[submodule "development"]
+	branch = nougat-iot-release
+	path = development
+	url = ../development
+[submodule "device/common"]
+	branch = nougat-iot-release
+	path = device/common
+	url = ../../device/common
+[submodule "device/generic/arm64"]
+	branch = nougat-iot-release
+	path = device/generic/arm64
+	url = ../../device/generic/arm64
+[submodule "device/generic/armv7-a-neon"]
+	branch = nougat-iot-release
+	path = device/generic/armv7-a-neon
+	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/common"]
+	branch = nougat-iot-release
+	path = device/generic/common
+	url = ../../device/generic/common
+[submodule "device/generic/goldfish"]
+	branch = nougat-iot-release
+	path = device/generic/goldfish
+	url = ../../device/generic/goldfish
+[submodule "device/generic/mini-emulator-arm64"]
+	branch = nougat-iot-release
+	path = device/generic/mini-emulator-arm64
+	url = ../../device/generic/mini-emulator-arm64
+[submodule "device/generic/mini-emulator-armv7-a-neon"]
+	branch = nougat-iot-release
+	path = device/generic/mini-emulator-armv7-a-neon
+	url = ../../device/generic/mini-emulator-armv7-a-neon
+[submodule "device/generic/mini-emulator-mips"]
+	branch = nougat-iot-release
+	path = device/generic/mini-emulator-mips
+	url = ../../device/generic/mini-emulator-mips
+[submodule "device/generic/mini-emulator-mips64"]
+	branch = nougat-iot-release
+	path = device/generic/mini-emulator-mips64
+	url = ../../device/generic/mini-emulator-mips64
+[submodule "device/generic/mini-emulator-x86"]
+	branch = nougat-iot-release
+	path = device/generic/mini-emulator-x86
+	url = ../../device/generic/mini-emulator-x86
+[submodule "device/generic/mini-emulator-x86_64"]
+	branch = nougat-iot-release
+	path = device/generic/mini-emulator-x86_64
+	url = ../../device/generic/mini-emulator-x86_64
+[submodule "device/generic/mips"]
+	branch = nougat-iot-release
+	path = device/generic/mips
+	url = ../../device/generic/mips
+[submodule "device/generic/mips64"]
+	branch = nougat-iot-release
+	path = device/generic/mips64
+	url = ../../device/generic/mips64
+[submodule "device/generic/qemu"]
+	branch = nougat-iot-release
+	path = device/generic/qemu
+	url = ../../device/generic/qemu
+[submodule "device/generic/x86"]
+	branch = nougat-iot-release
+	path = device/generic/x86
+	url = ../../device/generic/x86
+[submodule "device/generic/x86_64"]
+	branch = nougat-iot-release
+	path = device/generic/x86_64
+	url = ../../device/generic/x86_64
+[submodule "device/google/accessory/arduino"]
+	branch = nougat-iot-release
+	path = device/google/accessory/arduino
+	url = ../../device/google/accessory/arduino
+[submodule "device/google/accessory/demokit"]
+	branch = nougat-iot-release
+	path = device/google/accessory/demokit
+	url = ../../device/google/accessory/demokit
+[submodule "device/google/atv"]
+	branch = nougat-iot-release
+	path = device/google/atv
+	url = ../../device/google/atv
+[submodule "device/google/contexthub"]
+	branch = nougat-iot-release
+	path = device/google/contexthub
+	url = ../../device/google/contexthub
+[submodule "device/sample"]
+	branch = nougat-iot-release
+	path = device/sample
+	url = ../../device/sample
+[submodule "docs/source.android.com"]
+	branch = nougat-iot-release
+	path = docs/source.android.com
+	url = ../docs/source.android.com
+[submodule "external/aac"]
+	branch = nougat-iot-release
+	path = external/aac
+	url = ../external/aac
+[submodule "external/android-clat"]
+	branch = nougat-iot-release
+	path = external/android-clat
+	url = ../external/android-clat
+[submodule "external/android-mock"]
+	branch = nougat-iot-release
+	path = external/android-mock
+	url = ../external/android-mock
+[submodule "external/androidplot"]
+	branch = nougat-iot-release
+	path = external/androidplot
+	url = ../external/androidplot
+[submodule "external/ant-glob"]
+	branch = nougat-iot-release
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "external/antlr"]
+	branch = nougat-iot-release
+	path = external/antlr
+	url = ../external/antlr
+[submodule "external/apache-commons-math"]
+	branch = nougat-iot-release
+	path = external/apache-commons-math
+	url = ../external/apache-commons-math
+[submodule "external/apache-harmony"]
+	branch = nougat-iot-release
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "external/apache-http"]
+	branch = nougat-iot-release
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "external/apache-xml"]
+	branch = nougat-iot-release
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "external/archive-patcher"]
+	branch = nougat-iot-release
+	path = external/archive-patcher
+	url = ../external/archive-patcher
+[submodule "external/autotest"]
+	branch = nougat-iot-release
+	path = external/autotest
+	url = ../external/autotest
+[submodule "external/avahi"]
+	branch = nougat-iot-release
+	path = external/avahi
+	url = ../external/avahi
+[submodule "external/avb"]
+	branch = nougat-iot-release
+	path = external/avb
+	url = ../external/avb
+[submodule "external/bison"]
+	branch = nougat-iot-release
+	path = external/bison
+	url = ../external/bison
+[submodule "external/blktrace"]
+	branch = nougat-iot-release
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "external/boringssl"]
+	branch = nougat-iot-release
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "external/bouncycastle"]
+	branch = nougat-iot-release
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "external/bsdiff"]
+	branch = nougat-iot-release
+	path = external/bsdiff
+	url = ../external/bsdiff
+[submodule "external/bzip2"]
+	branch = nougat-iot-release
+	path = external/bzip2
+	url = ../external/bzip2
+[submodule "external/c-ares"]
+	branch = nougat-iot-release
+	path = external/c-ares
+	url = ../external/c-ares
+[submodule "external/caliper"]
+	branch = nougat-iot-release
+	path = external/caliper
+	url = ../external/caliper
+[submodule "external/cblas"]
+	branch = nougat-iot-release
+	path = external/cblas
+	url = ../external/cblas
+[submodule "external/ceres-solver"]
+	branch = nougat-iot-release
+	path = external/ceres-solver
+	url = ../external/ceres-solver
+[submodule "external/chromium-libpac"]
+	branch = nougat-iot-release
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "external/chromium-trace"]
+	branch = nougat-iot-release
+	path = external/chromium-trace
+	url = ../external/chromium-trace
+[submodule "external/chromium-webview"]
+	branch = nougat-iot-release
+	path = external/chromium-webview
+	url = ../external/chromium-webview
+[submodule "external/clang"]
+	branch = nougat-iot-release
+	path = external/clang
+	url = ../external/clang
+[submodule "external/cmockery"]
+	branch = nougat-iot-release
+	path = external/cmockery
+	url = ../external/cmockery
+[submodule "external/compiler-rt"]
+	branch = nougat-iot-release
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "external/conscrypt"]
+	branch = nougat-iot-release
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "external/crcalc"]
+	branch = nougat-iot-release
+	path = external/crcalc
+	url = ../external/crcalc
+[submodule "external/cros/system_api"]
+	branch = nougat-iot-release
+	path = external/cros/system_api
+	url = ../external/cros/system_api
+[submodule "external/curl"]
+	branch = nougat-iot-release
+	path = external/curl
+	url = ../external/curl
+[submodule "external/dagger2"]
+	branch = nougat-iot-release
+	path = external/dagger2
+	url = ../external/dagger2
+[submodule "external/dbus-binding-generator"]
+	branch = nougat-iot-release
+	path = external/dbus-binding-generator
+	url = ../external/dbus-binding-generator
+[submodule "external/dbus"]
+	branch = nougat-iot-release
+	path = external/dbus
+	url = ../external/dbus
+[submodule "external/deqp"]
+	branch = nougat-iot-release
+	path = external/deqp
+	url = ../external/deqp
+[submodule "external/dexmaker"]
+	branch = nougat-iot-release
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "external/dhcpcd-6.8.2"]
+	branch = nougat-iot-release
+	path = external/dhcpcd-6.8.2
+	url = ../external/dhcpcd-6.8.2
+[submodule "external/dlmalloc"]
+	branch = nougat-iot-release
+	path = external/dlmalloc
+	url = ../external/dlmalloc
+[submodule "external/dng_sdk"]
+	branch = nougat-iot-release
+	path = external/dng_sdk
+	url = ../external/dng_sdk
+[submodule "external/dnsmasq"]
+	branch = nougat-iot-release
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "external/doclava"]
+	branch = nougat-iot-release
+	path = external/doclava
+	url = ../external/doclava
+[submodule "external/donuts"]
+	branch = nougat-iot-release
+	path = external/donuts
+	url = ../external/donuts
+[submodule "external/drm_gralloc"]
+	branch = nougat-iot-release
+	path = external/drm_gralloc
+	url = ../external/drm_gralloc
+[submodule "external/drm_hwcomposer"]
+	branch = nougat-iot-release
+	path = external/drm_hwcomposer
+	url = ../external/drm_hwcomposer
+[submodule "external/droiddriver"]
+	branch = nougat-iot-release
+	path = external/droiddriver
+	url = ../external/droiddriver
+[submodule "external/dtc"]
+	branch = nougat-iot-release
+	path = external/dtc
+	url = ../external/dtc
+[submodule "external/e2fsprogs"]
+	branch = nougat-iot-release
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "external/easymock"]
+	branch = nougat-iot-release
+	path = external/easymock
+	url = ../external/easymock
+[submodule "external/eclipse-basebuilder"]
+	branch = nougat-iot-release
+	path = external/eclipse-basebuilder
+	url = ../external/eclipse-basebuilder
+[submodule "external/eclipse-windowbuilder"]
+	branch = nougat-iot-release
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "external/eigen"]
+	branch = nougat-iot-release
+	path = external/eigen
+	url = ../external/eigen
+[submodule "external/elfutils"]
+	branch = nougat-iot-release
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "external/embunit"]
+	branch = nougat-iot-release
+	path = external/embunit
+	url = ../external/embunit
+[submodule "external/emma"]
+	branch = nougat-iot-release
+	path = external/emma
+	url = ../external/emma
+[submodule "external/esd"]
+	branch = nougat-iot-release
+	path = external/esd
+	url = ../external/esd
+[submodule "external/expat"]
+	branch = nougat-iot-release
+	path = external/expat
+	url = ../external/expat
+[submodule "external/eyes-free"]
+	branch = nougat-iot-release
+	path = external/eyes-free
+	url = ../external/eyes-free
+[submodule "external/f2fs-tools"]
+	branch = nougat-iot-release
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "external/fdlibm"]
+	branch = nougat-iot-release
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "external/fec"]
+	branch = nougat-iot-release
+	path = external/fec
+	url = ../external/fec
+[submodule "external/fio"]
+	branch = nougat-iot-release
+	path = external/fio
+	url = ../external/fio
+[submodule "external/flac"]
+	branch = nougat-iot-release
+	path = external/flac
+	url = ../external/flac
+[submodule "external/fonttools"]
+	branch = nougat-iot-release
+	path = external/fonttools
+	url = ../external/fonttools
+[submodule "external/freetype"]
+	branch = nougat-iot-release
+	path = external/freetype
+	url = ../external/freetype
+[submodule "external/fsck_msdos"]
+	branch = nougat-iot-release
+	path = external/fsck_msdos
+	url = ../external/fsck_msdos
+[submodule "external/gemmlowp"]
+	branch = nougat-iot-release
+	path = external/gemmlowp
+	url = ../external/gemmlowp
+[submodule "external/giflib"]
+	branch = nougat-iot-release
+	path = external/giflib
+	url = ../external/giflib
+[submodule "external/glide"]
+	branch = nougat-iot-release
+	path = external/glide
+	url = ../external/glide
+[submodule "external/gmock"]
+	branch = nougat-iot-release
+	path = external/gmock
+	url = ../external/gmock
+[submodule "external/google-benchmark"]
+	branch = nougat-iot-release
+	path = external/google-benchmark
+	url = ../external/google-benchmark
+[submodule "external/google-breakpad"]
+	branch = nougat-iot-release
+	path = external/google-breakpad
+	url = ../external/google-breakpad
+[submodule "external/google-fonts/carrois-gothic-sc"]
+	branch = nougat-iot-release
+	path = external/google-fonts/carrois-gothic-sc
+	url = ../external/google-fonts/carrois-gothic-sc
+[submodule "external/google-fonts/coming-soon"]
+	branch = nougat-iot-release
+	path = external/google-fonts/coming-soon
+	url = ../external/google-fonts/coming-soon
+[submodule "external/google-fonts/cutive-mono"]
+	branch = nougat-iot-release
+	path = external/google-fonts/cutive-mono
+	url = ../external/google-fonts/cutive-mono
+[submodule "external/google-fonts/dancing-script"]
+	branch = nougat-iot-release
+	path = external/google-fonts/dancing-script
+	url = ../external/google-fonts/dancing-script
+[submodule "external/google-tv-pairing-protocol"]
+	branch = nougat-iot-release
+	path = external/google-tv-pairing-protocol
+	url = ../external/google-tv-pairing-protocol
+[submodule "external/gptfdisk"]
+	branch = nougat-iot-release
+	path = external/gptfdisk
+	url = ../external/gptfdisk
+[submodule "external/gtest"]
+	branch = nougat-iot-release
+	path = external/gtest
+	url = ../external/gtest
+[submodule "external/guava"]
+	branch = nougat-iot-release
+	path = external/guava
+	url = ../external/guava
+[submodule "external/guice"]
+	branch = nougat-iot-release
+	path = external/guice
+	url = ../external/guice
+[submodule "external/hamcrest"]
+	branch = nougat-iot-release
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "external/harfbuzz_ng"]
+	branch = nougat-iot-release
+	path = external/harfbuzz_ng
+	url = ../external/harfbuzz_ng
+[submodule "external/hyphenation-patterns"]
+	branch = nougat-iot-release
+	path = external/hyphenation-patterns
+	url = ../external/hyphenation-patterns
+[submodule "external/icu"]
+	branch = nougat-iot-release
+	path = external/icu
+	url = ../external/icu
+[submodule "external/iproute2"]
+	branch = nougat-iot-release
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "external/ipsec-tools"]
+	branch = nougat-iot-release
+	path = external/ipsec-tools
+	url = ../external/ipsec-tools
+[submodule "external/iptables"]
+	branch = nougat-iot-release
+	path = external/iptables
+	url = ../external/iptables
+[submodule "external/iputils"]
+	branch = nougat-iot-release
+	path = external/iputils
+	url = ../external/iputils
+[submodule "external/iw"]
+	branch = nougat-iot-release
+	path = external/iw
+	url = ../external/iw
+[submodule "external/jacoco"]
+	branch = nougat-iot-release
+	path = external/jacoco
+	url = ../external/jacoco
+[submodule "external/jarjar"]
+	branch = nougat-iot-release
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "external/javasqlite"]
+	branch = nougat-iot-release
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "external/javassist"]
+	branch = nougat-iot-release
+	path = external/javassist
+	url = ../external/javassist
+[submodule "external/jcommander"]
+	branch = nougat-iot-release
+	path = external/jcommander
+	url = ../external/jcommander
+[submodule "external/jdiff"]
+	branch = nougat-iot-release
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "external/jemalloc"]
+	branch = nougat-iot-release
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "external/jetty"]
+	branch = nougat-iot-release
+	path = external/jetty
+	url = ../external/jetty
+[submodule "external/jhead"]
+	branch = nougat-iot-release
+	path = external/jhead
+	url = ../external/jhead
+[submodule "external/jmdns"]
+	branch = nougat-iot-release
+	path = external/jmdns
+	url = ../external/jmdns
+[submodule "external/jmonkeyengine"]
+	branch = nougat-iot-release
+	path = external/jmonkeyengine
+	url = ../external/jmonkeyengine
+[submodule "external/jsilver"]
+	branch = nougat-iot-release
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "external/jsmn"]
+	branch = nougat-iot-release
+	path = external/jsmn
+	url = ../external/jsmn
+[submodule "external/jsoncpp"]
+	branch = nougat-iot-release
+	path = external/jsoncpp
+	url = ../external/jsoncpp
+[submodule "external/jsr305"]
+	branch = nougat-iot-release
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "external/jsr330"]
+	branch = nougat-iot-release
+	path = external/jsr330
+	url = ../external/jsr330
+[submodule "external/junit"]
+	branch = nougat-iot-release
+	path = external/junit
+	url = ../external/junit
+[submodule "external/kernel-headers"]
+	branch = nougat-iot-release
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "external/ksoap2"]
+	branch = nougat-iot-release
+	path = external/ksoap2
+	url = ../external/ksoap2
+[submodule "external/libavc"]
+	branch = nougat-iot-release
+	path = external/libavc
+	url = ../external/libavc
+[submodule "external/libbrillo"]
+	branch = nougat-iot-release
+	path = external/libbrillo
+	url = ../external/libbrillo
+[submodule "external/libcap-ng"]
+	branch = nougat-iot-release
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "external/libcap"]
+	branch = nougat-iot-release
+	path = external/libcap
+	url = ../external/libcap
+[submodule "external/libchrome"]
+	branch = nougat-iot-release
+	path = external/libchrome
+	url = ../external/libchrome
+[submodule "external/libcxx"]
+	branch = nougat-iot-release
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "external/libcxxabi"]
+	branch = nougat-iot-release
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "external/libdaemon"]
+	branch = nougat-iot-release
+	path = external/libdaemon
+	url = ../external/libdaemon
+[submodule "external/libdivsufsort"]
+	branch = nougat-iot-release
+	path = external/libdivsufsort
+	url = ../external/libdivsufsort
+[submodule "external/libdrm"]
+	branch = nougat-iot-release
+	path = external/libdrm
+	url = ../external/libdrm
+[submodule "external/libedit"]
+	branch = nougat-iot-release
+	path = external/libedit
+	url = ../external/libedit
+[submodule "external/libevent"]
+	branch = nougat-iot-release
+	path = external/libevent
+	url = ../external/libevent
+[submodule "external/libexif"]
+	branch = nougat-iot-release
+	path = external/libexif
+	url = ../external/libexif
+[submodule "external/libgsm"]
+	branch = nougat-iot-release
+	path = external/libgsm
+	url = ../external/libgsm
+[submodule "external/libhevc"]
+	branch = nougat-iot-release
+	path = external/libhevc
+	url = ../external/libhevc
+[submodule "external/libjpeg-turbo"]
+	branch = nougat-iot-release
+	path = external/libjpeg-turbo
+	url = ../external/libjpeg-turbo
+[submodule "external/liblzf"]
+	branch = nougat-iot-release
+	path = external/liblzf
+	url = ../external/liblzf
+[submodule "external/libmicrohttpd"]
+	branch = nougat-iot-release
+	path = external/libmicrohttpd
+	url = ../external/libmicrohttpd
+[submodule "external/libmpeg2"]
+	branch = nougat-iot-release
+	path = external/libmpeg2
+	url = ../external/libmpeg2
+[submodule "external/libmtp"]
+	branch = nougat-iot-release
+	path = external/libmtp
+	url = ../external/libmtp
+[submodule "external/libnfc-nci"]
+	branch = nougat-iot-release
+	path = external/libnfc-nci
+	url = ../external/libnfc-nci
+[submodule "external/libnfc-nxp"]
+	branch = nougat-iot-release
+	path = external/libnfc-nxp
+	url = ../external/libnfc-nxp
+[submodule "external/libnl"]
+	branch = nougat-iot-release
+	path = external/libnl
+	url = ../external/libnl
+[submodule "external/libogg"]
+	branch = nougat-iot-release
+	path = external/libogg
+	url = ../external/libogg
+[submodule "external/libopus"]
+	branch = nougat-iot-release
+	path = external/libopus
+	url = ../external/libopus
+[submodule "external/libpcap"]
+	branch = nougat-iot-release
+	path = external/libpcap
+	url = ../external/libpcap
+[submodule "external/libphonenumber"]
+	branch = nougat-iot-release
+	path = external/libphonenumber
+	url = ../external/libphonenumber
+[submodule "external/libpng"]
+	branch = nougat-iot-release
+	path = external/libpng
+	url = ../external/libpng
+[submodule "external/libselinux"]
+	branch = nougat-iot-release
+	path = external/libselinux
+	url = ../external/libselinux
+[submodule "external/libunwind"]
+	branch = nougat-iot-release
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "external/libunwind_llvm"]
+	branch = nougat-iot-release
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "external/libusb-compat"]
+	branch = nougat-iot-release
+	path = external/libusb-compat
+	url = ../external/libusb-compat
+[submodule "external/libusb"]
+	branch = nougat-iot-release
+	path = external/libusb
+	url = ../external/libusb
+[submodule "external/libutf"]
+	branch = nougat-iot-release
+	path = external/libutf
+	url = ../external/libutf
+[submodule "external/libvncserver"]
+	branch = nougat-iot-release
+	path = external/libvncserver
+	url = ../external/libvncserver
+[submodule "external/libvorbis"]
+	branch = nougat-iot-release
+	path = external/libvorbis
+	url = ../external/libvorbis
+[submodule "external/libvpx"]
+	branch = nougat-iot-release
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "external/libvterm"]
+	branch = nougat-iot-release
+	path = external/libvterm
+	url = ../external/libvterm
+[submodule "external/libweave"]
+	branch = nougat-iot-release
+	path = external/libweave
+	url = ../external/libweave
+[submodule "external/libxml2"]
+	branch = nougat-iot-release
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "external/libyuv"]
+	branch = nougat-iot-release
+	path = external/libyuv
+	url = ../external/libyuv
+[submodule "external/littlemock"]
+	branch = nougat-iot-release
+	path = external/littlemock
+	url = ../external/littlemock
+[submodule "external/lld"]
+	branch = nougat-iot-release
+	path = external/lld
+	url = ../external/lld
+[submodule "external/lldb"]
+	branch = nougat-iot-release
+	path = external/lldb
+	url = ../external/lldb
+[submodule "external/llvm"]
+	branch = nougat-iot-release
+	path = external/llvm
+	url = ../external/llvm
+[submodule "external/ltrace"]
+	branch = nougat-iot-release
+	path = external/ltrace
+	url = ../external/ltrace
+[submodule "external/lz4"]
+	branch = nougat-iot-release
+	path = external/lz4
+	url = ../external/lz4
+[submodule "external/lzma"]
+	branch = nougat-iot-release
+	path = external/lzma
+	url = ../external/lzma
+[submodule "external/marisa-trie"]
+	branch = nougat-iot-release
+	path = external/marisa-trie
+	url = ../external/marisa-trie
+[submodule "external/markdown"]
+	branch = nougat-iot-release
+	path = external/markdown
+	url = ../external/markdown
+[submodule "external/mdnsresponder"]
+	branch = nougat-iot-release
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "external/mesa3d"]
+	branch = nougat-iot-release
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "external/messageformat"]
+	branch = nougat-iot-release
+	path = external/messageformat
+	url = ../external/messageformat
+[submodule "external/minijail"]
+	branch = nougat-iot-release
+	path = external/minijail
+	url = ../external/minijail
+[submodule "external/mksh"]
+	branch = nougat-iot-release
+	path = external/mksh
+	url = ../external/mksh
+[submodule "external/mmc-utils"]
+	branch = nougat-iot-release
+	path = external/mmc-utils
+	url = ../external/mmc-utils
+[submodule "external/mockftpserver"]
+	branch = nougat-iot-release
+	path = external/mockftpserver
+	url = ../external/mockftpserver
+[submodule "external/mockito"]
+	branch = nougat-iot-release
+	path = external/mockito
+	url = ../external/mockito
+[submodule "external/mockwebserver"]
+	branch = nougat-iot-release
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "external/modp_b64"]
+	branch = nougat-iot-release
+	path = external/modp_b64
+	url = ../external/modp_b64
+[submodule "external/mp4parser"]
+	branch = nougat-iot-release
+	path = external/mp4parser
+	url = ../external/mp4parser
+[submodule "external/mtpd"]
+	branch = nougat-iot-release
+	path = external/mtpd
+	url = ../external/mtpd
+[submodule "external/nanohttpd"]
+	branch = nougat-iot-release
+	path = external/nanohttpd
+	url = ../external/nanohttpd
+[submodule "external/nanopb-c"]
+	branch = nougat-iot-release
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "external/naver-fonts"]
+	branch = nougat-iot-release
+	path = external/naver-fonts
+	url = ../external/naver-fonts
+[submodule "external/netcat"]
+	branch = nougat-iot-release
+	path = external/netcat
+	url = ../external/netcat
+[submodule "external/netperf"]
+	branch = nougat-iot-release
+	path = external/netperf
+	url = ../external/netperf
+[submodule "external/neven"]
+	branch = nougat-iot-release
+	path = external/neven
+	url = ../external/neven
+[submodule "external/nfacct"]
+	branch = nougat-iot-release
+	path = external/nfacct
+	url = ../external/nfacct
+[submodule "external/nist-pkits"]
+	branch = nougat-iot-release
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "external/nist-sip"]
+	branch = nougat-iot-release
+	path = external/nist-sip
+	url = ../external/nist-sip
+[submodule "external/noto-fonts"]
+	branch = nougat-iot-release
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "external/oauth"]
+	branch = nougat-iot-release
+	path = external/oauth
+	url = ../external/oauth
+[submodule "external/objenesis"]
+	branch = nougat-iot-release
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "external/okhttp"]
+	branch = nougat-iot-release
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "external/opencv"]
+	branch = nougat-iot-release
+	path = external/opencv
+	url = ../external/opencv
+[submodule "external/opencv3"]
+	branch = nougat-iot-release
+	path = external/opencv3
+	url = ../external/opencv3
+[submodule "external/openfst"]
+	branch = nougat-iot-release
+	path = external/openfst
+	url = ../external/openfst
+[submodule "external/openssh"]
+	branch = nougat-iot-release
+	path = external/openssh
+	url = ../external/openssh
+[submodule "external/owasp/sanitizer"]
+	branch = nougat-iot-release
+	path = external/owasp/sanitizer
+	url = ../external/owasp/sanitizer
+[submodule "external/parameter-framework"]
+	branch = nougat-iot-release
+	path = external/parameter-framework
+	url = ../external/parameter-framework
+[submodule "external/pcre"]
+	branch = nougat-iot-release
+	path = external/pcre
+	url = ../external/pcre
+[submodule "external/pdfium"]
+	branch = nougat-iot-release
+	path = external/pdfium
+	url = ../external/pdfium
+[submodule "external/piex"]
+	branch = nougat-iot-release
+	path = external/piex
+	url = ../external/piex
+[submodule "external/ppp"]
+	branch = nougat-iot-release
+	path = external/ppp
+	url = ../external/ppp
+[submodule "external/proguard"]
+	branch = nougat-iot-release
+	path = external/proguard
+	url = ../external/proguard
+[submodule "external/protobuf"]
+	branch = nougat-iot-release
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "external/regex-re2"]
+	branch = nougat-iot-release
+	path = external/regex-re2
+	url = ../external/regex-re2
+[submodule "external/replicaisland"]
+	branch = nougat-iot-release
+	path = external/replicaisland
+	url = ../external/replicaisland
+[submodule "external/rmi4utils"]
+	branch = nougat-iot-release
+	path = external/rmi4utils
+	url = ../external/rmi4utils
+[submodule "external/robolectric"]
+	branch = nougat-iot-release
+	path = external/robolectric
+	url = ../external/robolectric
+[submodule "external/roboto-fonts"]
+	branch = nougat-iot-release
+	path = external/roboto-fonts
+	url = ../external/roboto-fonts
+[submodule "external/rootdev"]
+	branch = nougat-iot-release
+	path = external/rootdev
+	url = ../external/rootdev
+[submodule "external/safe-iop"]
+	branch = nougat-iot-release
+	path = external/safe-iop
+	url = ../external/safe-iop
+[submodule "external/scrypt"]
+	branch = nougat-iot-release
+	path = external/scrypt
+	url = ../external/scrypt
+[submodule "external/selinux"]
+	branch = nougat-iot-release
+	path = external/selinux
+	url = ../external/selinux
+[submodule "external/sfntly"]
+	branch = nougat-iot-release
+	path = external/sfntly
+	url = ../external/sfntly
+[submodule "external/shflags"]
+	branch = nougat-iot-release
+	path = external/shflags
+	url = ../external/shflags
+[submodule "external/skia"]
+	branch = nougat-iot-release
+	path = external/skia
+	url = ../external/skia
+[submodule "external/sl4a"]
+	branch = nougat-iot-release
+	path = external/sl4a
+	url = ../external/sl4a
+[submodule "external/slf4j"]
+	branch = nougat-iot-release
+	path = external/slf4j
+	url = ../external/slf4j
+[submodule "external/smali"]
+	branch = nougat-iot-release
+	path = external/smali
+	url = ../external/smali
+[submodule "external/snakeyaml"]
+	branch = nougat-iot-release
+	path = external/snakeyaml
+	url = ../external/snakeyaml
+[submodule "external/sonic"]
+	branch = nougat-iot-release
+	path = external/sonic
+	url = ../external/sonic
+[submodule "external/sonivox"]
+	branch = nougat-iot-release
+	path = external/sonivox
+	url = ../external/sonivox
+[submodule "external/speex"]
+	branch = nougat-iot-release
+	path = external/speex
+	url = ../external/speex
+[submodule "external/sqlite"]
+	branch = nougat-iot-release
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "external/squashfs-tools"]
+	branch = nougat-iot-release
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
+[submodule "external/srtp"]
+	branch = nougat-iot-release
+	path = external/srtp
+	url = ../external/srtp
+[submodule "external/strace"]
+	branch = nougat-iot-release
+	path = external/strace
+	url = ../external/strace
+[submodule "external/svox"]
+	branch = nougat-iot-release
+	path = external/svox
+	url = ../external/svox
+[submodule "external/swiftshader"]
+	branch = nougat-iot-release
+	path = external/swiftshader
+	url = ../external/swiftshader
+[submodule "external/tagsoup"]
+	branch = nougat-iot-release
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "external/tcpdump"]
+	branch = nougat-iot-release
+	path = external/tcpdump
+	url = ../external/tcpdump
+[submodule "external/testng"]
+	branch = nougat-iot-release
+	path = external/testng
+	url = ../external/testng
+[submodule "external/timezonepicker-support"]
+	branch = nougat-iot-release
+	path = external/timezonepicker-support
+	url = ../external/timezonepicker-support
+[submodule "external/tinyalsa"]
+	branch = nougat-iot-release
+	path = external/tinyalsa
+	url = ../external/tinyalsa
+[submodule "external/tinycompress"]
+	branch = nougat-iot-release
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "external/tinyxml"]
+	branch = nougat-iot-release
+	path = external/tinyxml
+	url = ../external/tinyxml
+[submodule "external/tinyxml2"]
+	branch = nougat-iot-release
+	path = external/tinyxml2
+	url = ../external/tinyxml2
+[submodule "external/tlsdate"]
+	branch = nougat-iot-release
+	path = external/tlsdate
+	url = ../external/tlsdate
+[submodule "external/toybox"]
+	branch = nougat-iot-release
+	path = external/toybox
+	url = ../external/toybox
+[submodule "external/tpm2"]
+	branch = nougat-iot-release
+	path = external/tpm2
+	url = ../external/tpm2
+[submodule "external/tremolo"]
+	branch = nougat-iot-release
+	path = external/tremolo
+	url = ../external/tremolo
+[submodule "external/u-boot"]
+	branch = nougat-iot-release
+	path = external/u-boot
+	url = ../external/u-boot
+[submodule "external/unicode"]
+	branch = nougat-iot-release
+	path = external/unicode
+	url = ../external/unicode
+[submodule "external/v8"]
+	branch = nougat-iot-release
+	path = external/v8
+	url = ../external/v8
+[submodule "external/valgrind"]
+	branch = nougat-iot-release
+	path = external/valgrind
+	url = ../external/valgrind
+[submodule "external/vboot_reference"]
+	branch = nougat-iot-release
+	path = external/vboot_reference
+	url = ../external/vboot_reference
+[submodule "external/vixl"]
+	branch = nougat-iot-release
+	path = external/vixl
+	url = ../external/vixl
+[submodule "external/vogar"]
+	branch = nougat-iot-release
+	path = external/vogar
+	url = ../external/vogar
+[submodule "external/vulkan-validation-layers"]
+	branch = nougat-iot-release
+	path = external/vulkan-validation-layers
+	url = ../external/vulkan-validation-layers
+[submodule "external/webp"]
+	branch = nougat-iot-release
+	path = external/webp
+	url = ../external/webp
+[submodule "external/webrtc"]
+	branch = nougat-iot-release
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "external/wpa_supplicant_8"]
+	branch = nougat-iot-release
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "external/xmlrpcpp"]
+	branch = nougat-iot-release
+	path = external/xmlrpcpp
+	url = ../external/xmlrpcpp
+[submodule "external/xmlwriter"]
+	branch = nougat-iot-release
+	path = external/xmlwriter
+	url = ../external/xmlwriter
+[submodule "external/xmp_toolkit"]
+	branch = nougat-iot-release
+	path = external/xmp_toolkit
+	url = ../external/xmp_toolkit
+[submodule "external/zlib"]
+	branch = nougat-iot-release
+	path = external/zlib
+	url = ../external/zlib
+[submodule "external/zopfli"]
+	branch = nougat-iot-release
+	path = external/zopfli
+	url = ../external/zopfli
+[submodule "external/zxing"]
+	branch = nougat-iot-release
+	path = external/zxing
+	url = ../external/zxing
+[submodule "frameworks/av"]
+	branch = nougat-iot-release
+	path = frameworks/av
+	url = ../frameworks/av
+[submodule "frameworks/base"]
+	branch = nougat-iot-release
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "frameworks/compile/libbcc"]
+	branch = nougat-iot-release
+	path = frameworks/compile/libbcc
+	url = ../frameworks/compile/libbcc
+[submodule "frameworks/compile/mclinker"]
+	branch = nougat-iot-release
+	path = frameworks/compile/mclinker
+	url = ../frameworks/compile/mclinker
+[submodule "frameworks/compile/slang"]
+	branch = nougat-iot-release
+	path = frameworks/compile/slang
+	url = ../frameworks/compile/slang
+[submodule "frameworks/data-binding"]
+	branch = nougat-iot-release
+	path = frameworks/data-binding
+	url = ../frameworks/data-binding
+[submodule "frameworks/ex"]
+	branch = nougat-iot-release
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "frameworks/minikin"]
+	branch = nougat-iot-release
+	path = frameworks/minikin
+	url = ../frameworks/minikin
+[submodule "frameworks/ml"]
+	branch = nougat-iot-release
+	path = frameworks/ml
+	url = ../frameworks/ml
+[submodule "frameworks/multidex"]
+	branch = nougat-iot-release
+	path = frameworks/multidex
+	url = ../frameworks/multidex
+[submodule "frameworks/native"]
+	branch = nougat-iot-release
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "frameworks/opt/bitmap"]
+	branch = nougat-iot-release
+	path = frameworks/opt/bitmap
+	url = ../frameworks/opt/bitmap
+[submodule "frameworks/opt/bluetooth"]
+	branch = nougat-iot-release
+	path = frameworks/opt/bluetooth
+	url = ../frameworks/opt/bluetooth
+[submodule "frameworks/opt/calendar"]
+	branch = nougat-iot-release
+	path = frameworks/opt/calendar
+	url = ../frameworks/opt/calendar
+[submodule "frameworks/opt/chips"]
+	branch = nougat-iot-release
+	path = frameworks/opt/chips
+	url = ../frameworks/opt/chips
+[submodule "frameworks/opt/colorpicker"]
+	branch = nougat-iot-release
+	path = frameworks/opt/colorpicker
+	url = ../frameworks/opt/colorpicker
+[submodule "frameworks/opt/datetimepicker"]
+	branch = nougat-iot-release
+	path = frameworks/opt/datetimepicker
+	url = ../frameworks/opt/datetimepicker
+[submodule "frameworks/opt/emoji"]
+	branch = nougat-iot-release
+	path = frameworks/opt/emoji
+	url = ../frameworks/opt/emoji
+[submodule "frameworks/opt/inputconnectioncommon"]
+	branch = nougat-iot-release
+	path = frameworks/opt/inputconnectioncommon
+	url = ../frameworks/opt/inputconnectioncommon
+[submodule "frameworks/opt/inputmethodcommon"]
+	branch = nougat-iot-release
+	path = frameworks/opt/inputmethodcommon
+	url = ../frameworks/opt/inputmethodcommon
+[submodule "frameworks/opt/net/ethernet"]
+	branch = nougat-iot-release
+	path = frameworks/opt/net/ethernet
+	url = ../frameworks/opt/net/ethernet
+[submodule "frameworks/opt/net/ims"]
+	branch = nougat-iot-release
+	path = frameworks/opt/net/ims
+	url = ../frameworks/opt/net/ims
+[submodule "frameworks/opt/net/voip"]
+	branch = nougat-iot-release
+	path = frameworks/opt/net/voip
+	url = ../frameworks/opt/net/voip
+[submodule "frameworks/opt/net/wifi"]
+	branch = nougat-iot-release
+	path = frameworks/opt/net/wifi
+	url = ../frameworks/opt/net/wifi
+[submodule "frameworks/opt/photoviewer"]
+	branch = nougat-iot-release
+	path = frameworks/opt/photoviewer
+	url = ../frameworks/opt/photoviewer
+[submodule "frameworks/opt/setupwizard"]
+	branch = nougat-iot-release
+	path = frameworks/opt/setupwizard
+	url = ../frameworks/opt/setupwizard
+[submodule "frameworks/opt/telephony"]
+	branch = nougat-iot-release
+	path = frameworks/opt/telephony
+	url = ../frameworks/opt/telephony
+[submodule "frameworks/opt/timezonepicker"]
+	branch = nougat-iot-release
+	path = frameworks/opt/timezonepicker
+	url = ../frameworks/opt/timezonepicker
+[submodule "frameworks/opt/vcard"]
+	branch = nougat-iot-release
+	path = frameworks/opt/vcard
+	url = ../frameworks/opt/vcard
+[submodule "frameworks/rs"]
+	branch = nougat-iot-release
+	path = frameworks/rs
+	url = ../frameworks/rs
+[submodule "frameworks/support"]
+	branch = nougat-iot-release
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "frameworks/volley"]
+	branch = nougat-iot-release
+	path = frameworks/volley
+	url = ../frameworks/volley
+[submodule "frameworks/webview"]
+	branch = nougat-iot-release
+	path = frameworks/webview
+	url = ../frameworks/webview
+[submodule "frameworks/wilhelm"]
+	branch = nougat-iot-release
+	path = frameworks/wilhelm
+	url = ../frameworks/wilhelm
+[submodule "hardware/akm"]
+	branch = nougat-iot-release
+	path = hardware/akm
+	url = ../hardware/akm
+[submodule "hardware/broadcom/libbt"]
+	branch = nougat-iot-release
+	path = hardware/broadcom/libbt
+	url = ../hardware/broadcom/libbt
+[submodule "hardware/broadcom/wlan"]
+	branch = nougat-iot-release
+	path = hardware/broadcom/wlan
+	url = ../hardware/broadcom/wlan
+[submodule "hardware/bsp/kernel/common/v4.4"]
+	branch = nougat-iot-release
+	path = hardware/bsp/kernel/common/v4.4
+	url = ../hardware/bsp/kernel/common/v4.4
+[submodule "hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10"]
+	branch = nougat-iot-release
+	path = hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10
+	url = ../hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10
+[submodule "hardware/google/apf"]
+	branch = nougat-iot-release
+	path = hardware/google/apf
+	url = ../hardware/google/apf
+[submodule "hardware/intel/audio_media"]
+	branch = nougat-iot-release
+	path = hardware/intel/audio_media
+	url = ../hardware/intel/audio_media
+[submodule "hardware/intel/bootstub"]
+	branch = nougat-iot-release
+	path = hardware/intel/bootstub
+	url = ../hardware/intel/bootstub
+[submodule "hardware/intel/common/bd_prov"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/bd_prov
+	url = ../hardware/intel/common/bd_prov
+[submodule "hardware/intel/common/libmix"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/libmix
+	url = ../hardware/intel/common/libmix
+[submodule "hardware/intel/common/libstagefrighthw"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/libstagefrighthw
+	url = ../hardware/intel/common/libstagefrighthw
+[submodule "hardware/intel/common/libva"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/libva
+	url = ../hardware/intel/common/libva
+[submodule "hardware/intel/common/libwsbm"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/libwsbm
+	url = ../hardware/intel/common/libwsbm
+[submodule "hardware/intel/common/omx-components"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/omx-components
+	url = ../hardware/intel/common/omx-components
+[submodule "hardware/intel/common/utils"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/utils
+	url = ../hardware/intel/common/utils
+[submodule "hardware/intel/common/wrs_omxil_core"]
+	branch = nougat-iot-release
+	path = hardware/intel/common/wrs_omxil_core
+	url = ../hardware/intel/common/wrs_omxil_core
+[submodule "hardware/intel/img/hwcomposer"]
+	branch = nougat-iot-release
+	path = hardware/intel/img/hwcomposer
+	url = ../hardware/intel/img/hwcomposer
+[submodule "hardware/intel/img/psb_headers"]
+	branch = nougat-iot-release
+	path = hardware/intel/img/psb_headers
+	url = ../hardware/intel/img/psb_headers
+[submodule "hardware/intel/img/psb_video"]
+	branch = nougat-iot-release
+	path = hardware/intel/img/psb_video
+	url = ../hardware/intel/img/psb_video
+[submodule "hardware/intel/sensors"]
+	branch = nougat-iot-release
+	path = hardware/intel/sensors
+	url = ../hardware/intel/sensors
+[submodule "hardware/invensense"]
+	branch = nougat-iot-release
+	path = hardware/invensense
+	url = ../hardware/invensense
+[submodule "hardware/libhardware"]
+	branch = nougat-iot-release
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "hardware/libhardware_legacy"]
+	branch = nougat-iot-release
+	path = hardware/libhardware_legacy
+	url = ../hardware/libhardware_legacy
+[submodule "hardware/marvell/bt"]
+	branch = nougat-iot-release
+	path = hardware/marvell/bt
+	url = ../hardware/marvell/bt
+[submodule "hardware/qcom/audio"]
+	branch = nougat-iot-release
+	path = hardware/qcom/audio
+	url = ../hardware/qcom/audio
+[submodule "hardware/qcom/bootctrl"]
+	branch = nougat-iot-release
+	path = hardware/qcom/bootctrl
+	url = ../hardware/qcom/bootctrl
+[submodule "hardware/qcom/bt"]
+	branch = nougat-iot-release
+	path = hardware/qcom/bt
+	url = ../hardware/qcom/bt
+[submodule "hardware/qcom/camera"]
+	branch = nougat-iot-release
+	path = hardware/qcom/camera
+	url = ../hardware/qcom/camera
+[submodule "hardware/qcom/display"]
+	branch = nougat-iot-release
+	path = hardware/qcom/display
+	url = ../hardware/qcom/display
+[submodule "hardware/qcom/gps"]
+	branch = nougat-iot-release
+	path = hardware/qcom/gps
+	url = ../hardware/qcom/gps
+[submodule "hardware/qcom/keymaster"]
+	branch = nougat-iot-release
+	path = hardware/qcom/keymaster
+	url = ../hardware/qcom/keymaster
+[submodule "hardware/qcom/media"]
+	branch = nougat-iot-release
+	path = hardware/qcom/media
+	url = ../hardware/qcom/media
+[submodule "hardware/qcom/msm8960"]
+	branch = nougat-iot-release
+	path = hardware/qcom/msm8960
+	url = ../hardware/qcom/msm8960
+[submodule "hardware/qcom/msm8994"]
+	branch = nougat-iot-release
+	path = hardware/qcom/msm8994
+	url = ../hardware/qcom/msm8994
+[submodule "hardware/qcom/msm8996"]
+	branch = nougat-iot-release
+	path = hardware/qcom/msm8996
+	url = ../hardware/qcom/msm8996
+[submodule "hardware/qcom/msm8x26"]
+	branch = nougat-iot-release
+	path = hardware/qcom/msm8x26
+	url = ../hardware/qcom/msm8x26
+[submodule "hardware/qcom/msm8x27"]
+	branch = nougat-iot-release
+	path = hardware/qcom/msm8x27
+	url = ../hardware/qcom/msm8x27
+[submodule "hardware/qcom/msm8x84"]
+	branch = nougat-iot-release
+	path = hardware/qcom/msm8x84
+	url = ../hardware/qcom/msm8x84
+[submodule "hardware/qcom/power"]
+	branch = nougat-iot-release
+	path = hardware/qcom/power
+	url = ../hardware/qcom/power
+[submodule "hardware/qcom/wlan"]
+	branch = nougat-iot-release
+	path = hardware/qcom/wlan
+	url = ../hardware/qcom/wlan
+[submodule "hardware/ril"]
+	branch = nougat-iot-release
+	path = hardware/ril
+	url = ../hardware/ril
+[submodule "hardware/ti/omap3"]
+	branch = nougat-iot-release
+	path = hardware/ti/omap3
+	url = ../hardware/ti/omap3
+[submodule "hardware/ti/omap4-aah"]
+	branch = nougat-iot-release
+	path = hardware/ti/omap4-aah
+	url = ../hardware/ti/omap4-aah
+[submodule "hardware/ti/omap4xxx"]
+	branch = nougat-iot-release
+	path = hardware/ti/omap4xxx
+	url = ../hardware/ti/omap4xxx
+[submodule "libcore"]
+	branch = nougat-iot-release
+	path = libcore
+	url = ../libcore
+[submodule "libnativehelper"]
+	branch = nougat-iot-release
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "ndk"]
+	branch = nougat-iot-release
+	path = ndk
+	url = ../ndk
+[submodule "packages/apps/BasicSmsReceiver"]
+	branch = nougat-iot-release
+	path = packages/apps/BasicSmsReceiver
+	url = ../packages/apps/BasicSmsReceiver
+[submodule "packages/apps/Bluetooth"]
+	branch = nougat-iot-release
+	path = packages/apps/Bluetooth
+	url = ../packages/apps/Bluetooth
+[submodule "packages/apps/Browser2"]
+	branch = nougat-iot-release
+	path = packages/apps/Browser2
+	url = ../packages/apps/Browser2
+[submodule "packages/apps/Calculator"]
+	branch = nougat-iot-release
+	path = packages/apps/Calculator
+	url = ../packages/apps/Calculator
+[submodule "packages/apps/Calendar"]
+	branch = nougat-iot-release
+	path = packages/apps/Calendar
+	url = ../packages/apps/Calendar
+[submodule "packages/apps/Camera2"]
+	branch = nougat-iot-release
+	path = packages/apps/Camera2
+	url = ../packages/apps/Camera2
+[submodule "packages/apps/CarrierConfig"]
+	branch = nougat-iot-release
+	path = packages/apps/CarrierConfig
+	url = ../packages/apps/CarrierConfig
+[submodule "packages/apps/CellBroadcastReceiver"]
+	branch = nougat-iot-release
+	path = packages/apps/CellBroadcastReceiver
+	url = ../packages/apps/CellBroadcastReceiver
+[submodule "packages/apps/CertInstaller"]
+	branch = nougat-iot-release
+	path = packages/apps/CertInstaller
+	url = ../packages/apps/CertInstaller
+[submodule "packages/apps/Contacts"]
+	branch = nougat-iot-release
+	path = packages/apps/Contacts
+	url = ../packages/apps/Contacts
+[submodule "packages/apps/ContactsCommon"]
+	branch = nougat-iot-release
+	path = packages/apps/ContactsCommon
+	url = ../packages/apps/ContactsCommon
+[submodule "packages/apps/DeskClock"]
+	branch = nougat-iot-release
+	path = packages/apps/DeskClock
+	url = ../packages/apps/DeskClock
+[submodule "packages/apps/DevCamera"]
+	branch = nougat-iot-release
+	path = packages/apps/DevCamera
+	url = ../packages/apps/DevCamera
+[submodule "packages/apps/Dialer"]
+	branch = nougat-iot-release
+	path = packages/apps/Dialer
+	url = ../packages/apps/Dialer
+[submodule "packages/apps/Email"]
+	branch = nougat-iot-release
+	path = packages/apps/Email
+	url = ../packages/apps/Email
+[submodule "packages/apps/EmergencyInfo"]
+	branch = nougat-iot-release
+	path = packages/apps/EmergencyInfo
+	url = ../packages/apps/EmergencyInfo
+[submodule "packages/apps/ExactCalculator"]
+	branch = nougat-iot-release
+	path = packages/apps/ExactCalculator
+	url = ../packages/apps/ExactCalculator
+[submodule "packages/apps/Gallery"]
+	branch = nougat-iot-release
+	path = packages/apps/Gallery
+	url = ../packages/apps/Gallery
+[submodule "packages/apps/Gallery2"]
+	branch = nougat-iot-release
+	path = packages/apps/Gallery2
+	url = ../packages/apps/Gallery2
+[submodule "packages/apps/HTMLViewer"]
+	branch = nougat-iot-release
+	path = packages/apps/HTMLViewer
+	url = ../packages/apps/HTMLViewer
+[submodule "packages/apps/KeyChain"]
+	branch = nougat-iot-release
+	path = packages/apps/KeyChain
+	url = ../packages/apps/KeyChain
+[submodule "packages/apps/Launcher2"]
+	branch = nougat-iot-release
+	path = packages/apps/Launcher2
+	url = ../packages/apps/Launcher2
+[submodule "packages/apps/Launcher3"]
+	branch = nougat-iot-release
+	path = packages/apps/Launcher3
+	url = ../packages/apps/Launcher3
+[submodule "packages/apps/LegacyCamera"]
+	branch = nougat-iot-release
+	path = packages/apps/LegacyCamera
+	url = ../packages/apps/LegacyCamera
+[submodule "packages/apps/ManagedProvisioning"]
+	branch = nougat-iot-release
+	path = packages/apps/ManagedProvisioning
+	url = ../packages/apps/ManagedProvisioning
+[submodule "packages/apps/Messaging"]
+	branch = nougat-iot-release
+	path = packages/apps/Messaging
+	url = ../packages/apps/Messaging
+[submodule "packages/apps/Music"]
+	branch = nougat-iot-release
+	path = packages/apps/Music
+	url = ../packages/apps/Music
+[submodule "packages/apps/MusicFX"]
+	branch = nougat-iot-release
+	path = packages/apps/MusicFX
+	url = ../packages/apps/MusicFX
+[submodule "packages/apps/Nfc"]
+	branch = nougat-iot-release
+	path = packages/apps/Nfc
+	url = ../packages/apps/Nfc
+[submodule "packages/apps/OneTimeInitializer"]
+	branch = nougat-iot-release
+	path = packages/apps/OneTimeInitializer
+	url = ../packages/apps/OneTimeInitializer
+[submodule "packages/apps/PackageInstaller"]
+	branch = nougat-iot-release
+	path = packages/apps/PackageInstaller
+	url = ../packages/apps/PackageInstaller
+[submodule "packages/apps/Phone"]
+	branch = nougat-iot-release
+	path = packages/apps/Phone
+	url = ../packages/apps/Phone
+[submodule "packages/apps/PhoneCommon"]
+	branch = nougat-iot-release
+	path = packages/apps/PhoneCommon
+	url = ../packages/apps/PhoneCommon
+[submodule "packages/apps/Protips"]
+	branch = nougat-iot-release
+	path = packages/apps/Protips
+	url = ../packages/apps/Protips
+[submodule "packages/apps/Provision"]
+	branch = nougat-iot-release
+	path = packages/apps/Provision
+	url = ../packages/apps/Provision
+[submodule "packages/apps/QuickSearchBox"]
+	branch = nougat-iot-release
+	path = packages/apps/QuickSearchBox
+	url = ../packages/apps/QuickSearchBox
+[submodule "packages/apps/Settings"]
+	branch = nougat-iot-release
+	path = packages/apps/Settings
+	url = ../packages/apps/Settings
+[submodule "packages/apps/SoundRecorder"]
+	branch = nougat-iot-release
+	path = packages/apps/SoundRecorder
+	url = ../packages/apps/SoundRecorder
+[submodule "packages/apps/SpareParts"]
+	branch = nougat-iot-release
+	path = packages/apps/SpareParts
+	url = ../packages/apps/SpareParts
+[submodule "packages/apps/SpeechRecorder"]
+	branch = nougat-iot-release
+	path = packages/apps/SpeechRecorder
+	url = ../packages/apps/SpeechRecorder
+[submodule "packages/apps/Stk"]
+	branch = nougat-iot-release
+	path = packages/apps/Stk
+	url = ../packages/apps/Stk
+[submodule "packages/apps/TV"]
+	branch = nougat-iot-release
+	path = packages/apps/TV
+	url = ../packages/apps/TV
+[submodule "packages/apps/Tag"]
+	branch = nougat-iot-release
+	path = packages/apps/Tag
+	url = ../packages/apps/Tag
+[submodule "packages/apps/Terminal"]
+	branch = nougat-iot-release
+	path = packages/apps/Terminal
+	url = ../packages/apps/Terminal
+[submodule "packages/apps/Test/connectivity"]
+	branch = nougat-iot-release
+	path = packages/apps/Test/connectivity
+	url = ../packages/apps/Test/connectivity
+[submodule "packages/apps/TvSettings"]
+	branch = nougat-iot-release
+	path = packages/apps/TvSettings
+	url = ../packages/apps/TvSettings
+[submodule "packages/apps/UnifiedEmail"]
+	branch = nougat-iot-release
+	path = packages/apps/UnifiedEmail
+	url = ../packages/apps/UnifiedEmail
+[submodule "packages/experimental"]
+	branch = nougat-iot-release
+	path = packages/experimental
+	url = ../packages/experimental
+[submodule "packages/inputmethods/LatinIME"]
+	branch = nougat-iot-release
+	path = packages/inputmethods/LatinIME
+	url = ../packages/inputmethods/LatinIME
+[submodule "packages/inputmethods/OpenWnn"]
+	branch = nougat-iot-release
+	path = packages/inputmethods/OpenWnn
+	url = ../packages/inputmethods/OpenWnn
+[submodule "packages/providers/ApplicationsProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/ApplicationsProvider
+	url = ../packages/providers/ApplicationsProvider
+[submodule "packages/providers/BlockedNumberProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/BlockedNumberProvider
+	url = ../packages/providers/BlockedNumberProvider
+[submodule "packages/providers/BookmarkProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/BookmarkProvider
+	url = ../packages/providers/BookmarkProvider
+[submodule "packages/providers/CalendarProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/CalendarProvider
+	url = ../packages/providers/CalendarProvider
+[submodule "packages/providers/CallLogProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/CallLogProvider
+	url = ../packages/providers/CallLogProvider
+[submodule "packages/providers/ContactsProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/ContactsProvider
+	url = ../packages/providers/ContactsProvider
+[submodule "packages/providers/DownloadProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/DownloadProvider
+	url = ../packages/providers/DownloadProvider
+[submodule "packages/providers/MediaProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/MediaProvider
+	url = ../packages/providers/MediaProvider
+[submodule "packages/providers/PartnerBookmarksProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/PartnerBookmarksProvider
+	url = ../packages/providers/PartnerBookmarksProvider
+[submodule "packages/providers/TelephonyProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/TelephonyProvider
+	url = ../packages/providers/TelephonyProvider
+[submodule "packages/providers/TvProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/TvProvider
+	url = ../packages/providers/TvProvider
+[submodule "packages/providers/UserDictionaryProvider"]
+	branch = nougat-iot-release
+	path = packages/providers/UserDictionaryProvider
+	url = ../packages/providers/UserDictionaryProvider
+[submodule "packages/screensavers/Basic"]
+	branch = nougat-iot-release
+	path = packages/screensavers/Basic
+	url = ../packages/screensavers/Basic
+[submodule "packages/screensavers/PhotoTable"]
+	branch = nougat-iot-release
+	path = packages/screensavers/PhotoTable
+	url = ../packages/screensavers/PhotoTable
+[submodule "packages/screensavers/WebView"]
+	branch = nougat-iot-release
+	path = packages/screensavers/WebView
+	url = ../packages/screensavers/WebView
+[submodule "packages/services/Car"]
+	branch = nougat-iot-release
+	path = packages/services/Car
+	url = ../packages/services/Car
+[submodule "packages/services/Mms"]
+	branch = nougat-iot-release
+	path = packages/services/Mms
+	url = ../packages/services/Mms
+[submodule "packages/services/Telecomm"]
+	branch = nougat-iot-release
+	path = packages/services/Telecomm
+	url = ../packages/services/Telecomm
+[submodule "packages/services/Telephony"]
+	branch = nougat-iot-release
+	path = packages/services/Telephony
+	url = ../packages/services/Telephony
+[submodule "packages/wallpapers/LivePicker"]
+	branch = nougat-iot-release
+	path = packages/wallpapers/LivePicker
+	url = ../packages/wallpapers/LivePicker
+[submodule "pdk"]
+	branch = nougat-iot-release
+	path = pdk
+	url = ../pdk
+[submodule "platform_testing"]
+	branch = nougat-iot-release
+	path = platform_testing
+	url = ../platform_testing
+[submodule "prebuilts/android-emulator"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "prebuilts/clang/darwin-x86/host/3.6"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/clang/darwin-x86/host/3.6
+	url = ../prebuilts/clang/darwin-x86/host/3.6
+[submodule "prebuilts/clang/host/darwin-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "prebuilts/clang/host/linux-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "prebuilts/clang/linux-x86/host/3.6"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/clang/linux-x86/host/3.6
+	url = ../prebuilts/clang/linux-x86/host/3.6
+[submodule "prebuilts/deqp"]
+	branch = nougat-iot-release
+	path = prebuilts/deqp
+	url = ../prebuilts/deqp
+[submodule "prebuilts/devtools"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "prebuilts/eclipse"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
+[submodule "prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+[submodule "prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+	url = ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+[submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "prebuilts/gdb/darwin-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gdb/darwin-x86
+	url = ../prebuilts/gdb/darwin-x86
+[submodule "prebuilts/gdb/linux-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gdb/linux-x86
+	url = ../prebuilts/gdb/linux-x86
+[submodule "prebuilts/go/darwin-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "prebuilts/go/linux-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "prebuilts/gradle-plugin"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "prebuilts/libs/libedit"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/libs/libedit
+	url = ../prebuilts/libs/libedit
+[submodule "prebuilts/maven_repo/android"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "prebuilts/misc"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "prebuilts/ndk"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "prebuilts/ninja/darwin-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "prebuilts/ninja/linux-x86"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "prebuilts/python/darwin-x86/2.7.5"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "prebuilts/python/linux-x86/2.7.5"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "prebuilts/qemu-kernel"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "prebuilts/sdk"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "prebuilts/tools"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "sdk"]
+	branch = nougat-iot-release
+	path = sdk
+	url = ../sdk
+[submodule "system/bt"]
+	branch = nougat-iot-release
+	path = system/bt
+	url = ../system/bt
+[submodule "system/ca-certificates"]
+	branch = nougat-iot-release
+	path = system/ca-certificates
+	url = ../system/ca-certificates
+[submodule "system/connectivity/dhcp_client"]
+	branch = nougat-iot-release
+	path = system/connectivity/dhcp_client
+	url = ../system/connectivity/dhcp_client
+[submodule "system/core"]
+	branch = nougat-iot-release
+	path = system/core
+	url = ../system/core
+[submodule "system/extras"]
+	branch = nougat-iot-release
+	path = system/extras
+	url = ../system/extras
+[submodule "system/gatekeeper"]
+	branch = nougat-iot-release
+	path = system/gatekeeper
+	url = ../system/gatekeeper
+[submodule "system/keymaster"]
+	branch = nougat-iot-release
+	path = system/keymaster
+	url = ../system/keymaster
+[submodule "system/media"]
+	branch = nougat-iot-release
+	path = system/media
+	url = ../system/media
+[submodule "system/netd"]
+	branch = nougat-iot-release
+	path = system/netd
+	url = ../system/netd
+[submodule "system/nvram"]
+	branch = nougat-iot-release
+	path = system/nvram
+	url = ../system/nvram
+[submodule "system/security"]
+	branch = nougat-iot-release
+	path = system/security
+	url = ../system/security
+[submodule "system/sepolicy"]
+	branch = nougat-iot-release
+	path = system/sepolicy
+	url = ../system/sepolicy
+[submodule "system/tools/aidl"]
+	branch = nougat-iot-release
+	path = system/tools/aidl
+	url = ../system/tools/aidl
+[submodule "system/tpm"]
+	branch = nougat-iot-release
+	path = system/tpm
+	url = ../system/tpm
+[submodule "system/update_engine"]
+	branch = nougat-iot-release
+	path = system/update_engine
+	url = ../system/update_engine
+[submodule "system/vold"]
+	branch = nougat-iot-release
+	path = system/vold
+	url = ../system/vold
+[submodule "test/vts"]
+	branch = nougat-iot-release
+	path = test/vts
+	url = ../test/vts
+[submodule "toolchain/binutils"]
+	branch = nougat-iot-release
+	path = toolchain/binutils
+	url = ../../toolchain/binutils
+[submodule "tools/external/fat32lib"]
+	branch = nougat-iot-release
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "tools/external/gradle"]
+	branch = nougat-iot-release
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "tools/test/connectivity"]
+	branch = nougat-iot-release
+	path = tools/test/connectivity
+	url = ../tools/test/connectivity
