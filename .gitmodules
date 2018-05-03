@@ -980,10 +980,6 @@
 	branch = master
 	path = external/naver-fonts
 	url = ../external/naver-fonts
-[submodule "external/netcat"]
-	branch = master
-	path = external/netcat
-	url = ../external/netcat
 [submodule "external/neven"]
 	branch = master
 	path = external/neven
