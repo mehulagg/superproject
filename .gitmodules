@@ -540,10 +540,6 @@
 	branch = master
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
-[submodule "external/google-api-services-storage"]
-	branch = master
-	path = external/google-api-services-storage
-	url = ../external/google-api-services-storage
 [submodule "external/google-benchmark"]
 	branch = master
 	path = external/google-benchmark
@@ -1569,10 +1565,6 @@
 	branch = master
 	path = frameworks/opt/datetimepicker
 	url = ../frameworks/opt/datetimepicker
-[submodule "frameworks/opt/inputconnectioncommon"]
-	branch = master
-	path = frameworks/opt/inputconnectioncommon
-	url = ../frameworks/opt/inputconnectioncommon
 [submodule "frameworks/opt/inputmethodcommon"]
 	branch = master
 	path = frameworks/opt/inputmethodcommon
@@ -1665,10 +1657,6 @@
 	branch = master
 	path = hardware/intel/bootstub
 	url = ../hardware/intel/bootstub
-[submodule "hardware/intel/common/bd_prov"]
-	branch = master
-	path = hardware/intel/common/bd_prov
-	url = ../hardware/intel/common/bd_prov
 [submodule "hardware/intel/common/libmix"]
 	branch = master
 	path = hardware/intel/common/libmix
@@ -1709,10 +1697,6 @@
 	branch = master
 	path = hardware/intel/img/psb_video
 	url = ../hardware/intel/img/psb_video
-[submodule "hardware/intel/sensors"]
-	branch = master
-	path = hardware/intel/sensors
-	url = ../hardware/intel/sensors
 [submodule "hardware/interfaces"]
 	branch = master
 	path = hardware/interfaces
@@ -1917,10 +1901,6 @@
 	branch = master
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
-[submodule "packages/apps/Car/UserManagement"]
-	branch = master
-	path = packages/apps/Car/UserManagement
-	url = ../packages/apps/Car/UserManagement
 [submodule "packages/apps/Car/libs"]
 	branch = master
 	path = packages/apps/Car/libs
@@ -2237,11 +2217,6 @@
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
-[submodule "prebuilts/checkcolor"]
-	branch = master
-	shallow = true
-	path = prebuilts/checkcolor
-	url = ../prebuilts/checkcolor
 [submodule "prebuilts/checkstyle"]
 	branch = master
 	shallow = true
