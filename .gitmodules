@@ -42,6 +42,10 @@
 	branch = master
 	path = external/desugar
 	url = ../external/desugar
+[submodule "external/flex"]
+	branch = master
+	path = external/flex
+	url = ../external/flex
 [submodule "external/googletest"]
 	branch = master
 	path = external/googletest
