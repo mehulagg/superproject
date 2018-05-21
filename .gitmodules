@@ -284,7 +284,6 @@
 	path = external/tagsoup
 	url = ../external/tagsoup
 [submodule "external/toybox"]
-	branch = master
 	path = external/toybox
 	url = ../external/toybox
 [submodule "external/turbine"]
