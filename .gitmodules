@@ -73,24 +73,12 @@
 [submodule "device/generic/mini-emulator-armv7-a-neon"]
 	path = device/generic/mini-emulator-armv7-a-neon
 	url = ../../device/generic/mini-emulator-armv7-a-neon
-[submodule "device/generic/mini-emulator-mips"]
-	path = device/generic/mini-emulator-mips
-	url = ../../device/generic/mini-emulator-mips
-[submodule "device/generic/mini-emulator-mips64"]
-	path = device/generic/mini-emulator-mips64
-	url = ../../device/generic/mini-emulator-mips64
 [submodule "device/generic/mini-emulator-x86"]
 	path = device/generic/mini-emulator-x86
 	url = ../../device/generic/mini-emulator-x86
 [submodule "device/generic/mini-emulator-x86_64"]
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
-[submodule "device/generic/mips"]
-	path = device/generic/mips
-	url = ../../device/generic/mips
-[submodule "device/generic/mips64"]
-	path = device/generic/mips64
-	url = ../../device/generic/mips64
 [submodule "device/generic/qemu"]
 	path = device/generic/qemu
 	url = ../../device/generic/qemu
@@ -181,9 +169,6 @@
 [submodule "device/sample"]
 	path = device/sample
 	url = ../../device/sample
-[submodule "docs/source.android.com"]
-	path = docs/source.android.com
-	url = ../docs/source.android.com
 [submodule "external/ImageMagick"]
 	path = external/ImageMagick
 	url = ../external/ImageMagick
@@ -241,9 +226,6 @@
 [submodule "external/bart"]
 	path = external/bart
 	url = ../external/bart
-[submodule "external/bison"]
-	path = external/bison
-	url = ../external/bison
 [submodule "external/blktrace"]
 	path = external/blktrace
 	url = ../external/blktrace
@@ -262,9 +244,6 @@
 [submodule "external/bzip2"]
 	path = external/bzip2
 	url = ../external/bzip2
-[submodule "external/c-ares"]
-	path = external/c-ares
-	url = ../external/c-ares
 [submodule "external/caliper"]
 	path = external/caliper
 	url = ../external/caliper
@@ -283,9 +262,15 @@
 [submodule "external/clang"]
 	path = external/clang
 	url = ../external/clang
+[submodule "external/cldr"]
+	path = external/cldr
+	url = ../external/cldr
 [submodule "external/cmockery"]
 	path = external/cmockery
 	url = ../external/cmockery
+[submodule "external/cn-cbor"]
+	path = external/cn-cbor
+	url = ../external/cn-cbor
 [submodule "external/compiler-rt"]
 	path = external/compiler-rt
 	url = ../external/compiler-rt
@@ -331,9 +316,9 @@
 [submodule "external/doclava"]
 	path = external/doclava
 	url = ../external/doclava
-[submodule "external/donuts"]
-	path = external/donuts
-	url = ../external/donuts
+[submodule "external/dokka"]
+	path = external/dokka
+	url = ../external/dokka
 [submodule "external/drm_hwcomposer"]
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
@@ -382,18 +367,12 @@
 [submodule "external/fec"]
 	path = external/fec
 	url = ../external/fec
-[submodule "external/fio"]
-	path = external/fio
-	url = ../external/fio
 [submodule "external/flac"]
 	path = external/flac
 	url = ../external/flac
 [submodule "external/flatbuffers"]
 	path = external/flatbuffers
 	url = ../external/flatbuffers
-[submodule "external/fmtlib"]
-	path = external/fmtlib
-	url = ../external/fmtlib
 [submodule "external/fonttools"]
 	path = external/fonttools
 	url = ../external/fonttools
@@ -418,9 +397,6 @@
 [submodule "external/golang-protobuf"]
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
-[submodule "external/google-api-services-storage"]
-	path = external/google-api-services-storage
-	url = ../external/google-api-services-storage
 [submodule "external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
@@ -493,6 +469,9 @@
 [submodule "external/jarjar"]
 	path = external/jarjar
 	url = ../external/jarjar
+[submodule "external/javaparser"]
+	path = external/javaparser
+	url = ../external/javaparser
 [submodule "external/javasqlite"]
 	path = external/javasqlite
 	url = ../external/javasqlite
@@ -610,15 +589,9 @@
 [submodule "external/libldac"]
 	path = external/libldac
 	url = ../external/libldac
-[submodule "external/liblzf"]
-	path = external/liblzf
-	url = ../external/liblzf
 [submodule "external/libmicrohttpd"]
 	path = external/libmicrohttpd
 	url = ../external/libmicrohttpd
-[submodule "external/libmojo"]
-	path = external/libmojo
-	url = ../external/libmojo
 [submodule "external/libmpeg2"]
 	path = external/libmpeg2
 	url = ../external/libmpeg2
@@ -676,6 +649,9 @@
 [submodule "external/libvterm"]
 	path = external/libvterm
 	url = ../external/libvterm
+[submodule "external/libxcam"]
+	path = external/libxcam
+	url = ../external/libxcam
 [submodule "external/libxml2"]
 	path = external/libxml2
 	url = ../external/libxml2
@@ -688,12 +664,6 @@
 [submodule "external/lisa"]
 	path = external/lisa
 	url = ../external/lisa
-[submodule "external/littlemock"]
-	path = external/littlemock
-	url = ../external/littlemock
-[submodule "external/lld"]
-	path = external/lld
-	url = ../external/lld
 [submodule "external/llvm"]
 	path = external/llvm
 	url = ../external/llvm
@@ -718,9 +688,6 @@
 [submodule "external/mesa3d"]
 	path = external/mesa3d
 	url = ../external/mesa3d
-[submodule "external/messageformat"]
-	path = external/messageformat
-	url = ../external/messageformat
 [submodule "external/minijail"]
 	path = external/minijail
 	url = ../external/minijail
@@ -757,12 +724,6 @@
 [submodule "external/naver-fonts"]
 	path = external/naver-fonts
 	url = ../external/naver-fonts
-[submodule "external/netcat"]
-	path = external/netcat
-	url = ../external/netcat
-[submodule "external/netperf"]
-	path = external/netperf
-	url = ../external/netperf
 [submodule "external/neven"]
 	path = external/neven
 	url = ../external/neven
@@ -808,6 +769,9 @@
 [submodule "external/pdfium"]
 	path = external/pdfium
 	url = ../external/pdfium
+[submodule "external/perf_data_converter"]
+	path = external/perf_data_converter
+	url = ../external/perf_data_converter
 [submodule "external/perfetto"]
 	path = external/perfetto
 	url = ../external/perfetto
@@ -826,15 +790,126 @@
 [submodule "external/protobuf"]
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "external/puffin"]
+	path = external/puffin
+	url = ../external/puffin
+[submodule "external/python/Pillow"]
+	path = external/python/Pillow
+	url = ../external/python/Pillow
+[submodule "external/python/appdirs"]
+	path = external/python/appdirs
+	url = ../external/python/appdirs
+[submodule "external/python/cachetools"]
+	path = external/python/cachetools
+	url = ../external/python/cachetools
 [submodule "external/python/cpython2"]
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "external/python/cpython3"]
 	path = external/python/cpython3
 	url = ../external/python/cpython3
-[submodule "external/regex-re2"]
-	path = external/regex-re2
-	url = ../external/regex-re2
+[submodule "external/python/dill"]
+	path = external/python/dill
+	url = ../external/python/dill
+[submodule "external/python/enum"]
+	path = external/python/enum
+	url = ../external/python/enum
+[submodule "external/python/enum34"]
+	path = external/python/enum34
+	url = ../external/python/enum34
+[submodule "external/python/future"]
+	path = external/python/future
+	url = ../external/python/future
+[submodule "external/python/futures"]
+	path = external/python/futures
+	url = ../external/python/futures
+[submodule "external/python/gapic-google-cloud-pubsub-v1"]
+	path = external/python/gapic-google-cloud-pubsub-v1
+	url = ../external/python/gapic-google-cloud-pubsub-v1
+[submodule "external/python/google-api-python-client"]
+	path = external/python/google-api-python-client
+	url = ../external/python/google-api-python-client
+[submodule "external/python/google-auth-httplib2"]
+	path = external/python/google-auth-httplib2
+	url = ../external/python/google-auth-httplib2
+[submodule "external/python/google-auth"]
+	path = external/python/google-auth
+	url = ../external/python/google-auth
+[submodule "external/python/google-cloud-core"]
+	path = external/python/google-cloud-core
+	url = ../external/python/google-cloud-core
+[submodule "external/python/google-cloud-pubsub"]
+	path = external/python/google-cloud-pubsub
+	url = ../external/python/google-cloud-pubsub
+[submodule "external/python/google-gax"]
+	path = external/python/google-gax
+	url = ../external/python/google-gax
+[submodule "external/python/googleapis"]
+	path = external/python/googleapis
+	url = ../external/python/googleapis
+[submodule "external/python/grpc-google-iam-v1"]
+	path = external/python/grpc-google-iam-v1
+	url = ../external/python/grpc-google-iam-v1
+[submodule "external/python/grpcio"]
+	path = external/python/grpcio
+	url = ../external/python/grpcio
+[submodule "external/python/httplib2"]
+	path = external/python/httplib2
+	url = ../external/python/httplib2
+[submodule "external/python/matplotlib"]
+	path = external/python/matplotlib
+	url = ../external/python/matplotlib
+[submodule "external/python/numpy"]
+	path = external/python/numpy
+	url = ../external/python/numpy
+[submodule "external/python/oauth2client"]
+	path = external/python/oauth2client
+	url = ../external/python/oauth2client
+[submodule "external/python/olefile"]
+	path = external/python/olefile
+	url = ../external/python/olefile
+[submodule "external/python/packaging"]
+	path = external/python/packaging
+	url = ../external/python/packaging
+[submodule "external/python/parse"]
+	path = external/python/parse
+	url = ../external/python/parse
+[submodule "external/python/ply"]
+	path = external/python/ply
+	url = ../external/python/ply
+[submodule "external/python/proto-google-cloud-pubsub-v1"]
+	path = external/python/proto-google-cloud-pubsub-v1
+	url = ../external/python/proto-google-cloud-pubsub-v1
+[submodule "external/python/protobuf"]
+	path = external/python/protobuf
+	url = ../external/python/protobuf
+[submodule "external/python/pyasn1-modules"]
+	path = external/python/pyasn1-modules
+	url = ../external/python/pyasn1-modules
+[submodule "external/python/pyasn1"]
+	path = external/python/pyasn1
+	url = ../external/python/pyasn1
+[submodule "external/python/pyparsing"]
+	path = external/python/pyparsing
+	url = ../external/python/pyparsing
+[submodule "external/python/requests"]
+	path = external/python/requests
+	url = ../external/python/requests
+[submodule "external/python/rsa"]
+	path = external/python/rsa
+	url = ../external/python/rsa
+[submodule "external/python/scipy"]
+	path = external/python/scipy
+	url = ../external/python/scipy
+[submodule "external/python/setuptools"]
+	path = external/python/setuptools
+	url = ../external/python/setuptools
+[submodule "external/python/six"]
+	path = external/python/six
+	url = ../external/python/six
+[submodule "external/python/uritemplates"]
+	path = external/python/uritemplates
+	url = ../external/python/uritemplates
 [submodule "external/replicaisland"]
 	path = external/replicaisland
 	url = ../external/replicaisland
@@ -853,6 +928,9 @@
 [submodule "external/safe-iop"]
 	path = external/safe-iop
 	url = ../external/safe-iop
+[submodule "external/scapy"]
+	path = external/scapy
+	url = ../external/scapy
 [submodule "external/scrypt"]
 	path = external/scrypt
 	url = ../external/scrypt
@@ -910,6 +988,9 @@
 [submodule "external/stressapptest"]
 	path = external/stressapptest
 	url = ../external/stressapptest
+[submodule "external/subsampling-scale-image-view"]
+	path = external/subsampling-scale-image-view
+	url = ../external/subsampling-scale-image-view
 [submodule "external/swiftshader"]
 	path = external/swiftshader
 	url = ../external/swiftshader
@@ -928,9 +1009,6 @@
 [submodule "external/testng"]
 	path = external/testng
 	url = ../external/testng
-[submodule "external/timezonepicker-support"]
-	path = external/timezonepicker-support
-	url = ../external/timezonepicker-support
 [submodule "external/tinyalsa"]
 	path = external/tinyalsa
 	url = ../external/tinyalsa
@@ -1000,6 +1078,9 @@
 [submodule "external/webrtc"]
 	path = external/webrtc
 	url = ../external/webrtc
+[submodule "external/webview_support_interfaces"]
+	path = external/webview_support_interfaces
+	url = ../external/webview_support_interfaces
 [submodule "external/wpa_supplicant_8"]
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
@@ -1012,9 +1093,6 @@
 [submodule "external/xmlrpcpp"]
 	path = external/xmlrpcpp
 	url = ../external/xmlrpcpp
-[submodule "external/xmlwriter"]
-	path = external/xmlwriter
-	url = ../external/xmlwriter
 [submodule "external/xmp_toolkit"]
 	path = external/xmp_toolkit
 	url = ../external/xmp_toolkit
@@ -1072,12 +1150,12 @@
 [submodule "frameworks/opt/bitmap"]
 	path = frameworks/opt/bitmap
 	url = ../frameworks/opt/bitmap
-[submodule "frameworks/opt/bluetooth"]
-	path = frameworks/opt/bluetooth
-	url = ../frameworks/opt/bluetooth
 [submodule "frameworks/opt/calendar"]
 	path = frameworks/opt/calendar
 	url = ../frameworks/opt/calendar
+[submodule "frameworks/opt/car/services"]
+	path = frameworks/opt/car/services
+	url = ../frameworks/opt/car/services
 [submodule "frameworks/opt/chips"]
 	path = frameworks/opt/chips
 	url = ../frameworks/opt/chips
@@ -1087,9 +1165,6 @@
 [submodule "frameworks/opt/datetimepicker"]
 	path = frameworks/opt/datetimepicker
 	url = ../frameworks/opt/datetimepicker
-[submodule "frameworks/opt/inputconnectioncommon"]
-	path = frameworks/opt/inputconnectioncommon
-	url = ../frameworks/opt/inputconnectioncommon
 [submodule "frameworks/opt/inputmethodcommon"]
 	path = frameworks/opt/inputmethodcommon
 	url = ../frameworks/opt/inputmethodcommon
@@ -1150,15 +1225,15 @@
 [submodule "hardware/google/easel"]
 	path = hardware/google/easel
 	url = ../hardware/google/easel
+[submodule "hardware/google/interfaces"]
+	path = hardware/google/interfaces
+	url = ../hardware/google/interfaces
 [submodule "hardware/intel/audio_media"]
 	path = hardware/intel/audio_media
 	url = ../hardware/intel/audio_media
 [submodule "hardware/intel/bootstub"]
 	path = hardware/intel/bootstub
 	url = ../hardware/intel/bootstub
-[submodule "hardware/intel/common/bd_prov"]
-	path = hardware/intel/common/bd_prov
-	url = ../hardware/intel/common/bd_prov
 [submodule "hardware/intel/common/libmix"]
 	path = hardware/intel/common/libmix
 	url = ../hardware/intel/common/libmix
@@ -1189,9 +1264,6 @@
 [submodule "hardware/intel/img/psb_video"]
 	path = hardware/intel/img/psb_video
 	url = ../hardware/intel/img/psb_video
-[submodule "hardware/intel/sensors"]
-	path = hardware/intel/sensors
-	url = ../hardware/intel/sensors
 [submodule "hardware/interfaces"]
 	path = hardware/interfaces
 	url = ../hardware/interfaces
@@ -1207,6 +1279,12 @@
 [submodule "hardware/marvell/bt"]
 	path = hardware/marvell/bt
 	url = ../hardware/marvell/bt
+[submodule "hardware/nxp/nfc"]
+	path = hardware/nxp/nfc
+	url = ../hardware/nxp/nfc
+[submodule "hardware/nxp/secure_element"]
+	path = hardware/nxp/secure_element
+	url = ../hardware/nxp/secure_element
 [submodule "hardware/qcom/audio"]
 	path = hardware/qcom/audio
 	url = ../hardware/qcom/audio
@@ -1258,6 +1336,9 @@
 [submodule "hardware/qcom/msm8x84"]
 	path = hardware/qcom/msm8x84
 	url = ../hardware/qcom/msm8x84
+[submodule "hardware/qcom/neuralnetworks/hvxservice"]
+	path = hardware/qcom/neuralnetworks/hvxservice
+	url = ../hardware/qcom/neuralnetworks/hvxservice
 [submodule "hardware/qcom/power"]
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
@@ -1267,6 +1348,9 @@
 [submodule "hardware/ril"]
 	path = hardware/ril
 	url = ../hardware/ril
+[submodule "hardware/st/nfc"]
+	path = hardware/st/nfc
+	url = ../hardware/st/nfc
 [submodule "kernel/configs"]
 	path = kernel/configs
 	url = ../../kernel/configs
@@ -1303,6 +1387,9 @@
 [submodule "packages/apps/Car/LatinIME"]
 	path = packages/apps/Car/LatinIME
 	url = ../packages/apps/Car/LatinIME
+[submodule "packages/apps/Car/Launcher"]
+	path = packages/apps/Car/Launcher
+	url = ../packages/apps/Car/Launcher
 [submodule "packages/apps/Car/LensPicker"]
 	path = packages/apps/Car/LensPicker
 	url = ../packages/apps/Car/LensPicker
@@ -1330,9 +1417,6 @@
 [submodule "packages/apps/Car/SystemUpdater"]
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
-[submodule "packages/apps/Car/UserManagement"]
-	path = packages/apps/Car/UserManagement
-	url = ../packages/apps/Car/UserManagement
 [submodule "packages/apps/Car/libs"]
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
@@ -1567,12 +1651,12 @@
 [submodule "prebuilts/build-tools"]
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
-[submodule "prebuilts/checkcolor"]
-	path = prebuilts/checkcolor
-	url = ../prebuilts/checkcolor
 [submodule "prebuilts/checkstyle"]
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
+[submodule "prebuilts/clang-tools"]
+	path = prebuilts/clang-tools
+	url = ../prebuilts/clang-tools
 [submodule "prebuilts/clang/host/darwin-x86"]
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
@@ -1606,9 +1690,6 @@
 [submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
-	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
 [submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
@@ -1756,6 +1837,9 @@
 [submodule "system/tools/aidl"]
 	path = system/tools/aidl
 	url = ../system/tools/aidl
+[submodule "system/tools/bpt"]
+	path = system/tools/bpt
+	url = ../system/tools/bpt
 [submodule "system/tools/hidl"]
 	path = system/tools/hidl
 	url = ../system/tools/hidl
@@ -1819,9 +1903,18 @@
 [submodule "toolchain/binutils"]
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "toolchain/pgo-profiles"]
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
+[submodule "tools/acloud"]
+	path = tools/acloud
+	url = ../tools/acloud
 [submodule "tools/apksig"]
 	path = tools/apksig
 	url = ../tools/apksig
+[submodule "tools/apkzlib"]
+	path = tools/apkzlib
+	url = ../tools/apkzlib
 [submodule "tools/dexter"]
 	path = tools/dexter
 	url = ../tools/dexter
@@ -1834,12 +1927,21 @@
 [submodule "tools/loganalysis"]
 	path = tools/loganalysis
 	url = ../tools/loganalysis
+[submodule "tools/metalava"]
+	path = tools/metalava
+	url = ../tools/metalava
 [submodule "tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
+[submodule "tools/security"]
+	path = tools/security
+	url = ../tools/security
 [submodule "tools/test/connectivity"]
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
+[submodule "tools/test/graphicsbenchmark"]
+	path = tools/test/graphicsbenchmark
+	url = ../tools/test/graphicsbenchmark
 [submodule "tools/tradefederation/contrib"]
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
