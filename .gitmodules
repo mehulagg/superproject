@@ -2525,6 +2525,14 @@
 	branch = master
 	path = test/framework
 	url = ../test/framework
+[submodule "test/mlts/benchmark"]
+	branch = master
+	path = test/mlts/benchmark
+	url = ../test/mlts/benchmark
+[submodule "test/mlts/models"]
+	branch = master
+	path = test/mlts/models
+	url = ../test/mlts/models
 [submodule "test/sts"]
 	branch = master
 	path = test/sts
