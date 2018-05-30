@@ -2509,10 +2509,6 @@
 	branch = master
 	path = system/tools/hidl
 	url = ../system/tools/hidl
-[submodule "system/tpm"]
-	branch = master
-	path = system/tpm
-	url = ../system/tpm
 [submodule "system/update_engine"]
 	branch = master
 	path = system/update_engine
