@@ -1088,6 +1088,10 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "external/python/dateutil"]
+	branch = master
+	path = external/python/dateutil
+	url = ../external/python/dateutil
 [submodule "external/python/dill"]
 	branch = master
 	path = external/python/dill
