@@ -1072,6 +1072,10 @@
 	branch = master
 	path = external/python/Pillow
 	url = ../external/python/Pillow
+[submodule "external/python/apitools"]
+	branch = master
+	path = external/python/apitools
+	url = ../external/python/apitools
 [submodule "external/python/appdirs"]
 	branch = master
 	path = external/python/appdirs
