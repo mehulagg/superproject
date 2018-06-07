@@ -54,15 +54,6 @@
 	branch = master
 	path = development
 	url = ../development
-[submodule "device/asus/fugu-kernel"]
-	branch = master
-	shallow = true
-	path = device/asus/fugu-kernel
-	url = ../../device/asus/fugu-kernel
-[submodule "device/asus/fugu"]
-	branch = master
-	path = device/asus/fugu
-	url = ../../device/asus/fugu
 [submodule "device/common"]
 	branch = master
 	path = device/common
