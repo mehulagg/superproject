@@ -1294,6 +1294,10 @@
 	branch = nougat-iot-release
 	path = hardware/bsp/kernel/common/v4.4
 	url = ../hardware/bsp/kernel/common/v4.4
+[submodule "hardware/bsp/kernel/mediatek/mt8516-v4.4"]
+	branch = nougat-iot-release
+	path = hardware/bsp/kernel/mediatek/mt8516-v4.4
+	url = ../hardware/bsp/kernel/mediatek/mt8516-v4.4
 [submodule "hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10"]
 	branch = nougat-iot-release
 	path = hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10
