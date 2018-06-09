@@ -1648,54 +1648,6 @@
 	branch = master
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
-[submodule "hardware/intel/audio_media"]
-	branch = master
-	path = hardware/intel/audio_media
-	url = ../hardware/intel/audio_media
-[submodule "hardware/intel/bootstub"]
-	branch = master
-	path = hardware/intel/bootstub
-	url = ../hardware/intel/bootstub
-[submodule "hardware/intel/common/libmix"]
-	branch = master
-	path = hardware/intel/common/libmix
-	url = ../hardware/intel/common/libmix
-[submodule "hardware/intel/common/libstagefrighthw"]
-	branch = master
-	path = hardware/intel/common/libstagefrighthw
-	url = ../hardware/intel/common/libstagefrighthw
-[submodule "hardware/intel/common/libva"]
-	branch = master
-	path = hardware/intel/common/libva
-	url = ../hardware/intel/common/libva
-[submodule "hardware/intel/common/libwsbm"]
-	branch = master
-	path = hardware/intel/common/libwsbm
-	url = ../hardware/intel/common/libwsbm
-[submodule "hardware/intel/common/omx-components"]
-	branch = master
-	path = hardware/intel/common/omx-components
-	url = ../hardware/intel/common/omx-components
-[submodule "hardware/intel/common/utils"]
-	branch = master
-	path = hardware/intel/common/utils
-	url = ../hardware/intel/common/utils
-[submodule "hardware/intel/common/wrs_omxil_core"]
-	branch = master
-	path = hardware/intel/common/wrs_omxil_core
-	url = ../hardware/intel/common/wrs_omxil_core
-[submodule "hardware/intel/img/hwcomposer"]
-	branch = master
-	path = hardware/intel/img/hwcomposer
-	url = ../hardware/intel/img/hwcomposer
-[submodule "hardware/intel/img/psb_headers"]
-	branch = master
-	path = hardware/intel/img/psb_headers
-	url = ../hardware/intel/img/psb_headers
-[submodule "hardware/intel/img/psb_video"]
-	branch = master
-	path = hardware/intel/img/psb_video
-	url = ../hardware/intel/img/psb_video
 [submodule "hardware/interfaces"]
 	branch = master
 	path = hardware/interfaces
