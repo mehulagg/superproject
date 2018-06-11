@@ -2625,6 +2625,10 @@
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "tools/external_updater"]
+	branch = master
+	path = tools/external_updater
+	url = ../tools/external_updater
 [submodule "tools/loganalysis"]
 	branch = master
 	path = tools/loganalysis
