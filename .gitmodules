@@ -238,14 +238,6 @@
 	branch = master
 	path = external/aac
 	url = ../external/aac
-[submodule "external/abi-compliance-checker"]
-	branch = master
-	path = external/abi-compliance-checker
-	url = ../external/abi-compliance-checker
-[submodule "external/abi-dumper"]
-	branch = master
-	path = external/abi-dumper
-	url = ../external/abi-dumper
 [submodule "external/android-clat"]
 	branch = master
 	path = external/android-clat
