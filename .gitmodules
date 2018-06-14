@@ -963,6 +963,10 @@
 	branch = master
 	path = external/neven
 	url = ../external/neven
+[submodule "external/newfs_msdos"]
+	branch = master
+	path = external/newfs_msdos
+	url = ../external/newfs_msdos
 [submodule "external/nfacct"]
 	branch = master
 	path = external/nfacct
