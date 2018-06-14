@@ -1404,10 +1404,6 @@
 	branch = master
 	path = external/v8
 	url = ../external/v8
-[submodule "external/valgrind"]
-	branch = master
-	path = external/valgrind
-	url = ../external/valgrind
 [submodule "external/vboot_reference"]
 	branch = master
 	path = external/vboot_reference
