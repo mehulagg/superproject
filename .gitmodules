@@ -42,6 +42,11 @@
 	branch = master
 	path = external/desugar
 	url = ../external/desugar
+[submodule "external/error_prone"]
+	branch = master
+	shallow = true
+	path = external/error_prone
+	url = ../external/error_prone
 [submodule "external/flex"]
 	branch = master
 	path = external/flex
