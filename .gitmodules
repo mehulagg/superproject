@@ -107,6 +107,10 @@
 	branch = master
 	path = external/e2fsprogs
 	url = ../external/e2fsprogs
+[submodule "external/error_prone"]
+	branch = master
+	path = external/error_prone
+	url = ../external/error_prone
 [submodule "external/expat"]
 	branch = master
 	path = external/expat
