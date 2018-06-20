@@ -419,6 +419,10 @@
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
+[submodule "sdk"]
+	branch = master
+	path = sdk
+	url = ../sdk
 [submodule "system/core"]
 	branch = master
 	path = system/core
