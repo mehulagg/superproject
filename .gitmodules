@@ -1824,6 +1824,10 @@
 	branch = master
 	path = packages/apps/Car/Messenger
 	url = ../packages/apps/Car/Messenger
+[submodule "packages/apps/Car/Notification"]
+	branch = master
+	path = packages/apps/Car/Notification
+	url = ../packages/apps/Car/Notification
 [submodule "packages/apps/Car/Overview"]
 	branch = master
 	path = packages/apps/Car/Overview
