@@ -847,10 +847,6 @@
 	branch = master
 	path = external/libvncserver
 	url = ../external/libvncserver
-[submodule "external/libvorbis"]
-	branch = master
-	path = external/libvorbis
-	url = ../external/libvorbis
 [submodule "external/libvpx"]
 	branch = master
 	path = external/libvpx
