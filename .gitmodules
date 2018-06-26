@@ -22,7 +22,7 @@
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "external/qemu"]
-	branch = emu-master-dev
+	branch = emu-master-qemu
 	path = external/qemu
 	url = ../external/qemu
 [submodule "external/tinyobjloader"]
