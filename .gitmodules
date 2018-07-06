@@ -27,19 +27,19 @@
 	path = external/llvm
 	url = ../external/llvm
 [submodule "external/shaderc/glslang"]
-	branch = master-ndk
+	branch = ndk-release-r18
 	path = external/shaderc/glslang
 	url = ../external/shaderc/glslang
 [submodule "external/shaderc/shaderc"]
-	branch = master-ndk
+	branch = ndk-release-r18
 	path = external/shaderc/shaderc
 	url = ../external/shaderc/shaderc
 [submodule "external/shaderc/spirv-headers"]
-	branch = master-ndk
+	branch = ndk-release-r18
 	path = external/shaderc/spirv-headers
 	url = ../external/shaderc/spirv-headers
 [submodule "external/shaderc/spirv-tools"]
-	branch = master-ndk
+	branch = ndk-release-r18
 	path = external/shaderc/spirv-tools
 	url = ../external/shaderc/spirv-tools
 [submodule "external/vulkan-validation-layers"]
