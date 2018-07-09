@@ -42,6 +42,10 @@
 	branch = master-ndk
 	path = external/shaderc/spirv-tools
 	url = ../external/shaderc/spirv-tools
+[submodule "external/vulkan-headers"]
+	branch = master
+	path = external/vulkan-headers
+	url = ../external/vulkan-headers
 [submodule "external/vulkan-validation-layers"]
 	branch = master
 	path = external/vulkan-validation-layers
