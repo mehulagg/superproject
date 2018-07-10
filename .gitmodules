@@ -1420,6 +1420,10 @@
 	branch = master
 	path = external/volley
 	url = ../external/volley
+[submodule "external/vulkan-headers"]
+	branch = master
+	path = external/vulkan-headers
+	url = ../external/vulkan-headers
 [submodule "external/vulkan-validation-layers"]
 	branch = master
 	path = external/vulkan-validation-layers
