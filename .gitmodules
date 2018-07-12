@@ -907,6 +907,10 @@
 	branch = master
 	path = external/mesa3d
 	url = ../external/mesa3d
+[submodule "external/minigbm"]
+	branch = master
+	path = external/minigbm
+	url = ../external/minigbm
 [submodule "external/minijail"]
 	branch = master
 	path = external/minijail
