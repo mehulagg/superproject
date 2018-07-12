@@ -25,11 +25,26 @@
 	branch = androidx-master-dev
 	path = frameworks/support
 	url = ../frameworks/support
+[submodule "prebuilts/androidx/external"]
+	branch = master
+	shallow = true
+	path = prebuilts/androidx/external
+	url = ../prebuilts/androidx/external
+[submodule "prebuilts/androidx/internal"]
+	branch = master
+	shallow = true
+	path = prebuilts/androidx/internal
+	url = ../prebuilts/androidx/internal
 [submodule "prebuilts/checkstyle"]
 	branch = master
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
+[submodule "prebuilts/ktlint"]
+	branch = master
+	shallow = true
+	path = prebuilts/ktlint
+	url = ../prebuilts/ktlint
 [submodule "tools/external/gradle"]
 	branch = 4.8
 	shallow = true
