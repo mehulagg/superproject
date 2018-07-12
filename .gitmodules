@@ -18,6 +18,11 @@
 	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
+[submodule "external/webview_support_interfaces"]
+	branch = master
+	shallow = true
+	path = external/webview_support_interfaces
+	url = ../external/webview_support_interfaces
 [submodule "frameworks/support"]
 	branch = androidx-master-dev
 	path = frameworks/support
