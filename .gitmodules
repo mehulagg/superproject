@@ -51,6 +51,10 @@
 	branch = master
 	path = external/flex
 	url = ../external/flex
+[submodule "external/golang-protobuf"]
+	branch = master
+	path = external/golang-protobuf
+	url = ../external/golang-protobuf
 [submodule "external/googletest"]
 	branch = master
 	path = external/googletest
