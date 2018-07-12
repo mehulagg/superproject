@@ -1,0 +1,38 @@
+[submodule "external/doclava"]
+	branch = master
+	shallow = true
+	path = external/doclava
+	url = ../external/doclava
+[submodule "external/flatbuffers"]
+	branch = master
+	shallow = true
+	path = external/flatbuffers
+	url = ../external/flatbuffers
+[submodule "external/jdiff"]
+	branch = master
+	shallow = true
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "external/noto-fonts"]
+	branch = master
+	shallow = true
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "frameworks/support"]
+	branch = androidx-1.0-dev
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "prebuilts/checkstyle"]
+	branch = master
+	shallow = true
+	path = prebuilts/checkstyle
+	url = ../prebuilts/checkstyle
+[submodule "tools/external/gradle"]
+	branch = 4.4
+	shallow = true
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
