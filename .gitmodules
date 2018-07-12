@@ -123,6 +123,10 @@
 	branch = master
 	path = external/fdlibm
 	url = ../external/fdlibm
+[submodule "external/golang-protobuf"]
+	branch = master
+	path = external/golang-protobuf
+	url = ../external/golang-protobuf
 [submodule "external/google-styleguide"]
 	branch = master
 	path = external/google-styleguide
