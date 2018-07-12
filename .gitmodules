@@ -28,7 +28,7 @@
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "tools/external/gradle"]
-	branch = 4.4
+	branch = 4.8
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
