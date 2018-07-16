@@ -222,6 +222,15 @@
 	branch = master
 	path = device/linaro/hikey
 	url = ../../device/linaro/hikey
+[submodule "device/linaro/poplar-kernel"]
+	branch = master
+	shallow = true
+	path = device/linaro/poplar-kernel
+	url = ../../device/linaro/poplar-kernel
+[submodule "device/linaro/poplar"]
+	branch = master
+	path = device/linaro/poplar
+	url = ../../device/linaro/poplar
 [submodule "device/sample"]
 	branch = master
 	path = device/sample
