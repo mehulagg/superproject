@@ -40,6 +40,11 @@
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
+[submodule "prebuilts/fullsdk-darwin/platforms/android-28"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-darwin/platforms/android-28
+	url = ../prebuilts/fullsdk/platforms/android-28
 [submodule "prebuilts/ktlint"]
 	branch = master
 	shallow = true
