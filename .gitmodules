@@ -29,6 +29,10 @@
 	branch = master
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
+[submodule "external/virglrenderer"]
+	branch = emu-master-dev
+	path = external/virglrenderer
+	url = ../external/virglrenderer
 [submodule "frameworks/native"]
 	branch = lollipop-release
 	path = frameworks/native
