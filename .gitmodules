@@ -1481,6 +1481,10 @@
 	branch = master
 	path = external/xz-embedded
 	url = ../external/xz-embedded
+[submodule "external/yapf"]
+	branch = master
+	path = external/yapf
+	url = ../external/yapf
 [submodule "external/zlib"]
 	branch = master
 	path = external/zlib
