@@ -295,6 +295,10 @@
 	branch = master
 	path = external/arm-neon-tests
 	url = ../external/arm-neon-tests
+[submodule "external/arm-optimized-routines"]
+	branch = master
+	path = external/arm-optimized-routines
+	url = ../external/arm-optimized-routines
 [submodule "external/autotest"]
 	branch = master
 	path = external/autotest
