@@ -267,6 +267,10 @@
 	branch = master
 	path = external/antlr
 	url = ../external/antlr
+[submodule "external/apache-commons-bcel"]
+	branch = master
+	path = external/apache-commons-bcel
+	url = ../external/apache-commons-bcel
 [submodule "external/apache-commons-math"]
 	branch = master
 	path = external/apache-commons-math
