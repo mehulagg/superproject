@@ -26,12 +26,12 @@
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "prebuilts/androidx/external"]
-	branch = master
+	branch = androidx-master-dev
 	shallow = true
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
 [submodule "prebuilts/androidx/internal"]
-	branch = master
+	branch = androidx-master-dev
 	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
