@@ -175,6 +175,9 @@
 [submodule "external/abi-dumper"]
 	path = external/abi-dumper
 	url = ../external/abi-dumper
+[submodule "external/adt-infra"]
+	path = external/adt-infra
+	url = ../external/adt-infra
 [submodule "external/android-clat"]
 	path = external/android-clat
 	url = ../external/android-clat
@@ -1480,6 +1483,9 @@
 [submodule "prebuilts/devtools"]
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
+[submodule "prebuilts/eclipse-build-deps"]
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
 [submodule "prebuilts/eclipse"]
 	path = prebuilts/eclipse
 	url = ../prebuilts/eclipse
@@ -1681,21 +1687,42 @@
 [submodule "toolchain/binutils"]
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "tools/adt/idea"]
+	path = tools/adt/idea
+	url = ../tools/adt/idea
 [submodule "tools/apksig"]
 	path = tools/apksig
 	url = ../tools/apksig
+[submodule "tools/base"]
+	path = tools/base
+	url = ../tools/base
+[submodule "tools/build"]
+	path = tools/build
+	url = ../tools/build
 [submodule "tools/external/fat32lib"]
 	path = tools/external/fat32lib
 	url = ../tools/external/fat32lib
 [submodule "tools/external/gradle"]
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "tools/idea"]
+	path = tools/idea
+	url = ../tools/idea
 [submodule "tools/loganalysis"]
 	path = tools/loganalysis
 	url = ../tools/loganalysis
+[submodule "tools/motodev"]
+	path = tools/motodev
+	url = ../tools/motodev
 [submodule "tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
+[submodule "tools/studio/cloud"]
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "tools/swt"]
+	path = tools/swt
+	url = ../tools/swt
 [submodule "tools/test/connectivity"]
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity

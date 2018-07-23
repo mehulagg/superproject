@@ -57,6 +57,7 @@
 /external/aac pdk
 /external/abi-compliance-checker pdk
 /external/abi-dumper pdk
+/external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/androidplot pdk
 /external/ant-glob pdk
@@ -492,6 +493,7 @@
 /prebuilts/clang/host/linux-x86 pdk
 /prebuilts/deqp pdk-fs
 /prebuilts/devtools pdk-fs
+/prebuilts/eclipse-build-deps notdefault eclipse
 /prebuilts/eclipse pdk
 /prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8 pdk darwin arm
@@ -559,11 +561,18 @@
 /test/vts-testcase/vndk vts pdk
 /test/vts vts pdk
 /toolchain/binutils pdk
+/tools/adt/idea notdefault tools
 /tools/apksig tradefed pdk
+/tools/base notdefault tools
+/tools/build notdefault tools
 /tools/external/fat32lib tools
 /tools/external/gradle tools
+/tools/idea notdefault tools
 /tools/loganalysis tradefed pdk nopresubmit
+/tools/motodev notdefault motodev
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
+/tools/studio/cloud notdefault tools
+/tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/tradefederation/contrib tradefed pdk
 /tools/tradefederation/core tradefed pdk
