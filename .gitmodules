@@ -40,11 +40,41 @@
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
+[submodule "prebuilts/fullsdk-darwin/build-tools/27.0.3"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-darwin/build-tools/27.0.3
+	url = ../prebuilts/fullsdk-darwin/build-tools/27.0.3
+[submodule "prebuilts/fullsdk-darwin/platform-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-darwin/platform-tools
+	url = ../prebuilts/fullsdk-darwin/platform-tools
 [submodule "prebuilts/fullsdk-darwin/platforms/android-28"]
 	branch = master
 	shallow = true
 	path = prebuilts/fullsdk-darwin/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "prebuilts/fullsdk-darwin/tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-darwin/tools
+	url = ../prebuilts/fullsdk-darwin/tools
+[submodule "prebuilts/fullsdk-linux/build-tools/27.0.3"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-linux/build-tools/27.0.3
+	url = ../prebuilts/fullsdk-linux/build-tools/27.0.3
+[submodule "prebuilts/fullsdk-linux/platform-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-linux/platform-tools
+	url = ../prebuilts/fullsdk-linux/platform-tools
+[submodule "prebuilts/fullsdk-linux/tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/fullsdk-linux/tools
+	url = ../prebuilts/fullsdk-linux/tools
 [submodule "prebuilts/ktlint"]
 	branch = master
 	shallow = true
