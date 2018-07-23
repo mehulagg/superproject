@@ -62,6 +62,7 @@
 /external/aac pdk
 /external/abi-compliance-checker pdk
 /external/abi-dumper pdk
+/external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/androidplot pdk
 /external/ant-glob pdk
@@ -586,11 +587,18 @@
 /test/vts pdk-fs vts
 /toolchain/binutils pdk
 /tools/acloud vts tradefed pdk tools
+/tools/adt/idea notdefault tools
 /tools/apksig tradefed pdk
+/tools/base notdefault tools
+/tools/build notdefault tools
 /tools/external/fat32lib tools
 /tools/external/gradle tools
+/tools/idea notdefault tools
 /tools/loganalysis tradefed pdk nopresubmit
+/tools/motodev notdefault motodev
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
+/tools/studio/cloud notdefault tools
+/tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/tradefederation/contrib tradefed pdk
 /tools/tradefederation/core tradefed pdk
