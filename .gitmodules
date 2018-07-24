@@ -247,6 +247,10 @@
 	branch = master
 	path = external/aac
 	url = ../external/aac
+[submodule "external/adt-infra"]
+	branch = master
+	path = external/adt-infra
+	url = ../external/adt-infra
 [submodule "external/android-clat"]
 	branch = master
 	path = external/android-clat
@@ -472,6 +476,10 @@
 	branch = master
 	path = external/emma
 	url = ../external/emma
+[submodule "external/epid-sdk"]
+	branch = master
+	path = external/epid-sdk
+	url = ../external/epid-sdk
 [submodule "external/error_prone"]
 	branch = master
 	path = external/error_prone
@@ -2625,6 +2633,10 @@
 	branch = master
 	path = tools/acloud
 	url = ../tools/acloud
+[submodule "tools/adt/idea"]
+	branch = master
+	path = tools/adt/idea
+	url = ../tools/adt/idea
 [submodule "tools/apksig"]
 	branch = master
 	path = tools/apksig
@@ -2633,6 +2645,14 @@
 	branch = master
 	path = tools/apkzlib
 	url = ../tools/apkzlib
+[submodule "tools/base"]
+	branch = master
+	path = tools/base
+	url = ../tools/base
+[submodule "tools/build"]
+	branch = master
+	path = tools/build
+	url = ../tools/build
 [submodule "tools/dexter"]
 	branch = master
 	path = tools/dexter
@@ -2650,6 +2670,10 @@
 	branch = master
 	path = tools/external_updater
 	url = ../tools/external_updater
+[submodule "tools/idea"]
+	branch = master
+	path = tools/idea
+	url = ../tools/idea
 [submodule "tools/loganalysis"]
 	branch = master
 	path = tools/loganalysis
@@ -2658,6 +2682,10 @@
 	branch = master
 	path = tools/metalava
 	url = ../tools/metalava
+[submodule "tools/motodev"]
+	branch = master
+	path = tools/motodev
+	url = ../tools/motodev
 [submodule "tools/repohooks"]
 	branch = master
 	path = tools/repohooks
@@ -2666,6 +2694,14 @@
 	branch = master
 	path = tools/security
 	url = ../tools/security
+[submodule "tools/studio/cloud"]
+	branch = master
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "tools/swt"]
+	branch = master
+	path = tools/swt
+	url = ../tools/swt
 [submodule "tools/test/connectivity"]
 	branch = master
 	path = tools/test/connectivity
