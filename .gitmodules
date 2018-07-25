@@ -40,12 +40,6 @@
 [submodule "development"]
 	path = development
 	url = ../development
-[submodule "device/asus/fugu-kernel"]
-	path = device/asus/fugu-kernel
-	url = ../../device/asus/fugu-kernel
-[submodule "device/asus/fugu"]
-	path = device/asus/fugu
-	url = ../../device/asus/fugu
 [submodule "device/common"]
 	path = device/common
 	url = ../../device/common
@@ -166,6 +160,12 @@
 [submodule "device/linaro/hikey"]
 	path = device/linaro/hikey
 	url = ../../device/linaro/hikey
+[submodule "device/linaro/poplar-kernel"]
+	path = device/linaro/poplar-kernel
+	url = ../../device/linaro/poplar-kernel
+[submodule "device/linaro/poplar"]
+	path = device/linaro/poplar
+	url = ../../device/linaro/poplar
 [submodule "device/sample"]
 	path = device/sample
 	url = ../../device/sample
@@ -178,12 +178,9 @@
 [submodule "external/aac"]
 	path = external/aac
 	url = ../external/aac
-[submodule "external/abi-compliance-checker"]
-	path = external/abi-compliance-checker
-	url = ../external/abi-compliance-checker
-[submodule "external/abi-dumper"]
-	path = external/abi-dumper
-	url = ../external/abi-dumper
+[submodule "external/adt-infra"]
+	path = external/adt-infra
+	url = ../external/adt-infra
 [submodule "external/android-clat"]
 	path = external/android-clat
 	url = ../external/android-clat
@@ -199,6 +196,9 @@
 [submodule "external/antlr"]
 	path = external/antlr
 	url = ../external/antlr
+[submodule "external/apache-commons-bcel"]
+	path = external/apache-commons-bcel
+	url = ../external/apache-commons-bcel
 [submodule "external/apache-commons-math"]
 	path = external/apache-commons-math
 	url = ../external/apache-commons-math
@@ -217,6 +217,9 @@
 [submodule "external/arm-neon-tests"]
 	path = external/arm-neon-tests
 	url = ../external/arm-neon-tests
+[submodule "external/arm-optimized-routines"]
+	path = external/arm-optimized-routines
+	url = ../external/arm-optimized-routines
 [submodule "external/autotest"]
 	path = external/autotest
 	url = ../external/autotest
@@ -346,6 +349,9 @@
 [submodule "external/emma"]
 	path = external/emma
 	url = ../external/emma
+[submodule "external/epid-sdk"]
+	path = external/epid-sdk
+	url = ../external/epid-sdk
 [submodule "external/error_prone"]
 	path = external/error_prone
 	url = ../external/error_prone
@@ -640,9 +646,6 @@
 [submodule "external/libvncserver"]
 	path = external/libvncserver
 	url = ../external/libvncserver
-[submodule "external/libvorbis"]
-	path = external/libvorbis
-	url = ../external/libvorbis
 [submodule "external/libvpx"]
 	path = external/libvpx
 	url = ../external/libvpx
@@ -688,6 +691,9 @@
 [submodule "external/mesa3d"]
 	path = external/mesa3d
 	url = ../external/mesa3d
+[submodule "external/minigbm"]
+	path = external/minigbm
+	url = ../external/minigbm
 [submodule "external/minijail"]
 	path = external/minijail
 	url = ../external/minijail
@@ -727,6 +733,9 @@
 [submodule "external/neven"]
 	path = external/neven
 	url = ../external/neven
+[submodule "external/newfs_msdos"]
+	path = external/newfs_msdos
+	url = ../external/newfs_msdos
 [submodule "external/nfacct"]
 	path = external/nfacct
 	url = ../external/nfacct
@@ -796,6 +805,9 @@
 [submodule "external/python/Pillow"]
 	path = external/python/Pillow
 	url = ../external/python/Pillow
+[submodule "external/python/apitools"]
+	path = external/python/apitools
+	url = ../external/python/apitools
 [submodule "external/python/appdirs"]
 	path = external/python/appdirs
 	url = ../external/python/appdirs
@@ -808,6 +820,9 @@
 [submodule "external/python/cpython3"]
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "external/python/dateutil"]
+	path = external/python/dateutil
+	url = ../external/python/dateutil
 [submodule "external/python/dill"]
 	path = external/python/dill
 	url = ../external/python/dill
@@ -1051,9 +1066,6 @@
 [submodule "external/v8"]
 	path = external/v8
 	url = ../external/v8
-[submodule "external/valgrind"]
-	path = external/valgrind
-	url = ../external/valgrind
 [submodule "external/vboot_reference"]
 	path = external/vboot_reference
 	url = ../external/vboot_reference
@@ -1066,6 +1078,9 @@
 [submodule "external/volley"]
 	path = external/volley
 	url = ../external/volley
+[submodule "external/vulkan-headers"]
+	path = external/vulkan-headers
+	url = ../external/vulkan-headers
 [submodule "external/vulkan-validation-layers"]
 	path = external/vulkan-validation-layers
 	url = ../external/vulkan-validation-layers
@@ -1099,6 +1114,9 @@
 [submodule "external/xz-embedded"]
 	path = external/xz-embedded
 	url = ../external/xz-embedded
+[submodule "external/yapf"]
+	path = external/yapf
+	url = ../external/yapf
 [submodule "external/zlib"]
 	path = external/zlib
 	url = ../external/zlib
@@ -1228,42 +1246,6 @@
 [submodule "hardware/google/interfaces"]
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
-[submodule "hardware/intel/audio_media"]
-	path = hardware/intel/audio_media
-	url = ../hardware/intel/audio_media
-[submodule "hardware/intel/bootstub"]
-	path = hardware/intel/bootstub
-	url = ../hardware/intel/bootstub
-[submodule "hardware/intel/common/libmix"]
-	path = hardware/intel/common/libmix
-	url = ../hardware/intel/common/libmix
-[submodule "hardware/intel/common/libstagefrighthw"]
-	path = hardware/intel/common/libstagefrighthw
-	url = ../hardware/intel/common/libstagefrighthw
-[submodule "hardware/intel/common/libva"]
-	path = hardware/intel/common/libva
-	url = ../hardware/intel/common/libva
-[submodule "hardware/intel/common/libwsbm"]
-	path = hardware/intel/common/libwsbm
-	url = ../hardware/intel/common/libwsbm
-[submodule "hardware/intel/common/omx-components"]
-	path = hardware/intel/common/omx-components
-	url = ../hardware/intel/common/omx-components
-[submodule "hardware/intel/common/utils"]
-	path = hardware/intel/common/utils
-	url = ../hardware/intel/common/utils
-[submodule "hardware/intel/common/wrs_omxil_core"]
-	path = hardware/intel/common/wrs_omxil_core
-	url = ../hardware/intel/common/wrs_omxil_core
-[submodule "hardware/intel/img/hwcomposer"]
-	path = hardware/intel/img/hwcomposer
-	url = ../hardware/intel/img/hwcomposer
-[submodule "hardware/intel/img/psb_headers"]
-	path = hardware/intel/img/psb_headers
-	url = ../hardware/intel/img/psb_headers
-[submodule "hardware/intel/img/psb_video"]
-	path = hardware/intel/img/psb_video
-	url = ../hardware/intel/img/psb_video
 [submodule "hardware/interfaces"]
 	path = hardware/interfaces
 	url = ../hardware/interfaces
@@ -1402,6 +1384,9 @@
 [submodule "packages/apps/Car/Messenger"]
 	path = packages/apps/Car/Messenger
 	url = ../packages/apps/Car/Messenger
+[submodule "packages/apps/Car/Notification"]
+	path = packages/apps/Car/Notification
+	url = ../packages/apps/Car/Notification
 [submodule "packages/apps/Car/Overview"]
 	path = packages/apps/Car/Overview
 	url = ../packages/apps/Car/Overview
@@ -1843,9 +1828,6 @@
 [submodule "system/tools/hidl"]
 	path = system/tools/hidl
 	url = ../system/tools/hidl
-[submodule "system/tpm"]
-	path = system/tpm
-	url = ../system/tpm
 [submodule "system/update_engine"]
 	path = system/update_engine
 	url = ../system/update_engine
@@ -1855,6 +1837,12 @@
 [submodule "test/framework"]
 	path = test/framework
 	url = ../test/framework
+[submodule "test/mlts/benchmark"]
+	path = test/mlts/benchmark
+	url = ../test/mlts/benchmark
+[submodule "test/mlts/models"]
+	path = test/mlts/models
+	url = ../test/mlts/models
 [submodule "test/sts"]
 	path = test/sts
 	url = ../test/sts
@@ -1909,12 +1897,21 @@
 [submodule "tools/acloud"]
 	path = tools/acloud
 	url = ../tools/acloud
+[submodule "tools/adt/idea"]
+	path = tools/adt/idea
+	url = ../tools/adt/idea
 [submodule "tools/apksig"]
 	path = tools/apksig
 	url = ../tools/apksig
 [submodule "tools/apkzlib"]
 	path = tools/apkzlib
 	url = ../tools/apkzlib
+[submodule "tools/base"]
+	path = tools/base
+	url = ../tools/base
+[submodule "tools/build"]
+	path = tools/build
+	url = ../tools/build
 [submodule "tools/dexter"]
 	path = tools/dexter
 	url = ../tools/dexter
@@ -1924,18 +1921,33 @@
 [submodule "tools/external/gradle"]
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "tools/external_updater"]
+	path = tools/external_updater
+	url = ../tools/external_updater
+[submodule "tools/idea"]
+	path = tools/idea
+	url = ../tools/idea
 [submodule "tools/loganalysis"]
 	path = tools/loganalysis
 	url = ../tools/loganalysis
 [submodule "tools/metalava"]
 	path = tools/metalava
 	url = ../tools/metalava
+[submodule "tools/motodev"]
+	path = tools/motodev
+	url = ../tools/motodev
 [submodule "tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "tools/security"]
 	path = tools/security
 	url = ../tools/security
+[submodule "tools/studio/cloud"]
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "tools/swt"]
+	path = tools/swt
+	url = ../tools/swt
 [submodule "tools/test/connectivity"]
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
