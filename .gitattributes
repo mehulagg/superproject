@@ -57,6 +57,7 @@
 /device/sample pdk
 /external/ImageMagick pdk
 /external/Microsoft-GSL pdk
+/external/Reactive-Extensions/RxCpp pdk
 /external/aac pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
