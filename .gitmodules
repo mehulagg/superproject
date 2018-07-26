@@ -576,6 +576,10 @@
 	branch = master
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
+[submodule "external/google-fruit"]
+	branch = master
+	path = external/google-fruit
+	url = ../external/google-fruit
 [submodule "external/google-styleguide"]
 	branch = master
 	path = external/google-styleguide
@@ -2433,6 +2437,10 @@
 	branch = master
 	path = system/hwservicemanager
 	url = ../system/hwservicemanager
+[submodule "system/iorap"]
+	branch = master
+	path = system/iorap
+	url = ../system/iorap
 [submodule "system/iot/attestation"]
 	branch = master
 	path = system/iot/attestation

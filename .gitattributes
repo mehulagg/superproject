@@ -140,6 +140,7 @@
 /external/google-fonts/coming-soon pdk
 /external/google-fonts/cutive-mono pdk
 /external/google-fonts/dancing-script pdk
+/external/google-fruit pdk
 /external/google-styleguide pdk
 /external/google-tv-pairing-protocol pdk
 /external/googletest pdk
@@ -594,6 +595,7 @@
 /system/gatekeeper pdk
 /system/hardware/interfaces pdk
 /system/hwservicemanager pdk
+/system/iorap pdk
 /system/iot/attestation pdk
 /system/keymaster pdk
 /system/libfmq pdk
