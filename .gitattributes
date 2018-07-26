@@ -1,0 +1,113 @@
+/art pdk
+/bionic pdk
+/build/blueprint tradefed pdk
+/build/kati tradefed pdk
+/build/make pdk
+/build/soong tradefed pdk
+/dalvik pdk-fs pdk-cw-fs
+/development pdk-fs pdk-cw-fs
+/device/generic/art pdk
+/external/annotation-tools pdk
+/external/antlr pdk
+/external/apache-commons-bcel pdk
+/external/apache-commons-math pdk
+/external/apache-harmony pdk
+/external/apache-xml pdk
+/external/archive-patcher pdk
+/external/boringssl pdk
+/external/bouncycastle pdk
+/external/caliper pdk
+/external/clang pdk
+/external/compiler-rt pdk
+/external/conscrypt pdk
+/external/dagger2 pdk
+/external/desugar pdk
+/external/dexmaker pdk
+/external/dlmalloc pdk
+/external/doclava pdk
+/external/e2fsprogs pdk
+/external/error_prone pdk
+/external/expat pdk
+/external/f2fs-tools pdk
+/external/fdlibm pdk
+/external/golang-protobuf pdk
+/external/google-styleguide pdk
+/external/googletest pdk
+/external/guava pdk
+/external/hamcrest pdk
+/external/icu pdk
+/external/jarjar pdk
+/external/javasqlite pdk
+/external/jcommander pdk
+/external/jemalloc pdk
+/external/jsilver pdk
+/external/jsr305 pdk
+/external/junit-params pdk
+/external/junit pdk
+/external/kotlinc pdk
+/external/libcxx pdk
+/external/libcxxabi pdk
+/external/libunwind pdk
+/external/libunwind_llvm pdk
+/external/libusb pdk
+/external/llvm pdk
+/external/lz4 pdk
+/external/lzma pdk
+/external/mdnsresponder pdk
+/external/mksh pdk
+/external/mockftpserver pdk
+/external/mockito pdk
+/external/mockwebserver pdk
+/external/nist-pkits pdk
+/external/objenesis pdk
+/external/oj-libjdwp pdk
+/external/okhttp pdk
+/external/pcre pdk
+/external/protobuf pdk
+/external/python/cpython2 pdk
+/external/python/cpython3 pdk
+/external/safe-iop pdk
+/external/selinux pdk
+/external/slf4j pdk
+/external/smali pdk
+/external/sqlite pdk
+/external/tagsoup pdk
+/external/toybox pdk
+/external/turbine pdk
+/external/valgrind pdk
+/external/vixl pdk
+/external/vogar pdk
+/external/zlib pdk
+/external/zopfli pdk-fs pdk-cw-fs
+/frameworks/native pdk
+/hardware/libhardware pdk
+/libcore pdk
+/libnativehelper pdk
+/prebuilts/build-tools pdk
+/prebuilts/clang-tools pdk
+/prebuilts/clang/host/linux-x86 pdk
+/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 pdk linux
+/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9 pdk linux mips
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
+/prebuilts/gdb/linux-x86 linux
+/prebuilts/go/linux-x86 tradefed linux
+/prebuilts/jdk/jdk8 pdk
+/prebuilts/jdk/jdk9 pdk
+/prebuilts/misc pdk
+/prebuilts/ndk pdk
+/prebuilts/ninja/linux-x86 tradefed pdk linux
+/prebuilts/r8 pdk
+/prebuilts/sdk pdk
+/prebuilts/tools pdk tools
+/sdk pdk-fs pdk-cw-fs
+/system/core pdk
+/system/extras pdk
+/system/keymaster pdk
+/system/netd pdk
+/system/security pdk
+/system/timezone pdk
+/toolchain/pgo-profiles
+/tools/apksig tradefed pdk
+/tools/dexter tools
