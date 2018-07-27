@@ -138,6 +138,10 @@
 	branch = nougat-iot-release
 	path = external/aac
 	url = ../external/aac
+[submodule "external/adt-infra"]
+	branch = nougat-iot-release
+	path = external/adt-infra
+	url = ../external/adt-infra
 [submodule "external/android-clat"]
 	branch = nougat-iot-release
 	path = external/android-clat
@@ -538,6 +542,10 @@
 	branch = nougat-iot-release
 	path = external/jhead
 	url = ../external/jhead
+[submodule "external/jline"]
+	branch = nougat-iot-release
+	path = external/jline
+	url = ../external/jline
 [submodule "external/jmdns"]
 	branch = nougat-iot-release
 	path = external/jmdns
@@ -718,10 +726,6 @@
 	branch = nougat-iot-release
 	path = external/libvncserver
 	url = ../external/libvncserver
-[submodule "external/libvorbis"]
-	branch = nougat-iot-release
-	path = external/libvorbis
-	url = ../external/libvorbis
 [submodule "external/libvpx"]
 	branch = nougat-iot-release
 	path = external/libvpx
@@ -1792,6 +1796,11 @@
 	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
+[submodule "prebuilts/eclipse-build-deps"]
+	branch = nougat-iot-release
+	shallow = true
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
 [submodule "prebuilts/eclipse"]
 	branch = nougat-iot-release
 	shallow = true
@@ -2023,6 +2032,18 @@
 	branch = nougat-iot-release
 	path = toolchain/binutils
 	url = ../../toolchain/binutils
+[submodule "tools/adt/idea"]
+	branch = nougat-iot-release
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "tools/base"]
+	branch = nougat-iot-release
+	path = tools/base
+	url = ../tools/base
+[submodule "tools/build"]
+	branch = nougat-iot-release
+	path = tools/build
+	url = ../tools/build
 [submodule "tools/external/fat32lib"]
 	branch = nougat-iot-release
 	path = tools/external/fat32lib
@@ -2031,7 +2052,31 @@
 	branch = nougat-iot-release
 	path = tools/external/gradle
 	url = ../tools/external/gradle
+[submodule "tools/idea"]
+	branch = nougat-iot-release
+	path = tools/idea
+	url = ../tools/idea
+[submodule "tools/loganalysis"]
+	branch = nougat-iot-release
+	path = tools/loganalysis
+	url = ../tools/loganalysis
+[submodule "tools/motodev"]
+	branch = nougat-iot-release
+	path = tools/motodev
+	url = ../tools/motodev
+[submodule "tools/studio/cloud"]
+	branch = nougat-iot-release
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "tools/swt"]
+	branch = nougat-iot-release
+	path = tools/swt
+	url = ../tools/swt
 [submodule "tools/test/connectivity"]
 	branch = nougat-iot-release
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
+[submodule "tools/tradefederation"]
+	branch = nougat-iot-release
+	path = tools/tradefederation
+	url = ../tools/tradefederation
