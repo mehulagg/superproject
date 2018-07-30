@@ -2657,6 +2657,10 @@
 	branch = master
 	path = tools/apkzlib
 	url = ../tools/apkzlib
+[submodule "tools/asuite"]
+	branch = master
+	path = tools/asuite
+	url = ../tools/asuite
 [submodule "tools/base"]
 	branch = master
 	path = tools/base
