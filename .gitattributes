@@ -207,6 +207,7 @@
 /device/generic/mini-emulator-x86_64 pdk
 /external/google-fruit pdk
 /external/lisa pdk
+/prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /external/libphonenumber pdk
 /tools/swt notdefault tools
 /external/python/requests vts pdk
@@ -540,6 +541,7 @@
 /external/cldr pdk
 /external/shaderc/spirv-headers pdk
 /packages/apps/Car/Hvac pdk-fs
+/prebuilts/maven_repo/google-play-service-client-libraries-3p
 /packages/apps/SecureElement pdk-fs apps_se
 /external/neven pdk
 /external/python/scipy vts pdk
