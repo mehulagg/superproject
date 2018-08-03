@@ -1,469 +1,473 @@
-[submodule "art"]
-	branch = master
-	path = art
-	url = ../art
-[submodule "bionic"]
-	branch = master
-	path = bionic
-	url = ../bionic
-[submodule "build/blueprint"]
-	branch = master
-	path = build/blueprint
-	url = ../build/blueprint
-[submodule "build/kati"]
+[submodule "platform/build/kati"]
 	branch = master
 	path = build/kati
 	url = ../build/kati
-[submodule "build/make"]
-	branch = master
-	path = build/make
-	url = ../build
-[submodule "build/soong"]
-	branch = master
-	path = build/soong
-	url = ../build/soong
-[submodule "dalvik"]
-	branch = master
-	path = dalvik
-	url = ../dalvik
-[submodule "development"]
-	branch = master
-	path = development
-	url = ../development
-[submodule "device/generic/art"]
-	branch = master
-	path = device/generic/art
-	url = ../../device/generic/art
-[submodule "external/annotation-tools"]
-	branch = master
-	path = external/annotation-tools
-	url = ../external/annotation-tools
-[submodule "external/antlr"]
-	branch = master
-	path = external/antlr
-	url = ../external/antlr
-[submodule "external/apache-commons-bcel"]
-	branch = master
-	path = external/apache-commons-bcel
-	url = ../external/apache-commons-bcel
-[submodule "external/apache-commons-math"]
-	branch = master
-	path = external/apache-commons-math
-	url = ../external/apache-commons-math
-[submodule "external/apache-harmony"]
-	branch = master
-	path = external/apache-harmony
-	url = ../external/apache-harmony
-[submodule "external/apache-xml"]
-	branch = master
-	path = external/apache-xml
-	url = ../external/apache-xml
-[submodule "external/archive-patcher"]
-	branch = master
-	path = external/archive-patcher
-	url = ../external/archive-patcher
-[submodule "external/boringssl"]
-	branch = master
-	path = external/boringssl
-	url = ../external/boringssl
-[submodule "external/bouncycastle"]
-	branch = master
-	path = external/bouncycastle
-	url = ../external/bouncycastle
-[submodule "external/caliper"]
-	branch = master
-	path = external/caliper
-	url = ../external/caliper
-[submodule "external/clang"]
-	branch = master
-	shallow = true
-	path = external/clang
-	url = ../external/clang
-[submodule "external/compiler-rt"]
-	branch = master
-	path = external/compiler-rt
-	url = ../external/compiler-rt
-[submodule "external/conscrypt"]
-	branch = master
-	path = external/conscrypt
-	url = ../external/conscrypt
-[submodule "external/dagger2"]
-	branch = master
-	path = external/dagger2
-	url = ../external/dagger2
-[submodule "external/desugar"]
-	branch = master
-	path = external/desugar
-	url = ../external/desugar
-[submodule "external/dexmaker"]
-	branch = master
-	path = external/dexmaker
-	url = ../external/dexmaker
-[submodule "external/dlmalloc"]
-	branch = master
-	path = external/dlmalloc
-	url = ../external/dlmalloc
-[submodule "external/doclava"]
-	branch = master
-	path = external/doclava
-	url = ../external/doclava
-[submodule "external/e2fsprogs"]
-	branch = master
-	path = external/e2fsprogs
-	url = ../external/e2fsprogs
-[submodule "external/error_prone"]
-	branch = master
-	path = external/error_prone
-	url = ../external/error_prone
-[submodule "external/expat"]
-	branch = master
-	path = external/expat
-	url = ../external/expat
-[submodule "external/f2fs-tools"]
-	branch = master
-	path = external/f2fs-tools
-	url = ../external/f2fs-tools
-[submodule "external/fdlibm"]
-	branch = master
-	path = external/fdlibm
-	url = ../external/fdlibm
-[submodule "external/golang-protobuf"]
-	branch = master
-	path = external/golang-protobuf
-	url = ../external/golang-protobuf
-[submodule "external/google-styleguide"]
-	branch = master
-	path = external/google-styleguide
-	url = ../external/google-styleguide
-[submodule "external/googletest"]
-	branch = master
-	path = external/googletest
-	url = ../external/googletest
-[submodule "external/guava"]
-	branch = master
-	path = external/guava
-	url = ../external/guava
-[submodule "external/hamcrest"]
-	branch = master
-	path = external/hamcrest
-	url = ../external/hamcrest
-[submodule "external/icu"]
-	branch = master
-	path = external/icu
-	url = ../external/icu
-[submodule "external/jarjar"]
-	branch = master
-	path = external/jarjar
-	url = ../external/jarjar
-[submodule "external/javasqlite"]
-	branch = master
-	path = external/javasqlite
-	url = ../external/javasqlite
-[submodule "external/jcommander"]
-	branch = master
-	path = external/jcommander
-	url = ../external/jcommander
-[submodule "external/jemalloc"]
-	branch = master
-	path = external/jemalloc
-	url = ../external/jemalloc
-[submodule "external/jsilver"]
-	branch = master
-	path = external/jsilver
-	url = ../external/jsilver
-[submodule "external/jsr305"]
-	branch = master
-	path = external/jsr305
-	url = ../external/jsr305
-[submodule "external/junit-params"]
-	branch = master
-	path = external/junit-params
-	url = ../external/junit-params
-[submodule "external/junit"]
-	branch = master
-	path = external/junit
-	url = ../external/junit
-[submodule "external/kotlinc"]
-	branch = master
-	path = external/kotlinc
-	url = ../external/kotlinc
-[submodule "external/libcxx"]
-	branch = master
-	path = external/libcxx
-	url = ../external/libcxx
-[submodule "external/libcxxabi"]
+[submodule "platform/external/libcxxabi"]
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
-[submodule "external/libunwind"]
-	branch = master
-	path = external/libunwind
-	url = ../external/libunwind
-[submodule "external/libunwind_llvm"]
-	branch = master
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
-[submodule "external/libusb"]
-	branch = master
-	path = external/libusb
-	url = ../external/libusb
-[submodule "external/llvm"]
-	branch = master
-	shallow = true
-	path = external/llvm
-	url = ../external/llvm
-[submodule "external/lz4"]
-	branch = master
-	path = external/lz4
-	url = ../external/lz4
-[submodule "external/lzma"]
-	branch = master
-	path = external/lzma
-	url = ../external/lzma
-[submodule "external/mdnsresponder"]
-	branch = master
-	path = external/mdnsresponder
-	url = ../external/mdnsresponder
-[submodule "external/mksh"]
-	path = external/mksh
-	url = ../external/mksh
-[submodule "external/mockftpserver"]
-	branch = master
-	path = external/mockftpserver
-	url = ../external/mockftpserver
-[submodule "external/mockito"]
-	branch = master
-	path = external/mockito
-	url = ../external/mockito
-[submodule "external/mockwebserver"]
-	branch = master
-	path = external/mockwebserver
-	url = ../external/mockwebserver
-[submodule "external/nist-pkits"]
-	branch = master
-	path = external/nist-pkits
-	url = ../external/nist-pkits
-[submodule "external/objenesis"]
-	branch = master
-	path = external/objenesis
-	url = ../external/objenesis
-[submodule "external/oj-libjdwp"]
-	branch = master
-	path = external/oj-libjdwp
-	url = ../external/oj-libjdwp
-[submodule "external/okhttp"]
-	branch = master
-	path = external/okhttp
-	url = ../external/okhttp
-[submodule "external/pcre"]
+[submodule "platform/external/pcre"]
 	branch = master
 	path = external/pcre
 	url = ../external/pcre
-[submodule "external/protobuf"]
+[submodule "platform/external/antlr"]
 	branch = master
-	path = external/protobuf
-	url = ../external/protobuf
-[submodule "external/python/cpython2"]
-	branch = master
-	path = external/python/cpython2
-	url = ../external/python/cpython2
-[submodule "external/python/cpython3"]
-	branch = master
-	path = external/python/cpython3
-	url = ../external/python/cpython3
-[submodule "external/safe-iop"]
-	branch = master
-	path = external/safe-iop
-	url = ../external/safe-iop
-[submodule "external/selinux"]
-	branch = master
-	path = external/selinux
-	url = ../external/selinux
-[submodule "external/slf4j"]
-	branch = master
-	path = external/slf4j
-	url = ../external/slf4j
-[submodule "external/smali"]
-	branch = master
-	path = external/smali
-	url = ../external/smali
-[submodule "external/sqlite"]
-	branch = master
-	path = external/sqlite
-	url = ../external/sqlite
-[submodule "external/tagsoup"]
-	branch = master
-	path = external/tagsoup
-	url = ../external/tagsoup
-[submodule "external/toybox"]
-	path = external/toybox
-	url = ../external/toybox
-[submodule "external/turbine"]
-	branch = master
-	path = external/turbine
-	url = ../external/turbine
-[submodule "external/valgrind"]
-	branch = master
-	path = external/valgrind
-	url = ../external/valgrind
-[submodule "external/vixl"]
-	branch = master
-	path = external/vixl
-	url = ../external/vixl
-[submodule "external/vogar"]
-	branch = master
-	path = external/vogar
-	url = ../external/vogar
-[submodule "external/zlib"]
-	branch = master
-	path = external/zlib
-	url = ../external/zlib
-[submodule "external/zopfli"]
-	branch = master
-	path = external/zopfli
-	url = ../external/zopfli
-[submodule "frameworks/native"]
-	branch = master
-	path = frameworks/native
-	url = ../frameworks/native
-[submodule "hardware/libhardware"]
-	branch = master
-	path = hardware/libhardware
-	url = ../hardware/libhardware
-[submodule "libcore"]
-	branch = master
-	path = libcore
-	url = ../libcore
-[submodule "libnativehelper"]
-	branch = master
-	path = libnativehelper
-	url = ../libnativehelper
-[submodule "prebuilts/build-tools"]
-	branch = master
-	shallow = true
-	path = prebuilts/build-tools
-	url = ../prebuilts/build-tools
-[submodule "prebuilts/clang-tools"]
-	branch = master
-	shallow = true
-	path = prebuilts/clang-tools
-	url = ../prebuilts/clang-tools
-[submodule "prebuilts/clang/host/linux-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/clang/host/linux-x86
-	url = ../prebuilts/clang/host/linux-x86
-[submodule "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
-[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
-	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-[submodule "prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
-[submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = master
-	shallow = true
-	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "prebuilts/gdb/linux-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/gdb/linux-x86
-	url = ../prebuilts/gdb/linux-x86
-[submodule "prebuilts/go/linux-x86"]
-	branch = master
-	shallow = true
-	path = prebuilts/go/linux-x86
-	url = ../prebuilts/go/linux-x86
-[submodule "prebuilts/jdk/jdk8"]
-	branch = master
-	shallow = true
-	path = prebuilts/jdk/jdk8
-	url = ../prebuilts/jdk/jdk8
-[submodule "prebuilts/jdk/jdk9"]
+	path = external/antlr
+	url = ../external/antlr
+[submodule "platform/prebuilts/jdk/jdk9"]
 	branch = master
 	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
-[submodule "prebuilts/misc"]
-	branch = master
-	shallow = true
-	path = prebuilts/misc
-	url = ../prebuilts/misc
-[submodule "prebuilts/ndk"]
-	branch = master
-	shallow = true
-	path = prebuilts/ndk
-	url = ../prebuilts/ndk
-[submodule "prebuilts/ninja/linux-x86"]
-	branch = master
-	path = prebuilts/ninja/linux-x86
-	url = ../prebuilts/ninja/linux-x86
-[submodule "prebuilts/r8"]
-	branch = master
-	shallow = true
-	path = prebuilts/r8
-	url = ../prebuilts/r8
-[submodule "prebuilts/sdk"]
-	branch = master
-	shallow = true
-	path = prebuilts/sdk
-	url = ../prebuilts/sdk
-[submodule "prebuilts/tools"]
-	branch = master
-	shallow = true
-	path = prebuilts/tools
-	url = ../prebuilts/tools
-[submodule "sdk"]
-	branch = master
-	path = sdk
-	url = ../sdk
-[submodule "system/core"]
-	branch = master
-	path = system/core
-	url = ../system/core
-[submodule "system/extras"]
-	branch = master
-	path = system/extras
-	url = ../system/extras
-[submodule "system/keymaster"]
-	branch = master
-	path = system/keymaster
-	url = ../system/keymaster
-[submodule "system/netd"]
-	branch = master
-	path = system/netd
-	url = ../system/netd
-[submodule "system/security"]
-	branch = master
-	path = system/security
-	url = ../system/security
-[submodule "system/timezone"]
-	branch = master
-	path = system/timezone
-	url = ../system/timezone
 [submodule "toolchain/pgo-profiles"]
 	branch = master
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
-[submodule "tools/apksig"]
+[submodule "platform/external/arm-optimized-routines"]
 	branch = master
-	path = tools/apksig
-	url = ../tools/apksig
-[submodule "tools/dexter"]
+	path = external/arm-optimized-routines
+	url = ../external/arm-optimized-routines
+[submodule "platform/prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
+[submodule "platform/external/dagger2"]
+	branch = master
+	path = external/dagger2
+	url = ../external/dagger2
+[submodule "platform/external/toybox"]
+	path = external/toybox
+	url = ../external/toybox
+[submodule "platform/libnativehelper"]
+	branch = master
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "platform/external/clang"]
+	branch = master
+	shallow = true
+	path = external/clang
+	url = ../external/clang
+[submodule "platform/prebuilts/misc"]
+	branch = master
+	shallow = true
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/external/oj-libjdwp"]
+	branch = master
+	path = external/oj-libjdwp
+	url = ../external/oj-libjdwp
+[submodule "platform/prebuilts/ninja/linux-x86"]
+	branch = master
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/external/apache-commons-math"]
+	branch = master
+	path = external/apache-commons-math
+	url = ../external/apache-commons-math
+[submodule "platform/external/libunwind"]
+	branch = master
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "platform/external/mksh"]
+	path = external/mksh
+	url = ../external/mksh
+[submodule "platform/external/apache-xml"]
+	branch = master
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "platform/external/nist-pkits"]
+	branch = master
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "platform/external/jcommander"]
+	branch = master
+	path = external/jcommander
+	url = ../external/jcommander
+[submodule "platform/external/bouncycastle"]
+	branch = master
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "platform/external/mockito"]
+	branch = master
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/safe-iop"]
+	branch = master
+	path = external/safe-iop
+	url = ../external/safe-iop
+[submodule "platform/external/mdnsresponder"]
+	branch = master
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "platform/hardware/libhardware"]
+	branch = master
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "platform/external/guava"]
+	branch = master
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/expat"]
+	branch = master
+	path = external/expat
+	url = ../external/expat
+[submodule "platform/system/timezone"]
+	branch = master
+	path = system/timezone
+	url = ../system/timezone
+[submodule "platform/system/extras"]
+	branch = master
+	path = system/extras
+	url = ../system/extras
+[submodule "platform/external/fdlibm"]
+	branch = master
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/ndk"]
+	branch = master
+	shallow = true
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "device/generic/art"]
+	branch = master
+	path = device/generic/art
+	url = ../../device/generic/art
+[submodule "platform/build/soong"]
+	branch = master
+	path = build/soong
+	url = ../build/soong
+[submodule "platform/dalvik"]
+	branch = master
+	path = dalvik
+	url = ../dalvik
+[submodule "platform/external/icu"]
+	branch = master
+	path = external/icu
+	url = ../external/icu
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/external/objenesis"]
+	branch = master
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/lzma"]
+	branch = master
+	path = external/lzma
+	url = ../external/lzma
+[submodule "platform/tools/dexter"]
 	branch = master
 	path = tools/dexter
 	url = ../tools/dexter
+[submodule "platform/external/annotation-tools"]
+	branch = master
+	path = external/annotation-tools
+	url = ../external/annotation-tools
+[submodule "platform/external/jarjar"]
+	branch = master
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/mockftpserver"]
+	branch = master
+	path = external/mockftpserver
+	url = ../external/mockftpserver
+[submodule "platform/external/turbine"]
+	branch = master
+	path = external/turbine
+	url = ../external/turbine
+[submodule "platform/external/valgrind"]
+	branch = master
+	path = external/valgrind
+	url = ../external/valgrind
+[submodule "platform/external/smali"]
+	branch = master
+	path = external/smali
+	url = ../external/smali
+[submodule "platform/external/tagsoup"]
+	branch = master
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "platform/external/jemalloc"]
+	branch = master
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "platform/external/desugar"]
+	branch = master
+	path = external/desugar
+	url = ../external/desugar
+[submodule "platform/external/zlib"]
+	branch = master
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/development"]
+	branch = master
+	path = development
+	url = ../development
+[submodule "platform/external/error_prone"]
+	branch = master
+	path = external/error_prone
+	url = ../external/error_prone
+[submodule "platform/external/junit-params"]
+	branch = master
+	path = external/junit-params
+	url = ../external/junit-params
+[submodule "platform/external/lz4"]
+	branch = master
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/protobuf"]
+	branch = master
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/prebuilts/sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/external/sqlite"]
+	branch = master
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "platform/external/archive-patcher"]
+	branch = master
+	path = external/archive-patcher
+	url = ../external/archive-patcher
+[submodule "platform/external/doclava"]
+	branch = master
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/prebuilts/r8"]
+	branch = master
+	shallow = true
+	path = prebuilts/r8
+	url = ../prebuilts/r8
+[submodule "platform/prebuilts/clang-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang-tools
+	url = ../prebuilts/clang-tools
+[submodule "platform/external/caliper"]
+	branch = master
+	path = external/caliper
+	url = ../external/caliper
+[submodule "platform/build/blueprint"]
+	branch = master
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "platform/prebuilts/gdb/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/gdb/linux-x86
+	url = ../prebuilts/gdb/linux-x86
+[submodule "platform/external/apache-harmony"]
+	branch = master
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "platform/system/netd"]
+	branch = master
+	path = system/netd
+	url = ../system/netd
+[submodule "platform/build"]
+	branch = master
+	path = build/make
+	url = ../build
+[submodule "platform/external/golang-protobuf"]
+	branch = master
+	path = external/golang-protobuf
+	url = ../external/golang-protobuf
+[submodule "platform/external/okhttp"]
+	branch = master
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "platform/bionic"]
+	branch = master
+	path = bionic
+	url = ../bionic
+[submodule "platform/external/vixl"]
+	branch = master
+	path = external/vixl
+	url = ../external/vixl
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "platform/prebuilts/go/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "platform/sdk"]
+	branch = master
+	path = sdk
+	url = ../sdk
+[submodule "platform/tools/apksig"]
+	branch = master
+	path = tools/apksig
+	url = ../tools/apksig
+[submodule "platform/external/libunwind_llvm"]
+	branch = master
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "platform/frameworks/native"]
+	branch = master
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/external/apache-commons-bcel"]
+	branch = master
+	path = external/apache-commons-bcel
+	url = ../external/apache-commons-bcel
+[submodule "platform/external/jsr305"]
+	branch = master
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/prebuilts/tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/external/e2fsprogs"]
+	branch = master
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "platform/external/compiler-rt"]
+	branch = master
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "platform/external/dlmalloc"]
+	branch = master
+	path = external/dlmalloc
+	url = ../external/dlmalloc
+[submodule "platform/external/dexmaker"]
+	branch = master
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/libcore"]
+	branch = master
+	path = libcore
+	url = ../libcore
+[submodule "platform/external/zopfli"]
+	branch = master
+	path = external/zopfli
+	url = ../external/zopfli
+[submodule "platform/external/jsilver"]
+	branch = master
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "platform/external/python/cpython3"]
+	branch = master
+	path = external/python/cpython3
+	url = ../external/python/cpython3
+[submodule "platform/external/python/cpython2"]
+	branch = master
+	path = external/python/cpython2
+	url = ../external/python/cpython2
+[submodule "platform/system/keymaster"]
+	branch = master
+	path = system/keymaster
+	url = ../system/keymaster
+[submodule "platform/system/core"]
+	branch = master
+	path = system/core
+	url = ../system/core
+[submodule "platform/external/f2fs-tools"]
+	branch = master
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "platform/external/junit"]
+	branch = master
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/llvm"]
+	branch = master
+	shallow = true
+	path = external/llvm
+	url = ../external/llvm
+[submodule "platform/external/hamcrest"]
+	branch = master
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/selinux"]
+	branch = master
+	path = external/selinux
+	url = ../external/selinux
+[submodule "platform/external/googletest"]
+	branch = master
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/libusb"]
+	branch = master
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/system/security"]
+	branch = master
+	path = system/security
+	url = ../system/security
+[submodule "platform/external/conscrypt"]
+	branch = master
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "platform/external/mockwebserver"]
+	branch = master
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "platform/external/kotlinc"]
+	branch = master
+	path = external/kotlinc
+	url = ../external/kotlinc
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/external/boringssl"]
+	branch = master
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "platform/external/google-styleguide"]
+	branch = master
+	path = external/google-styleguide
+	url = ../external/google-styleguide
+[submodule "platform/art"]
+	branch = master
+	path = art
+	url = ../art
+[submodule "platform/external/javasqlite"]
+	branch = master
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "platform/external/slf4j"]
+	branch = master
+	path = external/slf4j
+	url = ../external/slf4j
+[submodule "platform/external/vogar"]
+	branch = master
+	path = external/vogar
+	url = ../external/vogar
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/external/libcxx"]
+	branch = master
+	path = external/libcxx
+	url = ../external/libcxx
