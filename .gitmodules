@@ -257,6 +257,10 @@
 	branch = master
 	path = device/generic/qemu
 	url = ../../device/generic/qemu
+[submodule "platform/external/python/mock"]
+	branch = master
+	path = external/python/mock
+	url = ../external/python/mock
 [submodule "platform/external/tagsoup"]
 	branch = master
 	path = external/tagsoup

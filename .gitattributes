@@ -61,6 +61,7 @@
 /external/webp pdk qcom_msm8x26
 /prebuilts/python/linux-x86/2.7.5 pdk-fs pdk-cw-fs pdk linux
 /device/generic/qemu pdk
+/external/python/mock pdk
 /external/tagsoup pdk
 /external/tinyalsa pdk
 /hardware/libhardware_legacy pdk
