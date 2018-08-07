@@ -431,7 +431,7 @@
 /test/mlts/models pdk
 /external/nist-sip pdk
 /packages/apps/TvSettings pdk-fs
-/prebuilts/gdb/linux-x86 linux
+/prebuilts/gdb/linux-x86 pdk linux
 /packages/apps/QuickSearchBox pdk-fs
 /tools/security pdk tools
 /external/apache-harmony pdk
@@ -675,7 +675,7 @@
 /external/curl pdk
 /external/libbackup pdk
 /external/mockwebserver pdk
-/prebuilts/gdb/darwin-x86 darwin
+/prebuilts/gdb/darwin-x86 darwin pdk
 /system/ca-certificates pdk
 /external/kotlinc pdk
 /external/lmfit pdk
