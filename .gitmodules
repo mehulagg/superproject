@@ -179,10 +179,6 @@
 	branch = master
 	path = kernel/configs
 	url = ../../kernel/configs
-[submodule "platform/system/tools/bpt"]
-	branch = master
-	path = system/tools/bpt
-	url = ../system/tools/bpt
 [submodule "platform/external/python/packaging"]
 	branch = master
 	path = external/python/packaging
@@ -297,6 +293,10 @@
 	branch = master
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
+[submodule "platform/external/nos/test/system-test-harness"]
+	branch = master
+	path = external/nos/test/system-test-harness
+	url = ../external/nos/test/system-test-harness
 [submodule "platform/hardware/google/interfaces"]
 	branch = master
 	path = hardware/google/interfaces
@@ -397,15 +397,14 @@
 	branch = master
 	path = external/libcap
 	url = ../external/libcap
+[submodule "platform/tools/appbundle"]
+	branch = master
+	path = tools/appbundle
+	url = ../tools/appbundle
 [submodule "platform/external/ltp"]
 	branch = master
 	path = external/ltp
 	url = ../external/ltp
-[submodule "device/lge/bullhead-kernel"]
-	branch = master
-	shallow = true
-	path = device/lge/bullhead-kernel
-	url = ../../device/lge/bullhead-kernel
 [submodule "platform/packages/apps/DocumentsUI"]
 	branch = master
 	path = packages/apps/DocumentsUI
@@ -447,6 +446,10 @@
 	branch = master
 	path = external/xz-embedded
 	url = ../external/xz-embedded
+[submodule "platform/external/robolectric-shadows"]
+	branch = master
+	path = external/robolectric-shadows
+	url = ../external/robolectric-shadows
 [submodule "platform/developers/demos"]
 	branch = master
 	path = developers/demos
@@ -525,6 +528,10 @@
 	shallow = true
 	path = prebuilts/libs/libedit
 	url = ../prebuilts/libs/libedit
+[submodule "platform/test/suite_harness"]
+	branch = master
+	path = test/suite_harness
+	url = ../test/suite_harness
 [submodule "platform/external/snakeyaml"]
 	branch = master
 	path = external/snakeyaml
@@ -579,6 +586,10 @@
 	branch = master
 	path = frameworks/opt/bitmap
 	url = ../frameworks/opt/bitmap
+[submodule "platform/external/wayland-protocols"]
+	branch = master
+	path = external/wayland-protocols
+	url = ../external/wayland-protocols
 [submodule "platform/frameworks/opt/vcard"]
 	branch = master
 	path = frameworks/opt/vcard
@@ -619,6 +630,11 @@
 	branch = master
 	path = packages/apps/TimeZoneData
 	url = ../packages/apps/TimeZoneData
+[submodule "platform/prebuilts/ktlint"]
+	branch = master
+	shallow = true
+	path = prebuilts/ktlint
+	url = ../prebuilts/ktlint
 [submodule "platform/external/conscrypt"]
 	branch = master
 	path = external/conscrypt
@@ -672,6 +688,10 @@
 	branch = master
 	path = external/bzip2
 	url = ../external/bzip2
+[submodule "platform/external/libffi"]
+	branch = master
+	path = external/libffi
+	url = ../external/libffi
 [submodule "platform/external/libmtp"]
 	branch = master
 	path = external/libmtp
@@ -751,6 +771,10 @@
 	branch = master
 	path = libnativehelper
 	url = ../libnativehelper
+[submodule "platform/external/adhd"]
+	branch = master
+	path = external/adhd
+	url = ../external/adhd
 [submodule "platform/external/google-fonts/carrois-gothic-sc"]
 	branch = master
 	path = external/google-fonts/carrois-gothic-sc
@@ -759,6 +783,10 @@
 	branch = master
 	path = external/mksh
 	url = ../external/mksh
+[submodule "platform/external/rappor"]
+	branch = master
+	path = external/rappor
+	url = ../external/rappor
 [submodule "platform/packages/apps/SoundRecorder"]
 	branch = master
 	path = packages/apps/SoundRecorder
@@ -886,6 +914,10 @@
 	branch = master
 	path = external/python/requests
 	url = ../external/python/requests
+[submodule "platform/external/capstone"]
+	branch = master
+	path = external/capstone
+	url = ../external/capstone
 [submodule "platform/tools/external_updater"]
 	branch = master
 	path = tools/external_updater
@@ -914,6 +946,10 @@
 	branch = master
 	path = external/dhcpcd-6.8.2
 	url = ../external/dhcpcd-6.8.2
+[submodule "platform/external/honggfuzz"]
+	branch = master
+	path = external/honggfuzz
+	url = ../external/honggfuzz
 [submodule "platform/frameworks/multidex"]
 	branch = master
 	path = frameworks/multidex
@@ -999,6 +1035,10 @@
 	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
+[submodule "platform/hardware/google/av"]
+	branch = master
+	path = hardware/google/av
+	url = ../hardware/google/av
 [submodule "platform/packages/apps/ManagedProvisioning"]
 	branch = master
 	path = packages/apps/ManagedProvisioning
@@ -1052,10 +1092,6 @@
 	shallow = true
 	path = external/chromium-webview
 	url = ../external/chromium-webview
-[submodule "platform/frameworks/webview"]
-	branch = master
-	path = frameworks/webview
-	url = ../frameworks/webview
 [submodule "platform/external/caliper"]
 	branch = master
 	path = external/caliper
@@ -1424,10 +1460,6 @@
 	branch = master
 	path = external/mmc-utils
 	url = ../external/mmc-utils
-[submodule "device/google/dragon"]
-	branch = master
-	path = device/google/dragon
-	url = ../../device/google/dragon
 [submodule "platform/external/mdnsresponder"]
 	branch = master
 	path = external/mdnsresponder
@@ -1514,6 +1546,10 @@
 	branch = master
 	path = packages/apps/Gallery
 	url = ../packages/apps/Gallery
+[submodule "platform/external/nos/host/generic"]
+	branch = master
+	path = external/nos/host/generic
+	url = ../external/nos/host/generic
 [submodule "platform/external/jarjar"]
 	branch = master
 	path = external/jarjar
@@ -1556,6 +1592,11 @@
 	branch = master
 	path = frameworks/compile/libbcc
 	url = ../frameworks/compile/libbcc
+[submodule "platform/prebuilts/vndk/v27"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v27
+	url = ../prebuilts/vndk/v27
 [submodule "platform/packages/apps/CellBroadcastReceiver"]
 	branch = master
 	path = packages/apps/CellBroadcastReceiver
@@ -1692,10 +1733,6 @@
 	branch = master
 	path = external/doclava
 	url = ../external/doclava
-[submodule "device/huawei/angler"]
-	branch = master
-	path = device/huawei/angler
-	url = ../../device/huawei/angler
 [submodule "platform/frameworks/opt/net/ims"]
 	branch = master
 	path = frameworks/opt/net/ims
@@ -1762,6 +1799,11 @@
 	branch = master
 	path = kernel/tests
 	url = ../../kernel/tests
+[submodule "platform/prebuilts/checkcolor"]
+	branch = master
+	shallow = true
+	path = prebuilts/checkcolor
+	url = ../prebuilts/checkcolor
 [submodule "platform/external/python/grpcio"]
 	branch = master
 	path = external/python/grpcio
@@ -1799,10 +1841,6 @@
 	branch = master
 	path = system/nvram
 	url = ../system/nvram
-[submodule "platform/test/sts"]
-	branch = master
-	path = test/sts
-	url = ../test/sts
 [submodule "platform/packages/apps/EmergencyInfo"]
 	branch = master
 	path = packages/apps/EmergencyInfo
@@ -1884,6 +1922,10 @@
 	branch = master
 	path = device/generic/x86
 	url = ../../device/generic/x86
+[submodule "platform/external/libxaac"]
+	branch = master
+	path = external/libxaac
+	url = ../external/libxaac
 [submodule "device/linaro/poplar"]
 	branch = master
 	path = device/linaro/poplar
@@ -1896,6 +1938,10 @@
 	branch = master
 	path = toolchain/libcxx
 	url = ../../toolchain/libcxx
+[submodule "platform/external/wayland"]
+	branch = master
+	path = external/wayland
+	url = ../external/wayland
 [submodule "platform/external/adt-infra"]
 	branch = master
 	path = external/adt-infra
@@ -2048,6 +2094,11 @@
 	branch = master
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
+[submodule "platform/external/skqp"]
+	branch = master
+	shallow = true
+	path = external/skqp
+	url = ../external/skqp
 [submodule "platform/external/google-fonts/cutive-mono"]
 	branch = master
 	path = external/google-fonts/cutive-mono
@@ -2124,6 +2175,14 @@
 	branch = master
 	path = external/oauth
 	url = ../external/oauth
+[submodule "platform/external/nos/host/android"]
+	branch = master
+	path = external/nos/host/android
+	url = ../external/nos/host/android
+[submodule "platform/external/libxkbcommon"]
+	branch = master
+	path = external/libxkbcommon
+	url = ../external/libxkbcommon
 [submodule "platform/system/timezone"]
 	branch = master
 	path = system/timezone
@@ -2160,11 +2219,6 @@
 	branch = master
 	path = external/opencv
 	url = ../external/opencv
-[submodule "device/huawei/angler-kernel"]
-	branch = master
-	shallow = true
-	path = device/huawei/angler-kernel
-	url = ../../device/huawei/angler-kernel
 [submodule "platform/dalvik"]
 	branch = master
 	path = dalvik
@@ -2181,6 +2235,10 @@
 	branch = master
 	path = external/python/pyasn1
 	url = ../external/python/pyasn1
+[submodule "platform/frameworks/opt/car/setupwizard"]
+	branch = master
+	path = frameworks/opt/car/setupwizard
+	url = ../frameworks/opt/car/setupwizard
 [submodule "platform/system/tools/aidl"]
 	branch = master
 	path = system/tools/aidl
@@ -2201,10 +2259,6 @@
 	branch = master
 	path = frameworks/opt/setupwizard
 	url = ../frameworks/opt/setupwizard
-[submodule "device/lge/bullhead"]
-	branch = master
-	path = device/lge/bullhead
-	url = ../../device/lge/bullhead
 [submodule "platform/packages/screensavers/WebView"]
 	branch = master
 	path = packages/screensavers/WebView
@@ -2398,11 +2452,6 @@
 	branch = master
 	path = external/gflags
 	url = ../external/gflags
-[submodule "device/google/dragon-kernel"]
-	branch = master
-	shallow = true
-	path = device/google/dragon-kernel
-	url = ../../device/google/dragon-kernel
 [submodule "platform/packages/apps/Tag"]
 	branch = master
 	path = packages/apps/Tag
@@ -2599,6 +2648,10 @@
 	branch = master
 	path = external/dlmalloc
 	url = ../external/dlmalloc
+[submodule "platform/packages/apps/SettingsIntelligence"]
+	branch = master
+	path = packages/apps/SettingsIntelligence
+	url = ../packages/apps/SettingsIntelligence
 [submodule "platform/packages/providers/ApplicationsProvider"]
 	branch = master
 	path = packages/providers/ApplicationsProvider
