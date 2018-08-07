@@ -3,7 +3,7 @@
 /external/pcre pdk
 /external/droiddriver pdk
 /prebuilts/android-emulator pdk-fs
-/hardware/qcom/bootctrl pdk
+/hardware/qcom/bootctrl pdk-qcom
 /external/dagger2 pdk
 /external/clang pdk
 /prebuilts/python/darwin-x86/2.7.5 pdk-fs pdk-cw-fs darwin pdk
@@ -41,7 +41,6 @@
 /external/v4l2_codec2 pdk
 /frameworks/support pdk-fs pdk-cw-fs
 /kernel/configs vts pdk
-/system/tools/bpt pdk
 /external/python/packaging vts pdk
 /external/objenesis pdk
 /packages/apps/Camera2 pdk-fs
@@ -70,8 +69,9 @@
 /external/zlib pdk
 /device/common pdk-cw-fs pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
+/external/nos/test/system-test-harness pdk
 /hardware/google/interfaces pdk
-/device/google/wahoo wahoo device
+/device/google/wahoo wahoo pdk device
 /external/libdivsufsort pdk
 /packages/apps/DevCamera pdk
 /packages/providers/PartnerBookmarksProvider pdk-fs
@@ -82,7 +82,7 @@
 /external/libjpeg-turbo pdk
 /external/sqlite pdk
 /packages/providers/TelephonyProvider pdk-fs pdk-cw-fs
-/hardware/qcom/data/ipacfg-mgr qcom pdk
+/hardware/qcom/data/ipacfg-mgr qcom pdk-qcom
 /external/chromium-libpac pdk
 /external/devlib pdk
 /test/vts-testcase/performance vts pdk
@@ -95,11 +95,11 @@
 /external/squashfs-tools pdk
 /external/vulkan-validation-layers pdk
 /external/libcap pdk
+/tools/appbundle
 /external/ltp vts pdk
-/device/lge/bullhead-kernel bullhead device
 /packages/apps/DocumentsUI pdk-fs pdk-cw-fs
 /external/python/google-api-python-client vts pdk
-/hardware/qcom/gps qcom pdk qcom_gps
+/hardware/qcom/gps qcom pdk-qcom qcom_gps
 /bionic pdk
 /external/perfetto pdk
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 pdk linux
@@ -107,6 +107,7 @@
 /external/google-benchmark pdk
 /external/testng pdk
 /external/xz-embedded pdk
+/external/robolectric-shadows pdk-fs pdk-cw-fs
 /developers/demos developers
 /external/bsdiff pdk
 /prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
@@ -126,12 +127,13 @@
 /system/nfc pdk
 /external/libxml2 pdk libxml2
 /prebuilts/libs/libedit pdk-fs pdk-cw-fs
+/test/suite_harness pdk-fs cts pdk-cw-fs
 /external/snakeyaml pdk
 /libcore pdk
 /external/python/enum vts pdk
 /external/python/ply vts pdk
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs
-/device/google/wahoo-kernel wahoo device
+/device/google/wahoo-kernel wahoo pdk device
 /frameworks/opt/timezonepicker pdk-fs pdk-cw-fs
 /external/scapy pdk-fs
 /system/core pdk
@@ -139,6 +141,7 @@
 /system/iot/attestation pdk
 /external/webrtc pdk
 /frameworks/opt/bitmap pdk-fs
+/external/wayland-protocols pdk
 /frameworks/opt/vcard pdk-fs pdk-cw-fs
 /external/python/dateutil pdk
 /external/python/setuptools vts pdk
@@ -149,9 +152,10 @@
 /external/libusb-compat pdk
 /system/security pdk
 /packages/apps/TimeZoneData pdk
+/prebuilts/ktlint
 /external/conscrypt pdk
 /external/nanohttpd pdk
-/device/google/cuttlefish_common device
+/device/google/cuttlefish_common pdk device
 /external/tinyxml2 pdk
 /system/connectivity/wificond pdk
 /external/google-breakpad pdk-fs
@@ -162,6 +166,7 @@
 /tools/test/connectivity pdk
 /packages/apps/Car/Stream pdk-fs
 /external/bzip2 pdk
+/external/libffi pdk
 /external/libmtp pdk
 /external/vogar pdk
 /packages/apps/PackageInstaller pdk-fs pdk-cw-fs
@@ -181,8 +186,10 @@
 /external/libcap-ng pdk
 /external/libtextclassifier pdk
 /libnativehelper pdk
+/external/adhd pdk
 /external/google-fonts/carrois-gothic-sc pdk
 /external/mksh pdk
+/external/rappor pdk
 /packages/apps/SoundRecorder pdk-fs
 /test/vts-testcase/vndk vts pdk
 /external/piex pdk
@@ -213,13 +220,15 @@
 /external/libphonenumber pdk
 /tools/swt notdefault tools
 /external/python/requests vts pdk
+/external/capstone pdk
 /tools/external_updater tools
 /external/libmicrohttpd pdk
 /developers/build developers
 /device/linaro/bootloader/edk2
-/hardware/qcom/wlan pdk qcom_wlan
+/hardware/qcom/wlan qcom_wlan pdk-qcom
 /packages/providers/CalendarProvider pdk-fs pdk-cw-fs
 /external/dhcpcd-6.8.2 pdk
+/external/honggfuzz pdk
 /frameworks/multidex pdk-fs pdk-cw-fs
 /external/libvpx pdk
 /external/smali pdk
@@ -236,9 +245,10 @@
 /external/markdown pdk
 /frameworks/compile/slang pdk
 /external/junit-params pdk
-/hardware/qcom/keymaster qcom pdk qcom_keymaster
+/hardware/qcom/keymaster qcom qcom_keymaster pdk-qcom
 /external/protobuf pdk
 /prebuilts/sdk pdk
+/hardware/google/av pdk
 /packages/apps/ManagedProvisioning pdk-fs
 /external/flatbuffers pdk
 /external/rootdev pdk
@@ -250,9 +260,8 @@
 /external/google-fonts/dancing-script pdk
 /external/libyuv libyuv pdk
 /frameworks/hardware/interfaces pdk
-/hardware/qcom/power qcom pdk
+/hardware/qcom/power qcom pdk-qcom
 /external/chromium-webview pdk
-/frameworks/webview pdk-fs pdk-cw-fs
 /external/caliper pdk
 /external/crcalc pdk
 /external/python/protobuf vts pdk
@@ -308,7 +317,7 @@
 /external/emma pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
 /external/javasqlite pdk
-/hardware/qcom/display qcom pdk qcom_display
+/hardware/qcom/display qcom qcom_display pdk-qcom
 /external/slf4j pdk
 /packages/providers/DownloadProvider pdk-fs pdk-cw-fs
 /packages/apps/Music pdk-fs
@@ -342,7 +351,6 @@
 /external/python/futures vts pdk
 /packages/apps/Launcher3 pdk-fs
 /external/mmc-utils pdk
-/device/google/dragon dragon device
 /external/mdnsresponder pdk
 /tools/external/fat32lib tools
 /bootable/recovery pdk
@@ -364,6 +372,7 @@
 /packages/apps/CertInstaller pdk-fs pdk-cw-fs
 /packages/apps/DeskClock pdk-fs
 /packages/apps/Gallery pdk-fs
+/external/nos/host/generic pdk
 /external/jarjar pdk
 /packages/experimental
 /device/generic/goldfish-opengl pdk
@@ -374,6 +383,7 @@
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
 /external/subsampling-scale-image-view
 /frameworks/compile/libbcc pdk
+/prebuilts/vndk/v27 pdk
 /packages/apps/CellBroadcastReceiver pdk-fs pdk-cw-fs
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /system/libhwbinder pdk
@@ -408,7 +418,6 @@
 /system/libvintf pdk
 /external/libmpeg2 pdk
 /external/doclava pdk
-/device/huawei/angler broadcom_pdk angler device
 /frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims
 /tools/adt/idea notdefault tools
 /prebuilts/r8 pdk
@@ -425,6 +434,7 @@
 /build/make pdk
 /external/ply pdk
 /kernel/tests
+/prebuilts/checkcolor pdk
 /external/python/grpcio vts pdk
 /external/vixl pdk
 /external/python/enum34 vts pdk
@@ -434,7 +444,6 @@
 /device/generic/common pdk
 /external/gptfdisk pdk
 /system/nvram pdk
-/test/sts sts pdk
 /packages/apps/EmergencyInfo pdk-fs
 /tools/apksig tradefed pdk
 /packages/apps/Bluetooth pdk-fs pdk-cw-fs
@@ -444,7 +453,7 @@
 /hardware/marvell/bt marvell_bt pdk
 /packages/apps/Calendar pdk-fs
 /system/chre pdk
-/hardware/qcom/bt qcom pdk
+/hardware/qcom/bt qcom pdk-qcom
 /external/apache-commons-bcel pdk
 /tools/studio/cloud notdefault tools
 /external/puffin pdk
@@ -455,8 +464,10 @@
 /external/iw pdk
 /external/libogg pdk
 /device/generic/x86 pdk
+/external/libxaac pdk
 /device/linaro/poplar poplar pdk device
 /frameworks/ml pdk
+/external/wayland pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/hamcrest pdk
 /system/update_engine pdk
@@ -468,7 +479,7 @@
 /frameworks/opt/net/ethernet pdk-fs
 /external/dtc pdk
 /tools/external/gradle tools
-/device/google/cuttlefish device
+/device/google/cuttlefish pdk device
 /hardware/interfaces pdk
 /external/nfacct pdk
 /prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
@@ -486,31 +497,34 @@
 /build/kati tradefed pdk
 /external/deqp pdk-fs
 /external/libcxxabi pdk
-/hardware/qcom/msm8998 pdk qcom_msm8998
+/hardware/qcom/msm8998 qcom_msm8998 pdk-qcom
 /system/media pdk
-/hardware/qcom/msm8996 qcom_msm8996 pdk
+/hardware/qcom/msm8996 qcom_msm8996 pdk-qcom
 /toolchain/pgo-profiles pdk
 /device/google/atv broadcom_pdk generic_fs pdk device
 /prebuilts/misc pdk
 /external/wpa_supplicant_8 pdk
+/external/skqp cts
 /external/google-fonts/cutive-mono pdk
 /external/tinycompress pdk
 /system/gatekeeper pdk
 /external/nist-pkits pdk
 /packages/apps/Car/Radio pdk-fs
 /external/python/dill vts pdk
-/hardware/qcom/msm8994 qcom_msm8994 pdk
+/hardware/qcom/msm8994 qcom_msm8994 pdk-qcom
 /external/mockito pdk
 /external/safe-iop pdk
 /external/owasp/sanitizer pdk
 /frameworks/opt/inputmethodcommon pdk-fs pdk-cw-fs
 /tools/build notdefault tools
-/hardware/qcom/audio qcom_audio qcom pdk
+/hardware/qcom/audio qcom_audio qcom pdk-qcom
 /device/generic/mini-emulator-armv7-a-neon pdk
 /external/naver-fonts pdk
 /hardware/invensense invensense pdk
 /packages/apps/TV
 /external/oauth pdk
+/external/nos/host/android pdk
+/external/libxkbcommon pdk
 /system/timezone pdk
 /external/python/google-cloud-pubsub vts pdk
 /external/iptables pdk
@@ -520,16 +534,15 @@
 /frameworks/layoutlib pdk-fs pdk-cw-fs
 /device/google/accessory/arduino pdk device
 /external/opencv pdk-fs pdk-cw-fs
-/device/huawei/angler-kernel broadcom_pdk angler device
 /dalvik pdk-fs pdk-cw-fs
 /packages/apps/MusicFX pdk-fs
 /external/python/pyasn1 vts pdk
-/system/tools/aidl pdk-fs pdk-cw-fs
+/frameworks/opt/car/setupwizard pdk
+/system/tools/aidl pdk
 /external/annotation-tools pdk
 /external/python/numpy vts pdk
 /hardware/google/apf pdk
 /frameworks/opt/setupwizard pdk-fs pdk-cw-fs
-/device/lge/bullhead bullhead device
 /packages/screensavers/WebView pdk-fs
 /prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
 /external/turbine pdk
@@ -554,11 +567,11 @@
 /external/libpcap pdk
 /system/libhidl pdk
 /external/bart pdk
-/hardware/qcom/msm8x26 pdk qcom_msm8x26
+/hardware/qcom/msm8x26 qcom_msm8x26 pdk-qcom
 /packages/apps/WallpaperPicker pdk-fs
 /external/sfntly pdk qcom_msm8x26
 /prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
-/hardware/qcom/msm8x27 pdk qcom_msm8x27
+/hardware/qcom/msm8x27 qcom_msm8x27 pdk-qcom
 /packages/apps/Test/connectivity pdk
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /test/vts vts pdk
@@ -570,14 +583,13 @@
 /frameworks/minikin pdk-fs pdk-cw-fs
 /tools/test/graphicsbenchmark pdk
 /external/libevent pdk
-/hardware/qcom/msm8960 pdk qcom_msm8960
+/hardware/qcom/msm8960 qcom_msm8960 pdk-qcom
 /packages/apps/Provision pdk-fs
 /external/sl4a pdk
 /external/sonic pdk
 /packages/screensavers/PhotoTable pdk-fs
 /prebuilts/abi-dumps/vndk pdk-fs
 /external/gflags pdk
-/device/google/dragon-kernel dragon device
 /packages/apps/Tag pdk-fs
 /packages/apps/Car/LensPicker pdk-fs
 /external/libavc pdk
@@ -589,10 +601,10 @@
 /prebuilts/clang-tools pdk
 /external/python/google-cloud-core vts pdk
 /build/blueprint tradefed pdk
-/device/google/cuttlefish_kernel device
+/device/google/cuttlefish_kernel pdk device
 /hardware/qcom/neuralnetworks/hvxservice wahoo
-/hardware/qcom/media qcom pdk
-/device/google/muskie muskie device
+/hardware/qcom/media qcom pdk-qcom
+/device/google/muskie pdk muskie device
 /external/gemmlowp pdk
 /packages/wallpapers/LivePicker pdk-fs
 /system/iorap pdk
@@ -601,7 +613,7 @@
 /external/vboot_reference pdk-fs vboot
 /packages/apps/Car/Messenger pdk-fs
 /packages/inputmethods/OpenWnn pdk-fs
-/device/google/taimen taimen device
+/device/google/taimen taimen pdk device
 /external/Microsoft-GSL pdk
 /external/libvncserver pdk
 /device/generic/goldfish pdk
@@ -617,13 +629,14 @@
 /prebuilts/tools pdk tools
 /external/ipsec-tools pdk
 /packages/apps/Dialer pdk-fs
-/hardware/qcom/camera pdk qcom_camera
+/hardware/qcom/camera qcom_camera pdk-qcom
 /packages/providers/BlockedNumberProvider pdk-fs
 /external/libedit pdk
 /frameworks/opt/datetimepicker pdk-fs pdk-cw-fs
-/hardware/qcom/msm8x84 qcom_msm8x84 pdk
+/hardware/qcom/msm8x84 qcom_msm8x84 pdk-qcom
 /external/e2fsprogs pdk
 /external/dlmalloc pdk
+/packages/apps/SettingsIntelligence pdk-fs
 /packages/providers/ApplicationsProvider pdk-fs
 /device/google/contexthub pdk device marlin
 /external/libnl pdk
