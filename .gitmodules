@@ -652,6 +652,10 @@
 	branch = master
 	path = external/ims
 	url = ../external/ims
+[submodule "platform/external/catch2"]
+	branch = master
+	path = external/catch2
+	url = ../external/catch2
 [submodule "platform/tools/test/connectivity"]
 	branch = master
 	path = tools/test/connectivity

@@ -158,6 +158,7 @@
 /external/spirv-llvm pdk
 /prebuilts/clang/host/darwin-x86 pdk darwin
 /external/ims pdk
+/external/catch2 pdk
 /tools/test/connectivity pdk
 /packages/apps/Car/Stream pdk-fs
 /external/bzip2 pdk
