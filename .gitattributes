@@ -13,6 +13,7 @@
 /external/adt-infra
 /external/virglrenderer
 /prebuilts/cmake/darwin-x86
+/external/googletest
 /prebuilts/android-emulator-build/qt
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 /prebuilts/cmake/windows-x86

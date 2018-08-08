@@ -66,6 +66,10 @@
 	shallow = true
 	path = prebuilts/cmake/darwin-x86
 	url = ../prebuilts/cmake/darwin-x86
+[submodule "platform/external/googletest"]
+	branch = master
+	path = external/googletest
+	url = ../external/googletest
 [submodule "platform/prebuilts/android-emulator-build/qt"]
 	branch = emu-master-dev
 	shallow = true
