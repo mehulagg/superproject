@@ -954,6 +954,10 @@
 	branch = master
 	path = external/smali
 	url = ../external/smali
+[submodule "platform/system/tools/xsdc"]
+	branch = master
+	path = system/tools/xsdc
+	url = ../system/tools/xsdc
 [submodule "platform/frameworks/opt/net/wifi"]
 	branch = master
 	path = frameworks/opt/net/wifi

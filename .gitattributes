@@ -232,6 +232,7 @@
 /frameworks/multidex pdk-fs pdk-cw-fs
 /external/libvpx pdk
 /external/smali pdk
+/system/tools/xsdc pdk
 /frameworks/opt/net/wifi pdk
 /external/perf_data_converter pdk
 /external/cros/system_api pdk
