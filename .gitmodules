@@ -414,7 +414,7 @@
 	path = hardware/qcom/gps
 	url = ../hardware/qcom/gps
 [submodule "platform/bionic"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = bionic
 	url = ../bionic
 [submodule "platform/external/perfetto"]
@@ -533,7 +533,7 @@
 	path = prebuilts/libs/libedit
 	url = ../prebuilts/libs/libedit
 [submodule "platform/test/suite_harness"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = test/suite_harness
 	url = ../test/suite_harness
 [submodule "platform/external/snakeyaml"]
@@ -541,7 +541,7 @@
 	path = external/snakeyaml
 	url = ../external/snakeyaml
 [submodule "platform/libcore"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = libcore
 	url = ../libcore
 [submodule "platform/external/python/enum"]
@@ -571,7 +571,7 @@
 	path = external/scapy
 	url = ../external/scapy
 [submodule "platform/system/core"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = system/core
 	url = ../system/core
 [submodule "platform/external/python/appdirs"]
@@ -837,7 +837,7 @@
 	path = packages/apps/Protips
 	url = ../packages/apps/Protips
 [submodule "platform/system/extras"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = system/extras
 	url = ../system/extras
 [submodule "platform/frameworks/opt/photoviewer"]
@@ -870,7 +870,7 @@
 	path = frameworks/opt/chips
 	url = ../frameworks/opt/chips
 [submodule "platform/external/icu"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = external/icu
 	url = ../external/icu
 [submodule "device/generic/mini-emulator-x86_64"]
@@ -1133,7 +1133,7 @@
 	path = external/cn-cbor
 	url = ../external/cn-cbor
 [submodule "platform/prebuilts/deqp"]
-	branch = pie-release
+	branch = pie-cts-dev
 	shallow = true
 	path = prebuilts/deqp
 	url = ../prebuilts/deqp
@@ -1274,7 +1274,7 @@
 	path = external/python/six
 	url = ../external/python/six
 [submodule "platform/tools/loganalysis"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = tools/loganalysis
 	url = ../tools/loganalysis
 [submodule "platform/external/avb"]
@@ -1698,7 +1698,7 @@
 	path = test/vti/fuzz_test_serving
 	url = ../test/vti/fuzz_test_serving
 [submodule "platform/tools/tradefederation"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = tools/tradefederation/core
 	url = ../tools/tradefederation
 [submodule "platform/packages/apps/ExactCalculator"]
@@ -2025,7 +2025,7 @@
 	path = build/kati
 	url = ../build/kati
 [submodule "platform/external/deqp"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = external/deqp
 	url = ../external/deqp
 [submodule "platform/external/libcxxabi"]
@@ -2053,7 +2053,7 @@
 	path = device/google/atv
 	url = ../../device/google/atv
 [submodule "platform/prebuilts/misc"]
-	branch = pie-release
+	branch = pie-cts-dev
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
@@ -2367,7 +2367,7 @@
 	path = external/robolectric
 	url = ../external/robolectric
 [submodule "platform/system/sepolicy"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = system/sepolicy
 	url = ../system/sepolicy
 [submodule "platform/frameworks/minikin"]
@@ -2482,7 +2482,7 @@
 	path = packages/wallpapers/LivePicker
 	url = ../packages/wallpapers/LivePicker
 [submodule "platform/external/okhttp"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = external/okhttp
 	url = ../external/okhttp
 [submodule "platform/frameworks/opt/calendar"]
@@ -2550,7 +2550,7 @@
 	path = hardware/intel/common/libstagefrighthw
 	url = ../hardware/intel/common/libstagefrighthw
 [submodule "platform/cts"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = cts
 	url = ../cts
 [submodule "platform/external/libvterm"]
@@ -2743,7 +2743,7 @@
 	path = packages/apps/Car/Launcher
 	url = ../packages/apps/Car/Launcher
 [submodule "platform/art"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = art
 	url = ../art
 [submodule "platform/frameworks/ex"]
