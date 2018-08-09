@@ -97,7 +97,7 @@
 	path = external/tinyobjloader
 	url = ../external/tinyobjloader
 [submodule "platform/tools/external/gradle"]
-	branch = master
+	branch = emu-master-dev
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
