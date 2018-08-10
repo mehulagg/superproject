@@ -50,7 +50,7 @@
 	path = packages/apps/TimeZoneUpdater
 	url = ../packages/apps/TimeZoneUpdater
 [submodule "platform/test/vts-testcase/hal"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal
 [submodule "device/google/accessory/demokit"]
@@ -208,7 +208,7 @@
 	path = external/wycheproof
 	url = ../external/wycheproof
 [submodule "platform/external/linux-kselftest"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "platform/external/lzma"]
@@ -322,7 +322,7 @@
 	path = pdk
 	url = ../pdk
 [submodule "platform/test/vts-testcase/security"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/security
 	url = ../test/vts-testcase/security
 [submodule "platform/packages/apps/KeyChain"]
@@ -358,7 +358,7 @@
 	path = external/devlib
 	url = ../external/devlib
 [submodule "platform/test/vts-testcase/performance"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
 [submodule "platform/external/archive-patcher"]
@@ -370,7 +370,7 @@
 	path = frameworks/av
 	url = ../frameworks/av
 [submodule "platform/system/libfmq"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = system/libfmq
 	url = ../system/libfmq
 [submodule "platform/external/libchrome"]
@@ -378,7 +378,7 @@
 	path = external/libchrome
 	url = ../external/libchrome
 [submodule "platform/test/vti/test_serving"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vti/test_serving
 	url = ../test/vti/test_serving
 [submodule "platform/external/squashfs-tools"]
@@ -398,7 +398,7 @@
 	path = tools/appbundle
 	url = ../tools/appbundle
 [submodule "platform/external/ltp"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = external/ltp
 	url = ../external/ltp
 [submodule "platform/packages/apps/DocumentsUI"]
@@ -488,7 +488,7 @@
 	path = external/x264
 	url = ../external/x264
 [submodule "platform/frameworks/native"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/platform_testing"]
@@ -500,7 +500,7 @@
 	path = packages/inputmethods/LatinIME
 	url = ../packages/inputmethods/LatinIME
 [submodule "platform/tools/acloud"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = tools/acloud
 	url = ../tools/acloud
 [submodule "platform/external/strace"]
@@ -607,7 +607,7 @@
 	path = external/pdfium
 	url = ../external/pdfium
 [submodule "platform/test/framework"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/framework
 	url = ../test/framework
 [submodule "platform/external/androidplot"]
@@ -784,7 +784,7 @@
 	path = packages/apps/SoundRecorder
 	url = ../packages/apps/SoundRecorder
 [submodule "platform/test/vts-testcase/vndk"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
 [submodule "platform/external/piex"]
@@ -1064,7 +1064,7 @@
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/frameworks/hardware/interfaces"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = frameworks/hardware/interfaces
 	url = ../frameworks/hardware/interfaces
 [submodule "platform/hardware/qcom/power"]
@@ -1121,7 +1121,7 @@
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "platform/system/netd"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = system/netd
 	url = ../system/netd
 [submodule "platform/external/golang-protobuf"]
@@ -1254,7 +1254,7 @@
 	path = external/python/matplotlib
 	url = ../external/python/matplotlib
 [submodule "platform/test/vts-testcase/fuzz"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/fuzz
 	url = ../test/vts-testcase/fuzz
 [submodule "platform/external/modp_b64"]
@@ -1322,11 +1322,11 @@
 	path = packages/services/BuiltInPrintService
 	url = ../packages/services/BuiltInPrintService
 [submodule "platform/test/vti/alert"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vti/alert
 	url = ../test/vti/alert
 [submodule "platform/test/vti/dashboard"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vti/dashboard
 	url = ../test/vti/dashboard
 [submodule "platform/frameworks/data-binding"]
@@ -1473,7 +1473,7 @@
 	path = external/expat
 	url = ../external/expat
 [submodule "platform/test/vts-testcase/kernel"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
 [submodule "platform/external/jline"]
@@ -1590,7 +1590,7 @@
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/system/libhwbinder"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = system/libhwbinder
 	url = ../system/libhwbinder
 [submodule "platform/packages/apps/OneTimeInitializer"]
@@ -1694,7 +1694,7 @@
 	path = external/scrypt
 	url = ../external/scrypt
 [submodule "platform/test/vti/fuzz_test_serving"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vti/fuzz_test_serving
 	url = ../test/vti/fuzz_test_serving
 [submodule "platform/tools/tradefederation"]
@@ -1968,7 +1968,7 @@
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "platform/hardware/interfaces"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "platform/external/nfacct"]
@@ -2297,7 +2297,7 @@
 	path = external/libnfnetlink
 	url = ../external/libnfnetlink
 [submodule "platform/test/vts-testcase/nbu"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/nbu
 	url = ../test/vts-testcase/nbu
 [submodule "platform/external/jemalloc"]
@@ -2347,7 +2347,7 @@
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
 [submodule "platform/test/vts"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts
 	url = ../test/vts
 [submodule "platform/external/iputils"]
@@ -2359,7 +2359,7 @@
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/system/hardware/interfaces"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = system/hardware/interfaces
 	url = ../system/hardware/interfaces
 [submodule "platform/external/robolectric"]
@@ -2698,7 +2698,7 @@
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/test/vts-testcase/hal-trace"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = test/vts-testcase/hal-trace
 	url = ../test/vts-testcase/hal-trace
 [submodule "platform/external/kernel-headers"]
