@@ -1325,7 +1325,7 @@
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/skqp"]
-	branch = pie-release
+	branch = pie-cts-dev
 	shallow = true
 	path = external/skqp
 	url = ../external/skqp
