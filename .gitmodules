@@ -1575,7 +1575,7 @@
 	path = frameworks/data-binding
 	url = ../frameworks/data-binding
 [submodule "platform/frameworks/ex"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = frameworks/ex
 	url = ../frameworks/ex
 [submodule "platform/frameworks/hardware/interfaces"]
