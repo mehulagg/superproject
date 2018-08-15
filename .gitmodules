@@ -2711,6 +2711,10 @@
 	branch = master
 	path = tools/motodev
 	url = ../tools/motodev
+[submodule "platform/tools/ndkports"]
+	branch = master
+	path = tools/ndkports
+	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
 	branch = master
 	path = tools/repohooks

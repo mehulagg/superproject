@@ -663,6 +663,7 @@
 /tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava tools
 /tools/motodev notdefault motodev
+/tools/ndkports pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /tools/security pdk tools
 /tools/studio/cloud notdefault tools
