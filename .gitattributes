@@ -285,6 +285,7 @@
 /external/python/dill vts pdk
 /external/python/enum vts pdk
 /external/python/enum34 vts pdk
+/external/python/funcsigs pdk
 /external/python/future vts pdk
 /external/python/futures vts pdk
 /external/python/gapic-google-cloud-pubsub-v1 vts pdk
