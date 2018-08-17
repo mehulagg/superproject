@@ -232,6 +232,10 @@
 	branch = master
 	path = external/aac
 	url = ../external/aac
+[submodule "platform/external/adeb"]
+	branch = master
+	path = external/adeb
+	url = ../external/adeb
 [submodule "platform/external/adhd"]
 	branch = master
 	path = external/adhd
