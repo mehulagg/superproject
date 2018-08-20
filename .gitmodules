@@ -396,6 +396,11 @@
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
+[submodule "platform/prebuilts/gradle-plugin"]
+	branch = master
+	shallow = true
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
 [submodule "platform/prebuilts/jdk/jdk8"]
 	branch = master
 	shallow = true
@@ -471,6 +476,10 @@
 	branch = master
 	path = tools/dexter
 	url = ../tools/dexter
+[submodule "platform/tools/metalava"]
+	branch = master
+	path = tools/metalava
+	url = ../tools/metalava
 [submodule "toolchain/pgo-profiles"]
 	branch = master
 	path = toolchain/pgo-profiles

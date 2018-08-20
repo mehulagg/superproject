@@ -95,6 +95,7 @@
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
 /prebuilts/gdb/linux-x86 linux
 /prebuilts/go/linux-x86 tradefed linux
+/prebuilts/gradle-plugin pdk-fs pdk-cw-fs
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/misc pdk
@@ -112,4 +113,5 @@
 /system/timezone pdk
 /tools/apksig tradefed pdk
 /tools/dexter tools
+/tools/metalava tools
 /toolchain/pgo-profiles
