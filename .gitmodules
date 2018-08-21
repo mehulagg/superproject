@@ -677,6 +677,10 @@
 	branch = master
 	path = external/jemalloc
 	url = ../external/jemalloc
+[submodule "platform/external/jemalloc_new"]
+	branch = master
+	path = external/jemalloc_new
+	url = ../external/jemalloc_new
 [submodule "platform/external/jline"]
 	branch = master
 	path = external/jline

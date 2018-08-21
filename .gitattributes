@@ -166,6 +166,7 @@
 /external/jcommander pdk
 /external/jdiff pdk
 /external/jemalloc pdk
+/external/jemalloc_new pdk
 /external/jline pdk-fs tradefed pdk
 /external/jmdns pdk
 /external/jsilver pdk
