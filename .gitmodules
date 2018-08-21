@@ -169,6 +169,9 @@
 [submodule "platform/external/aac"]
 	path = external/aac
 	url = ../external/aac
+[submodule "platform/external/adeb"]
+	path = external/adeb
+	url = ../external/adeb
 [submodule "platform/external/adhd"]
 	path = external/adhd
 	url = ../external/adhd
@@ -859,6 +862,9 @@
 [submodule "platform/external/python/enum34"]
 	path = external/python/enum34
 	url = ../external/python/enum34
+[submodule "platform/external/python/funcsigs"]
+	path = external/python/funcsigs
+	url = ../external/python/funcsigs
 [submodule "platform/external/python/future"]
 	path = external/python/future
 	url = ../external/python/future
@@ -1051,6 +1057,9 @@
 [submodule "platform/external/syslinux"]
 	path = external/syslinux
 	url = ../external/syslinux
+[submodule "platform/external/syzkaller"]
+	path = external/syzkaller
+	url = ../external/syzkaller
 [submodule "platform/external/tagsoup"]
 	path = external/tagsoup
 	url = ../external/tagsoup
@@ -1990,6 +1999,9 @@
 [submodule "platform/tools/motodev"]
 	path = tools/motodev
 	url = ../tools/motodev
+[submodule "platform/tools/ndkports"]
+	path = tools/ndkports
+	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
 	path = tools/repohooks
 	url = ../tools/repohooks

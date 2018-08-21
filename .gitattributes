@@ -55,6 +55,7 @@
 /external/Microsoft-GSL pdk
 /external/Reactive-Extensions/RxCpp pdk
 /external/aac pdk
+/external/adeb pdk
 /external/adhd pdk
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
@@ -285,6 +286,7 @@
 /external/python/dill vts pdk
 /external/python/enum vts pdk
 /external/python/enum34 vts pdk
+/external/python/funcsigs pdk
 /external/python/future vts pdk
 /external/python/futures vts pdk
 /external/python/gapic-google-cloud-pubsub-v1 vts pdk
@@ -349,6 +351,7 @@
 /external/subsampling-scale-image-view
 /external/swiftshader pdk
 /external/syslinux pdk
+/external/syzkaller pdk
 /external/tagsoup pdk
 /external/tcpdump pdk
 /external/tensorflow pdk
@@ -662,6 +665,7 @@
 /tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava tools
 /tools/motodev notdefault motodev
+/tools/ndkports pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev
 /tools/security pdk tools
 /tools/studio/cloud notdefault tools
