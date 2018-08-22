@@ -352,6 +352,7 @@
 /external/subsampling-scale-image-view
 /external/swiftshader pdk
 /external/syslinux pdk
+/external/syzkaller pdk
 /external/tagsoup pdk
 /external/tcpdump pdk
 /external/tensorflow pdk
