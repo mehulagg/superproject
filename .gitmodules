@@ -1,3 +1,7 @@
+[submodule "platform/build"]
+	branch = emu-master-dev
+	path = build
+	url = ../build
 [submodule "platform/external/adt-infra"]
 	branch = emu-master-dev
 	path = external/adt-infra
