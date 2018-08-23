@@ -2566,6 +2566,10 @@
 	branch = master
 	path = system/sepolicy
 	url = ../system/sepolicy
+[submodule "platform/system/testing/gtest_extras"]
+	branch = master
+	path = system/testing/gtest_extras
+	url = ../system/testing/gtest_extras
 [submodule "platform/system/timezone"]
 	branch = master
 	path = system/timezone
