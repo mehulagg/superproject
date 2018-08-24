@@ -603,6 +603,7 @@
 /prebuilts/tools pdk tools
 /prebuilts/vndk/v27 pdk
 /sdk pdk-fs pdk-cw-fs
+/system/apex pdk
 /system/bt pdk
 /system/ca-certificates pdk
 /system/chre pdk
