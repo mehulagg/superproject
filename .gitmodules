@@ -2590,6 +2590,10 @@
 	branch = master
 	path = system/tools/hidl
 	url = ../system/tools/hidl
+[submodule "platform/system/tools/sysprop"]
+	branch = master
+	path = system/tools/sysprop
+	url = ../system/tools/sysprop
 [submodule "platform/system/tools/xsdc"]
 	branch = master
 	path = system/tools/xsdc
