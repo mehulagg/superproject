@@ -2478,6 +2478,10 @@
 	branch = master
 	path = sdk
 	url = ../sdk
+[submodule "platform/system/apex"]
+	branch = master
+	path = system/apex
+	url = ../system/apex
 [submodule "platform/system/bt"]
 	branch = master
 	path = system/bt
