@@ -1483,6 +1483,10 @@
 	branch = master
 	path = external/turbine
 	url = ../external/turbine
+[submodule "platform/external/u-boot"]
+	branch = master
+	path = external/u-boot
+	url = ../external/u-boot
 [submodule "platform/external/unicode"]
 	branch = master
 	path = external/unicode
