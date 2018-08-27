@@ -1,11 +1,15 @@
+/build
 /external/adt-infra
 /external/angle
+/external/astc-codec
 /external/google-benchmark
+/external/googletest
 /external/gtest
 /external/libyuv
 /external/protobuf
 /external/qemu
 /external/tinyobjloader
+/external/virglrenderer
 /frameworks/native
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/archive
