@@ -1,0 +1,35 @@
+/build/make
+/build/blueprint
+/build/kati
+/build/soong
+/dalvik
+/development
+/external/clang
+/external/compiler-rt
+/external/golang-protobuf
+/external/googletest
+/external/jsoncpp
+/external/libcxx
+/external/libcxxabi
+/external/libunwind
+/external/libunwind_llvm
+/external/llvm
+/external/ninja
+/external/protobuf
+/external/zlib
+/external/zopfli
+/prebuilts/build-tools
+/prebuilts/clang-tools
+/prebuilts/clang/host/darwin-x86 darwin
+/prebuilts/clang/host/linux-x86 linux
+/prebuilts/gcc/darwin-x86/host/headers darwin
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 darwin
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+/prebuilts/go/darwin-x86 darwin
+/prebuilts/go/linux-x86 linux
+/prebuilts/jdk/jdk8
+/prebuilts/jdk/jdk9
+/prebuilts/misc
+/prebuilts/ninja/darwin-x86 darwin
+/prebuilts/ninja/linux-x86 linux
+/system/core
