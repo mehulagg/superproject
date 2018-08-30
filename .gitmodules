@@ -1321,10 +1321,6 @@
 	branch = master
 	path = external/rootdev
 	url = ../external/rootdev
-[submodule "platform/external/safe-iop"]
-	branch = master
-	path = external/safe-iop
-	url = ../external/safe-iop
 [submodule "platform/external/scapy"]
 	branch = master
 	path = external/scapy

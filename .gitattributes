@@ -327,7 +327,6 @@
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
-/external/safe-iop pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/seccomp-tests pdk
