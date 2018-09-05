@@ -21,10 +21,6 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
-[submodule "platform/external/gtest"]
-	branch = master
-	path = external/gtest
-	url = ../external/gtest
 [submodule "platform/external/libyuv"]
 	branch = master
 	path = external/libyuv
