@@ -661,10 +661,6 @@
 	branch = master
 	path = external/javasqlite
 	url = ../external/javasqlite
-[submodule "platform/external/javassist"]
-	branch = master
-	path = external/javassist
-	url = ../external/javassist
 [submodule "platform/external/jcommander"]
 	branch = master
 	path = external/jcommander

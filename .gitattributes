@@ -162,7 +162,6 @@
 /external/jarjar pdk
 /external/javaparser pdk
 /external/javasqlite pdk
-/external/javassist pdk
 /external/jcommander pdk
 /external/jdiff pdk
 /external/jemalloc pdk
