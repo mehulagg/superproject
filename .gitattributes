@@ -112,6 +112,7 @@
 /system/security pdk
 /system/timezone pdk
 /tools/apksig tradefed pdk
+/tools/apkzlib tradefed pdk
 /tools/dexter tools
 /tools/metalava tools
 /toolchain/pgo-profiles
