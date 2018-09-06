@@ -445,6 +445,7 @@
 	path = sdk
 	url = ../sdk
 [submodule "platform/system/core"]
+	branch = master
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/extras"]
