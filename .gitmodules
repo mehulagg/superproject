@@ -1591,7 +1591,7 @@
 	path = frameworks/minikin
 	url = ../frameworks/minikin
 [submodule "platform/frameworks/ml"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = frameworks/ml
 	url = ../frameworks/ml
 [submodule "platform/frameworks/multidex"]
