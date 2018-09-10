@@ -677,6 +677,7 @@
 /tools/test/graphicsbenchmark pdk
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
+/vendor/linaro/hikey960 vendor
 /toolchain/benchmark
 /toolchain/binutils pdk
 /toolchain/pgo-profiles pdk

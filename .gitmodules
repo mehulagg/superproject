@@ -2767,6 +2767,11 @@
 	branch = master
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
+[submodule "platform/vendor/aosp/linaro/hikey960"]
+	branch = master
+	shallow = true
+	path = vendor/linaro/hikey960
+	url = ../vendor/aosp/linaro/hikey960
 [submodule "toolchain/benchmark"]
 	branch = master
 	path = toolchain/benchmark
