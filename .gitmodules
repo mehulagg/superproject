@@ -2747,11 +2747,56 @@
 	branch = master
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
+[submodule "platform/vendor/aosp/google_devices/marlin"]
+	branch = master
+	shallow = true
+	path = vendor/google_devices/marlin
+	url = ../vendor/aosp/google_devices/marlin
+[submodule "platform/vendor/aosp/google_devices/muskie"]
+	branch = master
+	shallow = true
+	path = vendor/google_devices/muskie
+	url = ../vendor/aosp/google_devices/muskie
+[submodule "platform/vendor/aosp/google_devices/sailfish"]
+	branch = master
+	shallow = true
+	path = vendor/google_devices/sailfish
+	url = ../vendor/aosp/google_devices/sailfish
+[submodule "platform/vendor/aosp/google_devices/taimen"]
+	branch = master
+	shallow = true
+	path = vendor/google_devices/taimen
+	url = ../vendor/aosp/google_devices/taimen
+[submodule "platform/vendor/aosp/google_devices/walleye"]
+	branch = master
+	shallow = true
+	path = vendor/google_devices/walleye
+	url = ../vendor/aosp/google_devices/walleye
 [submodule "platform/vendor/aosp/linaro/hikey960"]
 	branch = master
 	shallow = true
 	path = vendor/linaro/hikey960
 	url = ../vendor/aosp/linaro/hikey960
+[submodule "platform/vendor/aosp/qcom/marlin"]
+	branch = master
+	shallow = true
+	path = vendor/qcom/marlin
+	url = ../vendor/aosp/qcom/marlin
+[submodule "platform/vendor/aosp/qcom/sailfish"]
+	branch = master
+	shallow = true
+	path = vendor/qcom/sailfish
+	url = ../vendor/aosp/qcom/sailfish
+[submodule "platform/vendor/aosp/qcom/taimen"]
+	branch = master
+	shallow = true
+	path = vendor/qcom/taimen
+	url = ../vendor/aosp/qcom/taimen
+[submodule "platform/vendor/aosp/qcom/walleye"]
+	branch = master
+	shallow = true
+	path = vendor/qcom/walleye
+	url = ../vendor/aosp/qcom/walleye
 [submodule "toolchain/benchmark"]
 	branch = master
 	path = toolchain/benchmark

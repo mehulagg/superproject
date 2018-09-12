@@ -672,7 +672,16 @@
 /tools/test/graphicsbenchmark pdk
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
+/vendor/google_devices/marlin vendor
+/vendor/google_devices/muskie vendor
+/vendor/google_devices/sailfish vendor
+/vendor/google_devices/taimen vendor
+/vendor/google_devices/walleye vendor
 /vendor/linaro/hikey960 vendor
+/vendor/qcom/marlin vendor
+/vendor/qcom/sailfish vendor
+/vendor/qcom/taimen vendor
+/vendor/qcom/walleye vendor
 /toolchain/benchmark
 /toolchain/binutils pdk
 /toolchain/pgo-profiles pdk
