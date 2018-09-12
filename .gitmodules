@@ -252,10 +252,6 @@
 	branch = master
 	path = external/androidplot
 	url = ../external/androidplot
-[submodule "platform/external/annotation-tools"]
-	branch = master
-	path = external/annotation-tools
-	url = ../external/annotation-tools
 [submodule "platform/external/ant-glob"]
 	branch = master
 	path = external/ant-glob
@@ -417,10 +413,6 @@
 	branch = master
 	path = external/dexmaker
 	url = ../external/dexmaker
-[submodule "platform/external/dhcpcd-6.8.2"]
-	branch = master
-	path = external/dhcpcd-6.8.2
-	url = ../external/dhcpcd-6.8.2
 [submodule "platform/external/dlmalloc"]
 	branch = master
 	path = external/dlmalloc
@@ -485,18 +477,10 @@
 	branch = master
 	path = external/error_prone
 	url = ../external/error_prone
-[submodule "platform/external/esd"]
-	branch = master
-	path = external/esd
-	url = ../external/esd
 [submodule "platform/external/expat"]
 	branch = master
 	path = external/expat
 	url = ../external/expat
-[submodule "platform/external/eyes-free"]
-	branch = master
-	path = external/eyes-free
-	url = ../external/eyes-free
 [submodule "platform/external/f2fs-tools"]
 	branch = master
 	path = external/f2fs-tools
@@ -581,10 +565,6 @@
 	branch = master
 	path = external/google-styleguide
 	url = ../external/google-styleguide
-[submodule "platform/external/google-tv-pairing-protocol"]
-	branch = master
-	path = external/google-tv-pairing-protocol
-	url = ../external/google-tv-pairing-protocol
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
