@@ -60,7 +60,6 @@
 /external/adt-infra pdk-fs notdefault adt-infra
 /external/android-clat pdk
 /external/androidplot pdk
-/external/annotation-tools pdk
 /external/ant-glob pdk
 /external/antlr pdk
 /external/apache-commons-bcel pdk
@@ -101,7 +100,6 @@
 /external/desugar pdk
 /external/devlib pdk
 /external/dexmaker pdk
-/external/dhcpcd-6.8.2 pdk
 /external/dlmalloc pdk
 /external/dng_sdk pdk
 /external/dnsmasq pdk
@@ -118,9 +116,7 @@
 /external/emma pdk
 /external/epid-sdk pdk
 /external/error_prone pdk
-/external/esd pdk
 /external/expat pdk
-/external/eyes-free pdk
 /external/f2fs-tools pdk
 /external/fdlibm pdk
 /external/fec pdk
@@ -142,7 +138,6 @@
 /external/google-fonts/dancing-script pdk
 /external/google-fruit pdk
 /external/google-styleguide pdk
-/external/google-tv-pairing-protocol pdk
 /external/googletest pdk
 /external/gptfdisk pdk
 /external/guava pdk
