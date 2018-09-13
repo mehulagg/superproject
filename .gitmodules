@@ -573,6 +573,14 @@
 	branch = master
 	path = external/gptfdisk
 	url = ../external/gptfdisk
+[submodule "platform/external/grpc-grpc"]
+	branch = master
+	path = external/grpc-grpc
+	url = ../external/grpc-grpc
+[submodule "platform/external/grpc-grpc-java"]
+	branch = master
+	path = external/grpc-grpc-java
+	url = ../external/grpc-grpc-java
 [submodule "platform/external/guava"]
 	branch = master
 	path = external/guava

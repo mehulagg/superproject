@@ -140,6 +140,8 @@
 /external/google-styleguide pdk
 /external/googletest pdk
 /external/gptfdisk pdk
+/external/grpc-grpc tradefed pdk
+/external/grpc-grpc-java tradefed pdk
 /external/guava pdk
 /external/guice pdk
 /external/hamcrest pdk
