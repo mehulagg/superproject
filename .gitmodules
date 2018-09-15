@@ -1,3 +1,7 @@
+[submodule "device/generic/goldfish-opengl"]
+	branch = master
+	path = device/generic/goldfish-opengl
+	url = ../../device/generic/goldfish-opengl
 [submodule "platform/build"]
 	branch = emu-master-dev
 	path = build
