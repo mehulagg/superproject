@@ -382,7 +382,6 @@
 /external/wpa_supplicant_8 pdk
 /external/wycheproof pdk
 /external/x264 pdk
-/external/xmlrpcpp pdk
 /external/xmp_toolkit pdk
 /external/xz-embedded pdk
 /external/yapf vts pdk

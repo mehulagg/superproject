@@ -1543,10 +1543,6 @@
 	branch = master
 	path = external/x264
 	url = ../external/x264
-[submodule "platform/external/xmlrpcpp"]
-	branch = master
-	path = external/xmlrpcpp
-	url = ../external/xmlrpcpp
 [submodule "platform/external/xmp_toolkit"]
 	branch = master
 	path = external/xmp_toolkit
