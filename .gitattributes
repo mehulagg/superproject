@@ -104,6 +104,7 @@
 /prebuilts/r8 pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
+/prebuilts/vndk/v28 pdk
 /sdk pdk-fs pdk-cw-fs
 /system/core pdk
 /system/extras pdk
