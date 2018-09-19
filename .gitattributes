@@ -1,0 +1,46 @@
+/build/make
+/build/blueprint
+/build/kati
+/build/soong
+/dalvik
+/development
+/external/bison
+/external/clang
+/external/compiler-rt
+/external/dagger2
+/external/desugar
+/external/error_prone
+/external/flex
+/external/golang-protobuf
+/external/googletest
+/external/jemalloc
+/external/libcxx
+/external/libcxxabi
+/external/libunwind
+/external/libunwind_llvm
+/external/llvm
+/external/ninja
+/external/protobuf
+/external/safe-iop
+/external/turbine
+/external/zlib
+/external/zopfli
+/prebuilts/build-tools
+/prebuilts/clang/host/darwin-x86 darwin
+/prebuilts/clang/host/linux-x86 linux
+/prebuilts/clang/host/windows-x86 linux
+/prebuilts/gcc/darwin-x86/host/headers darwin
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 darwin
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 linux
+/prebuilts/go/darwin-x86 darwin
+/prebuilts/go/linux-x86 linux
+/prebuilts/jdk/jdk8
+/prebuilts/jdk/jdk9
+/prebuilts/misc
+/prebuilts/ninja/darwin-x86 darwin
+/prebuilts/ninja/linux-x86 linux
+/system/core
+/system/tools/aidl
+/toolchain/go
+/toolchain/xz

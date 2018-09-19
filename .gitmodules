@@ -1,188 +1,192 @@
-[submodule "build/blueprint"]
-	branch = master
-	path = build/blueprint
-	url = ../build/blueprint
-[submodule "build/kati"]
-	branch = master
-	path = build/kati
-	url = ../build/kati
-[submodule "build/make"]
+[submodule "platform/build"]
 	branch = master
 	path = build/make
 	url = ../build
-[submodule "build/soong"]
+[submodule "platform/build/blueprint"]
+	branch = master
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "platform/build/kati"]
+	branch = master
+	path = build/kati
+	url = ../build/kati
+[submodule "platform/build/soong"]
 	branch = master
 	path = build/soong
 	url = ../build/soong
-[submodule "dalvik"]
+[submodule "platform/dalvik"]
 	branch = master
 	path = dalvik
 	url = ../dalvik
-[submodule "development"]
+[submodule "platform/development"]
 	branch = master
 	path = development
 	url = ../development
-[submodule "external/bison"]
+[submodule "platform/external/bison"]
 	branch = master
 	path = external/bison
 	url = ../external/bison
-[submodule "external/clang"]
+[submodule "platform/external/clang"]
 	branch = master
 	path = external/clang
 	url = ../external/clang
-[submodule "external/compiler-rt"]
+[submodule "platform/external/compiler-rt"]
 	branch = master
 	path = external/compiler-rt
 	url = ../external/compiler-rt
-[submodule "external/dagger2"]
+[submodule "platform/external/dagger2"]
 	branch = master
 	path = external/dagger2
 	url = ../external/dagger2
-[submodule "external/desugar"]
+[submodule "platform/external/desugar"]
 	branch = master
 	path = external/desugar
 	url = ../external/desugar
-[submodule "external/error_prone"]
+[submodule "platform/external/error_prone"]
 	branch = master
 	shallow = true
 	path = external/error_prone
 	url = ../external/error_prone
-[submodule "external/flex"]
+[submodule "platform/external/flex"]
 	branch = master
 	path = external/flex
 	url = ../external/flex
-[submodule "external/golang-protobuf"]
+[submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
-[submodule "external/googletest"]
+[submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
-[submodule "external/libcxx"]
+[submodule "platform/external/jemalloc"]
+	branch = master
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx
 	url = ../external/libcxx
-[submodule "external/libcxxabi"]
+[submodule "platform/external/libcxxabi"]
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
-[submodule "external/libunwind"]
+[submodule "platform/external/libunwind"]
 	branch = master
 	path = external/libunwind
 	url = ../external/libunwind
-[submodule "external/libunwind_llvm"]
+[submodule "platform/external/libunwind_llvm"]
 	branch = master
 	path = external/libunwind_llvm
 	url = ../external/libunwind_llvm
-[submodule "external/llvm"]
+[submodule "platform/external/llvm"]
 	branch = master
 	path = external/llvm
 	url = ../external/llvm
-[submodule "external/ninja"]
+[submodule "platform/external/ninja"]
 	branch = master
 	path = external/ninja
 	url = ../external/ninja
-[submodule "external/protobuf"]
+[submodule "platform/external/protobuf"]
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
-[submodule "external/safe-iop"]
+[submodule "platform/external/safe-iop"]
 	branch = master
 	path = external/safe-iop
 	url = ../external/safe-iop
-[submodule "external/turbine"]
+[submodule "platform/external/turbine"]
 	branch = master
 	path = external/turbine
 	url = ../external/turbine
-[submodule "external/zlib"]
+[submodule "platform/external/zlib"]
 	branch = master
 	path = external/zlib
 	url = ../external/zlib
-[submodule "external/zopfli"]
+[submodule "platform/external/zopfli"]
 	branch = master
 	path = external/zopfli
 	url = ../external/zopfli
-[submodule "prebuilts/build-tools"]
+[submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
-[submodule "prebuilts/clang/host/darwin-x86"]
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
-[submodule "prebuilts/clang/host/linux-x86"]
+[submodule "platform/prebuilts/clang/host/linux-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
-[submodule "prebuilts/clang/host/windows-x86"]
+[submodule "platform/prebuilts/clang/host/windows-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
-[submodule "prebuilts/gcc/darwin-x86/host/headers"]
+[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
 	branch = master
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/host/headers
 	url = ../prebuilts/gcc/darwin-x86/host/headers
-[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
 	branch = master
 	shallow = true
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	branch = master
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-[submodule "prebuilts/go/darwin-x86"]
+[submodule "platform/prebuilts/go/darwin-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
-[submodule "prebuilts/go/linux-x86"]
+[submodule "platform/prebuilts/go/linux-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
-[submodule "prebuilts/jdk/jdk8"]
+[submodule "platform/prebuilts/jdk/jdk8"]
 	branch = master
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
-[submodule "prebuilts/jdk/jdk9"]
+[submodule "platform/prebuilts/jdk/jdk9"]
 	branch = master
 	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
-[submodule "prebuilts/misc"]
+[submodule "platform/prebuilts/misc"]
 	branch = master
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
-[submodule "prebuilts/ninja/darwin-x86"]
+[submodule "platform/prebuilts/ninja/darwin-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/ninja/darwin-x86
 	url = ../prebuilts/ninja/darwin-x86
-[submodule "prebuilts/ninja/linux-x86"]
+[submodule "platform/prebuilts/ninja/linux-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
-[submodule "system/core"]
+[submodule "platform/system/core"]
 	branch = master
 	path = system/core
 	url = ../system/core
-[submodule "system/tools/aidl"]
+[submodule "platform/system/tools/aidl"]
 	branch = master
 	path = system/tools/aidl
 	url = ../system/tools/aidl
