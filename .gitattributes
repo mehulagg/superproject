@@ -106,6 +106,7 @@
 /prebuilts/tools pdk tools
 /prebuilts/vndk/v28 pdk
 /sdk pdk-fs pdk-cw-fs
+/system/apex pdk
 /system/core pdk
 /system/extras pdk
 /system/keymaster pdk
