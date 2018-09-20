@@ -477,6 +477,10 @@
 	branch = master
 	path = system/timezone
 	url = ../system/timezone
+[submodule "platform/system/tools/aidl"]
+	branch = master
+	path = system/tools/aidl
+	url = ../system/tools/aidl
 [submodule "platform/tools/apksig"]
 	branch = master
 	path = tools/apksig
