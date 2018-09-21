@@ -23,7 +23,7 @@
 	path = device/generic/goldfish
 	url = ../../device/generic/goldfish
 [submodule "device/generic/goldfish-opengl"]
-	branch = master
+	branch = cuttlefish-testing
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/mini-emulator-arm64"]
@@ -42,6 +42,10 @@
 	branch = master
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
+[submodule "device/generic/opengl-transport"]
+	branch = cuttlefish-testing
+	path = device/generic/opengl-transport
+	url = ../../device/generic/opengl-transport
 [submodule "device/generic/qemu"]
 	branch = master
 	path = device/generic/qemu
@@ -75,15 +79,15 @@
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
 [submodule "device/google/cuttlefish"]
-	branch = master
+	branch = master-cuttlefish-testing
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
 [submodule "device/google/cuttlefish_common"]
-	branch = master
+	branch = cuttlefish-testing
 	path = device/google/cuttlefish_common
 	url = ../../device/google/cuttlefish_common
 [submodule "device/google/cuttlefish_kernel"]
-	branch = master
+	branch = cuttlefish-testing
 	shallow = true
 	path = device/google/cuttlefish_kernel
 	url = ../../device/google/cuttlefish_kernel
@@ -1400,7 +1404,7 @@
 	path = external/subsampling-scale-image-view
 	url = ../external/subsampling-scale-image-view
 [submodule "platform/external/swiftshader"]
-	branch = master
+	branch = cuttlefish-testing
 	path = external/swiftshader
 	url = ../external/swiftshader
 [submodule "platform/external/syslinux"]
@@ -1491,6 +1495,10 @@
 	branch = master
 	path = external/vboot_reference
 	url = ../external/vboot_reference
+[submodule "platform/external/virglrenderer"]
+	branch = cuttlefish-testing
+	path = external/virglrenderer
+	url = ../external/virglrenderer
 [submodule "platform/external/vixl"]
 	branch = master
 	path = external/vixl
