@@ -873,6 +873,10 @@
 	branch = master
 	path = external/libusb-compat
 	url = ../external/libusb-compat
+[submodule "platform/external/libutf"]
+	branch = master
+	path = external/libutf
+	url = ../external/libutf
 [submodule "platform/external/libvncserver"]
 	branch = master
 	path = external/libvncserver
