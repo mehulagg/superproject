@@ -17,6 +17,7 @@
 /prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
 /prebuilts/fullsdk-darwin/platforms/android-28
+/prebuilts/fullsdk-darwin/sources/android-28
 /prebuilts/ktlint pdk-fs
 /tools/external/gradle tools
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
