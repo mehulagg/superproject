@@ -91,6 +91,14 @@
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/python/cpython2"]
+	branch = master
+	path = external/python/cpython2
+	url = ../external/python/cpython2
+[submodule "platform/external/python/cpython3"]
+	branch = master
+	path = external/python/cpython3
+	url = ../external/python/cpython3
 [submodule "platform/external/safe-iop"]
 	branch = master
 	path = external/safe-iop

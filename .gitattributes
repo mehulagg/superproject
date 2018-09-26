@@ -21,6 +21,8 @@
 /external/llvm
 /external/ninja
 /external/protobuf
+/external/python/cpython2
+/external/python/cpython3
 /external/safe-iop
 /external/turbine
 /external/zlib
