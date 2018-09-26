@@ -16,6 +16,8 @@
 /external/llvm
 /external/ninja
 /external/protobuf
+/external/python/cpython2
+/external/python/cpython3
 /external/zlib
 /external/zopfli
 /prebuilts/build-tools
