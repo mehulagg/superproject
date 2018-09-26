@@ -411,6 +411,7 @@
 /frameworks/opt/chips pdk-fs pdk-cw-fs
 /frameworks/opt/colorpicker pdk-fs pdk-cw-fs
 /frameworks/opt/datetimepicker pdk-fs pdk-cw-fs
+/frameworks/opt/gamesdk
 /frameworks/opt/inputmethodcommon pdk-fs pdk-cw-fs
 /frameworks/opt/net/ethernet pdk-fs
 /frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims

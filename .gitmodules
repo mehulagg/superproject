@@ -1659,6 +1659,10 @@
 	branch = master
 	path = frameworks/opt/datetimepicker
 	url = ../frameworks/opt/datetimepicker
+[submodule "platform/frameworks/opt/gamesdk"]
+	branch = master
+	path = frameworks/opt/gamesdk
+	url = ../frameworks/opt/gamesdk
 [submodule "platform/frameworks/opt/inputmethodcommon"]
 	branch = master
 	path = frameworks/opt/inputmethodcommon
