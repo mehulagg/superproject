@@ -1387,7 +1387,7 @@
 	path = external/subsampling-scale-image-view
 	url = ../external/subsampling-scale-image-view
 [submodule "platform/external/swiftshader"]
-	branch = pie-platform-release
+	branch = cuttlefish-testing
 	path = external/swiftshader
 	url = ../external/swiftshader
 [submodule "platform/external/syslinux"]
