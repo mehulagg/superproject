@@ -1,3 +1,6 @@
+[submodule "device/generic/goldfish-opengl"]
+	path = device/generic/goldfish-opengl
+	url = ../../device/generic/goldfish-opengl
 [submodule "platform/build"]
 	path = build
 	url = ../build
