@@ -264,6 +264,10 @@
 	branch = master
 	path = external/apache-commons-bcel
 	url = ../external/apache-commons-bcel
+[submodule "platform/external/apache-commons-compress"]
+	branch = master
+	path = external/apache-commons-compress
+	url = ../external/apache-commons-compress
 [submodule "platform/external/apache-commons-math"]
 	branch = master
 	path = external/apache-commons-math
