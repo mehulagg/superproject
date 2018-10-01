@@ -64,6 +64,7 @@
 /external/ant-glob pdk
 /external/antlr pdk
 /external/apache-commons-bcel pdk
+/external/apache-commons-compress pdk
 /external/apache-commons-math pdk
 /external/apache-harmony pdk
 /external/apache-http pdk
