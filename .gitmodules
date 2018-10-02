@@ -2258,6 +2258,11 @@
 	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/asuite"]
+	branch = master
+	shallow = true
+	path = prebuilts/asuite
+	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
