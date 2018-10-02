@@ -562,6 +562,7 @@
 /prebuilts/abi-dumps/ndk pdk-fs
 /prebuilts/abi-dumps/vndk pdk-fs
 /prebuilts/android-emulator pdk-fs
+/prebuilts/asuite pdk
 /prebuilts/build-tools pdk
 /prebuilts/checkcolor pdk
 /prebuilts/checkstyle pdk
