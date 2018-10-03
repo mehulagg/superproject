@@ -517,6 +517,10 @@
 	branch = master
 	path = external/fsck_msdos
 	url = ../external/fsck_msdos
+[submodule "platform/external/fsverity-utils"]
+	branch = master
+	path = external/fsverity-utils
+	url = ../external/fsverity-utils
 [submodule "platform/external/gemmlowp"]
 	branch = master
 	path = external/gemmlowp

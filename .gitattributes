@@ -126,6 +126,7 @@
 /external/fonttools pdk
 /external/freetype pdk
 /external/fsck_msdos pdk
+/external/fsverity-utils pdk
 /external/gemmlowp pdk
 /external/gflags pdk
 /external/giflib pdk qcom_msm8x26
