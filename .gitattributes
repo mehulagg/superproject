@@ -23,6 +23,9 @@
 /device/google/accessory/demokit pdk device
 /device/google/atv broadcom_pdk generic_fs pdk device fugu
 /device/google/contexthub pdk device marlin
+/device/google/cuttlefish pdk device
+/device/google/cuttlefish_common pdk device
+/device/google/cuttlefish_kernel pdk device
 /device/google/dragon pdk dragon device
 /device/google/dragon-kernel pdk dragon device
 /device/google/marlin device marlin
@@ -131,6 +134,7 @@
 /external/freetype pdk
 /external/fsck_msdos pdk
 /external/gemmlowp pdk
+/external/gflags pdk
 /external/giflib pdk qcom_msm8x26
 /external/glide pdk
 /external/google-api-services-storage pdk

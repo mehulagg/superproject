@@ -99,6 +99,18 @@
 	branch = oreo-mr1-release
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
+[submodule "device/google/cuttlefish"]
+	branch = oreo-mr1-cuttlefish-testing
+	path = device/google/cuttlefish
+	url = ../../device/google/cuttlefish
+[submodule "device/google/cuttlefish_common"]
+	branch = cuttlefish-testing
+	path = device/google/cuttlefish_common
+	url = ../../device/google/cuttlefish_common
+[submodule "device/google/cuttlefish_kernel"]
+	branch = cuttlefish-testing
+	path = device/google/cuttlefish_kernel
+	url = ../../device/google/cuttlefish_kernel
 [submodule "device/google/dragon"]
 	branch = oreo-mr1-release
 	path = device/google/dragon
@@ -539,6 +551,10 @@
 	branch = oreo-mr1-release
 	path = external/gemmlowp
 	url = ../external/gemmlowp
+[submodule "platform/external/gflags"]
+	branch = oreo-mr1-cuttlefish-testing
+	path = external/gflags
+	url = ../external/gflags
 [submodule "platform/external/giflib"]
 	branch = oreo-mr1-release
 	path = external/giflib
@@ -824,7 +840,7 @@
 	path = external/libnfnetlink
 	url = ../external/libnfnetlink
 [submodule "platform/external/libnl"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-cuttlefish-testing
 	path = external/libnl
 	url = ../external/libnl
 [submodule "platform/external/libogg"]
@@ -1192,7 +1208,7 @@
 	path = external/svox
 	url = ../external/svox
 [submodule "platform/external/swiftshader"]
-	branch = oreo-mr1-release
+	branch = cuttlefish-testing
 	path = external/swiftshader
 	url = ../external/swiftshader
 [submodule "platform/external/syslinux"]
@@ -2251,7 +2267,7 @@
 	path = system/connectivity/wifilogd
 	url = ../system/connectivity/wifilogd
 [submodule "platform/system/core"]
-	branch = oreo-mr1-release
+	branch = oreo-mr1-cuttlefish-testing
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/extras"]
