@@ -772,7 +772,7 @@
 	path = external/libhevc
 	url = ../external/libhevc
 [submodule "platform/external/libjpeg-turbo"]
-	branch = oreo-dev
+	branch = oreo-cuttlefish-testing
 	path = external/libjpeg-turbo
 	url = ../external/libjpeg-turbo
 [submodule "platform/external/libldac"]
@@ -808,7 +808,7 @@
 	path = external/libnfnetlink
 	url = ../external/libnfnetlink
 [submodule "platform/external/libnl"]
-	branch = oreo-dev
+	branch = oreo-cuttlefish-testing
 	path = external/libnl
 	url = ../external/libnl
 [submodule "platform/external/libogg"]
@@ -872,7 +872,7 @@
 	path = external/libvterm
 	url = ../external/libvterm
 [submodule "platform/external/libxml2"]
-	branch = oreo-dev
+	branch = oreo-cuttlefish-testing
 	path = external/libxml2
 	url = ../external/libxml2
 [submodule "platform/external/libyuv"]
