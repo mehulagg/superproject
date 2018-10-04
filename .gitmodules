@@ -87,6 +87,10 @@
 	branch = master
 	path = external/ninja
 	url = ../external/ninja
+[submodule "platform/external/one-true-awk"]
+	branch = master
+	path = external/one-true-awk
+	url = ../external/one-true-awk
 [submodule "platform/external/protobuf"]
 	branch = master
 	path = external/protobuf
@@ -103,6 +107,10 @@
 	branch = master
 	path = external/safe-iop
 	url = ../external/safe-iop
+[submodule "platform/external/toybox"]
+	branch = master
+	path = external/toybox
+	url = ../external/toybox
 [submodule "platform/external/turbine"]
 	branch = master
 	path = external/turbine
@@ -202,6 +210,14 @@
 	branch = master
 	path = toolchain/go
 	url = ../../toolchain/go
+[submodule "toolchain/m4"]
+	branch = master
+	path = toolchain/m4
+	url = ../../toolchain/m4
+[submodule "toolchain/make"]
+	branch = master
+	path = toolchain/make
+	url = ../../toolchain/make
 [submodule "toolchain/xz"]
 	branch = master
 	path = toolchain/xz
