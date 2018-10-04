@@ -15,6 +15,7 @@
 /external/apache-xml pdk
 /external/archive-patcher pdk
 /external/arm-optimized-routines pdk
+/external/avb pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
 /external/caliper pdk
@@ -31,6 +32,7 @@
 /external/expat pdk
 /external/f2fs-tools pdk
 /external/fdlibm pdk
+/external/fec pdk
 /external/golang-protobuf pdk
 /external/google-styleguide pdk
 /external/googletest pdk
@@ -73,6 +75,7 @@
 /external/slf4j pdk
 /external/smali pdk
 /external/sqlite pdk
+/external/squashfs-tools pdk
 /external/tagsoup pdk
 /external/toybox pdk
 /external/turbine pdk

@@ -66,6 +66,10 @@
 	branch = master
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
+[submodule "platform/external/avb"]
+	branch = master
+	path = external/avb
+	url = ../external/avb
 [submodule "platform/external/boringssl"]
 	branch = master
 	path = external/boringssl
@@ -131,6 +135,10 @@
 	branch = master
 	path = external/fdlibm
 	url = ../external/fdlibm
+[submodule "platform/external/fec"]
+	branch = master
+	path = external/fec
+	url = ../external/fec
 [submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf
@@ -299,6 +307,10 @@
 	branch = master
 	path = external/sqlite
 	url = ../external/sqlite
+[submodule "platform/external/squashfs-tools"]
+	branch = master
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
 [submodule "platform/external/tagsoup"]
 	branch = master
 	path = external/tagsoup
