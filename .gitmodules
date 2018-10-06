@@ -13,6 +13,9 @@
 [submodule "platform/external/astc-codec"]
 	path = external/astc-codec
 	url = ../external/astc-codec
+[submodule "platform/external/deqp"]
+	path = external/deqp
+	url = ../external/deqp
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark

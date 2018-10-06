@@ -3,6 +3,7 @@
 /external/adt-infra
 /external/angle
 /external/astc-codec
+/external/deqp
 /external/google-benchmark
 /external/googletest
 /external/libyuv
