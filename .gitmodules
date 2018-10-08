@@ -2785,6 +2785,10 @@
 	branch = master
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
+[submodule "platform/tools/trebuchet"]
+	branch = master
+	path = tools/trebuchet
+	url = ../tools/trebuchet
 [submodule "platform/vendor/aosp/google_devices/marlin"]
 	branch = master
 	shallow = true
