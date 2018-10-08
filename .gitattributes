@@ -679,6 +679,7 @@
 /tools/test/graphicsbenchmark pdk
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
+/tools/trebuchet tools
 /vendor/google_devices/marlin vendor
 /vendor/google_devices/muskie vendor
 /vendor/google_devices/sailfish vendor
