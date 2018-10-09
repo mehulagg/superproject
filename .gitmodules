@@ -180,7 +180,7 @@
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = build/make
 	url = ../build
 [submodule "platform/build/blueprint"]
