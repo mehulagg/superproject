@@ -637,6 +637,7 @@
 /system/tools/hidl pdk
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk
+/system/ucontainer pdk
 /system/update_engine pdk
 /system/vold pdk
 /test/framework vts pdk
