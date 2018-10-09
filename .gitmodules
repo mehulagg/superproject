@@ -2600,6 +2600,10 @@
 	branch = master
 	path = system/tools/xsdc
 	url = ../system/tools/xsdc
+[submodule "platform/system/ucontainer"]
+	branch = master
+	path = system/ucontainer
+	url = ../system/ucontainer
 [submodule "platform/system/update_engine"]
 	branch = master
 	path = system/update_engine
