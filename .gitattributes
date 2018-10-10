@@ -696,5 +696,4 @@
 /vendor/qcom/taimen vendor
 /vendor/qcom/walleye vendor
 /toolchain/benchmark
-/toolchain/binutils pdk
 /toolchain/pgo-profiles pdk

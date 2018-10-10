@@ -2855,10 +2855,6 @@
 	branch = master
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
-[submodule "toolchain/binutils"]
-	branch = master
-	path = toolchain/binutils
-	url = ../../toolchain/binutils
 [submodule "toolchain/pgo-profiles"]
 	branch = master
 	path = toolchain/pgo-profiles
