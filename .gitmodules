@@ -2488,6 +2488,14 @@
 	branch = master
 	path = system/apex
 	url = ../system/apex
+[submodule "platform/system/bpf"]
+	branch = master
+	path = system/bpf
+	url = ../system/bpf
+[submodule "platform/system/bpfprogs"]
+	branch = master
+	path = system/bpfprogs
+	url = ../system/bpfprogs
 [submodule "platform/system/bt"]
 	branch = master
 	path = system/bt
