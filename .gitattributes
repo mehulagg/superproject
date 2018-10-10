@@ -686,7 +686,6 @@
 /tools/tradefederation/contrib tradefed pdk
 /tools/trebuchet tools
 /toolchain/benchmark
-/toolchain/binutils pdk
 /toolchain/clang
 /toolchain/clang-tools-extra
 /toolchain/compiler-rt
