@@ -1,0 +1,8 @@
+/external/doclava pdk
+/external/flatbuffers pdk
+/external/jdiff pdk
+/external/noto-fonts pdk
+/frameworks/support pdk-fs pdk-cw-fs
+/prebuilts/checkstyle pdk-fs
+/tools/external/gradle tools
+/tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
