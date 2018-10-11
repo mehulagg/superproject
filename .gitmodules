@@ -437,11 +437,21 @@
 	branch = master
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
+	branch = master
+	shallow = true
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
 [submodule "platform/prebuilts/r8"]
 	branch = master
 	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
+[submodule "platform/prebuilts/runtime"]
+	branch = master
+	shallow = true
+	path = prebuilts/runtime
+	url = ../prebuilts/runtime
 [submodule "platform/prebuilts/sdk"]
 	branch = master
 	shallow = true

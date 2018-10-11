@@ -104,7 +104,9 @@
 /prebuilts/misc pdk
 /prebuilts/ndk pdk
 /prebuilts/ninja/linux-x86 tradefed pdk linux
+/prebuilts/python/linux-x86/2.7.5 pdk linux
 /prebuilts/r8 pdk
+/prebuilts/runtime pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
 /prebuilts/vndk/v28 pdk
