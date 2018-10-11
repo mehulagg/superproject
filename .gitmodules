@@ -2805,6 +2805,10 @@
 	branch = master
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
+[submodule "toolchain/binutils"]
+	branch = master
+	path = toolchain/binutils
+	url = ../../toolchain/binutils
 [submodule "toolchain/clang"]
 	branch = master
 	path = toolchain/clang
