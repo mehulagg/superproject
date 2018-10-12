@@ -2211,6 +2211,10 @@
 	branch = master
 	path = packages/screensavers/WebView
 	url = ../packages/screensavers/WebView
+[submodule "platform/packages/services/AlternativeNetworkAccess"]
+	branch = master
+	path = packages/services/AlternativeNetworkAccess
+	url = ../packages/services/AlternativeNetworkAccess
 [submodule "platform/packages/services/BuiltInPrintService"]
 	branch = master
 	path = packages/services/BuiltInPrintService
