@@ -549,6 +549,7 @@
 /packages/screensavers/Basic pdk-fs
 /packages/screensavers/PhotoTable pdk-fs
 /packages/screensavers/WebView pdk-fs
+/packages/services/AlternativeNetworkAccess pdk-fs pdk-cw-fs
 /packages/services/BuiltInPrintService pdk-fs pdk-cw-fs
 /packages/services/Car pdk-fs pdk-cw-fs
 /packages/services/Mms pdk-fs pdk-cw-fs
