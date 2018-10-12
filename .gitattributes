@@ -227,6 +227,7 @@
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
 /external/messageformat pdk
+/external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
 /external/mmc-utils pdk
