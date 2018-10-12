@@ -459,6 +459,10 @@
 	branch = oreo-mr1-release
 	path = external/donuts
 	url = ../external/donuts
+[submodule "platform/external/drm_gralloc"]
+	branch = oreo-mr1-cuttlefish-testing
+	path = external/drm_gralloc
+	url = ../external/drm_gralloc
 [submodule "platform/external/drm_hwcomposer"]
 	branch = oreo-mr1-release
 	path = external/drm_hwcomposer
@@ -959,6 +963,10 @@
 	branch = oreo-mr1-release
 	path = external/messageformat
 	url = ../external/messageformat
+[submodule "platform/external/minigbm"]
+	branch = oreo-mr1-cuttlefish-testing
+	path = external/minigbm
+	url = ../external/minigbm
 [submodule "platform/external/minijail"]
 	branch = oreo-mr1-release
 	path = external/minijail
