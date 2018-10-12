@@ -953,7 +953,7 @@
 	path = external/mesa3d
 	url = ../external/mesa3d
 [submodule "platform/external/minigbm"]
-	branch = oreo-cuttlefish-testing
+	branch = pie-cuttlefish-testing
 	path = external/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
