@@ -3,6 +3,11 @@
 	shallow = true
 	path = external/doclava
 	url = ../external/doclava
+[submodule "platform/external/dokka"]
+	branch = master
+	shallow = true
+	path = external/dokka
+	url = ../external/dokka
 [submodule "platform/external/flatbuffers"]
 	branch = master
 	shallow = true
