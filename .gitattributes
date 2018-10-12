@@ -235,6 +235,7 @@
 /external/markdown pdk
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
+/external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk
 /external/mmc-utils pdk
