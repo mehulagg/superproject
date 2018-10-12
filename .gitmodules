@@ -503,6 +503,10 @@
 	branch = master
 	path = system/tools/aidl
 	url = ../system/tools/aidl
+[submodule "platform/system/update_engine"]
+	branch = master
+	path = system/update_engine
+	url = ../system/update_engine
 [submodule "platform/tools/apksig"]
 	branch = master
 	path = tools/apksig

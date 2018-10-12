@@ -119,6 +119,7 @@
 /system/security pdk
 /system/timezone pdk
 /system/tools/aidl pdk
+/system/update_engine pdk
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
 /tools/dexter tools
