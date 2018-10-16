@@ -67,6 +67,10 @@
 	branch = oreo-mr1-release
 	path = device/generic/mips64
 	url = ../../device/generic/mips64
+[submodule "device/generic/opengl-transport"]
+	branch = cuttlefish-testing
+	path = device/generic/opengl-transport
+	url = ../../device/generic/opengl-transport
 [submodule "device/generic/qemu"]
 	branch = oreo-mr1-release
 	path = device/generic/qemu
@@ -1299,6 +1303,10 @@
 	branch = oreo-mr1-release
 	path = external/vboot_reference
 	url = ../external/vboot_reference
+[submodule "platform/external/virglrenderer"]
+	branch = cuttlefish-testing
+	path = external/virglrenderer
+	url = ../external/virglrenderer
 [submodule "platform/external/vixl"]
 	branch = oreo-mr1-release
 	path = external/vixl
