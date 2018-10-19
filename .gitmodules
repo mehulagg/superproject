@@ -156,6 +156,15 @@
 	branch = master
 	path = device/sample
 	url = ../../device/sample
+[submodule "device/ti/beagle-x15"]
+	branch = master
+	path = device/ti/beagle_x15
+	url = ../../device/ti/beagle-x15
+[submodule "device/ti/beagle-x15-kernel"]
+	branch = master
+	shallow = true
+	path = device/ti/beagle_x15-kernel
+	url = ../../device/ti/beagle-x15-kernel
 [submodule "kernel/configs"]
 	branch = master
 	path = kernel/configs
@@ -813,6 +822,10 @@
 	branch = master
 	path = external/libjpeg-turbo
 	url = ../external/libjpeg-turbo
+[submodule "platform/external/libkmsxx"]
+	branch = master
+	path = external/libkmsxx
+	url = ../external/libkmsxx
 [submodule "platform/external/libldac"]
 	branch = master
 	path = external/libldac
@@ -1875,6 +1888,10 @@
 	branch = master
 	path = hardware/st/nfc
 	url = ../hardware/st/nfc
+[submodule "platform/hardware/ti/am57x"]
+	branch = master
+	path = hardware/ti/am57x
+	url = ../hardware/ti/am57x
 [submodule "platform/libcore"]
 	branch = master
 	path = libcore
