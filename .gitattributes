@@ -18,6 +18,9 @@
 /device/google/accessory/demokit pdk device
 /device/google/atv broadcom_pdk generic_fs pdk device
 /device/google/contexthub pdk device marlin
+/device/google/crosshatch crosshatch device
+/device/google/crosshatch-kernel crosshatch device
+/device/google/crosshatch-sepolicy crosshatch device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_common pdk device
 /device/google/cuttlefish_kernel pdk device
@@ -465,6 +468,13 @@
 /hardware/qcom/msm8x84 qcom_msm8x84 pdk-qcom
 /hardware/qcom/neuralnetworks/hvxservice wahoo
 /hardware/qcom/power qcom pdk-qcom
+/hardware/qcom/sdm845/bt qcom_sdm845
+/hardware/qcom/sdm845/data/ipacfg-mgr vendor qcom_sdm845
+/hardware/qcom/sdm845/display qcom_sdm845
+/hardware/qcom/sdm845/gps qcom_sdm845
+/hardware/qcom/sdm845/media qcom_sdm845
+/hardware/qcom/sdm845/thermal qcom_sdm845
+/hardware/qcom/sdm845/vr qcom_sdm845
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
 /hardware/st/nfc pdk

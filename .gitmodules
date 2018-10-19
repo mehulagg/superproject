@@ -78,6 +78,19 @@
 	branch = master
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
+[submodule "device/google/crosshatch"]
+	branch = master
+	path = device/google/crosshatch
+	url = ../../device/google/crosshatch
+[submodule "device/google/crosshatch-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/crosshatch-kernel
+	url = ../../device/google/crosshatch-kernel
+[submodule "device/google/crosshatch-sepolicy"]
+	branch = master
+	path = device/google/crosshatch-sepolicy
+	url = ../../device/google/crosshatch-sepolicy
 [submodule "device/google/cuttlefish"]
 	branch = master-cuttlefish-testing
 	path = device/google/cuttlefish
@@ -1876,6 +1889,34 @@
 	branch = master
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
+[submodule "platform/hardware/qcom/sdm845/bt"]
+	branch = master
+	path = hardware/qcom/sdm845/bt
+	url = ../hardware/qcom/sdm845/bt
+[submodule "platform/hardware/qcom/sdm845/data/ipacfg-mgr"]
+	branch = master
+	path = hardware/qcom/sdm845/data/ipacfg-mgr
+	url = ../hardware/qcom/sdm845/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/sdm845/display"]
+	branch = master
+	path = hardware/qcom/sdm845/display
+	url = ../hardware/qcom/sdm845/display
+[submodule "platform/hardware/qcom/sdm845/gps"]
+	branch = master
+	path = hardware/qcom/sdm845/gps
+	url = ../hardware/qcom/sdm845/gps
+[submodule "platform/hardware/qcom/sdm845/media"]
+	branch = master
+	path = hardware/qcom/sdm845/media
+	url = ../hardware/qcom/sdm845/media
+[submodule "platform/hardware/qcom/sdm845/thermal"]
+	branch = master
+	path = hardware/qcom/sdm845/thermal
+	url = ../hardware/qcom/sdm845/thermal
+[submodule "platform/hardware/qcom/sdm845/vr"]
+	branch = master
+	path = hardware/qcom/sdm845/vr
+	url = ../hardware/qcom/sdm845/vr
 [submodule "platform/hardware/qcom/wlan"]
 	branch = master
 	path = hardware/qcom/wlan
