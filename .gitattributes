@@ -35,6 +35,8 @@
 /device/linaro/poplar poplar pdk device
 /device/linaro/poplar-kernel poplar pdk device
 /device/sample pdk
+/device/ti/beagle_x15 pdk beagle_x15 device
+/device/ti/beagle_x15-kernel pdk beagle_x15 device
 /kernel/configs vts pdk
 /kernel/tests
 /art pdk
@@ -199,6 +201,7 @@
 /external/libgsm pdk
 /external/libhevc pdk
 /external/libjpeg-turbo pdk
+/external/libkmsxx pdk
 /external/libldac pdk
 /external/libmicrohttpd pdk
 /external/libmpeg2 pdk
@@ -463,6 +466,7 @@
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
 /hardware/st/nfc pdk
+/hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
 /packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
