@@ -1065,6 +1065,10 @@
 	branch = master
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/opencensus-java"]
+	branch = master
+	path = external/opencensus-java
+	url = ../external/opencensus-java
 [submodule "platform/external/opencv"]
 	branch = master
 	path = external/opencv
