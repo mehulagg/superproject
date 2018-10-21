@@ -677,7 +677,6 @@
 /tools/adt/idea notdefault tools
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
-/tools/appbundle
 /tools/asuite pdk
 /tools/base notdefault tools
 /tools/build notdefault tools
