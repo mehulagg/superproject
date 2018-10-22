@@ -1,3 +1,7 @@
+[submodule "platform/bionic"]
+	branch = master
+	path = bionic
+	url = ../bionic
 [submodule "platform/build"]
 	branch = master
 	path = build/make
@@ -22,6 +26,10 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "platform/external/arm-optimized-routines"]
+	branch = master
+	path = external/arm-optimized-routines
+	url = ../external/arm-optimized-routines
 [submodule "platform/external/bison"]
 	branch = master
 	path = external/bison
@@ -163,6 +171,11 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/go/darwin-x86"]
 	branch = master
 	shallow = true
