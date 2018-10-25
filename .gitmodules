@@ -1599,7 +1599,7 @@
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "platform/frameworks/native"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/frameworks/opt/bitmap"]
