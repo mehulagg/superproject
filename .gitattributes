@@ -286,6 +286,8 @@
 /external/python/Pillow vts pdk
 /external/python/apitools pdk
 /external/python/appdirs vts pdk
+/external/python/atomicwrites pdk
+/external/python/attrs pdk
 /external/python/cachetools vts pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
@@ -309,17 +311,21 @@
 /external/python/httplib2 vts pdk
 /external/python/matplotlib vts pdk
 /external/python/mock pdk
+/external/python/more-itertools pdk
 /external/python/numpy vts pdk
 /external/python/oauth2client vts pdk
 /external/python/olefile vts pdk
 /external/python/packaging vts pdk
 /external/python/parse vts pdk
+/external/python/pluggy pdk
 /external/python/ply vts pdk
 /external/python/proto-google-cloud-pubsub-v1 vts pdk
 /external/python/protobuf vts pdk
+/external/python/py pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
 /external/python/pyparsing vts pdk
+/external/python/pytest pdk
 /external/python/requests vts pdk
 /external/python/rsa vts pdk
 /external/python/scipy vts pdk
