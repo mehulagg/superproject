@@ -1,3 +1,7 @@
+[submodule "platform/bionic"]
+	branch = master
+	path = bionic
+	url = ../bionic
 [submodule "platform/build"]
 	branch = master
 	path = build/make
