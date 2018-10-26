@@ -483,6 +483,7 @@
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
 /hardware/st/nfc pdk
+/hardware/st/secure_element pdk
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
