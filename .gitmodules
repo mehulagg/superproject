@@ -1163,6 +1163,14 @@
 	branch = master
 	path = external/python/appdirs
 	url = ../external/python/appdirs
+[submodule "platform/external/python/atomicwrites"]
+	branch = master
+	path = external/python/atomicwrites
+	url = ../external/python/atomicwrites
+[submodule "platform/external/python/attrs"]
+	branch = master
+	path = external/python/attrs
+	url = ../external/python/attrs
 [submodule "platform/external/python/cachetools"]
 	branch = master
 	path = external/python/cachetools
@@ -1255,6 +1263,10 @@
 	branch = master
 	path = external/python/mock
 	url = ../external/python/mock
+[submodule "platform/external/python/more-itertools"]
+	branch = master
+	path = external/python/more-itertools
+	url = ../external/python/more-itertools
 [submodule "platform/external/python/numpy"]
 	branch = master
 	path = external/python/numpy
@@ -1275,6 +1287,10 @@
 	branch = master
 	path = external/python/parse
 	url = ../external/python/parse
+[submodule "platform/external/python/pluggy"]
+	branch = master
+	path = external/python/pluggy
+	url = ../external/python/pluggy
 [submodule "platform/external/python/ply"]
 	branch = master
 	path = external/python/ply
@@ -1287,6 +1303,10 @@
 	branch = master
 	path = external/python/protobuf
 	url = ../external/python/protobuf
+[submodule "platform/external/python/py"]
+	branch = master
+	path = external/python/py
+	url = ../external/python/py
 [submodule "platform/external/python/pyasn1"]
 	branch = master
 	path = external/python/pyasn1
@@ -1299,6 +1319,10 @@
 	branch = master
 	path = external/python/pyparsing
 	url = ../external/python/pyparsing
+[submodule "platform/external/python/pytest"]
+	branch = master
+	path = external/python/pytest
+	url = ../external/python/pytest
 [submodule "platform/external/python/requests"]
 	branch = master
 	path = external/python/requests
