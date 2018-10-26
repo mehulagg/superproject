@@ -282,6 +282,7 @@
 /external/ppp pdk
 /external/proguard pdk
 /external/protobuf pdk
+/external/protobuf-javalite pdk
 /external/puffin pdk
 /external/python/Pillow vts pdk
 /external/python/apitools pdk
