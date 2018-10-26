@@ -1147,6 +1147,10 @@
 	branch = master
 	path = external/protobuf
 	url = ../external/protobuf
+[submodule "platform/external/protobuf-javalite"]
+	branch = master
+	path = external/protobuf-javalite
+	url = ../external/protobuf-javalite
 [submodule "platform/external/puffin"]
 	branch = master
 	path = external/puffin
