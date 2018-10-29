@@ -42,6 +42,10 @@
 	branch = master
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
+[submodule "device/generic/opengl-transport"]
+	branch = master
+	path = device/generic/opengl-transport
+	url = ../../device/generic/opengl-transport
 [submodule "device/generic/qemu"]
 	branch = master
 	path = device/generic/qemu
@@ -1557,6 +1561,10 @@
 	branch = master
 	path = external/vboot_reference
 	url = ../external/vboot_reference
+[submodule "platform/external/virglrenderer"]
+	branch = master
+	path = external/virglrenderer
+	url = ../external/virglrenderer
 [submodule "platform/external/vixl"]
 	branch = master
 	path = external/vixl
