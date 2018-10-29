@@ -1,118 +1,72 @@
 [submodule "platform/external/doclava"]
-	branch = androidx-paging-release
-	shallow = true
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
-	branch = androidx-paging-release
-	shallow = true
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/flatbuffers"]
-	branch = androidx-paging-release
-	shallow = true
 	path = external/flatbuffers
 	url = ../external/flatbuffers
 [submodule "platform/external/jdiff"]
-	branch = androidx-paging-release
-	shallow = true
 	path = external/jdiff
 	url = ../external/jdiff
 [submodule "platform/external/noto-fonts"]
-	branch = androidx-paging-release
-	shallow = true
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/webview_support_interfaces"]
-	branch = androidx-paging-release
-	shallow = true
 	path = external/webview_support_interfaces
 	url = ../external/webview_support_interfaces
 [submodule "platform/frameworks/support"]
-	branch = androidx-paging-release
 	path = frameworks/support
 	url = ../frameworks/support
 [submodule "platform/prebuilts/androidx/exoplayer"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/androidx/exoplayer
 	url = ../prebuilts/androidx/exoplayer
 [submodule "platform/prebuilts/androidx/external"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/androidx/external
 	url = ../prebuilts/androidx/external
 [submodule "platform/prebuilts/androidx/internal"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
 [submodule "platform/prebuilts/checkstyle"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/28.0.2"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools/28.0.2
 	url = ../prebuilts/fullsdk-darwin/build-tools/28.0.2
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/28.0.3"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools/28.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/28.0.3
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/platform-tools
 	url = ../prebuilts/fullsdk-darwin/platform-tools
 [submodule "platform/prebuilts/fullsdk-darwin/tools"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/tools
 	url = ../prebuilts/fullsdk-darwin/tools
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.2"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools/28.0.2
 	url = ../prebuilts/fullsdk-linux/build-tools/28.0.2
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.3"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools/28.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/28.0.3
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/platform-tools
 	url = ../prebuilts/fullsdk-linux/platform-tools
 [submodule "platform/prebuilts/fullsdk-linux/tools"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-linux/tools
 	url = ../prebuilts/fullsdk-linux/tools
 [submodule "platform/prebuilts/fullsdk/platforms/android-28"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
 [submodule "platform/prebuilts/fullsdk/sources/android-28"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/fullsdk-darwin/sources/android-28
 	url = ../prebuilts/fullsdk/sources/android-28
 [submodule "platform/prebuilts/ktlint"]
-	branch = androidx-paging-release
-	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
 [submodule "platform/tools/external/gradle"]
-	branch = androidx-paging-release
-	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
 [submodule "platform/tools/repohooks"]
-	branch = androidx-paging-release
 	path = tools/repohooks
 	url = ../tools/repohooks
