@@ -9,6 +9,7 @@
 /device/generic/mini-emulator-armv7-a-neon pdk
 /device/generic/mini-emulator-x86 pdk
 /device/generic/mini-emulator-x86_64 pdk
+/device/generic/opengl-transport pdk
 /device/generic/qemu pdk
 /device/generic/uml pdk device
 /device/generic/x86 pdk
@@ -385,6 +386,7 @@
 /external/v4l2_codec2 pdk
 /external/v8 pdk
 /external/vboot_reference pdk-fs vboot
+/external/virglrenderer pdk
 /external/vixl pdk
 /external/vogar pdk
 /external/volley pdk
