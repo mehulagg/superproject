@@ -7,6 +7,7 @@
 /development
 /external/arm-optimized-routines
 /external/bison
+/external/boringssl
 /external/clang
 /external/compiler-rt
 /external/dagger2
@@ -23,10 +24,12 @@
 /external/llvm
 /external/ninja
 /external/one-true-awk
+/external/pcre
 /external/protobuf
 /external/python/cpython2
 /external/python/cpython3
 /external/safe-iop
+/external/selinux
 /external/toybox
 /external/turbine
 /external/zlib

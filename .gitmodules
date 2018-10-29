@@ -34,6 +34,10 @@
 	branch = master
 	path = external/bison
 	url = ../external/bison
+[submodule "platform/external/boringssl"]
+	branch = master
+	path = external/boringssl
+	url = ../external/boringssl
 [submodule "platform/external/clang"]
 	branch = master
 	path = external/clang
@@ -99,6 +103,10 @@
 	branch = master
 	path = external/one-true-awk
 	url = ../external/one-true-awk
+[submodule "platform/external/pcre"]
+	branch = master
+	path = external/pcre
+	url = ../external/pcre
 [submodule "platform/external/protobuf"]
 	branch = master
 	path = external/protobuf
@@ -115,6 +123,10 @@
 	branch = master
 	path = external/safe-iop
 	url = ../external/safe-iop
+[submodule "platform/external/selinux"]
+	branch = master
+	path = external/selinux
+	url = ../external/selinux
 [submodule "platform/external/toybox"]
 	branch = master
 	path = external/toybox
