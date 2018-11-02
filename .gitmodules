@@ -1,24 +1,28 @@
-[submodule "external/shaderc/glslang"]
+[submodule "platform/external/shaderc/glslang"]
 	branch = master-ndk
 	path = external/shaderc/glslang
 	url = ../external/shaderc/glslang
-[submodule "external/shaderc/shaderc"]
+[submodule "platform/external/shaderc/shaderc"]
 	branch = master-ndk
 	path = external/shaderc/shaderc
 	url = ../external/shaderc/shaderc
-[submodule "external/shaderc/spirv-headers"]
+[submodule "platform/external/shaderc/spirv-headers"]
 	branch = master-ndk
 	path = external/shaderc/spirv-headers
 	url = ../external/shaderc/spirv-headers
-[submodule "external/shaderc/spirv-tools"]
+[submodule "platform/external/shaderc/spirv-tools"]
 	branch = master-ndk
 	path = external/shaderc/spirv-tools
 	url = ../external/shaderc/spirv-tools
-[submodule "external/vulkan-validation-layers"]
+[submodule "platform/external/vulkan-headers"]
+	branch = master
+	path = external/vulkan-headers
+	url = ../external/vulkan-headers
+[submodule "platform/external/vulkan-validation-layers"]
 	branch = master
 	path = external/vulkan-validation-layers
 	url = ../external/vulkan-validation-layers
-[submodule "prebuilts/toolchain"]
+[submodule "toolchain/prebuilts/ndk/r15"]
 	branch = master
 	path = prebuilts/toolchain
 	url = ../../toolchain/prebuilts/ndk/r15

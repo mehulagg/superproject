@@ -1,0 +1,7 @@
+/external/shaderc/glslang presubmit
+/external/shaderc/shaderc presubmit
+/external/shaderc/spirv-headers presubmit
+/external/shaderc/spirv-tools presubmit
+/external/vulkan-headers presubmit
+/external/vulkan-validation-layers presubmit
+/prebuilts/toolchain presubmit
