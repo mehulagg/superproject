@@ -34,6 +34,7 @@
 /prebuilts/qemu-kernel
 /prebuilts/tools
 /sdk
+/tools/acloud
 /tools/buildSrc
 /tools/emulator
 /tools/external/gradle
