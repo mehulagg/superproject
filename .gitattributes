@@ -117,6 +117,7 @@
 /system/keymaster pdk
 /system/netd pdk
 /system/security pdk
+/system/sepolicy pdk
 /system/timezone pdk
 /system/tools/aidl pdk
 /tools/apksig tradefed pdk
