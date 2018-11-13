@@ -1,0 +1,526 @@
+/device/asus/fugu broadcom_pdk device fugu
+/device/asus/fugu-kernel broadcom_pdk device fugu
+/device/common pdk-fs pdk-cw-fs
+/device/generic/arm64 pdk
+/device/generic/armv7-a-neon pdk
+/device/generic/common pdk
+/device/generic/goldfish pdk
+/device/generic/mini-emulator-arm64 pdk
+/device/generic/mini-emulator-armv7-a-neon pdk
+/device/generic/mini-emulator-mips pdk
+/device/generic/mini-emulator-mips64 pdk
+/device/generic/mini-emulator-x86 pdk
+/device/generic/mini-emulator-x86_64 pdk
+/device/generic/mips pdk
+/device/generic/mips64 pdk
+/device/generic/qemu
+/device/generic/x86 pdk
+/device/generic/x86_64 pdk
+/device/google/accessory/arduino device
+/device/google/accessory/demokit device
+/device/google/atv broadcom_pdk generic_fs device fugu
+/device/google/contexthub device
+/device/google/dragon dragon device
+/device/google/dragon-kernel dragon device
+/device/google/marlin device marlin
+/device/google/marlin-kernel device marlin
+/device/htc/flounder broadcom_pdk flounder device
+/device/htc/flounder-kernel broadcom_pdk flounder device
+/device/huawei/angler broadcom_pdk angler device
+/device/huawei/angler-kernel broadcom_pdk angler device
+/device/intel/edison device
+/device/lge/bullhead bullhead device
+/device/lge/bullhead-kernel bullhead device
+/device/linaro/hikey
+/device/linaro/hikey-kernel
+/device/moto/shamu shamu broadcom_pdk device
+/device/moto/shamu-kernel shamu broadcom_pdk device
+/device/sample pdk
+/abi/cpp pdk
+/art pdk
+/bionic pdk
+/bootable/recovery pdk
+/build tradefed pdk
+/cts pdk-fs cts pdk-cw-fs
+/dalvik pdk-fs pdk-cw-fs
+/developers/build
+/developers/demos
+/developers/samples/android
+/development pdk-fs pdk-cw-fs
+/docs/source.android.com pdk-fs pdk-cw-fs
+/external/ImageMagick pdk
+/external/aac pdk
+/external/adt-infra notdefault adt-infra
+/external/android-clat pdk-fs pdk-cw-fs
+/external/androidplot pdk-fs pdk-cw-fs
+/external/ant-glob pdk-fs pdk-cw-fs
+/external/antlr pdk-fs pdk-cw-fs
+/external/apache-commons-math pdk-fs pdk-cw-fs
+/external/apache-harmony pdk-fs pdk-cw-fs
+/external/apache-http pdk
+/external/apache-xml pdk
+/external/archive-patcher pdk
+/external/autotest
+/external/avahi
+/external/bison pdk
+/external/blktrace pdk-fs pdk-cw-fs
+/external/boringssl pdk
+/external/bouncycastle pdk
+/external/bsdiff pdk
+/external/bzip2 pdk
+/external/c-ares
+/external/caliper
+/external/cblas pdk
+/external/ceres-solver pdk-fs pdk-cw-fs
+/external/chromium-libpac pdk-fs
+/external/chromium-trace pdk
+/external/chromium-webview pdk
+/external/clang pdk
+/external/cmockery pdk-fs
+/external/compiler-rt pdk
+/external/conscrypt pdk-fs pdk-cw-fs
+/external/crcalc pdk-fs
+/external/cros/system_api
+/external/curl
+/external/dagger2
+/external/dbus
+/external/dbus-binding-generator
+/external/deqp pdk-fs
+/external/dexmaker pdk-fs pdk-cw-fs
+/external/dhcpcd-6.8.2
+/external/dlmalloc
+/external/dng_sdk
+/external/dnsmasq pdk
+/external/doclava pdk-fs pdk-cw-fs
+/external/donuts pdk-fs
+/external/drm_gralloc drm_gralloc
+/external/drm_hwcomposer drm_hwcomposer
+/external/droiddriver pdk-fs pdk-cw-fs
+/external/e2fsprogs pdk
+/external/easymock pdk-fs pdk-cw-fs
+/external/eclipse-basebuilder pdk-fs pdk-cw-fs
+/external/eclipse-windowbuilder pdk-fs pdk-cw-fs
+/external/eigen pdk
+/external/elfutils pdk
+/external/emma pdk-fs pdk-cw-fs
+/external/esd pdk-fs pdk-cw-fs
+/external/expat pdk
+/external/eyes-free pdk-fs pdk-cw-fs
+/external/f2fs-tools pdk
+/external/fdlibm pdk
+/external/fec
+/external/fio pdk-fs
+/external/flac pdk
+/external/fonttools pdk-fs
+/external/freetype pdk
+/external/fsck_msdos pdk-fs pdk-cw-fs
+/external/gemmlowp
+/external/giflib pdk qcom_msm8x26
+/external/glide pdk-fs
+/external/gmock pdk
+/external/google-benchmark pdk
+/external/google-breakpad dragon
+/external/google-fonts/carrois-gothic-sc pdk-fs pdk-cw-fs
+/external/google-fonts/coming-soon pdk-fs pdk-cw-fs
+/external/google-fonts/cutive-mono pdk-fs pdk-cw-fs
+/external/google-fonts/dancing-script pdk-fs pdk-cw-fs
+/external/google-tv-pairing-protocol pdk-fs
+/external/gptfdisk pdk-fs
+/external/gtest pdk
+/external/guava pdk-fs pdk-cw-fs
+/external/guice pdk
+/external/hamcrest pdk-fs pdk-cw-fs
+/external/harfbuzz_ng pdk qcom_msm8x26
+/external/hyphenation-patterns pdk-fs
+/external/icu pdk
+/external/ims pdk
+/external/iproute2 pdk
+/external/ipsec-tools pdk-fs pdk-cw-fs
+/external/iptables pdk-fs pdk-cw-fs
+/external/iputils pdk-fs pdk-cw-fs
+/external/iw
+/external/jacoco
+/external/jarjar pdk
+/external/javasqlite pdk-fs pdk-cw-fs
+/external/javassist pdk-fs pdk-cw-fs
+/external/jcommander pdk
+/external/jdiff pdk-fs pdk-cw-fs
+/external/jemalloc pdk
+/external/jetty pdk-fs
+/external/jhead pdk
+/external/jline tradefed notdefault
+/external/jmdns pdk-fs pdk-cw-fs
+/external/jsilver pdk-fs pdk-cw-fs
+/external/jsmn pdk
+/external/jsoncpp pdk-fs pdk-cw-fs
+/external/jsr305 pdk-fs pdk-cw-fs
+/external/jsr330 pdk
+/external/junit pdk-fs pdk-cw-fs
+/external/kernel-headers pdk-fs pdk-cw-fs
+/external/ksoap2 pdk-fs pdk-cw-fs
+/external/libavc pdk
+/external/libbrillo
+/external/libcap
+/external/libcap-ng pdk-fs pdk-cw-fs
+/external/libchrome
+/external/libcxx pdk
+/external/libcxxabi pdk
+/external/libdaemon
+/external/libdivsufsort pdk
+/external/libdrm pdk
+/external/libedit pdk-fs
+/external/libevent
+/external/libexif pdk-fs pdk-cw-fs
+/external/libgdx pdk
+/external/libgsm pdk
+/external/libhevc pdk-fs
+/external/libjpeg-turbo pdk
+/external/liblzf pdk
+/external/libmicrohttpd
+/external/libmpeg2 pdk
+/external/libmtp pdk-fs pdk-cw-fs
+/external/libnfc-nci pdk
+/external/libnfc-nxp pdk
+/external/libnl pdk
+/external/libogg pdk
+/external/libopus pdk
+/external/libpcap pdk-fs pdk-cw-fs pdk
+/external/libphonenumber pdk-fs pdk-cw-fs
+/external/libpng pdk
+/external/libselinux pdk
+/external/libunwind pdk
+/external/libunwind_llvm
+/external/libusb pdk-fs pdk-cw-fs
+/external/libusb-compat pdk-fs pdk-cw-fs
+/external/libutf pdk-fs pdk-cw-fs
+/external/libvncserver pdk-fs pdk-cw-fs
+/external/libvorbis pdk-fs pdk-cw-fs
+/external/libvpx pdk
+/external/libvterm pdk-fs pdk-cw-fs
+/external/libweave
+/external/libxml2 pdk-fs pdk-cw-fs libxml2
+/external/libyuv pdk-fs libyuv pdk-cw-fs
+/external/littlemock pdk-fs pdk-cw-fs
+/external/lld pdk-fs
+/external/llvm pdk
+/external/ltrace pdk-fs pdk-cw-fs
+/external/lz4 pdk-fs pdk-cw-fs
+/external/lzma pdk
+/external/markdown pdk-fs pdk-cw-fs
+/external/mdnsresponder pdk
+/external/mesa3d pdk-fs pdk-cw-fs
+/external/messageformat pdk-fs pdk-cw-fs
+/external/minijail
+/external/mksh pdk
+/external/mmc-utils pdk-fs pdk-cw-fs
+/external/mockftpserver pdk-fs
+/external/mockito pdk-fs pdk-cw-fs
+/external/mockwebserver pdk-fs pdk-cw-fs
+/external/modp_b64
+/external/mp4parser pdk-fs pdk-cw-fs
+/external/mtpd pdk-fs pdk-cw-fs
+/external/nanohttpd pdk-fs
+/external/nanopb-c pdk
+/external/naver-fonts pdk-fs pdk-cw-fs
+/external/netcat pdk-fs pdk-cw-fs
+/external/netperf pdk-fs pdk-cw-fs
+/external/neven pdk-fs pdk-cw-fs
+/external/nfacct pdk-fs pdk-cw-fs
+/external/nist-pkits pdk-fs pdk-cw-fs
+/external/nist-sip pdk-fs pdk-cw-fs
+/external/noto-fonts pdk
+/external/oauth pdk-fs pdk-cw-fs
+/external/objenesis pdk-fs pdk-cw-fs
+/external/okhttp pdk-fs pdk-cw-fs
+/external/opencv pdk-fs pdk-cw-fs
+/external/opencv3
+/external/owasp/sanitizer pdk-fs
+/external/parameter-framework pdk-fs
+/external/pcre pdk
+/external/pdfium pdk
+/external/piex
+/external/ppp pdk-fs pdk-cw-fs
+/external/proguard pdk
+/external/protobuf pdk
+/external/regex-re2 pdk-fs pdk-cw-fs
+/external/replicaisland pdk-fs pdk-cw-fs
+/external/rmi4utils
+/external/robolectric pdk-fs pdk-cw-fs
+/external/roboto-fonts pdk-fs pdk-cw-fs
+/external/rootdev
+/external/safe-iop pdk
+/external/scrypt pdk
+/external/selinux pdk
+/external/sfntly pdk qcom_msm8x26
+/external/shflags pdk
+/external/skia pdk qcom_msm8x26
+/external/sl4a
+/external/slf4j pdk-fs
+/external/smali pdk-fs pdk-cw-fs
+/external/snakeyaml pdk
+/external/sonic pdk
+/external/sonivox pdk
+/external/speex pdk
+/external/sqlite pdk
+/external/squashfs-tools pdk
+/external/srtp pdk-fs pdk-cw-fs
+/external/strace pdk-fs pdk-cw-fs
+/external/svox pdk-fs pdk-cw-fs
+/external/tagsoup pdk-fs pdk-cw-fs
+/external/tcpdump pdk-fs pdk-cw-fs pdk
+/external/testng pdk
+/external/timezonepicker-support pdk-fs pdk-cw-fs
+/external/tinyalsa pdk
+/external/tinycompress pdk
+/external/tinyxml pdk
+/external/tinyxml2 pdk
+/external/tlsdate
+/external/toybox pdk
+/external/tpm2
+/external/tremolo pdk
+/external/unicode pdk
+/external/universal-tween-engine
+/external/v8 pdk
+/external/valgrind pdk
+/external/vboot_reference vboot
+/external/vixl pdk
+/external/vogar pdk
+/external/vulkan-validation-layers
+/external/webp pdk qcom_msm8x26
+/external/webrtc pdk
+/external/wpa_supplicant_8 pdk
+/external/xmlrpcpp pdk
+/external/xmlwriter pdk-fs pdk-cw-fs
+/external/xmp_toolkit pdk-fs pdk-cw-fs
+/external/zlib pdk
+/external/zopfli pdk-fs pdk-cw-fs
+/external/zxing pdk-fs pdk-cw-fs
+/frameworks/av pdk
+/frameworks/base pdk-fs pdk-cw-fs
+/frameworks/compile/libbcc pdk
+/frameworks/compile/mclinker pdk
+/frameworks/compile/slang pdk
+/frameworks/data-binding pdk-fs pdk-cw-fs
+/frameworks/ex pdk-fs pdk-cw-fs
+/frameworks/minikin pdk-fs pdk-cw-fs
+/frameworks/ml pdk-fs pdk-cw-fs
+/frameworks/multidex pdk-fs pdk-cw-fs
+/frameworks/native pdk
+/frameworks/opt/bitmap pdk-fs
+/frameworks/opt/bluetooth pdk-fs pdk-cw-fs
+/frameworks/opt/calendar pdk-fs pdk-cw-fs
+/frameworks/opt/chips pdk-fs pdk-cw-fs
+/frameworks/opt/colorpicker pdk-fs pdk-cw-fs
+/frameworks/opt/datetimepicker pdk-fs pdk-cw-fs
+/frameworks/opt/emoji pdk-fs pdk-cw-fs
+/frameworks/opt/inputconnectioncommon pdk-fs
+/frameworks/opt/inputmethodcommon pdk-fs pdk-cw-fs
+/frameworks/opt/net/ethernet pdk-fs
+/frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims
+/frameworks/opt/net/voip pdk-fs pdk-cw-fs
+/frameworks/opt/net/wifi pdk
+/frameworks/opt/photoviewer pdk-fs pdk-cw-fs
+/frameworks/opt/setupwizard pdk-fs pdk-cw-fs
+/frameworks/opt/telephony pdk
+/frameworks/opt/timezonepicker pdk-fs pdk-cw-fs
+/frameworks/opt/vcard pdk-fs pdk-cw-fs
+/frameworks/rs pdk
+/frameworks/support pdk-fs pdk-cw-fs
+/frameworks/volley pdk-fs pdk-cw-fs
+/frameworks/webview pdk-fs pdk-cw-fs
+/frameworks/wilhelm pdk-fs pdk-cw-fs
+/hardware/akm
+/hardware/broadcom/libbt pdk
+/hardware/broadcom/wlan broadcom_wlan pdk
+/hardware/bsp/intel
+/hardware/google/apf pdk
+/hardware/intel/audio_media intel
+/hardware/intel/bootstub intel
+/hardware/intel/common/bd_prov intel
+/hardware/intel/common/libmix intel
+/hardware/intel/common/libstagefrighthw intel
+/hardware/intel/common/libva intel
+/hardware/intel/common/libwsbm intel
+/hardware/intel/common/omx-components intel
+/hardware/intel/common/utils intel
+/hardware/intel/common/wrs_omxil_core intel
+/hardware/intel/img/hwcomposer intel
+/hardware/intel/img/psb_headers intel
+/hardware/intel/img/psb_video intel
+/hardware/intel/sensors intel_sensors
+/hardware/invensense invensense
+/hardware/libhardware pdk
+/hardware/libhardware_legacy pdk
+/hardware/marvell/bt marvell_bt
+/hardware/qcom/audio qcom_audio qcom
+/hardware/qcom/bootctrl pdk
+/hardware/qcom/bt qcom
+/hardware/qcom/camera qcom
+/hardware/qcom/display qcom pdk qcom_display
+/hardware/qcom/gps qcom qcom_gps
+/hardware/qcom/keymaster qcom qcom_keymaster
+/hardware/qcom/media qcom
+/hardware/qcom/msm8960 qcom_msm8960
+/hardware/qcom/msm8994 qcom_msm8994
+/hardware/qcom/msm8996 qcom_msm8996
+/hardware/qcom/msm8x26 qcom_msm8x26
+/hardware/qcom/msm8x27 qcom_msm8x27
+/hardware/qcom/msm8x84 qcom_msm8x84
+/hardware/qcom/power qcom
+/hardware/qcom/wlan qcom_wlan
+/hardware/ril pdk
+/hardware/ti/omap3 omap3
+/hardware/ti/omap4-aah omap4-aah
+/hardware/ti/omap4xxx omap4
+/libcore pdk
+/libnativehelper pdk
+/ndk generic_fs
+/packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
+/packages/apps/Bluetooth pdk-fs pdk-cw-fs
+/packages/apps/Browser2
+/packages/apps/Calculator pdk-fs
+/packages/apps/Calendar pdk-fs
+/packages/apps/Camera2 pdk-fs
+/packages/apps/CarrierConfig pdk-fs
+/packages/apps/CellBroadcastReceiver pdk-fs
+/packages/apps/CertInstaller pdk-fs pdk-cw-fs
+/packages/apps/Contacts pdk-fs
+/packages/apps/ContactsCommon pdk-fs
+/packages/apps/DeskClock pdk-fs
+/packages/apps/DevCamera pdk
+/packages/apps/Dialer pdk-fs
+/packages/apps/Email pdk-fs
+/packages/apps/EmergencyInfo
+/packages/apps/ExactCalculator pdk-fs
+/packages/apps/Gallery pdk-fs
+/packages/apps/Gallery2 pdk-fs
+/packages/apps/HTMLViewer pdk-fs
+/packages/apps/KeyChain pdk-fs
+/packages/apps/Launcher2 pdk-fs
+/packages/apps/Launcher3 pdk-fs
+/packages/apps/LegacyCamera pdk-fs
+/packages/apps/ManagedProvisioning pdk-fs
+/packages/apps/Messaging pdk-fs
+/packages/apps/Music pdk-fs
+/packages/apps/MusicFX pdk-fs
+/packages/apps/Nfc apps_nfc pdk-fs
+/packages/apps/OneTimeInitializer pdk-fs
+/packages/apps/PackageInstaller pdk-fs
+/packages/apps/Phone pdk-fs
+/packages/apps/PhoneCommon pdk-fs pdk-cw-fs
+/packages/apps/Protips pdk-fs
+/packages/apps/Provision pdk-fs
+/packages/apps/QuickSearchBox pdk-fs
+/packages/apps/SafetyRegulatoryInfo
+/packages/apps/Settings pdk-fs
+/packages/apps/SoundRecorder pdk-fs
+/packages/apps/SpareParts pdk-fs
+/packages/apps/SpeechRecorder pdk-fs
+/packages/apps/Stk apps_stk pdk-fs
+/packages/apps/StorageManager
+/packages/apps/TV
+/packages/apps/Tag pdk-fs
+/packages/apps/Terminal pdk-fs
+/packages/apps/Test/connectivity
+/packages/apps/TvSettings generic_fs
+/packages/apps/UnifiedEmail pdk-fs
+/packages/experimental
+/packages/inputmethods/LatinIME pdk-fs
+/packages/inputmethods/OpenWnn pdk-fs
+/packages/providers/ApplicationsProvider pdk-fs
+/packages/providers/BlockedNumberProvider pdk-fs
+/packages/providers/BookmarkProvider pdk-fs
+/packages/providers/CalendarProvider pdk-fs pdk-cw-fs
+/packages/providers/CallLogProvider pdk-fs
+/packages/providers/ContactsProvider pdk-fs pdk-cw-fs
+/packages/providers/DownloadProvider pdk-fs pdk-cw-fs
+/packages/providers/MediaProvider pdk-fs pdk-cw-fs
+/packages/providers/PartnerBookmarksProvider pdk-fs
+/packages/providers/TelephonyProvider pdk-fs pdk-cw-fs
+/packages/providers/TvProvider pdk-fs
+/packages/providers/UserDictionaryProvider pdk-fs pdk-cw-fs
+/packages/screensavers/Basic pdk-fs
+/packages/screensavers/PhotoTable pdk-fs
+/packages/screensavers/WebView pdk-fs
+/packages/services/Car pdk-fs pdk-cw-fs adp8064
+/packages/services/Mms pdk-fs pdk-cw-fs
+/packages/services/Telecomm pdk-fs pdk-cw-fs
+/packages/services/Telephony pdk-fs pdk-cw-fs
+/packages/wallpapers/LivePicker pdk-fs
+/pdk pdk
+/platform_testing
+/prebuilts/android-emulator pdk-fs
+/prebuilts/clang/darwin-x86/host/3.6 pdk darwin
+/prebuilts/clang/host/darwin-x86 pdk darwin
+/prebuilts/clang/host/linux-x86 pdk
+/prebuilts/clang/linux-x86/host/3.6 pdk linux
+/prebuilts/deqp pdk-fs
+/prebuilts/devtools pdk-fs
+/prebuilts/eclipse pdk
+/prebuilts/eclipse-build-deps notdefault eclipse
+/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
+/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8 pdk darwin arm
+/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin
+/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9 pdk darwin mips
+/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9 pdk darwin x86
+/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
+/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8 pdk linux arm
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8 pdk linux
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 pdk linux
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 pdk-fs
+/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9 pdk linux mips
+/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
+/prebuilts/gdb/darwin-x86 darwin
+/prebuilts/gdb/linux-x86 linux
+/prebuilts/go/darwin-x86 tradefed darwin
+/prebuilts/go/linux-x86 tradefed linux
+/prebuilts/gradle-plugin pdk-fs pdk-cw-fs
+/prebuilts/libs/libedit pdk-fs pdk-cw-fs
+/prebuilts/maven_repo/android pdk-fs pdk-cw-fs
+/prebuilts/misc pdk
+/prebuilts/ndk pdk
+/prebuilts/ninja/darwin-x86 tradefed darwin pdk
+/prebuilts/ninja/linux-x86 tradefed pdk linux
+/prebuilts/python/darwin-x86/2.7.5 pdk-fs pdk-cw-fs darwin pdk
+/prebuilts/python/linux-x86/2.7.5 pdk-fs pdk-cw-fs pdk linux
+/prebuilts/qemu-kernel pdk
+/prebuilts/sdk pdk
+/prebuilts/tools pdk tools
+/sdk pdk-fs pdk-cw-fs
+/system/bt pdk
+/system/ca-certificates pdk
+/system/connectivity/apmanager
+/system/connectivity/dhcp_client
+/system/connectivity/shill
+/system/core pdk
+/system/extras pdk
+/system/firewalld
+/system/gatekeeper pdk
+/system/keymaster pdk
+/system/media pdk
+/system/nativepower
+/system/netd pdk
+/system/nvram
+/system/security pdk
+/system/sepolicy pdk
+/system/tools/aidl pdk-fs pdk-cw-fs
+/system/tpm
+/system/update_engine
+/system/vold pdk
+/system/weaved
+/system/webservd
+/tools/adt/idea notdefault tools
+/tools/base notdefault tools
+/tools/build notdefault tools
+/tools/external/fat32lib tools
+/tools/external/gradle tools
+/tools/idea notdefault tools
+/tools/loganalysis tradefed notdefault
+/tools/motodev notdefault motodev
+/tools/studio/cloud notdefault tools
+/tools/swt notdefault tools
+/tools/test/connectivity
+/tools/tradefederation tradefed notdefault
+/toolchain/binutils
