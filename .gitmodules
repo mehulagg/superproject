@@ -1,0 +1,2073 @@
+[submodule "device/asus/fugu"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/asus/fugu
+	url = ../../device/asus/fugu
+[submodule "device/asus/fugu-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = device/asus/fugu-kernel
+	url = ../../device/asus/fugu-kernel
+[submodule "device/common"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/common
+	url = ../../device/common
+[submodule "device/generic/arm64"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/arm64
+	url = ../../device/generic/arm64
+[submodule "device/generic/armv7-a-neon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/armv7-a-neon
+	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/common"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/common
+	url = ../../device/generic/common
+[submodule "device/generic/goldfish"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/goldfish
+	url = ../../device/generic/goldfish
+[submodule "device/generic/mini-emulator-arm64"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mini-emulator-arm64
+	url = ../../device/generic/mini-emulator-arm64
+[submodule "device/generic/mini-emulator-armv7-a-neon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mini-emulator-armv7-a-neon
+	url = ../../device/generic/mini-emulator-armv7-a-neon
+[submodule "device/generic/mini-emulator-mips"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mini-emulator-mips
+	url = ../../device/generic/mini-emulator-mips
+[submodule "device/generic/mini-emulator-mips64"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mini-emulator-mips64
+	url = ../../device/generic/mini-emulator-mips64
+[submodule "device/generic/mini-emulator-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mini-emulator-x86
+	url = ../../device/generic/mini-emulator-x86
+[submodule "device/generic/mini-emulator-x86_64"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mini-emulator-x86_64
+	url = ../../device/generic/mini-emulator-x86_64
+[submodule "device/generic/mips"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mips
+	url = ../../device/generic/mips
+[submodule "device/generic/mips64"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/mips64
+	url = ../../device/generic/mips64
+[submodule "device/generic/qemu"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/qemu
+	url = ../../device/generic/qemu
+[submodule "device/generic/x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/x86
+	url = ../../device/generic/x86
+[submodule "device/generic/x86_64"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/generic/x86_64
+	url = ../../device/generic/x86_64
+[submodule "device/google/accessory/arduino"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/google/accessory/arduino
+	url = ../../device/google/accessory/arduino
+[submodule "device/google/accessory/demokit"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/google/accessory/demokit
+	url = ../../device/google/accessory/demokit
+[submodule "device/google/atv"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/google/atv
+	url = ../../device/google/atv
+[submodule "device/google/contexthub"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/google/contexthub
+	url = ../../device/google/contexthub
+[submodule "device/google/dragon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/google/dragon
+	url = ../../device/google/dragon
+[submodule "device/google/dragon-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = device/google/dragon-kernel
+	url = ../../device/google/dragon-kernel
+[submodule "device/htc/flounder"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/htc/flounder
+	url = ../../device/htc/flounder
+[submodule "device/htc/flounder-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = device/htc/flounder-kernel
+	url = ../../device/htc/flounder-kernel
+[submodule "device/huawei/angler"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/huawei/angler
+	url = ../../device/huawei/angler
+[submodule "device/huawei/angler-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = device/huawei/angler-kernel
+	url = ../../device/huawei/angler-kernel
+[submodule "device/intel/edison"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/intel/edison
+	url = ../../device/intel/edison
+[submodule "device/lge/bullhead"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/lge/bullhead
+	url = ../../device/lge/bullhead
+[submodule "device/lge/bullhead-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = device/lge/bullhead-kernel
+	url = ../../device/lge/bullhead-kernel
+[submodule "device/linaro/hikey"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/linaro/hikey
+	url = ../../device/linaro/hikey
+[submodule "device/linaro/hikey-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = device/linaro/hikey-kernel
+	url = ../../device/linaro/hikey-kernel
+[submodule "device/moto/shamu"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/moto/shamu
+	url = ../../device/moto/shamu
+[submodule "device/moto/shamu-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = device/moto/shamu-kernel
+	url = ../../device/moto/shamu-kernel
+[submodule "device/sample"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = device/sample
+	url = ../../device/sample
+[submodule "platform/abi/cpp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = abi/cpp
+	url = ../abi/cpp
+[submodule "platform/art"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = art
+	url = ../art
+[submodule "platform/bionic"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = bionic
+	url = ../bionic
+[submodule "platform/bootable/recovery"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = bootable/recovery
+	url = ../bootable/recovery
+[submodule "platform/build"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = build
+	url = ../build
+[submodule "platform/cts"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = cts
+	url = ../cts
+[submodule "platform/dalvik"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = dalvik
+	url = ../dalvik
+[submodule "platform/developers/build"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = developers/build
+	url = ../developers/build
+[submodule "platform/developers/demos"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = developers/demos
+	url = ../developers/demos
+[submodule "platform/developers/samples/android"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = developers/samples/android
+	url = ../developers/samples/android
+[submodule "platform/development"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = development
+	url = ../development
+[submodule "platform/docs/source.android.com"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = docs/source.android.com
+	url = ../docs/source.android.com
+[submodule "platform/external/aac"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/aac
+	url = ../external/aac
+[submodule "platform/external/adt-infra"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/adt-infra
+	url = ../external/adt-infra
+[submodule "platform/external/android-clat"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/android-clat
+	url = ../external/android-clat
+[submodule "platform/external/androidplot"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/androidplot
+	url = ../external/androidplot
+[submodule "platform/external/ant-glob"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/antlr"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/antlr
+	url = ../external/antlr
+[submodule "platform/external/apache-commons-math"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/apache-commons-math
+	url = ../external/apache-commons-math
+[submodule "platform/external/apache-harmony"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "platform/external/apache-http"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "platform/external/apache-xml"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "platform/external/archive-patcher"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/archive-patcher
+	url = ../external/archive-patcher
+[submodule "platform/external/autotest"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/autotest
+	url = ../external/autotest
+[submodule "platform/external/avahi"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/avahi
+	url = ../external/avahi
+[submodule "platform/external/bison"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/bison
+	url = ../external/bison
+[submodule "platform/external/blktrace"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "platform/external/boringssl"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "platform/external/bouncycastle"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "platform/external/bsdiff"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/bsdiff
+	url = ../external/bsdiff
+[submodule "platform/external/bzip2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/bzip2
+	url = ../external/bzip2
+[submodule "platform/external/c-ares"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/c-ares
+	url = ../external/c-ares
+[submodule "platform/external/caliper"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/caliper
+	url = ../external/caliper
+[submodule "platform/external/cblas"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/cblas
+	url = ../external/cblas
+[submodule "platform/external/ceres-solver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/ceres-solver
+	url = ../external/ceres-solver
+[submodule "platform/external/chromium-libpac"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "platform/external/chromium-trace"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/chromium-trace
+	url = ../external/chromium-trace
+[submodule "platform/external/chromium-webview"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/chromium-webview
+	url = ../external/chromium-webview
+[submodule "platform/external/clang"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/clang
+	url = ../external/clang
+[submodule "platform/external/cmockery"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/cmockery
+	url = ../external/cmockery
+[submodule "platform/external/compiler-rt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "platform/external/conscrypt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "platform/external/crcalc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/crcalc
+	url = ../external/crcalc
+[submodule "platform/external/cros/system_api"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/cros/system_api
+	url = ../external/cros/system_api
+[submodule "platform/external/curl"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/curl
+	url = ../external/curl
+[submodule "platform/external/dagger2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dagger2
+	url = ../external/dagger2
+[submodule "platform/external/dbus"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dbus
+	url = ../external/dbus
+[submodule "platform/external/dbus-binding-generator"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dbus-binding-generator
+	url = ../external/dbus-binding-generator
+[submodule "platform/external/deqp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/deqp
+	url = ../external/deqp
+[submodule "platform/external/dexmaker"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/external/dhcpcd-6.8.2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dhcpcd-6.8.2
+	url = ../external/dhcpcd-6.8.2
+[submodule "platform/external/dlmalloc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dlmalloc
+	url = ../external/dlmalloc
+[submodule "platform/external/dng_sdk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dng_sdk
+	url = ../external/dng_sdk
+[submodule "platform/external/dnsmasq"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "platform/external/doclava"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/donuts"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/donuts
+	url = ../external/donuts
+[submodule "platform/external/drm_gralloc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/drm_gralloc
+	url = ../external/drm_gralloc
+[submodule "platform/external/drm_hwcomposer"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/drm_hwcomposer
+	url = ../external/drm_hwcomposer
+[submodule "platform/external/droiddriver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/droiddriver
+	url = ../external/droiddriver
+[submodule "platform/external/e2fsprogs"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "platform/external/easymock"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/easymock
+	url = ../external/easymock
+[submodule "platform/external/eclipse-basebuilder"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/eclipse-basebuilder
+	url = ../external/eclipse-basebuilder
+[submodule "platform/external/eclipse-windowbuilder"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/eclipse-windowbuilder
+	url = ../external/eclipse-windowbuilder
+[submodule "platform/external/eigen"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/eigen
+	url = ../external/eigen
+[submodule "platform/external/elfutils"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "platform/external/emma"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/esd"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/esd
+	url = ../external/esd
+[submodule "platform/external/expat"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/expat
+	url = ../external/expat
+[submodule "platform/external/eyes-free"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/eyes-free
+	url = ../external/eyes-free
+[submodule "platform/external/f2fs-tools"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "platform/external/fdlibm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "platform/external/fec"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/fec
+	url = ../external/fec
+[submodule "platform/external/fio"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/fio
+	url = ../external/fio
+[submodule "platform/external/flac"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/flac
+	url = ../external/flac
+[submodule "platform/external/fonttools"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/fonttools
+	url = ../external/fonttools
+[submodule "platform/external/freetype"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/freetype
+	url = ../external/freetype
+[submodule "platform/external/fsck_msdos"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/fsck_msdos
+	url = ../external/fsck_msdos
+[submodule "platform/external/gemmlowp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/gemmlowp
+	url = ../external/gemmlowp
+[submodule "platform/external/giflib"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/giflib
+	url = ../external/giflib
+[submodule "platform/external/glide"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/glide
+	url = ../external/glide
+[submodule "platform/external/gmock"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/gmock
+	url = ../external/gmock
+[submodule "platform/external/google-benchmark"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/google-benchmark
+	url = ../external/google-benchmark
+[submodule "platform/external/google-breakpad"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/google-breakpad
+	url = ../external/google-breakpad
+[submodule "platform/external/google-fonts/carrois-gothic-sc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/google-fonts/carrois-gothic-sc
+	url = ../external/google-fonts/carrois-gothic-sc
+[submodule "platform/external/google-fonts/coming-soon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/google-fonts/coming-soon
+	url = ../external/google-fonts/coming-soon
+[submodule "platform/external/google-fonts/cutive-mono"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/google-fonts/cutive-mono
+	url = ../external/google-fonts/cutive-mono
+[submodule "platform/external/google-fonts/dancing-script"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/google-fonts/dancing-script
+	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-tv-pairing-protocol"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/google-tv-pairing-protocol
+	url = ../external/google-tv-pairing-protocol
+[submodule "platform/external/gptfdisk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/gptfdisk
+	url = ../external/gptfdisk
+[submodule "platform/external/gtest"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/gtest
+	url = ../external/gtest
+[submodule "platform/external/guava"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/guice"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/guice
+	url = ../external/guice
+[submodule "platform/external/hamcrest"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/harfbuzz_ng"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/harfbuzz_ng
+	url = ../external/harfbuzz_ng
+[submodule "platform/external/hyphenation-patterns"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/hyphenation-patterns
+	url = ../external/hyphenation-patterns
+[submodule "platform/external/icu"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/icu
+	url = ../external/icu
+[submodule "platform/external/iproute2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "platform/external/ipsec-tools"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/ipsec-tools
+	url = ../external/ipsec-tools
+[submodule "platform/external/iptables"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/iptables
+	url = ../external/iptables
+[submodule "platform/external/iputils"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/iputils
+	url = ../external/iputils
+[submodule "platform/external/iw"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/iw
+	url = ../external/iw
+[submodule "platform/external/jacoco"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jacoco
+	url = ../external/jacoco
+[submodule "platform/external/jarjar"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/javasqlite"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "platform/external/javassist"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/javassist
+	url = ../external/javassist
+[submodule "platform/external/jcommander"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jcommander
+	url = ../external/jcommander
+[submodule "platform/external/jdiff"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "platform/external/jemalloc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "platform/external/jetty"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jetty
+	url = ../external/jetty
+[submodule "platform/external/jhead"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jhead
+	url = ../external/jhead
+[submodule "platform/external/jline"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jline
+	url = ../external/jline
+[submodule "platform/external/jmdns"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jmdns
+	url = ../external/jmdns
+[submodule "platform/external/jsilver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "platform/external/jsmn"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jsmn
+	url = ../external/jsmn
+[submodule "platform/external/jsoncpp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jsoncpp
+	url = ../external/jsoncpp
+[submodule "platform/external/jsr305"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/jsr330"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/jsr330
+	url = ../external/jsr330
+[submodule "platform/external/junit"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/kernel-headers"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "platform/external/ksoap2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/ksoap2
+	url = ../external/ksoap2
+[submodule "platform/external/libavc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libavc
+	url = ../external/libavc
+[submodule "platform/external/libbrillo"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libbrillo
+	url = ../external/libbrillo
+[submodule "platform/external/libcap"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libcap
+	url = ../external/libcap
+[submodule "platform/external/libcap-ng"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "platform/external/libchrome"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libchrome
+	url = ../external/libchrome
+[submodule "platform/external/libcxx"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "platform/external/libcxxabi"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "platform/external/libdaemon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libdaemon
+	url = ../external/libdaemon
+[submodule "platform/external/libdivsufsort"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libdivsufsort
+	url = ../external/libdivsufsort
+[submodule "platform/external/libdrm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libdrm
+	url = ../external/libdrm
+[submodule "platform/external/libedit"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libedit
+	url = ../external/libedit
+[submodule "platform/external/libevent"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libevent
+	url = ../external/libevent
+[submodule "platform/external/libexif"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libexif
+	url = ../external/libexif
+[submodule "platform/external/libgsm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libgsm
+	url = ../external/libgsm
+[submodule "platform/external/libhevc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libhevc
+	url = ../external/libhevc
+[submodule "platform/external/libjpeg-turbo"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libjpeg-turbo
+	url = ../external/libjpeg-turbo
+[submodule "platform/external/liblzf"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/liblzf
+	url = ../external/liblzf
+[submodule "platform/external/libmicrohttpd"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libmicrohttpd
+	url = ../external/libmicrohttpd
+[submodule "platform/external/libmpeg2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libmpeg2
+	url = ../external/libmpeg2
+[submodule "platform/external/libmtp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libmtp
+	url = ../external/libmtp
+[submodule "platform/external/libnfc-nci"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libnfc-nci
+	url = ../external/libnfc-nci
+[submodule "platform/external/libnfc-nxp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libnfc-nxp
+	url = ../external/libnfc-nxp
+[submodule "platform/external/libnl"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libnl
+	url = ../external/libnl
+[submodule "platform/external/libogg"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libogg
+	url = ../external/libogg
+[submodule "platform/external/libopus"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libopus
+	url = ../external/libopus
+[submodule "platform/external/libpcap"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libpcap
+	url = ../external/libpcap
+[submodule "platform/external/libphonenumber"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libphonenumber
+	url = ../external/libphonenumber
+[submodule "platform/external/libpng"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libpng
+	url = ../external/libpng
+[submodule "platform/external/libselinux"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libselinux
+	url = ../external/libselinux
+[submodule "platform/external/libunwind"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "platform/external/libunwind_llvm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "platform/external/libusb"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/external/libusb-compat"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libusb-compat
+	url = ../external/libusb-compat
+[submodule "platform/external/libutf"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libutf
+	url = ../external/libutf
+[submodule "platform/external/libvncserver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libvncserver
+	url = ../external/libvncserver
+[submodule "platform/external/libvorbis"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libvorbis
+	url = ../external/libvorbis
+[submodule "platform/external/libvpx"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "platform/external/libvterm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libvterm
+	url = ../external/libvterm
+[submodule "platform/external/libweave"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libweave
+	url = ../external/libweave
+[submodule "platform/external/libxml2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "platform/external/libyuv"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/libyuv
+	url = ../external/libyuv
+[submodule "platform/external/littlemock"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/littlemock
+	url = ../external/littlemock
+[submodule "platform/external/lld"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/lld
+	url = ../external/lld
+[submodule "platform/external/llvm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/llvm
+	url = ../external/llvm
+[submodule "platform/external/ltrace"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/ltrace
+	url = ../external/ltrace
+[submodule "platform/external/lz4"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/lzma"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/lzma
+	url = ../external/lzma
+[submodule "platform/external/markdown"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/markdown
+	url = ../external/markdown
+[submodule "platform/external/mdnsresponder"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "platform/external/mesa3d"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "platform/external/messageformat"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/messageformat
+	url = ../external/messageformat
+[submodule "platform/external/minijail"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/minijail
+	url = ../external/minijail
+[submodule "platform/external/mksh"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mksh
+	url = ../external/mksh
+[submodule "platform/external/mmc-utils"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mmc-utils
+	url = ../external/mmc-utils
+[submodule "platform/external/mockftpserver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mockftpserver
+	url = ../external/mockftpserver
+[submodule "platform/external/mockito"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/mockwebserver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "platform/external/modp_b64"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/modp_b64
+	url = ../external/modp_b64
+[submodule "platform/external/mp4parser"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mp4parser
+	url = ../external/mp4parser
+[submodule "platform/external/mtpd"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/mtpd
+	url = ../external/mtpd
+[submodule "platform/external/nanohttpd"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/nanohttpd
+	url = ../external/nanohttpd
+[submodule "platform/external/nanopb-c"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "platform/external/naver-fonts"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/naver-fonts
+	url = ../external/naver-fonts
+[submodule "platform/external/netcat"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/netcat
+	url = ../external/netcat
+[submodule "platform/external/netperf"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/netperf
+	url = ../external/netperf
+[submodule "platform/external/neven"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/neven
+	url = ../external/neven
+[submodule "platform/external/nfacct"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/nfacct
+	url = ../external/nfacct
+[submodule "platform/external/nist-pkits"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "platform/external/nist-sip"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/nist-sip
+	url = ../external/nist-sip
+[submodule "platform/external/noto-fonts"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "platform/external/oauth"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/oauth
+	url = ../external/oauth
+[submodule "platform/external/objenesis"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/okhttp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "platform/external/opencv"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/opencv
+	url = ../external/opencv
+[submodule "platform/external/opencv3"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/opencv3
+	url = ../external/opencv3
+[submodule "platform/external/owasp/sanitizer"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/owasp/sanitizer
+	url = ../external/owasp/sanitizer
+[submodule "platform/external/parameter-framework"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/parameter-framework
+	url = ../external/parameter-framework
+[submodule "platform/external/pcre"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/pcre
+	url = ../external/pcre
+[submodule "platform/external/pdfium"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/pdfium
+	url = ../external/pdfium
+[submodule "platform/external/piex"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/piex
+	url = ../external/piex
+[submodule "platform/external/ppp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/ppp
+	url = ../external/ppp
+[submodule "platform/external/proguard"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/protobuf"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/regex-re2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/regex-re2
+	url = ../external/regex-re2
+[submodule "platform/external/replicaisland"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/replicaisland
+	url = ../external/replicaisland
+[submodule "platform/external/rmi4utils"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/rmi4utils
+	url = ../external/rmi4utils
+[submodule "platform/external/robolectric"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/robolectric
+	url = ../external/robolectric
+[submodule "platform/external/roboto-fonts"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/roboto-fonts
+	url = ../external/roboto-fonts
+[submodule "platform/external/rootdev"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/rootdev
+	url = ../external/rootdev
+[submodule "platform/external/safe-iop"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/safe-iop
+	url = ../external/safe-iop
+[submodule "platform/external/scrypt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/scrypt
+	url = ../external/scrypt
+[submodule "platform/external/selinux"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/selinux
+	url = ../external/selinux
+[submodule "platform/external/sfntly"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/sfntly
+	url = ../external/sfntly
+[submodule "platform/external/shflags"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/shflags
+	url = ../external/shflags
+[submodule "platform/external/skia"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/skia
+	url = ../external/skia
+[submodule "platform/external/sl4a"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/sl4a
+	url = ../external/sl4a
+[submodule "platform/external/slf4j"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/slf4j
+	url = ../external/slf4j
+[submodule "platform/external/smali"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/smali
+	url = ../external/smali
+[submodule "platform/external/snakeyaml"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/snakeyaml
+	url = ../external/snakeyaml
+[submodule "platform/external/sonic"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/sonic
+	url = ../external/sonic
+[submodule "platform/external/sonivox"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/sonivox
+	url = ../external/sonivox
+[submodule "platform/external/speex"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/speex
+	url = ../external/speex
+[submodule "platform/external/sqlite"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "platform/external/squashfs-tools"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
+[submodule "platform/external/srtp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/srtp
+	url = ../external/srtp
+[submodule "platform/external/strace"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/strace
+	url = ../external/strace
+[submodule "platform/external/svox"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/svox
+	url = ../external/svox
+[submodule "platform/external/tagsoup"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "platform/external/tcpdump"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tcpdump
+	url = ../external/tcpdump
+[submodule "platform/external/testng"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/testng
+	url = ../external/testng
+[submodule "platform/external/timezonepicker-support"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/timezonepicker-support
+	url = ../external/timezonepicker-support
+[submodule "platform/external/tinyalsa"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tinyalsa
+	url = ../external/tinyalsa
+[submodule "platform/external/tinycompress"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "platform/external/tinyxml"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tinyxml
+	url = ../external/tinyxml
+[submodule "platform/external/tinyxml2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tinyxml2
+	url = ../external/tinyxml2
+[submodule "platform/external/tlsdate"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tlsdate
+	url = ../external/tlsdate
+[submodule "platform/external/toybox"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/toybox
+	url = ../external/toybox
+[submodule "platform/external/tpm2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tpm2
+	url = ../external/tpm2
+[submodule "platform/external/tremolo"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/tremolo
+	url = ../external/tremolo
+[submodule "platform/external/unicode"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/unicode
+	url = ../external/unicode
+[submodule "platform/external/v8"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/v8
+	url = ../external/v8
+[submodule "platform/external/valgrind"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/valgrind
+	url = ../external/valgrind
+[submodule "platform/external/vboot_reference"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/vboot_reference
+	url = ../external/vboot_reference
+[submodule "platform/external/vixl"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/vixl
+	url = ../external/vixl
+[submodule "platform/external/vogar"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/vogar
+	url = ../external/vogar
+[submodule "platform/external/vulkan-validation-layers"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/vulkan-validation-layers
+	url = ../external/vulkan-validation-layers
+[submodule "platform/external/webp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/webp
+	url = ../external/webp
+[submodule "platform/external/webrtc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "platform/external/wpa_supplicant_8"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "platform/external/xmlrpcpp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/xmlrpcpp
+	url = ../external/xmlrpcpp
+[submodule "platform/external/xmlwriter"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/xmlwriter
+	url = ../external/xmlwriter
+[submodule "platform/external/xmp_toolkit"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/xmp_toolkit
+	url = ../external/xmp_toolkit
+[submodule "platform/external/zlib"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/external/zopfli"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/zopfli
+	url = ../external/zopfli
+[submodule "platform/external/zxing"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = external/zxing
+	url = ../external/zxing
+[submodule "platform/frameworks/av"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/av
+	url = ../frameworks/av
+[submodule "platform/frameworks/base"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "platform/frameworks/compile/libbcc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/compile/libbcc
+	url = ../frameworks/compile/libbcc
+[submodule "platform/frameworks/compile/mclinker"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/compile/mclinker
+	url = ../frameworks/compile/mclinker
+[submodule "platform/frameworks/compile/slang"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/compile/slang
+	url = ../frameworks/compile/slang
+[submodule "platform/frameworks/data-binding"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/data-binding
+	url = ../frameworks/data-binding
+[submodule "platform/frameworks/ex"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "platform/frameworks/minikin"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/minikin
+	url = ../frameworks/minikin
+[submodule "platform/frameworks/ml"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/ml
+	url = ../frameworks/ml
+[submodule "platform/frameworks/multidex"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/multidex
+	url = ../frameworks/multidex
+[submodule "platform/frameworks/native"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/frameworks/opt/bitmap"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/bitmap
+	url = ../frameworks/opt/bitmap
+[submodule "platform/frameworks/opt/bluetooth"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/bluetooth
+	url = ../frameworks/opt/bluetooth
+[submodule "platform/frameworks/opt/calendar"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/calendar
+	url = ../frameworks/opt/calendar
+[submodule "platform/frameworks/opt/chips"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/chips
+	url = ../frameworks/opt/chips
+[submodule "platform/frameworks/opt/colorpicker"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/colorpicker
+	url = ../frameworks/opt/colorpicker
+[submodule "platform/frameworks/opt/datetimepicker"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/datetimepicker
+	url = ../frameworks/opt/datetimepicker
+[submodule "platform/frameworks/opt/emoji"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/emoji
+	url = ../frameworks/opt/emoji
+[submodule "platform/frameworks/opt/inputconnectioncommon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/inputconnectioncommon
+	url = ../frameworks/opt/inputconnectioncommon
+[submodule "platform/frameworks/opt/inputmethodcommon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/inputmethodcommon
+	url = ../frameworks/opt/inputmethodcommon
+[submodule "platform/frameworks/opt/net/ethernet"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/net/ethernet
+	url = ../frameworks/opt/net/ethernet
+[submodule "platform/frameworks/opt/net/ims"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/net/ims
+	url = ../frameworks/opt/net/ims
+[submodule "platform/frameworks/opt/net/voip"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/net/voip
+	url = ../frameworks/opt/net/voip
+[submodule "platform/frameworks/opt/net/wifi"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/net/wifi
+	url = ../frameworks/opt/net/wifi
+[submodule "platform/frameworks/opt/photoviewer"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/photoviewer
+	url = ../frameworks/opt/photoviewer
+[submodule "platform/frameworks/opt/setupwizard"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/setupwizard
+	url = ../frameworks/opt/setupwizard
+[submodule "platform/frameworks/opt/telephony"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/telephony
+	url = ../frameworks/opt/telephony
+[submodule "platform/frameworks/opt/timezonepicker"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/timezonepicker
+	url = ../frameworks/opt/timezonepicker
+[submodule "platform/frameworks/opt/vcard"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/opt/vcard
+	url = ../frameworks/opt/vcard
+[submodule "platform/frameworks/rs"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/rs
+	url = ../frameworks/rs
+[submodule "platform/frameworks/support"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "platform/frameworks/volley"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/volley
+	url = ../frameworks/volley
+[submodule "platform/frameworks/webview"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/webview
+	url = ../frameworks/webview
+[submodule "platform/frameworks/wilhelm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = frameworks/wilhelm
+	url = ../frameworks/wilhelm
+[submodule "platform/hardware/akm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/akm
+	url = ../hardware/akm
+[submodule "platform/hardware/broadcom/libbt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/broadcom/libbt
+	url = ../hardware/broadcom/libbt
+[submodule "platform/hardware/broadcom/wlan"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/broadcom/wlan
+	url = ../hardware/broadcom/wlan
+[submodule "platform/hardware/bsp/intel"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/bsp/intel
+	url = ../hardware/bsp/intel
+[submodule "platform/hardware/google/apf"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/google/apf
+	url = ../hardware/google/apf
+[submodule "platform/hardware/intel/audio_media"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/audio_media
+	url = ../hardware/intel/audio_media
+[submodule "platform/hardware/intel/bootstub"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/bootstub
+	url = ../hardware/intel/bootstub
+[submodule "platform/hardware/intel/common/bd_prov"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/bd_prov
+	url = ../hardware/intel/common/bd_prov
+[submodule "platform/hardware/intel/common/libmix"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/libmix
+	url = ../hardware/intel/common/libmix
+[submodule "platform/hardware/intel/common/libstagefrighthw"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/libstagefrighthw
+	url = ../hardware/intel/common/libstagefrighthw
+[submodule "platform/hardware/intel/common/libva"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/libva
+	url = ../hardware/intel/common/libva
+[submodule "platform/hardware/intel/common/libwsbm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/libwsbm
+	url = ../hardware/intel/common/libwsbm
+[submodule "platform/hardware/intel/common/omx-components"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/omx-components
+	url = ../hardware/intel/common/omx-components
+[submodule "platform/hardware/intel/common/utils"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/utils
+	url = ../hardware/intel/common/utils
+[submodule "platform/hardware/intel/common/wrs_omxil_core"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/common/wrs_omxil_core
+	url = ../hardware/intel/common/wrs_omxil_core
+[submodule "platform/hardware/intel/img/hwcomposer"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/img/hwcomposer
+	url = ../hardware/intel/img/hwcomposer
+[submodule "platform/hardware/intel/img/psb_headers"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/img/psb_headers
+	url = ../hardware/intel/img/psb_headers
+[submodule "platform/hardware/intel/img/psb_video"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/img/psb_video
+	url = ../hardware/intel/img/psb_video
+[submodule "platform/hardware/intel/sensors"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/intel/sensors
+	url = ../hardware/intel/sensors
+[submodule "platform/hardware/invensense"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/invensense
+	url = ../hardware/invensense
+[submodule "platform/hardware/libhardware"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "platform/hardware/libhardware_legacy"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/libhardware_legacy
+	url = ../hardware/libhardware_legacy
+[submodule "platform/hardware/marvell/bt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/marvell/bt
+	url = ../hardware/marvell/bt
+[submodule "platform/hardware/qcom/audio"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/audio
+	url = ../hardware/qcom/audio
+[submodule "platform/hardware/qcom/bootctrl"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/bootctrl
+	url = ../hardware/qcom/bootctrl
+[submodule "platform/hardware/qcom/bt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/bt
+	url = ../hardware/qcom/bt
+[submodule "platform/hardware/qcom/camera"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/camera
+	url = ../hardware/qcom/camera
+[submodule "platform/hardware/qcom/display"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/display
+	url = ../hardware/qcom/display
+[submodule "platform/hardware/qcom/gps"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/gps
+	url = ../hardware/qcom/gps
+[submodule "platform/hardware/qcom/keymaster"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/keymaster
+	url = ../hardware/qcom/keymaster
+[submodule "platform/hardware/qcom/media"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/media
+	url = ../hardware/qcom/media
+[submodule "platform/hardware/qcom/msm8960"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/msm8960
+	url = ../hardware/qcom/msm8960
+[submodule "platform/hardware/qcom/msm8994"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/msm8994
+	url = ../hardware/qcom/msm8994
+[submodule "platform/hardware/qcom/msm8996"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/msm8996
+	url = ../hardware/qcom/msm8996
+[submodule "platform/hardware/qcom/msm8x26"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/msm8x26
+	url = ../hardware/qcom/msm8x26
+[submodule "platform/hardware/qcom/msm8x27"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/msm8x27
+	url = ../hardware/qcom/msm8x27
+[submodule "platform/hardware/qcom/msm8x84"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/msm8x84
+	url = ../hardware/qcom/msm8x84
+[submodule "platform/hardware/qcom/power"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/power
+	url = ../hardware/qcom/power
+[submodule "platform/hardware/qcom/wlan"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/qcom/wlan
+	url = ../hardware/qcom/wlan
+[submodule "platform/hardware/ril"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/ril
+	url = ../hardware/ril
+[submodule "platform/hardware/ti/omap3"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/ti/omap3
+	url = ../hardware/ti/omap3
+[submodule "platform/hardware/ti/omap4-aah"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/ti/omap4-aah
+	url = ../hardware/ti/omap4-aah
+[submodule "platform/hardware/ti/omap4xxx"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = hardware/ti/omap4xxx
+	url = ../hardware/ti/omap4xxx
+[submodule "platform/libcore"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = libcore
+	url = ../libcore
+[submodule "platform/libnativehelper"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "platform/ndk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = ndk
+	url = ../ndk
+[submodule "platform/packages/apps/BasicSmsReceiver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/BasicSmsReceiver
+	url = ../packages/apps/BasicSmsReceiver
+[submodule "platform/packages/apps/Bluetooth"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Bluetooth
+	url = ../packages/apps/Bluetooth
+[submodule "platform/packages/apps/Browser2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Browser2
+	url = ../packages/apps/Browser2
+[submodule "platform/packages/apps/Calculator"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Calculator
+	url = ../packages/apps/Calculator
+[submodule "platform/packages/apps/Calendar"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Calendar
+	url = ../packages/apps/Calendar
+[submodule "platform/packages/apps/Camera2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Camera2
+	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/CarrierConfig"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/CarrierConfig
+	url = ../packages/apps/CarrierConfig
+[submodule "platform/packages/apps/CellBroadcastReceiver"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/CellBroadcastReceiver
+	url = ../packages/apps/CellBroadcastReceiver
+[submodule "platform/packages/apps/CertInstaller"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/CertInstaller
+	url = ../packages/apps/CertInstaller
+[submodule "platform/packages/apps/Contacts"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Contacts
+	url = ../packages/apps/Contacts
+[submodule "platform/packages/apps/ContactsCommon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/ContactsCommon
+	url = ../packages/apps/ContactsCommon
+[submodule "platform/packages/apps/DeskClock"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/DeskClock
+	url = ../packages/apps/DeskClock
+[submodule "platform/packages/apps/DevCamera"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/DevCamera
+	url = ../packages/apps/DevCamera
+[submodule "platform/packages/apps/Dialer"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Dialer
+	url = ../packages/apps/Dialer
+[submodule "platform/packages/apps/Email"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Email
+	url = ../packages/apps/Email
+[submodule "platform/packages/apps/EmergencyInfo"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/EmergencyInfo
+	url = ../packages/apps/EmergencyInfo
+[submodule "platform/packages/apps/ExactCalculator"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/ExactCalculator
+	url = ../packages/apps/ExactCalculator
+[submodule "platform/packages/apps/Gallery"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Gallery
+	url = ../packages/apps/Gallery
+[submodule "platform/packages/apps/Gallery2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Gallery2
+	url = ../packages/apps/Gallery2
+[submodule "platform/packages/apps/HTMLViewer"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/HTMLViewer
+	url = ../packages/apps/HTMLViewer
+[submodule "platform/packages/apps/KeyChain"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/KeyChain
+	url = ../packages/apps/KeyChain
+[submodule "platform/packages/apps/Launcher2"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Launcher2
+	url = ../packages/apps/Launcher2
+[submodule "platform/packages/apps/Launcher3"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Launcher3
+	url = ../packages/apps/Launcher3
+[submodule "platform/packages/apps/LegacyCamera"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/LegacyCamera
+	url = ../packages/apps/LegacyCamera
+[submodule "platform/packages/apps/ManagedProvisioning"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/ManagedProvisioning
+	url = ../packages/apps/ManagedProvisioning
+[submodule "platform/packages/apps/Messaging"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Messaging
+	url = ../packages/apps/Messaging
+[submodule "platform/packages/apps/Music"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Music
+	url = ../packages/apps/Music
+[submodule "platform/packages/apps/MusicFX"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/MusicFX
+	url = ../packages/apps/MusicFX
+[submodule "platform/packages/apps/Nfc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Nfc
+	url = ../packages/apps/Nfc
+[submodule "platform/packages/apps/OneTimeInitializer"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/OneTimeInitializer
+	url = ../packages/apps/OneTimeInitializer
+[submodule "platform/packages/apps/PackageInstaller"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/PackageInstaller
+	url = ../packages/apps/PackageInstaller
+[submodule "platform/packages/apps/Phone"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Phone
+	url = ../packages/apps/Phone
+[submodule "platform/packages/apps/PhoneCommon"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/PhoneCommon
+	url = ../packages/apps/PhoneCommon
+[submodule "platform/packages/apps/Protips"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Protips
+	url = ../packages/apps/Protips
+[submodule "platform/packages/apps/Provision"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Provision
+	url = ../packages/apps/Provision
+[submodule "platform/packages/apps/QuickSearchBox"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/QuickSearchBox
+	url = ../packages/apps/QuickSearchBox
+[submodule "platform/packages/apps/Settings"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Settings
+	url = ../packages/apps/Settings
+[submodule "platform/packages/apps/SoundRecorder"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/SoundRecorder
+	url = ../packages/apps/SoundRecorder
+[submodule "platform/packages/apps/SpareParts"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/SpareParts
+	url = ../packages/apps/SpareParts
+[submodule "platform/packages/apps/SpeechRecorder"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/SpeechRecorder
+	url = ../packages/apps/SpeechRecorder
+[submodule "platform/packages/apps/Stk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Stk
+	url = ../packages/apps/Stk
+[submodule "platform/packages/apps/TV"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/TV
+	url = ../packages/apps/TV
+[submodule "platform/packages/apps/Tag"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Tag
+	url = ../packages/apps/Tag
+[submodule "platform/packages/apps/Terminal"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Terminal
+	url = ../packages/apps/Terminal
+[submodule "platform/packages/apps/Test/connectivity"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/Test/connectivity
+	url = ../packages/apps/Test/connectivity
+[submodule "platform/packages/apps/TvSettings"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/TvSettings
+	url = ../packages/apps/TvSettings
+[submodule "platform/packages/apps/UnifiedEmail"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/apps/UnifiedEmail
+	url = ../packages/apps/UnifiedEmail
+[submodule "platform/packages/experimental"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/experimental
+	url = ../packages/experimental
+[submodule "platform/packages/inputmethods/LatinIME"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/inputmethods/LatinIME
+	url = ../packages/inputmethods/LatinIME
+[submodule "platform/packages/inputmethods/OpenWnn"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/inputmethods/OpenWnn
+	url = ../packages/inputmethods/OpenWnn
+[submodule "platform/packages/providers/ApplicationsProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/ApplicationsProvider
+	url = ../packages/providers/ApplicationsProvider
+[submodule "platform/packages/providers/BlockedNumberProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/BlockedNumberProvider
+	url = ../packages/providers/BlockedNumberProvider
+[submodule "platform/packages/providers/BookmarkProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/BookmarkProvider
+	url = ../packages/providers/BookmarkProvider
+[submodule "platform/packages/providers/CalendarProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/CalendarProvider
+	url = ../packages/providers/CalendarProvider
+[submodule "platform/packages/providers/CallLogProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/CallLogProvider
+	url = ../packages/providers/CallLogProvider
+[submodule "platform/packages/providers/ContactsProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/ContactsProvider
+	url = ../packages/providers/ContactsProvider
+[submodule "platform/packages/providers/DownloadProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/DownloadProvider
+	url = ../packages/providers/DownloadProvider
+[submodule "platform/packages/providers/MediaProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/MediaProvider
+	url = ../packages/providers/MediaProvider
+[submodule "platform/packages/providers/PartnerBookmarksProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/PartnerBookmarksProvider
+	url = ../packages/providers/PartnerBookmarksProvider
+[submodule "platform/packages/providers/TelephonyProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/TelephonyProvider
+	url = ../packages/providers/TelephonyProvider
+[submodule "platform/packages/providers/TvProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/TvProvider
+	url = ../packages/providers/TvProvider
+[submodule "platform/packages/providers/UserDictionaryProvider"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/providers/UserDictionaryProvider
+	url = ../packages/providers/UserDictionaryProvider
+[submodule "platform/packages/screensavers/Basic"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/screensavers/Basic
+	url = ../packages/screensavers/Basic
+[submodule "platform/packages/screensavers/PhotoTable"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/screensavers/PhotoTable
+	url = ../packages/screensavers/PhotoTable
+[submodule "platform/packages/screensavers/WebView"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/screensavers/WebView
+	url = ../packages/screensavers/WebView
+[submodule "platform/packages/services/Car"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/services/Car
+	url = ../packages/services/Car
+[submodule "platform/packages/services/Mms"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/services/Mms
+	url = ../packages/services/Mms
+[submodule "platform/packages/services/Telecomm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/services/Telecomm
+	url = ../packages/services/Telecomm
+[submodule "platform/packages/services/Telephony"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/services/Telephony
+	url = ../packages/services/Telephony
+[submodule "platform/packages/wallpapers/LivePicker"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = packages/wallpapers/LivePicker
+	url = ../packages/wallpapers/LivePicker
+[submodule "platform/pdk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = pdk
+	url = ../pdk
+[submodule "platform/platform_testing"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = platform_testing
+	url = ../platform_testing
+[submodule "platform/prebuilts/android-emulator"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/clang/darwin-x86/host/3.6"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/clang/darwin-x86/host/3.6
+	url = ../prebuilts/clang/darwin-x86/host/3.6
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/linux-x86/host/3.6"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/clang/linux-x86/host/3.6
+	url = ../prebuilts/clang/linux-x86/host/3.6
+[submodule "platform/prebuilts/deqp"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/deqp
+	url = ../prebuilts/deqp
+[submodule "platform/prebuilts/devtools"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "platform/prebuilts/eclipse"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/eclipse
+	url = ../prebuilts/eclipse
+[submodule "platform/prebuilts/eclipse-build-deps"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/eclipse-build-deps
+	url = ../prebuilts/eclipse-build-deps
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gdb/darwin-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gdb/darwin-x86
+	url = ../prebuilts/gdb/darwin-x86
+[submodule "platform/prebuilts/gdb/linux-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gdb/linux-x86
+	url = ../prebuilts/gdb/linux-x86
+[submodule "platform/prebuilts/go/darwin-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "platform/prebuilts/go/linux-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "platform/prebuilts/gradle-plugin"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/libs/libedit"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/libs/libedit
+	url = ../prebuilts/libs/libedit
+[submodule "platform/prebuilts/maven_repo/android"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "platform/prebuilts/misc"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/ndk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "platform/prebuilts/ninja/darwin-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "platform/prebuilts/ninja/linux-x86"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "platform/prebuilts/qemu-kernel"]
+	branch = refs/tags/android-cts-7.0_r27
+	shallow = true
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/sdk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/tools"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/sdk"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = sdk
+	url = ../sdk
+[submodule "platform/system/bt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/bt
+	url = ../system/bt
+[submodule "platform/system/ca-certificates"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/ca-certificates
+	url = ../system/ca-certificates
+[submodule "platform/system/connectivity/apmanager"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/connectivity/apmanager
+	url = ../system/connectivity/apmanager
+[submodule "platform/system/connectivity/dhcp_client"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/connectivity/dhcp_client
+	url = ../system/connectivity/dhcp_client
+[submodule "platform/system/connectivity/shill"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/connectivity/shill
+	url = ../system/connectivity/shill
+[submodule "platform/system/core"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/core
+	url = ../system/core
+[submodule "platform/system/extras"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/extras
+	url = ../system/extras
+[submodule "platform/system/firewalld"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/firewalld
+	url = ../system/firewalld
+[submodule "platform/system/gatekeeper"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/gatekeeper
+	url = ../system/gatekeeper
+[submodule "platform/system/keymaster"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/keymaster
+	url = ../system/keymaster
+[submodule "platform/system/media"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/media
+	url = ../system/media
+[submodule "platform/system/nativepower"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/nativepower
+	url = ../system/nativepower
+[submodule "platform/system/netd"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/netd
+	url = ../system/netd
+[submodule "platform/system/nvram"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/nvram
+	url = ../system/nvram
+[submodule "platform/system/security"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/security
+	url = ../system/security
+[submodule "platform/system/sepolicy"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/sepolicy
+	url = ../system/sepolicy
+[submodule "platform/system/tools/aidl"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/tools/aidl
+	url = ../system/tools/aidl
+[submodule "platform/system/tpm"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/tpm
+	url = ../system/tpm
+[submodule "platform/system/update_engine"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/update_engine
+	url = ../system/update_engine
+[submodule "platform/system/vold"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/vold
+	url = ../system/vold
+[submodule "platform/system/weaved"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/weaved
+	url = ../system/weaved
+[submodule "platform/system/webservd"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = system/webservd
+	url = ../system/webservd
+[submodule "platform/tools/adt/idea"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/base"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/build"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/build
+	url = ../tools/build
+[submodule "platform/tools/external/fat32lib"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/gradle"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/idea"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/loganalysis"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/loganalysis
+	url = ../tools/loganalysis
+[submodule "platform/tools/motodev"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/motodev
+	url = ../tools/motodev
+[submodule "platform/tools/studio/cloud"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "platform/tools/swt"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/swt
+	url = ../tools/swt
+[submodule "platform/tools/test/connectivity"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/test/connectivity
+	url = ../tools/test/connectivity
+[submodule "platform/tools/tradefederation"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = tools/tradefederation
+	url = ../tools/tradefederation
+[submodule "toolchain/binutils"]
+	branch = refs/tags/android-cts-7.0_r27
+	path = toolchain/binutils
+	url = ../../toolchain/binutils
