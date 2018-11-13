@@ -2275,7 +2275,7 @@
 	path = pdk
 	url = ../pdk
 [submodule "platform/platform_testing"]
-	branch = pie-platform-release
+	branch = pie-cuttlefish-testing
 	path = platform_testing
 	url = ../platform_testing
 [submodule "platform/prebuilts/abi-dumps/ndk"]
