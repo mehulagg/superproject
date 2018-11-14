@@ -43,6 +43,7 @@
 /external/javasqlite pdk
 /external/jcommander pdk
 /external/jemalloc pdk
+/external/jemalloc_new pdk
 /external/jsilver pdk
 /external/jsr305 pdk
 /external/junit pdk
