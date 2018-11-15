@@ -589,6 +589,7 @@
 /prebuilts/android-emulator pdk-fs
 /prebuilts/asuite pdk
 /prebuilts/build-tools pdk
+/prebuilts/bundletool pdk
 /prebuilts/checkcolor pdk
 /prebuilts/checkstyle pdk
 /prebuilts/clang-tools pdk
