@@ -2378,6 +2378,11 @@
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
+[submodule "platform/prebuilts/bundletool"]
+	branch = master
+	shallow = true
+	path = prebuilts/bundletool
+	url = ../prebuilts/bundletool
 [submodule "platform/prebuilts/checkcolor"]
 	branch = master
 	shallow = true
