@@ -1,56 +1,60 @@
-[submodule "ndk"]
+[submodule "platform/external/python/cpython3"]
+	branch = master
+	path = external/python/cpython3
+	url = ../external/python/cpython3
+[submodule "platform/ndk"]
 	branch = master
 	path = ndk
 	url = ../ndk
-[submodule "prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
-[submodule "prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"]
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
 	url = ../prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
-[submodule "prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
-[submodule "prebuilts/gcc/darwin-x86/host/headers"]
+[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/host/headers
 	url = ../prebuilts/gcc/darwin-x86/host/headers
-[submodule "prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
-[submodule "prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
-[submodule "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
-[submodule "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
 	url = ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
-[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
-[submodule "prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "prebuilts/ndk"]
+[submodule "platform/prebuilts/ndk"]
 	branch = master
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
