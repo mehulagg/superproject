@@ -41,6 +41,10 @@
 	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
+[submodule "platform/external/swiftshader"]
+	branch = emu-master-dev
+	path = external/swiftshader
+	url = ../external/swiftshader
 [submodule "platform/external/tinyobjloader"]
 	branch = master
 	path = external/tinyobjloader
