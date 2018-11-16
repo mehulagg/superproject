@@ -50,11 +50,11 @@
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-[submodule "platform/prebuilts/studio/jdk"]
-	branch = studio-master-dev
+[submodule "platform/prebuilts/jdk/jdk8"]
+	branch = master
 	shallow = true
-	path = prebuilts/studio/jdk
-	url = ../prebuilts/studio/jdk
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
 [submodule "toolchain/jdk/build"]
 	branch = master
 	shallow = true

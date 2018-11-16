@@ -10,7 +10,7 @@
 /prebuilts/clang/host/darwin-x86
 /prebuilts/clang/host/linux-x86
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
-/prebuilts/studio/jdk
+/prebuilts/jdk/jdk8
 /toolchain/jdk/build
 /toolchain/jdk/jdk9
 /toolchain/jdk/jdk9_corba
