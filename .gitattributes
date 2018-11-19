@@ -80,7 +80,6 @@
 /external/autotest pdk-fs
 /external/avb pdk
 /external/bart pdk
-/external/blktrace pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
 /external/brotli pdk
