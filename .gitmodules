@@ -334,10 +334,6 @@
 	branch = master
 	path = external/bart
 	url = ../external/bart
-[submodule "platform/external/blktrace"]
-	branch = master
-	path = external/blktrace
-	url = ../external/blktrace
 [submodule "platform/external/boringssl"]
 	branch = master
 	path = external/boringssl
