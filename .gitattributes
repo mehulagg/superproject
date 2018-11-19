@@ -95,7 +95,6 @@
 /prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9 pdk linux arm
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 pdk linux
-/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 pdk-fs
 /prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9 pdk linux mips
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9 pdk linux x86
 /prebuilts/gdb/linux-x86 linux
