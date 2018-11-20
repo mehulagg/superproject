@@ -1095,10 +1095,6 @@
 	branch = master
 	path = external/opencensus-java
 	url = ../external/opencensus-java
-[submodule "platform/external/opencv"]
-	branch = master
-	path = external/opencv
-	url = ../external/opencv
 [submodule "platform/external/owasp/sanitizer"]
 	branch = master
 	path = external/owasp/sanitizer
