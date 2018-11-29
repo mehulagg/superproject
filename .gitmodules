@@ -23,7 +23,7 @@
 	path = device/generic/goldfish
 	url = ../../device/generic/goldfish
 [submodule "device/generic/goldfish-opengl"]
-	branch = cuttlefish-testing
+	branch = master
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/mini-emulator-arm64"]
