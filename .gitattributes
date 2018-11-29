@@ -1,15 +1,3 @@
-/abi/cpp pdk
-/art pdk
-/bionic pdk
-/bootable/recovery pdk
-/build pdk
-/compatibility/cdd pdk
-/cts pdk-fs cts pdk-cw-fs
-/dalvik pdk-fs pdk-cw-fs
-/developers/build
-/developers/demos
-/developers/samples/android
-/development pdk-fs pdk-cw-fs
 /device/common pdk-cw-fs pdk
 /device/generic/arm64 pdk
 /device/generic/armv7-a-neon pdk
@@ -31,6 +19,18 @@
 /device/google/atv broadcom_pdk generic_fs pdk device fugu
 /device/google/contexthub pdk device
 /device/sample pdk
+/abi/cpp pdk
+/art pdk
+/bionic pdk
+/bootable/recovery pdk
+/build pdk
+/compatibility/cdd pdk
+/cts pdk-fs cts pdk-cw-fs
+/dalvik pdk-fs pdk-cw-fs
+/developers/build
+/developers/demos
+/developers/samples/android
+/development pdk-fs pdk-cw-fs
 /docs/source.android.com pdk-fs pdk-cw-fs
 /external/aac pdk
 /external/adt-infra pdk-fs notdefault adt-infra
@@ -68,8 +68,8 @@
 /external/cros/system_api pdk
 /external/curl pdk
 /external/dagger2 pdk
-/external/dbus-binding-generator pdk
 /external/dbus pdk
+/external/dbus-binding-generator pdk
 /external/deqp pdk-fs
 /external/dexmaker pdk
 /external/dhcpcd-6.8.2 pdk
@@ -147,8 +147,8 @@
 /external/ksoap2 pdk
 /external/libavc pdk
 /external/libbrillo pdk
-/external/libcap-ng pdk
 /external/libcap pdk
+/external/libcap-ng pdk
 /external/libchrome pdk
 /external/libcxx pdk
 /external/libcxxabi pdk
@@ -176,8 +176,8 @@
 /external/libselinux pdk
 /external/libunwind pdk
 /external/libunwind_llvm pdk
-/external/libusb-compat pdk
 /external/libusb pdk
+/external/libusb-compat pdk
 /external/libutf pdk
 /external/libvncserver pdk
 /external/libvpx pdk
@@ -322,9 +322,11 @@
 /hardware/akm
 /hardware/broadcom/libbt pdk
 /hardware/broadcom/wlan broadcom_wlan pdk
+/hardware/bsp/bootloader/rockchip/rk-u-boot rk3229
 /hardware/bsp/kernel/common/v4.4 rk3229 rk3399
 /hardware/bsp/kernel/mediatek/mt8516-v4.4 mt8516
 /hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10 msm8x09
+/hardware/bsp/kernel/rockchip/rk-v4.4 rk3229
 /hardware/google/apf pdk
 /hardware/intel/audio_media pdk intel
 /hardware/intel/bootstub pdk intel
@@ -446,8 +448,8 @@
 /prebuilts/clang/linux-x86/host/3.6 pdk linux
 /prebuilts/deqp pdk-fs
 /prebuilts/devtools pdk-fs
-/prebuilts/eclipse-build-deps notdefault eclipse
 /prebuilts/eclipse pdk
+/prebuilts/eclipse-build-deps notdefault eclipse
 /prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8 pdk darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
@@ -496,7 +498,6 @@
 /system/update_engine pdk
 /system/vold pdk
 /test/vts vts pdk
-/toolchain/binutils
 /tools/adt/idea notdefault tools
 /tools/base notdefault tools
 /tools/build notdefault tools
@@ -509,3 +510,4 @@
 /tools/swt notdefault tools
 /tools/test/connectivity pdk
 /tools/tradefederation tradefed notdefault
+/toolchain/binutils
