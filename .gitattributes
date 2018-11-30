@@ -650,6 +650,7 @@
 /system/libfmq pdk
 /system/libhidl pdk
 /system/libhwbinder pdk
+/system/libsysprop pdk
 /system/libufdt pdk
 /system/libvintf pdk
 /system/media pdk
