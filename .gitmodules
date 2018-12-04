@@ -111,6 +111,11 @@
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/host/windows-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/windows-x86
+	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/cmake/darwin-x86"]
 	branch = emu-master-dev
 	shallow = true
