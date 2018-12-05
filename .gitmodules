@@ -911,10 +911,6 @@
 	branch = master
 	path = external/libutf
 	url = ../external/libutf
-[submodule "platform/external/libvncserver"]
-	branch = master
-	path = external/libvncserver
-	url = ../external/libvncserver
 [submodule "platform/external/libvpx"]
 	branch = master
 	path = external/libvpx
