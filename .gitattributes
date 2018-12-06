@@ -224,7 +224,6 @@
 /external/libusb pdk
 /external/libusb-compat pdk
 /external/libutf pdk
-/external/libvncserver pdk
 /external/libvpx pdk
 /external/libvterm pdk
 /external/libxaac pdk
