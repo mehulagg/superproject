@@ -771,10 +771,6 @@
 	branch = master
 	path = external/libchrome
 	url = ../external/libchrome
-[submodule "platform/external/libconstrainedcrypto"]
-	branch = master
-	path = external/libconstrainedcrypto
-	url = ../external/libconstrainedcrypto
 [submodule "platform/external/libcups"]
 	branch = master
 	path = external/libcups
