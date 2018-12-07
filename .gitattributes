@@ -189,7 +189,6 @@
 /external/libcap pdk
 /external/libcap-ng pdk
 /external/libchrome pdk
-/external/libconstrainedcrypto pdk
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
