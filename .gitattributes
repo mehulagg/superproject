@@ -372,7 +372,6 @@
 /external/tinyxml2 pdk
 /external/toolchain-utils
 /external/toybox pdk
-/external/tpm2 pdk
 /external/trappy pdk
 /external/tremolo pdk
 /external/turbine pdk
