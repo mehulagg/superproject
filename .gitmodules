@@ -1505,10 +1505,6 @@
 	branch = master
 	path = external/toybox
 	url = ../external/toybox
-[submodule "platform/external/tpm2"]
-	branch = master
-	path = external/tpm2
-	url = ../external/tpm2
 [submodule "platform/external/trappy"]
 	branch = master
 	path = external/trappy
