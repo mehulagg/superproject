@@ -24,6 +24,7 @@
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_common pdk device
 /device/google/cuttlefish_kernel pdk device
+/device/google/fuchsia device
 /device/google/marlin pdk device marlin
 /device/google/marlin-kernel pdk device marlin
 /device/google/muskie pdk muskie device
@@ -595,6 +596,7 @@
 /prebuilts/cmake/linux-x86
 /prebuilts/deqp pdk-fs
 /prebuilts/devtools pdk-fs
+/prebuilts/fuchsia_sdk pdk-fs
 /prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9 pdk darwin arm
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 pdk darwin

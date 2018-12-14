@@ -104,6 +104,10 @@
 	shallow = true
 	path = device/google/cuttlefish_kernel
 	url = ../../device/google/cuttlefish_kernel
+[submodule "device/google/fuchsia"]
+	branch = master
+	path = device/google/fuchsia
+	url = ../../device/google/fuchsia
 [submodule "device/google/marlin"]
 	branch = master
 	path = device/google/marlin
@@ -2410,6 +2414,11 @@
 	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
+[submodule "platform/prebuilts/fuchsia_sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/fuchsia_sdk
+	url = ../prebuilts/fuchsia_sdk
 [submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
 	branch = master
 	shallow = true
