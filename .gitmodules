@@ -334,10 +334,6 @@
 	branch = master
 	path = external/avb
 	url = ../external/avb
-[submodule "platform/external/bart"]
-	branch = master
-	path = external/bart
-	url = ../external/bart
 [submodule "platform/external/bcc"]
 	branch = master
 	path = external/bcc
@@ -439,10 +435,6 @@
 	branch = master
 	path = external/desugar
 	url = ../external/desugar
-[submodule "platform/external/devlib"]
-	branch = master
-	path = external/devlib
-	url = ../external/devlib
 [submodule "platform/external/dexmaker"]
 	branch = master
 	path = external/dexmaker
@@ -947,10 +939,6 @@
 	branch = master
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
-[submodule "platform/external/lisa"]
-	branch = master
-	path = external/lisa
-	url = ../external/lisa
 [submodule "platform/external/llvm"]
 	branch = master
 	path = external/llvm
@@ -1513,10 +1501,6 @@
 	branch = master
 	path = external/toybox
 	url = ../external/toybox
-[submodule "platform/external/trappy"]
-	branch = master
-	path = external/trappy
-	url = ../external/trappy
 [submodule "platform/external/tremolo"]
 	branch = master
 	path = external/tremolo
