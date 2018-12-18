@@ -80,7 +80,6 @@
 /external/arm-optimized-routines pdk
 /external/autotest pdk-fs
 /external/avb pdk
-/external/bart pdk
 /external/bcc pdk
 /external/boringssl pdk
 /external/bouncycastle pdk
@@ -106,7 +105,6 @@
 /external/dagger2 pdk
 /external/deqp pdk-fs
 /external/desugar pdk
-/external/devlib pdk
 /external/dexmaker pdk
 /external/dlmalloc pdk
 /external/dng_sdk pdk
@@ -233,7 +231,6 @@
 /external/libxml2 pdk libxml2
 /external/libyuv libyuv pdk
 /external/linux-kselftest vts pdk
-/external/lisa pdk
 /external/llvm pdk
 /external/lmfit pdk
 /external/ltp vts pdk
@@ -374,7 +371,6 @@
 /external/tinyxml2 pdk
 /external/toolchain-utils
 /external/toybox pdk
-/external/trappy pdk
 /external/tremolo pdk
 /external/turbine pdk
 /external/u-boot pdk
