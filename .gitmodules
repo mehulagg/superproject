@@ -6,6 +6,10 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "platform/external/effcee"]
+	branch = master
+	path = external/effcee
+	url = ../external/effcee
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
@@ -30,6 +34,10 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/external/regex-re2"]
+	branch = master
+	path = external/regex-re2
+	url = ../external/regex-re2
 [submodule "platform/external/shaderc/glslang"]
 	branch = master-ndk
 	path = external/shaderc/glslang
