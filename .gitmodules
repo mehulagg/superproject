@@ -1,3 +1,7 @@
+[submodule "platform/build"]
+	branch = androidx-master-dev
+	path = build/make
+	url = ../build
 [submodule "platform/external/doclava"]
 	branch = master
 	shallow = true
