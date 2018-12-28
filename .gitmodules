@@ -2225,6 +2225,10 @@
 	branch = master
 	path = packages/inputmethods/OpenWnn
 	url = ../packages/inputmethods/OpenWnn
+[submodule "platform/packages/modules/ModuleMetadata"]
+	branch = master
+	path = packages/modules/ModuleMetadata
+	url = ../packages/modules/ModuleMetadata
 [submodule "platform/packages/providers/ApplicationsProvider"]
 	branch = master
 	path = packages/providers/ApplicationsProvider
