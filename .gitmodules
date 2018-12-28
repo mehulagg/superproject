@@ -291,6 +291,10 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/external/python/six"]
+	branch = master
+	path = external/python/six
+	url = ../external/python/six
 [submodule "platform/external/safe-iop"]
 	branch = master
 	path = external/safe-iop
