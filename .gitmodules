@@ -104,6 +104,11 @@
 	shallow = true
 	path = prebuilts/fullsdk-darwin/sources/android-28
 	url = ../prebuilts/fullsdk/sources/android-28
+[submodule "platform/prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/ktlint"]
 	branch = master
 	shallow = true
