@@ -1,3 +1,4 @@
+/build/make
 /external/doclava pdk
 /external/dokka pdk
 /external/flatbuffers pdk
@@ -19,6 +20,7 @@
 /prebuilts/fullsdk-linux/tools platform-linux notdefault
 /prebuilts/fullsdk-darwin/platforms/android-28
 /prebuilts/fullsdk-darwin/sources/android-28
+/prebuilts/jdk/jdk8 pdk
 /prebuilts/ktlint pdk-fs
 /tools/external/gradle tools
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
