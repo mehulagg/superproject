@@ -171,7 +171,6 @@
 /external/jemalloc pdk
 /external/jemalloc_new pdk
 /external/jline pdk-fs tradefed pdk
-/external/jmdns pdk
 /external/jsilver pdk
 /external/jsmn pdk
 /external/jsoncpp pdk
