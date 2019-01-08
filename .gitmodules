@@ -699,10 +699,6 @@
 	branch = master
 	path = external/jline
 	url = ../external/jline
-[submodule "platform/external/jmdns"]
-	branch = master
-	path = external/jmdns
-	url = ../external/jmdns
 [submodule "platform/external/jsilver"]
 	branch = master
 	path = external/jsilver
