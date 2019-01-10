@@ -1642,10 +1642,6 @@
 	branch = master
 	path = frameworks/compile/slang
 	url = ../frameworks/compile/slang
-[submodule "platform/frameworks/data-binding"]
-	branch = master
-	path = frameworks/data-binding
-	url = ../frameworks/data-binding
 [submodule "platform/frameworks/ex"]
 	branch = master
 	path = frameworks/ex

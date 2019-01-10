@@ -406,7 +406,6 @@
 /frameworks/compile/libbcc pdk
 /frameworks/compile/mclinker pdk
 /frameworks/compile/slang pdk
-/frameworks/data-binding pdk-fs pdk-cw-fs
 /frameworks/ex pdk-fs pdk-cw-fs
 /frameworks/hardware/interfaces pdk
 /frameworks/layoutlib pdk-fs pdk-cw-fs
