@@ -1,3 +1,12 @@
+[submodule "device/amlogic/yukawa"]
+	branch = master
+	path = device/amlogic/yukawa
+	url = ../../device/amlogic/yukawa
+[submodule "device/amlogic/yukawa-kernel"]
+	branch = master
+	shallow = true
+	path = device/amlogic/yukawa-kernel
+	url = ../../device/amlogic/yukawa-kernel
 [submodule "device/common"]
 	branch = master
 	path = device/common
