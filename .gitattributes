@@ -23,6 +23,7 @@
 /external/libunwind_llvm
 /external/llvm
 /external/ninja
+/external/nsjail
 /external/one-true-awk
 /external/pcre
 /external/protobuf

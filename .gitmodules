@@ -99,6 +99,10 @@
 	branch = master
 	path = external/ninja
 	url = ../external/ninja
+[submodule "platform/external/nsjail"]
+	branch = master
+	path = external/nsjail
+	url = ../external/nsjail
 [submodule "platform/external/one-true-awk"]
 	branch = master
 	path = external/one-true-awk
