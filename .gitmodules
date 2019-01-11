@@ -2472,7 +2472,7 @@
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
-	branch = pie-release
+	branch = pie-cts-dev
 	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
