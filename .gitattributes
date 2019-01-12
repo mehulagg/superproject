@@ -25,6 +25,7 @@
 /device/google/cuttlefish device
 /device/google/cuttlefish_common device
 /device/google/cuttlefish_kernel device
+/device/google/cuttlefish_vmm device
 /device/google/marlin pdk device marlin
 /device/google/marlin-kernel pdk device marlin
 /device/google/muskie pdk muskie device
