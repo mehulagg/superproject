@@ -113,6 +113,11 @@
 	shallow = true
 	path = device/google/cuttlefish_kernel
 	url = ../../device/google/cuttlefish_kernel
+[submodule "device/google/cuttlefish_vmm"]
+	branch = master
+	shallow = true
+	path = device/google/cuttlefish_vmm
+	url = ../../device/google/cuttlefish_vmm
 [submodule "device/google/fuchsia"]
 	branch = master
 	path = device/google/fuchsia
