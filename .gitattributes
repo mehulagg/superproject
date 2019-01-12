@@ -551,7 +551,6 @@
 /packages/apps/WallpaperPicker pdk-fs
 /packages/experimental
 /packages/inputmethods/LatinIME pdk-fs
-/packages/inputmethods/OpenWnn pdk-fs
 /packages/modules/ModuleMetadata pdk
 /packages/providers/ApplicationsProvider pdk-fs
 /packages/providers/BlockedNumberProvider pdk-fs

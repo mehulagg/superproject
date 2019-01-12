@@ -2222,10 +2222,6 @@
 	branch = master
 	path = packages/inputmethods/LatinIME
 	url = ../packages/inputmethods/LatinIME
-[submodule "platform/packages/inputmethods/OpenWnn"]
-	branch = master
-	path = packages/inputmethods/OpenWnn
-	url = ../packages/inputmethods/OpenWnn
 [submodule "platform/packages/modules/ModuleMetadata"]
 	branch = master
 	path = packages/modules/ModuleMetadata
