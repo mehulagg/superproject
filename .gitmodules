@@ -1065,10 +1065,6 @@
 	branch = pie-platform-release
 	path = external/one-true-awk
 	url = ../external/one-true-awk
-[submodule "platform/external/opencv"]
-	branch = pie-platform-release
-	path = external/opencv
-	url = ../external/opencv
 [submodule "platform/external/owasp/sanitizer"]
 	branch = pie-platform-release
 	path = external/owasp/sanitizer

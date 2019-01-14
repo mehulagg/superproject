@@ -263,7 +263,6 @@
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/one-true-awk pdk
-/external/opencv pdk-fs pdk-cw-fs
 /external/owasp/sanitizer pdk
 /external/parameter-framework pdk
 /external/pcre pdk
