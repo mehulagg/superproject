@@ -133,10 +133,12 @@
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
@@ -156,10 +158,12 @@
 	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/qemu-kernel"]
 	branch = master
+	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/tools"]
 	branch = master
+	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/sdk"]
