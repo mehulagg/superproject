@@ -961,6 +961,10 @@
 	branch = master
 	path = external/ltp
 	url = ../external/ltp
+[submodule "platform/external/lua"]
+	branch = master
+	path = external/lua
+	url = ../external/lua
 [submodule "platform/external/lz4"]
 	branch = master
 	path = external/lz4
