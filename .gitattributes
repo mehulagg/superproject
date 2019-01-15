@@ -16,8 +16,6 @@
 /device/generic/uml pdk device
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
-/device/google/accessory/arduino pdk device
-/device/google/accessory/demokit pdk device
 /device/google/atv broadcom_pdk generic_fs pdk device
 /device/google/contexthub pdk device marlin
 /device/google/crosshatch crosshatch device
