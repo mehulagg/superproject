@@ -71,14 +71,6 @@
 	branch = master
 	path = device/generic/x86_64
 	url = ../../device/generic/x86_64
-[submodule "device/google/accessory/arduino"]
-	branch = master
-	path = device/google/accessory/arduino
-	url = ../../device/google/accessory/arduino
-[submodule "device/google/accessory/demokit"]
-	branch = master
-	path = device/google/accessory/demokit
-	url = ../../device/google/accessory/demokit
 [submodule "device/google/atv"]
 	branch = master
 	path = device/google/atv
