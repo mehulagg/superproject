@@ -637,6 +637,7 @@
 /system/core pdk
 /system/extras pdk
 /system/gatekeeper pdk
+/system/gsid pdk
 /system/hardware/interfaces pdk
 /system/hwservicemanager pdk
 /system/iorap pdk
