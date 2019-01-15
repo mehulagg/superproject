@@ -2622,6 +2622,10 @@
 	branch = master
 	path = system/gatekeeper
 	url = ../system/gatekeeper
+[submodule "platform/system/gsid"]
+	branch = master
+	path = system/gsid
+	url = ../system/gsid
 [submodule "platform/system/hardware/interfaces"]
 	branch = master
 	path = system/hardware/interfaces
