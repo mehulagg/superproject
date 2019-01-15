@@ -236,6 +236,7 @@
 /external/llvm pdk
 /external/lmfit pdk
 /external/ltp vts pdk
+/external/lua pdk
 /external/lz4 pdk
 /external/lzma pdk
 /external/markdown pdk
