@@ -397,6 +397,7 @@
 /external/x264 pdk
 /external/xmp_toolkit pdk
 /external/xz-embedded pdk
+/external/xz-java pdk
 /external/yapf vts pdk projectarch
 /external/zlib pdk
 /external/zopfli pdk
