@@ -360,7 +360,6 @@
 /external/stressapptest pdk
 /external/subsampling-scale-image-view
 /external/swiftshader pdk
-/external/syslinux pdk
 /external/syzkaller projectarch
 /external/tagsoup pdk
 /external/tcpdump pdk
