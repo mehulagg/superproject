@@ -1603,6 +1603,10 @@
 	branch = master
 	path = external/xz-embedded
 	url = ../external/xz-embedded
+[submodule "platform/external/xz-java"]
+	branch = master
+	path = external/xz-java
+	url = ../external/xz-java
 [submodule "platform/external/yapf"]
 	branch = master
 	path = external/yapf
