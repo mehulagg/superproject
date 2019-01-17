@@ -391,7 +391,6 @@
 /external/wayland-protocols pdk
 /external/webp pdk qcom_msm8x26
 /external/webrtc pdk
-/external/webview_support_interfaces pdk
 /external/wpa_supplicant_8 pdk
 /external/wycheproof pdk
 /external/x264 pdk
