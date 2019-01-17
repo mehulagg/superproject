@@ -1463,10 +1463,6 @@
 	branch = cuttlefish-testing
 	path = external/swiftshader
 	url = ../external/swiftshader
-[submodule "platform/external/syslinux"]
-	branch = master
-	path = external/syslinux
-	url = ../external/syslinux
 [submodule "platform/external/syzkaller"]
 	branch = master
 	path = external/syzkaller
