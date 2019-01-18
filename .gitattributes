@@ -359,7 +359,6 @@
 /external/squashfs-tools pdk
 /external/strace pdk
 /external/stressapptest pdk
-/external/subsampling-scale-image-view
 /external/swiftshader pdk
 /external/syzkaller projectarch
 /external/tagsoup pdk
