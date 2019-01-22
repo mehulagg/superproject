@@ -252,6 +252,10 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "platform/external/ARMComputeLibrary"]
+	branch = master
+	path = external/ARMComputeLibrary
+	url = ../external/ARMComputeLibrary
 [submodule "platform/external/ImageMagick"]
 	branch = master
 	path = external/ImageMagick
