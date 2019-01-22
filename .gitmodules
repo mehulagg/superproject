@@ -25,6 +25,10 @@
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
+[submodule "platform/external/google-breakpad"]
+	branch = emu-master-dev
+	path = external/google-breakpad
+	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest

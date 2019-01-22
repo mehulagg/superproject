@@ -5,6 +5,7 @@
 /external/astc-codec
 /external/deqp
 /external/google-benchmark
+/external/google-breakpad
 /external/googletest
 /external/libyuv
 /external/protobuf
