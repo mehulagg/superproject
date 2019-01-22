@@ -2210,10 +2210,6 @@
 	branch = master
 	path = packages/apps/WallpaperPicker
 	url = ../packages/apps/WallpaperPicker
-[submodule "platform/packages/experimental"]
-	branch = master
-	path = packages/experimental
-	url = ../packages/experimental
 [submodule "platform/packages/inputmethods/LatinIME"]
 	branch = master
 	path = packages/inputmethods/LatinIME
