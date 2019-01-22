@@ -41,6 +41,10 @@
 	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
+[submodule "platform/external/qt"]
+	branch = emu-master-dev
+	path = external/qt
+	url = ../external/qt
 [submodule "platform/external/swiftshader"]
 	branch = emu-master-dev
 	path = external/swiftshader
