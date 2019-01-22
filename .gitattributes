@@ -332,6 +332,7 @@
 /external/python/setuptools vts pdk
 /external/python/six vts pdk
 /external/python/uritemplates vts pdk
+/external/rapidjson pdk
 /external/rappor pdk
 /external/replicaisland pdk
 /external/rmi4utils pdk
