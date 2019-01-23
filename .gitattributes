@@ -708,7 +708,7 @@
 /tools/test/graphicsbenchmark pdk
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
-/tools/trebuchet tools
+/tools/trebuchet pdk-fs cts pdk-cw-fs tools
 /toolchain/benchmark
 /toolchain/binutils
 /toolchain/clang
