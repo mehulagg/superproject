@@ -42,6 +42,7 @@
 /prebuilts/gcc/darwin-x86/host/headers darwin
 /prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 darwin
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 linux
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 /prebuilts/go/darwin-x86 darwin
