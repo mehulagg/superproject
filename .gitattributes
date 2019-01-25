@@ -8,6 +8,7 @@
 /external/google-breakpad
 /external/googletest
 /external/libyuv
+/external/lz4
 /external/protobuf
 /external/qemu
 /external/qt

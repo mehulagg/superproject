@@ -37,6 +37,10 @@
 	branch = master
 	path = external/libyuv
 	url = ../external/libyuv
+[submodule "platform/external/lz4"]
+	branch = emu-master-dev
+	path = external/lz4
+	url = ../external/lz4
 [submodule "platform/external/protobuf"]
 	branch = emu-master-dev
 	path = external/protobuf
