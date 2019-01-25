@@ -1,5 +1,4 @@
 [submodule "platform/external/python/cpython3"]
-	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
 [submodule "platform/ndk"]
