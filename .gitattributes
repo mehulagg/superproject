@@ -15,6 +15,7 @@
 /external/swiftshader
 /external/tinyobjloader
 /external/virglrenderer
+/external/zlib
 /frameworks/native
 /prebuilts/android-emulator
 /prebuilts/android-emulator-build/archive

@@ -65,6 +65,10 @@
 	branch = emu-master-dev
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/zlib"]
+	branch = emu-master-dev
+	path = external/zlib
+	url = ../external/zlib
 [submodule "platform/frameworks/native"]
 	branch = lollipop-release
 	path = frameworks/native
