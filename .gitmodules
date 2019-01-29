@@ -33,6 +33,10 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/libpng"]
+	branch = emu-master-dev
+	path = external/libpng
+	url = ../external/libpng
 [submodule "platform/external/libyuv"]
 	branch = master
 	path = external/libyuv
