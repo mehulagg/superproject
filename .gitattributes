@@ -13,6 +13,7 @@
 /device/generic/mini-emulator-x86_64 pdk
 /device/generic/opengl-transport pdk
 /device/generic/qemu pdk
+/device/generic/trusty pdk
 /device/generic/uml pdk device
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
