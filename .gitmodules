@@ -59,6 +59,10 @@
 	branch = master
 	path = device/generic/qemu
 	url = ../../device/generic/qemu
+[submodule "device/generic/trusty"]
+	branch = master
+	path = device/generic/trusty
+	url = ../../device/generic/trusty
 [submodule "device/generic/uml"]
 	branch = master
 	path = device/generic/uml
