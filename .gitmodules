@@ -18,10 +18,22 @@
 	branch = master
 	path = external/astc-codec
 	url = ../external/astc-codec
+[submodule "platform/external/bluetooth/glib"]
+	branch = emu-master-dev
+	path = external/bluetooth/glib
+	url = ../external/bluetooth/glib
+[submodule "platform/external/curl"]
+	branch = emu-master-dev
+	path = external/curl
+	url = ../external/curl
 [submodule "platform/external/deqp"]
 	branch = master
 	path = external/deqp
 	url = ../external/deqp
+[submodule "platform/external/ffmpeg"]
+	branch = emu-master-dev
+	path = external/ffmpeg
+	url = ../external/ffmpeg
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
@@ -33,10 +45,18 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/libffi"]
+	branch = emu-master-dev
+	path = external/libffi
+	url = ../external/libffi
 [submodule "platform/external/libpng"]
 	branch = emu-master-dev
 	path = external/libpng
 	url = ../external/libpng
+[submodule "platform/external/libvpx"]
+	branch = emu-master-dev
+	path = external/libvpx
+	url = ../external/libvpx
 [submodule "platform/external/libyuv"]
 	branch = master
 	path = external/libyuv
@@ -45,6 +65,14 @@
 	branch = emu-master-dev
 	path = external/lz4
 	url = ../external/lz4
+[submodule "platform/external/openssl"]
+	branch = emu-master-dev
+	path = external/openssl
+	url = ../external/openssl
+[submodule "platform/external/pixman"]
+	branch = emu-master-dev
+	path = external/pixman
+	url = ../external/pixman
 [submodule "platform/external/protobuf"]
 	branch = emu-master-dev
 	path = external/protobuf
@@ -57,6 +85,10 @@
 	branch = emu-master-dev
 	path = external/qt
 	url = ../external/qt
+[submodule "platform/external/sdl2"]
+	branch = emu-master-dev
+	path = external/sdl2
+	url = ../external/sdl2
 [submodule "platform/external/swiftshader"]
 	branch = emu-master-dev
 	path = external/swiftshader
