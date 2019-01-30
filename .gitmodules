@@ -2578,6 +2578,10 @@
 	branch = master
 	path = system/apex
 	url = ../system/apex
+[submodule "platform/system/ashmemd"]
+	branch = master
+	path = system/ashmemd
+	url = ../system/ashmemd
 [submodule "platform/system/bpf"]
 	branch = master
 	path = system/bpf

@@ -628,6 +628,7 @@
 /prebuilts/vndk/v28 pdk
 /sdk pdk-fs pdk-cw-fs
 /system/apex pdk
+/system/ashmemd pdk
 /system/bpf pdk
 /system/bpfprogs pdk
 /system/bt pdk
