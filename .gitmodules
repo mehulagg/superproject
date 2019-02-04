@@ -187,6 +187,10 @@
 	branch = master
 	path = external/jsilver
 	url = ../external/jsilver
+[submodule "platform/external/jsoncpp"]
+	branch = master
+	path = external/jsoncpp
+	url = ../external/jsoncpp
 [submodule "platform/external/jsr305"]
 	branch = master
 	path = external/jsr305

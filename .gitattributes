@@ -45,6 +45,7 @@
 /external/jemalloc pdk
 /external/jemalloc_new pdk
 /external/jsilver pdk
+/external/jsoncpp pdk
 /external/jsr305 pdk
 /external/junit pdk
 /external/junit-params pdk
