@@ -17,6 +17,7 @@
 /external/golang-protobuf
 /external/googletest
 /external/jemalloc
+/external/jsoncpp
 /external/libcxx
 /external/libcxxabi
 /external/libunwind

@@ -75,6 +75,10 @@
 	branch = master
 	path = external/jemalloc
 	url = ../external/jemalloc
+[submodule "platform/external/jsoncpp"]
+	branch = master
+	path = external/jsoncpp
+	url = ../external/jsoncpp
 [submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx
