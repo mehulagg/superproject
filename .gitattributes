@@ -515,7 +515,6 @@
 /packages/apps/DocumentsUI pdk-fs pdk-cw-fs
 /packages/apps/Email pdk-fs
 /packages/apps/EmergencyInfo pdk-fs
-/packages/apps/ExactCalculator pdk-fs
 /packages/apps/Gallery pdk-fs
 /packages/apps/Gallery2 pdk-fs
 /packages/apps/HTMLViewer pdk-fs
