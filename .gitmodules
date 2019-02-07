@@ -2078,10 +2078,6 @@
 	branch = master
 	path = packages/apps/EmergencyInfo
 	url = ../packages/apps/EmergencyInfo
-[submodule "platform/packages/apps/ExactCalculator"]
-	branch = master
-	path = packages/apps/ExactCalculator
-	url = ../packages/apps/ExactCalculator
 [submodule "platform/packages/apps/Gallery"]
 	branch = master
 	path = packages/apps/Gallery
