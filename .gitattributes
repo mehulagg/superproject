@@ -4,6 +4,7 @@
 /external/angle
 /external/astc-codec
 /external/bluetooth/glib
+/external/boringssl
 /external/curl
 /external/deqp
 /external/ffmpeg

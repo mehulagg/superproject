@@ -22,6 +22,11 @@
 	branch = emu-master-dev
 	path = external/bluetooth/glib
 	url = ../external/bluetooth/glib
+[submodule "platform/external/boringssl"]
+	branch = master
+	shallow = true
+	path = external/boringssl
+	url = ../external/boringssl
 [submodule "platform/external/curl"]
 	branch = emu-master-dev
 	path = external/curl
