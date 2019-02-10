@@ -5,6 +5,7 @@
 /external/astc-codec
 /external/bluetooth/glib
 /external/boringssl
+/external/yasm
 /external/curl
 /external/deqp
 /external/ffmpeg

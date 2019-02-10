@@ -27,6 +27,10 @@
 	shallow = true
 	path = external/boringssl
 	url = ../external/boringssl
+[submodule "platform/external/chromium_org/third_party/yasm/source/patched-yasm"]
+	branch = emu-master-dev
+	path = external/yasm
+	url = ../external/chromium_org/third_party/yasm/source/patched-yasm
 [submodule "platform/external/curl"]
 	branch = emu-master-dev
 	path = external/curl
