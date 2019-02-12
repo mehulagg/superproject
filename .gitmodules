@@ -1770,10 +1770,6 @@
 	branch = master
 	path = frameworks/wilhelm
 	url = ../frameworks/wilhelm
-[submodule "platform/hardware/akm"]
-	branch = master
-	path = hardware/akm
-	url = ../hardware/akm
 [submodule "platform/hardware/broadcom/libbt"]
 	branch = master
 	path = hardware/broadcom/libbt
