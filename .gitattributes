@@ -438,7 +438,6 @@
 /frameworks/rs pdk
 /frameworks/support pdk-fs pdk-cw-fs
 /frameworks/wilhelm pdk-fs pdk-cw-fs
-/hardware/akm pdk
 /hardware/broadcom/libbt pdk
 /hardware/broadcom/wlan broadcom_wlan pdk
 /hardware/google/apf pdk
