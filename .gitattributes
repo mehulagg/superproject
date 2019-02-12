@@ -448,7 +448,6 @@
 /hardware/invensense invensense pdk
 /hardware/libhardware pdk
 /hardware/libhardware_legacy pdk
-/hardware/marvell/bt marvell_bt pdk
 /hardware/nxp/nfc pdk
 /hardware/nxp/secure_element pdk
 /hardware/qcom/audio qcom_audio qcom pdk-qcom
