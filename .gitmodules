@@ -1526,6 +1526,10 @@
 	branch = master
 	path = external/u-boot
 	url = ../external/u-boot
+[submodule "platform/external/ukey2"]
+	branch = master
+	path = external/ukey2
+	url = ../external/ukey2
 [submodule "platform/external/unicode"]
 	branch = master
 	path = external/unicode
