@@ -14,6 +14,7 @@
 /external/googletest
 /external/libffi
 /external/libpng
+/external/libunwind_llvm
 /external/libvpx
 /external/libyuv
 /external/lz4
