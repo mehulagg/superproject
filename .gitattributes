@@ -363,7 +363,7 @@
 /external/strace pdk
 /external/stressapptest pdk
 /external/swiftshader pdk
-/external/syzkaller projectarch
+/external/syzkaller pdk projectarch
 /external/tagsoup pdk
 /external/tcpdump pdk
 /external/tensorflow pdk
@@ -672,18 +672,18 @@
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
 /test/suite_harness pdk-fs cts pdk-cw-fs
-/test/vti/alert vts projectarch
-/test/vti/dashboard vts projectarch
-/test/vti/fuzz_test_serving vts projectarch
-/test/vti/test_serving vts projectarch
+/test/vti/alert vts pdk projectarch
+/test/vti/dashboard vts pdk projectarch
+/test/vti/fuzz_test_serving vts pdk projectarch
+/test/vti/test_serving vts pdk projectarch
 /test/vts vts pdk
-/test/vts-testcase/fuzz vts projectarch
+/test/vts-testcase/fuzz vts pdk projectarch
 /test/vts-testcase/hal vts pdk
 /test/vts-testcase/hal-trace vts pdk
 /test/vts-testcase/kernel vts pdk
-/test/vts-testcase/nbu vts projectarch
-/test/vts-testcase/performance vts projectarch
-/test/vts-testcase/security vts projectarch
+/test/vts-testcase/nbu vts pdk projectarch
+/test/vts-testcase/performance vts pdk projectarch
+/test/vts-testcase/security vts pdk projectarch
 /test/vts-testcase/vndk vts pdk
 /tools/acloud vts tradefed pdk tools projectarch
 /tools/adt/idea notdefault tools
