@@ -18,9 +18,38 @@
 	branch = master
 	path = external/astc-codec
 	url = ../external/astc-codec
+[submodule "platform/external/bluetooth/glib"]
+	branch = emu-master-dev
+	path = external/bluetooth/glib
+	url = ../external/bluetooth/glib
+[submodule "platform/external/boringssl"]
+	branch = master
+	shallow = true
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "platform/external/chromium_org/third_party/yasm/source/patched-yasm"]
+	branch = emu-master-dev
+	path = external/yasm
+	url = ../external/chromium_org/third_party/yasm/source/patched-yasm
+[submodule "platform/external/curl"]
+	branch = emu-master-dev
+	path = external/curl
+	url = ../external/curl
+[submodule "platform/external/deqp"]
+	branch = master
+	path = external/deqp
+	url = ../external/deqp
+[submodule "platform/external/ffmpeg"]
+	branch = emu-master-dev
+	path = external/ffmpeg
+	url = ../external/ffmpeg
 [submodule "platform/external/google-benchmark"]
 	path = external/google-benchmark
 	url = ../external/google-benchmark
+[submodule "platform/external/google-breakpad"]
+	branch = emu-master-dev
+	path = external/google-breakpad
+	url = ../external/google-breakpad
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest
@@ -29,18 +58,58 @@
 	branch = master
 	path = external/gtest
 	url = ../external/gtest
+[submodule "platform/external/libffi"]
+	branch = emu-master-dev
+	path = external/libffi
+	url = ../external/libffi
+[submodule "platform/external/libpng"]
+	branch = emu-master-dev
+	path = external/libpng
+	url = ../external/libpng
+[submodule "platform/external/libunwind_llvm"]
+	branch = master
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "platform/external/libvpx"]
+	branch = emu-master-dev
+	path = external/libvpx
+	url = ../external/libvpx
 [submodule "platform/external/libyuv"]
 	branch = master
 	path = external/libyuv
 	url = ../external/libyuv
+[submodule "platform/external/lz4"]
+	branch = emu-master-dev
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/openssl"]
+	branch = emu-master-dev
+	path = external/openssl
+	url = ../external/openssl
+[submodule "platform/external/pixman"]
+	branch = emu-master-dev
+	path = external/pixman
+	url = ../external/pixman
 [submodule "platform/external/protobuf"]
 	branch = emu-master-dev
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/qemu"]
-	branch = emu-master-qemu
+	branch = emu-master-dev
 	path = external/qemu
 	url = ../external/qemu
+[submodule "platform/external/qt"]
+	branch = emu-master-dev
+	path = external/qt
+	url = ../external/qt
+[submodule "platform/external/sdl2"]
+	branch = emu-master-dev
+	path = external/sdl2
+	url = ../external/sdl2
+[submodule "platform/external/swiftshader"]
+	branch = emu-master-dev
+	path = external/swiftshader
+	url = ../external/swiftshader
 [submodule "platform/external/tinyobjloader"]
 	branch = master
 	path = external/tinyobjloader
@@ -49,6 +118,10 @@
 	branch = emu-master-dev
 	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/zlib"]
+	branch = emu-master-dev
+	path = external/zlib
+	url = ../external/zlib
 [submodule "platform/frameworks/native"]
 	branch = lollipop-release
 	path = frameworks/native
@@ -107,6 +180,11 @@
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/host/windows-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/windows-x86
+	url = ../prebuilts/clang/host/windows-x86
 [submodule "platform/prebuilts/cmake/darwin-x86"]
 	branch = emu-master-dev
 	shallow = true
@@ -124,10 +202,17 @@
 	url = ../prebuilts/cmake/windows-x86
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	branch = master
+	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/ninja/darwin-x86"]
@@ -147,16 +232,22 @@
 	url = ../prebuilts/ninja/windows-x86
 [submodule "platform/prebuilts/qemu-kernel"]
 	branch = master
+	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/tools"]
 	branch = master
+	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/sdk"]
 	branch = emu-master-dev
 	path = sdk
 	url = ../sdk
+[submodule "platform/tools/acloud"]
+	branch = master
+	path = tools/acloud
+	url = ../tools/acloud
 [submodule "platform/tools/buildSrc"]
 	branch = emu-master-dev
 	path = tools/buildSrc
