@@ -13,9 +13,11 @@
 /external/dagger2
 /external/desugar
 /external/error_prone
+/external/expat
 /external/flex
 /external/golang-protobuf
 /external/googletest
+/external/icu
 /external/jemalloc
 /external/jsoncpp
 /external/libcxx
@@ -32,6 +34,7 @@
 /external/python/cpython3
 /external/safe-iop
 /external/selinux
+/external/sqlite
 /external/toybox
 /external/turbine
 /external/zlib

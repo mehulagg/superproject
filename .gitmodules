@@ -59,6 +59,10 @@
 	shallow = true
 	path = external/error_prone
 	url = ../external/error_prone
+[submodule "platform/external/expat"]
+	branch = master
+	path = external/expat
+	url = ../external/expat
 [submodule "platform/external/flex"]
 	branch = master
 	path = external/flex
@@ -71,6 +75,10 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/icu"]
+	branch = master
+	path = external/icu
+	url = ../external/icu
 [submodule "platform/external/jemalloc"]
 	branch = master
 	path = external/jemalloc
@@ -135,6 +143,10 @@
 	branch = master
 	path = external/selinux
 	url = ../external/selinux
+[submodule "platform/external/sqlite"]
+	branch = master
+	path = external/sqlite
+	url = ../external/sqlite
 [submodule "platform/external/toybox"]
 	branch = master
 	path = external/toybox
