@@ -19,6 +19,7 @@
 /external/boringssl pdk
 /external/bouncycastle pdk
 /external/caliper pdk
+/external/chromium-libpac pdk
 /external/clang pdk
 /external/compiler-rt pdk
 /external/conscrypt pdk
@@ -82,6 +83,7 @@
 /external/tagsoup pdk
 /external/toybox pdk
 /external/turbine pdk
+/external/v8 pdk
 /external/valgrind pdk
 /external/vixl pdk
 /external/vogar pdk

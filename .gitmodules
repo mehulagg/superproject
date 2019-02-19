@@ -82,6 +82,10 @@
 	branch = master
 	path = external/caliper
 	url = ../external/caliper
+[submodule "platform/external/chromium-libpac"]
+	branch = master
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
 [submodule "platform/external/clang"]
 	branch = master
 	shallow = true
@@ -335,6 +339,10 @@
 	branch = master
 	path = external/turbine
 	url = ../external/turbine
+[submodule "platform/external/v8"]
+	branch = master
+	path = external/v8
+	url = ../external/v8
 [submodule "platform/external/valgrind"]
 	branch = master
 	path = external/valgrind
