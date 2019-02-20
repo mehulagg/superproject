@@ -38,6 +38,10 @@
 	branch = master
 	path = external/boringssl
 	url = ../external/boringssl
+[submodule "platform/external/bzip2"]
+	branch = master
+	path = external/bzip2
+	url = ../external/bzip2
 [submodule "platform/external/clang"]
 	branch = master
 	path = external/clang
