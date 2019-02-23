@@ -44,6 +44,7 @@
 /device/sample pdk
 /device/ti/beagle_x15 pdk beagle_x15 device
 /device/ti/beagle_x15-kernel pdk beagle_x15 device
+/kernel/build
 /kernel/configs vts pdk
 /kernel/tests
 /art pdk

@@ -192,6 +192,10 @@
 	shallow = true
 	path = device/ti/beagle_x15-kernel
 	url = ../../device/ti/beagle-x15-kernel
+[submodule "kernel/build"]
+	branch = master
+	path = kernel/build
+	url = ../../kernel/build
 [submodule "kernel/configs"]
 	branch = master
 	path = kernel/configs
