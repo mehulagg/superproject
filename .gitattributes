@@ -652,6 +652,7 @@
 /system/libsysprop pdk
 /system/libufdt pdk
 /system/libvintf pdk
+/system/linkerconfig pdk
 /system/media pdk
 /system/netd pdk
 /system/nfc pdk
