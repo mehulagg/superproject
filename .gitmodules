@@ -2508,6 +2508,11 @@
 	shallow = true
 	path = prebuilts/libs/libedit
 	url = ../prebuilts/libs/libedit
+[submodule "platform/prebuilts/manifest-merger"]
+	branch = master
+	shallow = true
+	path = prebuilts/manifest-merger
+	url = ../prebuilts/manifest-merger
 [submodule "platform/prebuilts/maven_repo/android"]
 	branch = master
 	shallow = true
