@@ -612,6 +612,7 @@
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/ktlint
 /prebuilts/libs/libedit pdk-fs pdk-cw-fs
+/prebuilts/manifest-merger pdk
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/google-play-service-client-libraries-3p
