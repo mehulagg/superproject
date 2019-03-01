@@ -209,7 +209,6 @@
 /external/libjpeg-turbo pdk
 /external/libkmsxx pdk
 /external/libldac pdk
-/external/libmicrohttpd pdk
 /external/libmpeg2 pdk
 /external/libmtp pdk
 /external/libnetfilter_conntrack pdk
