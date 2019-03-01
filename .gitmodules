@@ -62,10 +62,6 @@
 	branch = emu-master-dev
 	path = external/libpng
 	url = ../external/libpng
-[submodule "platform/external/libunwind_llvm"]
-	branch = master
-	path = external/libunwind_llvm
-	url = ../external/libunwind_llvm
 [submodule "platform/external/libvpx"]
 	branch = emu-master-dev
 	path = external/libvpx
