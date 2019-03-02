@@ -853,10 +853,6 @@
 	branch = master
 	path = external/libldac
 	url = ../external/libldac
-[submodule "platform/external/libmicrohttpd"]
-	branch = master
-	path = external/libmicrohttpd
-	url = ../external/libmicrohttpd
 [submodule "platform/external/libmpeg2"]
 	branch = master
 	path = external/libmpeg2
