@@ -1602,10 +1602,6 @@
 	branch = master
 	path = external/wycheproof
 	url = ../external/wycheproof
-[submodule "platform/external/x264"]
-	branch = master
-	path = external/x264
-	url = ../external/x264
 [submodule "platform/external/xmp_toolkit"]
 	branch = master
 	path = external/xmp_toolkit
