@@ -2826,6 +2826,10 @@
 	branch = master
 	path = tools/build
 	url = ../tools/build
+[submodule "platform/tools/currysrc"]
+	branch = master
+	path = tools/currysrc
+	url = ../tools/currysrc
 [submodule "platform/tools/dexter"]
 	branch = master
 	path = tools/dexter
