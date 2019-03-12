@@ -690,6 +690,7 @@
 /tools/asuite pdk
 /tools/base notdefault tools
 /tools/build notdefault tools
+/tools/currysrc pdk
 /tools/dexter pdk-fs tools
 /tools/external/fat32lib tools
 /tools/external/gradle tools
