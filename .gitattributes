@@ -1,7 +1,6 @@
 /build/make
 /external/doclava pdk
 /external/dokka pdk
-/external/flatbuffers pdk
 /external/jdiff pdk
 /external/noto-fonts pdk
 /external/webview_support_interfaces pdk

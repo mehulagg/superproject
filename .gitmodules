@@ -12,9 +12,6 @@
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
-[submodule "platform/external/flatbuffers"]
-	path = external/flatbuffers
-	url = ../external/flatbuffers
 [submodule "platform/external/jdiff"]
 	branch = master
 	shallow = true
