@@ -1001,10 +1001,6 @@
 	branch = master
 	path = external/mksh
 	url = ../external/mksh
-[submodule "platform/external/mmc-utils"]
-	branch = master
-	path = external/mmc-utils
-	url = ../external/mmc-utils
 [submodule "platform/external/mockftpserver"]
 	branch = master
 	path = external/mockftpserver
