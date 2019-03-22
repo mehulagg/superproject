@@ -1037,6 +1037,10 @@
 	branch = master
 	path = external/naver-fonts
 	url = ../external/naver-fonts
+[submodule "platform/external/neon_2_sse"]
+	branch = master
+	path = external/neon_2_sse
+	url = ../external/neon_2_sse
 [submodule "platform/external/neven"]
 	branch = master
 	path = external/neven
