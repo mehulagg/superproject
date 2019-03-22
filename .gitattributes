@@ -255,6 +255,7 @@
 /external/nanohttpd pdk
 /external/nanopb-c pdk
 /external/naver-fonts pdk
+/external/neon_2_sse pdk
 /external/neven pdk
 /external/newfs_msdos pdk
 /external/nfacct pdk
