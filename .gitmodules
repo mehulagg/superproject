@@ -1165,6 +1165,10 @@
 	branch = master
 	path = external/python/appdirs
 	url = ../external/python/appdirs
+[submodule "platform/external/python/asn1crypto"]
+	branch = master
+	path = external/python/asn1crypto
+	url = ../external/python/asn1crypto
 [submodule "platform/external/python/atomicwrites"]
 	branch = master
 	path = external/python/atomicwrites
@@ -1177,6 +1181,10 @@
 	branch = master
 	path = external/python/cachetools
 	url = ../external/python/cachetools
+[submodule "platform/external/python/cffi"]
+	branch = master
+	path = external/python/cffi
+	url = ../external/python/cffi
 [submodule "platform/external/python/cpython2"]
 	branch = master
 	path = external/python/cpython2
@@ -1185,6 +1193,10 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/external/python/cryptography"]
+	branch = master
+	path = external/python/cryptography
+	url = ../external/python/cryptography
 [submodule "platform/external/python/dateutil"]
 	branch = master
 	path = external/python/dateutil
@@ -1317,6 +1329,14 @@
 	branch = master
 	path = external/python/pyasn1-modules
 	url = ../external/python/pyasn1-modules
+[submodule "platform/external/python/pycparser"]
+	branch = master
+	path = external/python/pycparser
+	url = ../external/python/pycparser
+[submodule "platform/external/python/pyopenssl"]
+	branch = master
+	path = external/python/pyopenssl
+	url = ../external/python/pyopenssl
 [submodule "platform/external/python/pyparsing"]
 	branch = master
 	path = external/python/pyparsing
