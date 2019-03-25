@@ -287,11 +287,14 @@
 /external/python/Pillow vts pdk
 /external/python/apitools pdk
 /external/python/appdirs vts pdk
+/external/python/asn1crypto pdk
 /external/python/atomicwrites pdk
 /external/python/attrs pdk
 /external/python/cachetools vts pdk
+/external/python/cffi pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
+/external/python/cryptography pdk
 /external/python/dateutil pdk
 /external/python/dill vts pdk
 /external/python/enum vts pdk
@@ -325,6 +328,8 @@
 /external/python/py pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
+/external/python/pycparser pdk
+/external/python/pyopenssl pdk
 /external/python/pyparsing vts pdk
 /external/python/pytest pdk
 /external/python/requests vts pdk
