@@ -7,9 +7,6 @@
 [submodule "platform/external/dokka"]
 	path = external/dokka
 	url = ../external/dokka
-[submodule "platform/external/flatbuffers"]
-	path = external/flatbuffers
-	url = ../external/flatbuffers
 [submodule "platform/external/jdiff"]
 	path = external/jdiff
 	url = ../external/jdiff
