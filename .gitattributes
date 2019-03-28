@@ -162,6 +162,7 @@
 /external/hyphenation-patterns pdk
 /external/icu pdk
 /external/ims pdk
+/external/iperf3 pdk
 /external/iproute2 pdk
 /external/ipsec-tools pdk
 /external/iptables pdk
