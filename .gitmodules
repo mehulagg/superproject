@@ -665,6 +665,10 @@
 	branch = master
 	path = external/ims
 	url = ../external/ims
+[submodule "platform/external/iperf3"]
+	branch = master
+	path = external/iperf3
+	url = ../external/iperf3
 [submodule "platform/external/iproute2"]
 	branch = master
 	path = external/iproute2
