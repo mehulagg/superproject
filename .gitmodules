@@ -817,10 +817,6 @@
 	branch = master
 	path = external/libdrm
 	url = ../external/libdrm
-[submodule "platform/external/libedit"]
-	branch = master
-	path = external/libedit
-	url = ../external/libedit
 [submodule "platform/external/libese"]
 	branch = master
 	path = external/libese
@@ -2515,11 +2511,6 @@
 	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
-[submodule "platform/prebuilts/libs/libedit"]
-	branch = master
-	shallow = true
-	path = prebuilts/libs/libedit
-	url = ../prebuilts/libs/libedit
 [submodule "platform/prebuilts/manifest-merger"]
 	branch = master
 	shallow = true

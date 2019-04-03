@@ -200,7 +200,6 @@
 /external/libdaemon pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
-/external/libedit pdk
 /external/libese pdk
 /external/libevent pdk
 /external/libexif pdk
@@ -616,7 +615,6 @@
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/ktlint
-/prebuilts/libs/libedit pdk-fs pdk-cw-fs
 /prebuilts/manifest-merger pdk
 /prebuilts/maven_repo/android pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
