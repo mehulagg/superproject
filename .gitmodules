@@ -1750,10 +1750,6 @@
 	branch = master
 	path = frameworks/opt/net/ims
 	url = ../frameworks/opt/net/ims
-[submodule "platform/frameworks/opt/net/lowpan"]
-	branch = master
-	path = frameworks/opt/net/lowpan
-	url = ../frameworks/opt/net/lowpan
 [submodule "platform/frameworks/opt/net/voip"]
 	branch = master
 	path = frameworks/opt/net/voip
