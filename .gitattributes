@@ -433,7 +433,6 @@
 /frameworks/opt/net/ethernet pdk-fs
 /frameworks/opt/net/ike pdk
 /frameworks/opt/net/ims pdk-fs pdk-cw-fs frameworks_ims
-/frameworks/opt/net/lowpan pdk-fs
 /frameworks/opt/net/voip pdk-fs pdk-cw-fs
 /frameworks/opt/net/wifi pdk
 /frameworks/opt/photoviewer pdk-fs pdk-cw-fs
