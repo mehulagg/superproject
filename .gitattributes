@@ -5,6 +5,7 @@
 /external/astc-codec
 /external/bluetooth/glib
 /external/boringssl
+/external/cares
 /external/yasm
 /external/curl
 /external/deqp
@@ -12,6 +13,7 @@
 /external/google-benchmark
 /external/google-breakpad
 /external/googletest
+/external/grpc
 /external/libffi
 /external/libpng
 /external/libvpx

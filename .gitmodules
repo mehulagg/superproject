@@ -27,6 +27,10 @@
 	shallow = true
 	path = external/boringssl
 	url = ../external/boringssl
+[submodule "platform/external/c-ares"]
+	branch = emu-master-dev
+	path = external/cares
+	url = ../external/c-ares
 [submodule "platform/external/chromium_org/third_party/yasm/source/patched-yasm"]
 	branch = emu-master-dev
 	path = external/yasm
@@ -54,6 +58,10 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/grpc-grpc"]
+	branch = emu-master-dev
+	path = external/grpc
+	url = ../external/grpc-grpc
 [submodule "platform/external/libffi"]
 	branch = emu-master-dev
 	path = external/libffi
