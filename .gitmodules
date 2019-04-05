@@ -437,10 +437,6 @@
 	branch = pie-cuttlefish-testing
 	path = external/doclava
 	url = ../external/doclava
-[submodule "platform/external/drm_gralloc"]
-	branch = pie-cuttlefish-testing
-	path = external/drm_gralloc
-	url = ../external/drm_gralloc
 [submodule "platform/external/drm_hwcomposer"]
 	branch = pie-cuttlefish-testing
 	path = external/drm_hwcomposer

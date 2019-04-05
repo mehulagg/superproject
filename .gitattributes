@@ -106,7 +106,6 @@
 /external/dng_sdk pdk
 /external/dnsmasq pdk
 /external/doclava pdk
-/external/drm_gralloc pdk
 /external/drm_hwcomposer pdk-fs drm_hwcomposer
 /external/droiddriver pdk
 /external/drrickorang pdk
