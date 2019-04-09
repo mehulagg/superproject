@@ -30,6 +30,10 @@
 	branch = master
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
+[submodule "platform/external/bazelbuild-remote-apis"]
+	branch = master
+	path = external/bazelbuild-remote-apis
+	url = ../external/bazelbuild-remote-apis
 [submodule "platform/external/bison"]
 	branch = master
 	path = external/bison
@@ -75,6 +79,10 @@
 	branch = master
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
+[submodule "platform/external/googleapis"]
+	branch = master
+	path = external/googleapis
+	url = ../external/googleapis
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest

@@ -6,6 +6,7 @@
 /dalvik
 /development
 /external/arm-optimized-routines
+/external/bazelbuild-remote-apis
 /external/bison
 /external/boringssl
 /external/bzip2
@@ -17,6 +18,7 @@
 /external/expat
 /external/flex
 /external/golang-protobuf
+/external/googleapis
 /external/googletest
 /external/icu
 /external/jemalloc
