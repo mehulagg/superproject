@@ -171,6 +171,7 @@
 /external/jacoco pdk
 /external/jarjar pdk
 /external/javaparser pdk
+/external/javapoet pdk
 /external/javasqlite pdk
 /external/jcommander pdk
 /external/jdiff pdk
