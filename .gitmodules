@@ -171,6 +171,10 @@
 	branch = master
 	path = external/jarjar
 	url = ../external/jarjar
+[submodule "platform/external/javapoet"]
+	branch = master
+	path = external/javapoet
+	url = ../external/javapoet
 [submodule "platform/external/javasqlite"]
 	branch = master
 	path = external/javasqlite

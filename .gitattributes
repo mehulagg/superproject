@@ -41,6 +41,7 @@
 /external/hamcrest pdk
 /external/icu pdk
 /external/jarjar pdk
+/external/javapoet pdk
 /external/javasqlite pdk
 /external/jcommander pdk
 /external/jemalloc pdk
