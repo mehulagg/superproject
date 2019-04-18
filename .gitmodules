@@ -105,7 +105,7 @@
 	path = device/google/cuttlefish_common
 	url = ../../device/google/cuttlefish_common
 [submodule "device/google/cuttlefish_kernel"]
-	branch = cuttlefish-testing
+	branch = master-cuttlefish-testing
 	shallow = true
 	path = device/google/cuttlefish_kernel
 	url = ../../device/google/cuttlefish_kernel
