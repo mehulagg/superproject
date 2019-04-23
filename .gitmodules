@@ -1,0 +1,60 @@
+[submodule "platform/external/googletest"]
+	branch = master
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/modp_b64"]
+	branch = master
+	path = external/modp_b64
+	url = ../external/modp_b64
+[submodule "platform/external/nanopb-c"]
+	branch = master
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "platform/external/protobuf"]
+	branch = master
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/frameworks/opt/gamesdk"]
+	branch = master
+	path = gamesdk
+	url = ../frameworks/opt/gamesdk
+[submodule "platform/prebuilts/cmake/linux-x86"]
+	branch = master
+	path = prebuilts/cmake/linux-x86
+	url = ../prebuilts/cmake/linux-x86
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/26.0.1"]
+	branch = master
+	path = prebuilts/sdk/build-tools/26.0.1
+	url = ../prebuilts/fullsdk-linux/build-tools/26.0.1
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.3"]
+	branch = master
+	path = prebuilts/sdk/build-tools/28.0.3
+	url = ../prebuilts/fullsdk-linux/build-tools/28.0.3
+[submodule "platform/prebuilts/fullsdk/platforms/android-26"]
+	branch = master
+	path = prebuilts/sdk/platforms/android-26
+	url = ../prebuilts/fullsdk/platforms/android-26
+[submodule "platform/prebuilts/fullsdk/platforms/android-28"]
+	branch = master
+	path = prebuilts/sdk/platforms/android-28
+	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "toolchain/prebuilts/ndk/r13"]
+	branch = master
+	path = prebuilts/ndk/r13
+	url = ../../toolchain/prebuilts/ndk/r13
+[submodule "toolchain/prebuilts/ndk/r14"]
+	branch = master
+	path = prebuilts/ndk/r14
+	url = ../../toolchain/prebuilts/ndk/r14
+[submodule "toolchain/prebuilts/ndk/r15"]
+	branch = master
+	path = prebuilts/ndk/r15
+	url = ../../toolchain/prebuilts/ndk/r15
+[submodule "toolchain/prebuilts/ndk/r16"]
+	branch = master
+	path = prebuilts/ndk/r16
+	url = ../../toolchain/prebuilts/ndk/r16
+[submodule "toolchain/prebuilts/ndk/r17"]
+	branch = master
+	path = prebuilts/ndk/r17
+	url = ../../toolchain/prebuilts/ndk/r17
