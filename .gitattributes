@@ -13,6 +13,7 @@
 /external/shaderc/spirv-headers presubmit
 /external/shaderc/spirv-tools presubmit
 /external/vulkan-headers presubmit
+/external/vulkan-tools presubmit
 /external/vulkan-validation-layers presubmit
 /ndk presubmit
 /prebuilts/clang/host/darwin-x86

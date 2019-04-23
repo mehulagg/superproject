@@ -58,6 +58,10 @@
 	branch = ndk-release-r20
 	path = external/vulkan-headers
 	url = ../external/vulkan-headers
+[submodule "platform/external/vulkan-tools"]
+	branch = ndk-release-r20
+	path = external/vulkan-tools
+	url = ../external/vulkan-tools
 [submodule "platform/external/vulkan-validation-layers"]
 	branch = ndk-release-r20
 	path = external/vulkan-validation-layers
