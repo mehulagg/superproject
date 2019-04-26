@@ -1,0 +1,3 @@
+include ':emulator'
+project(':emulator').projectDir = new File(rootDir.getParentFile(), "external/qemu")
+
