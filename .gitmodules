@@ -2347,6 +2347,11 @@
 	shallow = true
 	path = prebuilts/abi-dumps/ndk
 	url = ../prebuilts/abi-dumps/ndk
+[submodule "platform/prebuilts/abi-dumps/platform"]
+	branch = master
+	shallow = true
+	path = prebuilts/abi-dumps/platform
+	url = ../prebuilts/abi-dumps/platform
 [submodule "platform/prebuilts/abi-dumps/vndk"]
 	branch = master
 	shallow = true
