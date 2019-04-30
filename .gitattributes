@@ -582,6 +582,7 @@
 /pdk pdk
 /platform_testing pdk-fs cts pdk-cw-fs
 /prebuilts/abi-dumps/ndk pdk-fs
+/prebuilts/abi-dumps/platform pdk-fs
 /prebuilts/abi-dumps/vndk pdk-fs
 /prebuilts/android-emulator pdk-fs
 /prebuilts/asuite pdk
