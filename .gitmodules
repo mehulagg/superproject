@@ -2762,6 +2762,10 @@
 	branch = master
 	path = test/mlts/models
 	url = ../test/mlts/models
+[submodule "platform/test/mts"]
+	branch = master
+	path = test/mts
+	url = ../test/mts
 [submodule "platform/test/suite_harness"]
 	branch = master
 	path = test/suite_harness
