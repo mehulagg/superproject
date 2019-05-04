@@ -674,6 +674,7 @@
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
+/test/mts
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /test/vti/alert vts projectarch
 /test/vti/dashboard vts projectarch
