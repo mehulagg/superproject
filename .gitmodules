@@ -1273,6 +1273,10 @@
 	branch = master
 	path = external/python/httplib2
 	url = ../external/python/httplib2
+[submodule "platform/external/python/ipaddress"]
+	branch = master
+	path = external/python/ipaddress
+	url = ../external/python/ipaddress
 [submodule "platform/external/python/matplotlib"]
 	branch = master
 	path = external/python/matplotlib

@@ -314,6 +314,7 @@
 /external/python/grpc-google-iam-v1 vts pdk
 /external/python/grpcio vts pdk
 /external/python/httplib2 vts pdk
+/external/python/ipaddress pdk
 /external/python/matplotlib vts pdk
 /external/python/mock pdk
 /external/python/more-itertools pdk
