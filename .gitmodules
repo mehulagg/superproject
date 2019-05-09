@@ -79,6 +79,19 @@
 	branch = master
 	path = device/google/atv
 	url = ../../device/google/atv
+[submodule "device/google/bonito"]
+	branch = master
+	path = device/google/bonito
+	url = ../../device/google/bonito
+[submodule "device/google/bonito-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/bonito-kernel
+	url = ../../device/google/bonito-kernel
+[submodule "device/google/bonito-sepolicy"]
+	branch = master
+	path = device/google/bonito-sepolicy
+	url = ../../device/google/bonito-sepolicy
 [submodule "device/google/contexthub"]
 	branch = master
 	path = device/google/contexthub
@@ -1818,6 +1831,10 @@
 	branch = master
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
+[submodule "platform/hardware/google/pixel"]
+	branch = master
+	path = hardware/google/pixel
+	url = ../hardware/google/pixel
 [submodule "platform/hardware/interfaces"]
 	branch = master
 	path = hardware/interfaces
@@ -1918,6 +1935,30 @@
 	branch = master
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
+[submodule "platform/hardware/qcom/sdm710/data/ipacfg-mgr"]
+	branch = master
+	path = hardware/qcom/sdm710/data/ipacfg-mgr
+	url = ../hardware/qcom/sdm710/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/sdm710/display"]
+	branch = master
+	path = hardware/qcom/sdm710/display
+	url = ../hardware/qcom/sdm710/display
+[submodule "platform/hardware/qcom/sdm710/gps"]
+	branch = master
+	path = hardware/qcom/sdm710/gps
+	url = ../hardware/qcom/sdm710/gps
+[submodule "platform/hardware/qcom/sdm710/media"]
+	branch = master
+	path = hardware/qcom/sdm710/media
+	url = ../hardware/qcom/sdm710/media
+[submodule "platform/hardware/qcom/sdm710/thermal"]
+	branch = master
+	path = hardware/qcom/sdm710/thermal
+	url = ../hardware/qcom/sdm710/thermal
+[submodule "platform/hardware/qcom/sdm710/vr"]
+	branch = master
+	path = hardware/qcom/sdm710/vr
+	url = ../hardware/qcom/sdm710/vr
 [submodule "platform/hardware/qcom/sdm845/bt"]
 	branch = master
 	path = hardware/qcom/sdm845/bt
