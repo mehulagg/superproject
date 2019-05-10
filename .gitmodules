@@ -1,3 +1,7 @@
+[submodule "platform/external/jetbrains/JetBrainsRuntime"]
+	branch = master
+	path = external/jetbrains/JetBrainsRuntime
+	url = ../external/jetbrains/JetBrainsRuntime
 [submodule "platform/external/jetbrains/jdk8u"]
 	branch = master
 	path = external/jetbrains/jdk8u
