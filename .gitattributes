@@ -20,6 +20,9 @@
 /device/google/accessory/arduino pdk device
 /device/google/accessory/demokit pdk device
 /device/google/atv broadcom_pdk generic_fs pdk device
+/device/google/bonito bonito device
+/device/google/bonito-kernel bonito device
+/device/google/bonito-sepolicy bonito device
 /device/google/contexthub pdk device marlin
 /device/google/crosshatch crosshatch device
 /device/google/crosshatch-kernel crosshatch device
@@ -428,6 +431,7 @@
 /hardware/google/av pdk
 /hardware/google/easel easel pdk
 /hardware/google/interfaces pdk
+/hardware/google/pixel crosshatch bonito
 /hardware/intel/audio_media pdk intel
 /hardware/intel/bootstub pdk intel
 /hardware/intel/common/bd_prov pdk intel
@@ -468,6 +472,12 @@
 /hardware/qcom/msm8x84 qcom_msm8x84 pdk-qcom
 /hardware/qcom/neuralnetworks/hvxservice wahoo
 /hardware/qcom/power qcom pdk-qcom
+/hardware/qcom/sdm710/data/ipacfg-mgr vendor qcom_sdm710
+/hardware/qcom/sdm710/display qcom_sdm710
+/hardware/qcom/sdm710/gps qcom_sdm710
+/hardware/qcom/sdm710/media qcom_sdm710
+/hardware/qcom/sdm710/thermal qcom_sdm710
+/hardware/qcom/sdm710/vr qcom_sdm710
 /hardware/qcom/sdm845/bt qcom_sdm845
 /hardware/qcom/sdm845/data/ipacfg-mgr vendor qcom_sdm845
 /hardware/qcom/sdm845/display qcom_sdm845

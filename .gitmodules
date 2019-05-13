@@ -86,6 +86,19 @@
 	branch = pie-platform-release
 	path = device/google/atv
 	url = ../../device/google/atv
+[submodule "device/google/bonito"]
+	branch = pie-platform-release
+	path = device/google/bonito
+	url = ../../device/google/bonito
+[submodule "device/google/bonito-kernel"]
+	branch = pie-platform-release
+	shallow = true
+	path = device/google/bonito-kernel
+	url = ../../device/google/bonito-kernel
+[submodule "device/google/bonito-sepolicy"]
+	branch = pie-platform-release
+	path = device/google/bonito-sepolicy
+	url = ../../device/google/bonito-sepolicy
 [submodule "device/google/contexthub"]
 	branch = pie-platform-release
 	path = device/google/contexthub
@@ -1727,6 +1740,10 @@
 	branch = pie-platform-release
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
+[submodule "platform/hardware/google/pixel"]
+	branch = pie-platform-release
+	path = hardware/google/pixel
+	url = ../hardware/google/pixel
 [submodule "platform/hardware/intel/audio_media"]
 	branch = pie-platform-release
 	path = hardware/intel/audio_media
@@ -1887,6 +1904,30 @@
 	branch = pie-platform-release
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
+[submodule "platform/hardware/qcom/sdm710/data/ipacfg-mgr"]
+	branch = pie-platform-release
+	path = hardware/qcom/sdm710/data/ipacfg-mgr
+	url = ../hardware/qcom/sdm710/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/sdm710/display"]
+	branch = pie-platform-release
+	path = hardware/qcom/sdm710/display
+	url = ../hardware/qcom/sdm710/display
+[submodule "platform/hardware/qcom/sdm710/gps"]
+	branch = pie-platform-release
+	path = hardware/qcom/sdm710/gps
+	url = ../hardware/qcom/sdm710/gps
+[submodule "platform/hardware/qcom/sdm710/media"]
+	branch = pie-platform-release
+	path = hardware/qcom/sdm710/media
+	url = ../hardware/qcom/sdm710/media
+[submodule "platform/hardware/qcom/sdm710/thermal"]
+	branch = pie-platform-release
+	path = hardware/qcom/sdm710/thermal
+	url = ../hardware/qcom/sdm710/thermal
+[submodule "platform/hardware/qcom/sdm710/vr"]
+	branch = pie-platform-release
+	path = hardware/qcom/sdm710/vr
+	url = ../hardware/qcom/sdm710/vr
 [submodule "platform/hardware/qcom/sdm845/bt"]
 	branch = pie-platform-release
 	path = hardware/qcom/sdm845/bt
