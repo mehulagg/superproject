@@ -12,11 +12,6 @@
 	shallow = true
 	path = external/dokka
 	url = ../external/dokka
-[submodule "platform/external/jdiff"]
-	branch = master
-	shallow = true
-	path = external/jdiff
-	url = ../external/jdiff
 [submodule "platform/external/noto-fonts"]
 	branch = master
 	shallow = true
