@@ -405,7 +405,7 @@
 	path = external/devlib
 	url = ../external/devlib
 [submodule "platform/external/dexmaker"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = external/dexmaker
 	url = ../external/dexmaker
 [submodule "platform/external/dhcpcd-6.8.2"]
