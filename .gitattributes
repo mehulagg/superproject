@@ -26,6 +26,7 @@
 /toolchain/libcxxabi
 /toolchain/lld
 /toolchain/llvm
+/toolchain/llvm-project
 /toolchain/llvm_android
 /toolchain/openmp_llvm
 /toolchain/prebuilts/ndk/r16

@@ -110,6 +110,10 @@
 	branch = master
 	path = toolchain/llvm
 	url = ../../toolchain/llvm
+[submodule "toolchain/llvm-project"]
+	branch = master
+	path = toolchain/llvm-project
+	url = ../../toolchain/llvm-project
 [submodule "toolchain/llvm_android"]
 	branch = master
 	path = toolchain/llvm_android
