@@ -103,6 +103,10 @@
 	shallow = true
 	path = device/google/cuttlefish_kernel
 	url = ../../device/google/cuttlefish_kernel
+[submodule "device/google/cuttlefish_vmm"]
+	branch = pie-gsi
+	path = device/google/cuttlefish_vmm
+	url = ../../device/google/cuttlefish_vmm
 [submodule "device/google/marlin"]
 	branch = pie-gsi
 	path = device/google/marlin
