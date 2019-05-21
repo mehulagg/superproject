@@ -1487,10 +1487,6 @@
 	branch = master
 	path = external/speex
 	url = ../external/speex
-[submodule "platform/external/spirv-llvm"]
-	branch = master
-	path = external/spirv-llvm
-	url = ../external/spirv-llvm
 [submodule "platform/external/sqlite"]
 	branch = master
 	path = external/sqlite
