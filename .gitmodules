@@ -674,6 +674,10 @@
 	branch = master
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/igt-gpu-tools"]
+	branch = master
+	path = external/igt-gpu-tools
+	url = ../external/igt-gpu-tools
 [submodule "platform/external/ims"]
 	branch = master
 	path = external/ims

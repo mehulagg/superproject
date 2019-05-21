@@ -164,6 +164,7 @@
 /external/honggfuzz pdk
 /external/hyphenation-patterns pdk
 /external/icu pdk
+/external/igt-gpu-tools pdk
 /external/ims pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
