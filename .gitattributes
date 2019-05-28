@@ -51,6 +51,7 @@
 /toolchain/gdb presubmit
 /toolchain/gmp presubmit
 /toolchain/isl presubmit
+/toolchain/make presubmit
 /toolchain/mpc presubmit
 /toolchain/mpfr presubmit
 /toolchain/ppl presubmit

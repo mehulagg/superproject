@@ -209,6 +209,10 @@
 	branch = master
 	path = toolchain/isl
 	url = ../../toolchain/isl
+[submodule "toolchain/make"]
+	branch = master
+	path = toolchain/make
+	url = ../../toolchain/make
 [submodule "toolchain/mpc"]
 	branch = master
 	path = toolchain/mpc
