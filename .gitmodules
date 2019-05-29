@@ -7,9 +7,6 @@
 [submodule "platform/external/dokka"]
 	path = external/dokka
 	url = ../external/dokka
-[submodule "platform/external/jdiff"]
-	path = external/jdiff
-	url = ../external/jdiff
 [submodule "platform/external/noto-fonts"]
 	path = external/noto-fonts
 	url = ../external/noto-fonts
