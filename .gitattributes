@@ -107,6 +107,7 @@
 /external/cn-cbor pdk
 /external/compiler-rt pdk
 /external/conscrypt pdk
+/external/cpu_features pdk
 /external/crcalc pdk
 /external/cros/system_api pdk
 /external/curl pdk
