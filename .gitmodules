@@ -446,6 +446,10 @@
 	branch = master
 	path = external/conscrypt
 	url = ../external/conscrypt
+[submodule "platform/external/cpu_features"]
+	branch = master
+	path = external/cpu_features
+	url = ../external/cpu_features
 [submodule "platform/external/crcalc"]
 	branch = master
 	path = external/crcalc
