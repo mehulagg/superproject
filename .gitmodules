@@ -38,6 +38,10 @@
 	branch = master
 	path = prebuilts/sdk/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "platform/tools/repohooks"]
+	branch = master
+	path = tools/repohooks
+	url = ../tools/repohooks
 [submodule "toolchain/prebuilts/ndk/r13"]
 	branch = master
 	path = prebuilts/ndk/r13

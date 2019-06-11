@@ -8,6 +8,7 @@
 /prebuilts/sdk/build-tools/28.0.3
 /prebuilts/sdk/platforms/android-26
 /prebuilts/sdk/platforms/android-28
+/tools/repohooks
 /prebuilts/ndk/r13
 /prebuilts/ndk/r14
 /prebuilts/ndk/r15
