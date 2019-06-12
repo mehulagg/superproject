@@ -566,6 +566,10 @@
 	branch = master
 	path = external/flatbuffers
 	url = ../external/flatbuffers
+[submodule "platform/external/fmtlib"]
+	branch = master
+	path = external/fmtlib
+	url = ../external/fmtlib
 [submodule "platform/external/fonttools"]
 	branch = master
 	path = external/fonttools
