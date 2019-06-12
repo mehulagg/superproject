@@ -137,6 +137,7 @@
 /external/fec pdk
 /external/flac pdk
 /external/flatbuffers pdk
+/external/fmtlib pdk
 /external/fonttools pdk
 /external/freetype pdk
 /external/fsck_msdos pdk
