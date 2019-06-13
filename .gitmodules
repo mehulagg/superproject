@@ -2807,6 +2807,10 @@
 	branch = master
 	path = system/tools/hidl
 	url = ../system/tools/hidl
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	path = system/tools/mkbootimg
+	url = ../system/tools/mkbootimg
 [submodule "platform/system/tools/sysprop"]
 	branch = master
 	path = system/tools/sysprop
