@@ -683,6 +683,7 @@
 /system/timezone pdk
 /system/tools/aidl pdk
 /system/tools/hidl pdk
+/system/tools/mkbootimg pdk
 /system/tools/sysprop pdk
 /system/tools/xsdc pdk
 /system/ucontainer pdk
