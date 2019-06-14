@@ -7,6 +7,7 @@
 /development
 /external/clang
 /external/compiler-rt
+/external/fmtlib
 /external/golang-protobuf
 /external/googletest
 /external/jsoncpp

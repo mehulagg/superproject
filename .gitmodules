@@ -34,6 +34,10 @@
 	branch = master
 	path = external/compiler-rt
 	url = ../external/compiler-rt
+[submodule "platform/external/fmtlib"]
+	branch = master
+	path = external/fmtlib
+	url = ../external/fmtlib
 [submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf
