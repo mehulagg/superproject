@@ -35,6 +35,7 @@
 /external/f2fs-tools pdk
 /external/fdlibm pdk
 /external/fec pdk
+/external/fmtlib pdk
 /external/golang-protobuf pdk
 /external/google-styleguide pdk
 /external/googletest pdk
