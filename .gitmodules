@@ -75,6 +75,10 @@
 	branch = master
 	path = external/flex
 	url = ../external/flex
+[submodule "platform/external/fmtlib"]
+	branch = master
+	path = external/fmtlib
+	url = ../external/fmtlib
 [submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf

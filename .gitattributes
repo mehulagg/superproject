@@ -17,6 +17,7 @@
 /external/error_prone
 /external/expat
 /external/flex
+/external/fmtlib
 /external/golang-protobuf
 /external/googleapis
 /external/googletest
