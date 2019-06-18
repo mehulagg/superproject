@@ -1422,10 +1422,6 @@
 	branch = master
 	path = external/rmi4utils
 	url = ../external/rmi4utils
-[submodule "platform/external/robolectric"]
-	branch = master
-	path = external/robolectric
-	url = ../external/robolectric
 [submodule "platform/external/robolectric-shadows"]
 	branch = master
 	path = external/robolectric-shadows
