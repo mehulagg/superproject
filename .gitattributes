@@ -736,16 +736,8 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs tools
 /toolchain/benchmark
 /toolchain/binutils
-/toolchain/clang
-/toolchain/clang-tools-extra
-/toolchain/compiler-rt
-/toolchain/libcxx
-/toolchain/libcxxabi
-/toolchain/lld
-/toolchain/llvm
 /toolchain/llvm-project
 /toolchain/llvm_android
-/toolchain/openmp_llvm
 /toolchain/pgo-profiles pdk
 /toolchain/prebuilts/ndk/r15
 /toolchain/prebuilts/ndk/r16
