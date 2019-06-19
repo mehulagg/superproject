@@ -18,6 +18,10 @@
 	branch = master
 	path = gamesdk
 	url = ../frameworks/opt/gamesdk
+[submodule "platform/prebuilts/cmake/darwin-x86"]
+	branch = master
+	path = prebuilts/cmake/darwin-x86
+	url = ../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
 	branch = master
 	path = prebuilts/cmake/linux-x86
