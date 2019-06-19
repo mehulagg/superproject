@@ -18,10 +18,6 @@
 	branch = master
 	path = prebuilts/clang/host/windows-x86
 	url = ../prebuilts/clang/host/windows-x86
-[submodule "platform/prebuilts/clang/host/windows-x86_32"]
-	branch = master
-	path = prebuilts/clang/host/windows-x86_32
-	url = ../prebuilts/clang/host/windows-x86_32
 [submodule "platform/prebuilts/cmake/darwin-x86"]
 	branch = master
 	path = prebuilts/cmake/darwin-x86
