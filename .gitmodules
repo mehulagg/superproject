@@ -3004,3 +3004,7 @@
 	branch = master
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
+[submodule "toolchain/rustc"]
+	branch = master
+	path = toolchain/rustc
+	url = ../../toolchain/rustc

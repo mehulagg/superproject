@@ -734,3 +734,4 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs tools
 /toolchain/benchmark
 /toolchain/pgo-profiles pdk
+/toolchain/rustc
