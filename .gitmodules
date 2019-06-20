@@ -66,3 +66,11 @@
 	branch = master
 	path = prebuilts/ndk/r17
 	url = ../../toolchain/prebuilts/ndk/r17
+[submodule "toolchain/prebuilts/ndk/r18"]
+	branch = master
+	path = prebuilts/ndk/r18
+	url = ../../toolchain/prebuilts/ndk/r18
+[submodule "toolchain/prebuilts/ndk/r19"]
+	branch = master
+	path = prebuilts/ndk/r19
+	url = ../../toolchain/prebuilts/ndk/r19
