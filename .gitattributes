@@ -110,6 +110,7 @@
 /external/cpu_features pdk
 /external/crcalc pdk
 /external/cros/system_api pdk
+/external/crosvm pdk
 /external/curl pdk
 /external/dagger2 pdk
 /external/deqp pdk-fs
@@ -354,6 +355,9 @@
 /external/robolectric-shadows pdk-fs pdk-cw-fs
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/crates/byteorder pdk
+/external/rust/crates/libc pdk
+/external/rust/crates/remain pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/seccomp-tests pdk
@@ -641,6 +645,7 @@
 /prebuilts/python/linux-x86/2.7.5 pdk-fs pdk-cw-fs pdk linux
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk
+/prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
 /prebuilts/vndk/v27 pdk
