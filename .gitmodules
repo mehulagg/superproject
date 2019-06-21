@@ -458,6 +458,10 @@
 	branch = master
 	path = external/cros/system_api
 	url = ../external/cros/system_api
+[submodule "platform/external/crosvm"]
+	branch = master
+	path = external/crosvm
+	url = ../external/crosvm
 [submodule "platform/external/curl"]
 	branch = master
 	path = external/curl
@@ -1434,6 +1438,18 @@
 	branch = master
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/byteorder"]
+	branch = master
+	path = external/rust/crates/byteorder
+	url = ../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/libc"]
+	branch = master
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/remain"]
+	branch = master
+	path = external/rust/crates/remain
+	url = ../external/rust/crates/remain
 [submodule "platform/external/scapy"]
 	branch = master
 	path = external/scapy
@@ -2635,6 +2651,11 @@
 	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
 	branch = master
 	shallow = true
