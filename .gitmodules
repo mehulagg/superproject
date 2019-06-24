@@ -1,0 +1,66 @@
+[submodule "platform/build"]
+	path = build/make
+	url = ../build
+[submodule "platform/external/doclava"]
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/dokka"]
+	path = external/dokka
+	url = ../external/dokka
+[submodule "platform/external/noto-fonts"]
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "platform/external/webview_support_interfaces"]
+	path = external/webview_support_interfaces
+	url = ../external/webview_support_interfaces
+[submodule "platform/frameworks/support"]
+	path = frameworks/support
+	url = ../frameworks/support
+[submodule "platform/prebuilts/androidx/exoplayer"]
+	path = prebuilts/androidx/exoplayer
+	url = ../prebuilts/androidx/exoplayer
+[submodule "platform/prebuilts/androidx/external"]
+	path = prebuilts/androidx/external
+	url = ../prebuilts/androidx/external
+[submodule "platform/prebuilts/androidx/internal"]
+	path = prebuilts/androidx/internal
+	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/checkstyle"]
+	path = prebuilts/checkstyle
+	url = ../prebuilts/checkstyle
+[submodule "platform/prebuilts/fullsdk-darwin/build-tools/28.0.3"]
+	path = prebuilts/fullsdk-darwin/build-tools/28.0.3
+	url = ../prebuilts/fullsdk-darwin/build-tools/28.0.3
+[submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
+	path = prebuilts/fullsdk-darwin/platform-tools
+	url = ../prebuilts/fullsdk-darwin/platform-tools
+[submodule "platform/prebuilts/fullsdk-darwin/tools"]
+	path = prebuilts/fullsdk-darwin/tools
+	url = ../prebuilts/fullsdk-darwin/tools
+[submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.3"]
+	path = prebuilts/fullsdk-linux/build-tools/28.0.3
+	url = ../prebuilts/fullsdk-linux/build-tools/28.0.3
+[submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
+	path = prebuilts/fullsdk-linux/platform-tools
+	url = ../prebuilts/fullsdk-linux/platform-tools
+[submodule "platform/prebuilts/fullsdk-linux/tools"]
+	path = prebuilts/fullsdk-linux/tools
+	url = ../prebuilts/fullsdk-linux/tools
+[submodule "platform/prebuilts/fullsdk/platforms/android-28"]
+	path = prebuilts/fullsdk-darwin/platforms/android-28
+	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "platform/prebuilts/fullsdk/sources/android-28"]
+	path = prebuilts/fullsdk-darwin/sources/android-28
+	url = ../prebuilts/fullsdk/sources/android-28
+[submodule "platform/prebuilts/jdk/jdk8"]
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "platform/prebuilts/ktlint"]
+	path = prebuilts/ktlint
+	url = ../prebuilts/ktlint
+[submodule "platform/tools/external/gradle"]
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/repohooks"]
+	path = tools/repohooks
+	url = ../tools/repohooks
