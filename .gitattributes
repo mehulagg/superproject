@@ -1,0 +1,24 @@
+/build/make
+/external/doclava pdk
+/external/dokka pdk
+/external/noto-fonts pdk
+/external/webview_support_interfaces pdk
+/frameworks/support pdk-fs pdk-cw-fs
+/prebuilts/androidx/exoplayer pdk
+/prebuilts/androidx/external pdk
+/prebuilts/androidx/internal pdk
+/prebuilts/checkstyle pdk-fs
+/prebuilts/fullsdk-darwin/build-tools/28.0.3 notdefault platform-darwin
+/prebuilts/fullsdk-darwin/platform-tools notdefault platform-darwin
+/prebuilts/fullsdk-darwin/tools notdefault platform-darwin
+/prebuilts/fullsdk-linux/build-tools/28.0.3 platform-linux notdefault
+/prebuilts/fullsdk-linux/platform-tools platform-linux notdefault
+/prebuilts/fullsdk-linux/tools platform-linux notdefault
+/prebuilts/fullsdk-darwin/platforms/android-28
+/prebuilts/fullsdk-darwin/platforms/android-29
+/prebuilts/fullsdk-darwin/sources/android-28
+/prebuilts/fullsdk-darwin/sources/android-29
+/prebuilts/jdk/jdk8 pdk
+/prebuilts/ktlint pdk-fs
+/tools/external/gradle tools
+/tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
