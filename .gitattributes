@@ -744,5 +744,4 @@
 /toolchain/llvm-project
 /toolchain/llvm_android
 /toolchain/pgo-profiles pdk
-/toolchain/prebuilts/ndk/r15
 /toolchain/prebuilts/ndk/r16

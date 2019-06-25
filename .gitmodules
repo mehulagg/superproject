@@ -3045,10 +3045,6 @@
 	branch = master
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
-[submodule "toolchain/prebuilts/ndk/r15"]
-	branch = master
-	path = toolchain/prebuilts/ndk/r15
-	url = ../../toolchain/prebuilts/ndk/r15
 [submodule "toolchain/prebuilts/ndk/r16"]
 	branch = master
 	path = toolchain/prebuilts/ndk/r16
