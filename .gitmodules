@@ -28,9 +28,6 @@
 [submodule "platform/prebuilts/checkstyle"]
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
-[submodule "platform/prebuilts/fullsdk-darwin/build-tools/28.0.2"]
-	path = prebuilts/fullsdk-darwin/build-tools/28.0.2
-	url = ../prebuilts/fullsdk-darwin/build-tools/28.0.2
 [submodule "platform/prebuilts/fullsdk-darwin/build-tools/28.0.3"]
 	path = prebuilts/fullsdk-darwin/build-tools/28.0.3
 	url = ../prebuilts/fullsdk-darwin/build-tools/28.0.3
@@ -40,9 +37,6 @@
 [submodule "platform/prebuilts/fullsdk-darwin/tools"]
 	path = prebuilts/fullsdk-darwin/tools
 	url = ../prebuilts/fullsdk-darwin/tools
-[submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.2"]
-	path = prebuilts/fullsdk-linux/build-tools/28.0.2
-	url = ../prebuilts/fullsdk-linux/build-tools/28.0.2
 [submodule "platform/prebuilts/fullsdk-linux/build-tools/28.0.3"]
 	path = prebuilts/fullsdk-linux/build-tools/28.0.3
 	url = ../prebuilts/fullsdk-linux/build-tools/28.0.3
@@ -55,9 +49,15 @@
 [submodule "platform/prebuilts/fullsdk/platforms/android-28"]
 	path = prebuilts/fullsdk-darwin/platforms/android-28
 	url = ../prebuilts/fullsdk/platforms/android-28
+[submodule "platform/prebuilts/fullsdk/platforms/android-29"]
+	path = prebuilts/fullsdk-darwin/platforms/android-29
+	url = ../prebuilts/fullsdk/platforms/android-29
 [submodule "platform/prebuilts/fullsdk/sources/android-28"]
 	path = prebuilts/fullsdk-darwin/sources/android-28
 	url = ../prebuilts/fullsdk/sources/android-28
+[submodule "platform/prebuilts/fullsdk/sources/android-29"]
+	path = prebuilts/fullsdk-darwin/sources/android-29
+	url = ../prebuilts/fullsdk/sources/android-29
 [submodule "platform/prebuilts/jdk/jdk8"]
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
