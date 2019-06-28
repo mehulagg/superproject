@@ -91,6 +91,10 @@
 	branch = master
 	path = external/googletest
 	url = ../external/googletest
+[submodule "platform/external/guava"]
+	branch = master
+	path = external/guava
+	url = ../external/guava
 [submodule "platform/external/icu"]
 	branch = master
 	path = external/icu
@@ -103,6 +107,14 @@
 	branch = master
 	path = external/jsoncpp
 	url = ../external/jsoncpp
+[submodule "platform/external/jsr305"]
+	branch = master
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/kythe"]
+	branch = master
+	path = external/kythe
+	url = ../external/kythe
 [submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx
@@ -264,6 +276,11 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
 [submodule "platform/system/core"]
 	branch = master
 	path = system/core
