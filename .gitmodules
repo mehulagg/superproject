@@ -129,6 +129,10 @@
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = master
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
