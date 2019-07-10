@@ -17,6 +17,10 @@
 	branch = master
 	path = prebuilts/rust
 	url = ../prebuilts/rust
+[submodule "toolchain/android_rust"]
+	branch = master
+	path = toolchain/android_rust
+	url = ../../toolchain/android_rust
 [submodule "toolchain/rustc"]
 	branch = master
 	path = toolchain/rustc
