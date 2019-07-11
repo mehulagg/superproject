@@ -105,7 +105,7 @@
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
 [submodule "platform/tools/external/gradle"]
-	branch = 5.4
+	branch = 5.5
 	shallow = true
 	path = tools/external/gradle
 	url = ../tools/external/gradle
