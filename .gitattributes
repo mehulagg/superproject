@@ -208,6 +208,7 @@
 /external/libdaemon pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
+/external/libepoxy pdk
 /external/libese pdk
 /external/libevent pdk
 /external/libexif pdk
