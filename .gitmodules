@@ -850,6 +850,10 @@
 	branch = master
 	path = external/libdrm
 	url = ../external/libdrm
+[submodule "platform/external/libepoxy"]
+	branch = master
+	path = external/libepoxy
+	url = ../external/libepoxy
 [submodule "platform/external/libese"]
 	branch = master
 	path = external/libese
