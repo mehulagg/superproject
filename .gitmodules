@@ -1,3 +1,8 @@
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/clang/host/linux-x86"]
 	branch = master
 	shallow = true
