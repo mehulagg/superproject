@@ -746,3 +746,4 @@
 /toolchain/llvm_android
 /toolchain/pgo-profiles pdk
 /toolchain/prebuilts/ndk/r16
+/toolchain/prebuilts/ndk/r20
