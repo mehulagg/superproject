@@ -39,6 +39,11 @@
 	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/studio"]
+	branch = androidx-master-dev
+	shallow = true
+	path = prebuilts/androidx/studio
+	url = ../prebuilts/androidx/studio
 [submodule "platform/prebuilts/checkstyle"]
 	branch = master
 	shallow = true
