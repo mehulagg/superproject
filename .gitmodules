@@ -298,7 +298,7 @@
 	path = external/adeb
 	url = ../external/adeb
 [submodule "platform/external/adhd"]
-	branch = master
+	branch = crosvm-master
 	path = external/adhd
 	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
@@ -459,7 +459,7 @@
 	path = external/cros/system_api
 	url = ../external/cros/system_api
 [submodule "platform/external/crosvm"]
-	branch = master
+	branch = crosvm-master
 	path = external/crosvm
 	url = ../external/crosvm
 [submodule "platform/external/curl"]
@@ -851,7 +851,7 @@
 	path = external/libdrm
 	url = ../external/libdrm
 [submodule "platform/external/libepoxy"]
-	branch = master
+	branch = crosvm-master
 	path = external/libepoxy
 	url = ../external/libepoxy
 [submodule "platform/external/libese"]
@@ -1031,11 +1031,11 @@
 	path = external/mesa3d
 	url = ../external/mesa3d
 [submodule "platform/external/minigbm"]
-	branch = master
+	branch = crosvm-master
 	path = external/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
-	branch = master
+	branch = crosvm-master
 	path = external/minijail
 	url = ../external/minijail
 [submodule "platform/external/mksh"]
@@ -1616,7 +1616,7 @@
 	path = external/vboot_reference
 	url = ../external/vboot_reference
 [submodule "platform/external/virglrenderer"]
-	branch = master
+	branch = crosvm-master
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/vixl"]
@@ -2982,7 +2982,7 @@
 	path = tools/ndkports
 	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
-	branch = master
+	branch = crosvm-master
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/security"]
