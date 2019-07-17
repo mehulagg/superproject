@@ -1158,10 +1158,6 @@
 	branch = master
 	path = external/pdfium
 	url = ../external/pdfium
-[submodule "platform/external/perf_data_converter"]
-	branch = master
-	path = external/perf_data_converter
-	url = ../external/perf_data_converter
 [submodule "platform/external/perfetto"]
 	branch = master
 	path = external/perfetto
