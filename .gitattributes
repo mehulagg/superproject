@@ -1,7 +1,7 @@
-/external/adhd pdk
-/external/crosvm pdk
-/external/libepoxy pdk
-/external/minigbm pdk
-/external/minijail pdk
-/external/virglrenderer pdk
+/third_party/adhd pdk
+/platform/crosvm pdk
+/third_party/libepoxy pdk
+/third_party/minigbm pdk
+/third_party/minijail pdk
+/third_party/virglrenderer pdk
 /tools/repohooks cts tradefed developers pdk tools adt-infra motodev

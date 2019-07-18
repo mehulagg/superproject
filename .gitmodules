@@ -1,26 +1,26 @@
 [submodule "platform/external/adhd"]
 	branch = crosvm-master
-	path = external/adhd
+	path = third_party/adhd
 	url = ../external/adhd
 [submodule "platform/external/crosvm"]
 	branch = crosvm-master
-	path = external/crosvm
+	path = platform/crosvm
 	url = ../external/crosvm
 [submodule "platform/external/libepoxy"]
 	branch = crosvm-master
-	path = external/libepoxy
+	path = third_party/libepoxy
 	url = ../external/libepoxy
 [submodule "platform/external/minigbm"]
 	branch = crosvm-master
-	path = external/minigbm
+	path = third_party/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
 	branch = crosvm-master
-	path = external/minijail
+	path = third_party/minijail
 	url = ../external/minijail
 [submodule "platform/external/virglrenderer"]
 	branch = crosvm-master
-	path = external/virglrenderer
+	path = third_party/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/tools/repohooks"]
 	branch = crosvm-master
