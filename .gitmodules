@@ -1,3 +1,8 @@
+[submodule "platform/prebuilts/android-emulator-build/curl"]
+	branch = master
+	shallow = true
+	path = prebuilts/android-emulator-build/curl
+	url = ../prebuilts/android-emulator-build/curl
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
