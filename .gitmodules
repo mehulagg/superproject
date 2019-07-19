@@ -25,6 +25,9 @@
 [submodule "platform/prebuilts/androidx/internal"]
 	path = prebuilts/androidx/internal
 	url = ../prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/studio"]
+	path = prebuilts/androidx/studio
+	url = ../prebuilts/androidx/studio
 [submodule "platform/prebuilts/checkstyle"]
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
