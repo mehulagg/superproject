@@ -3025,3 +3025,7 @@
 	branch = master
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
+[submodule "tools/platform-compat"]
+	branch = master
+	path = tools/platform-compat
+	url = ../../tools/platform-compat
