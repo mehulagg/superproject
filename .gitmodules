@@ -3053,3 +3053,7 @@
 	branch = master
 	path = toolchain/prebuilts/ndk/r20
 	url = ../../toolchain/prebuilts/ndk/r20
+[submodule "tools/platform-compat"]
+	branch = master
+	path = tools/platform-compat
+	url = ../../tools/platform-compat
