@@ -285,6 +285,10 @@
 	branch = master
 	path = external/Microsoft-GSL
 	url = ../external/Microsoft-GSL
+[submodule "platform/external/OpenCSD"]
+	branch = master
+	path = external/OpenCSD
+	url = ../external/OpenCSD
 [submodule "platform/external/Reactive-Extensions/RxCpp"]
 	branch = master
 	path = external/Reactive-Extensions/RxCpp
