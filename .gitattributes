@@ -67,6 +67,7 @@
 /external/ARMComputeLibrary pdk
 /external/ImageMagick pdk
 /external/Microsoft-GSL pdk
+/external/OpenCSD pdk
 /external/Reactive-Extensions/RxCpp pdk
 /external/aac pdk
 /external/adeb pdk
