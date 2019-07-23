@@ -5,12 +5,16 @@
 /build/soong
 /dalvik
 /development
+/external/abseil-cpp
+/external/boringssl pdk
 /external/clang
 /external/compiler-rt
 /external/fmtlib
+/external/gflags pdk
 /external/golang-protobuf
 /external/googletest
 /external/jsoncpp
+/external/kythe
 /external/libcxx
 /external/libcxxabi
 /external/libunwind
@@ -20,6 +24,8 @@
 /external/protobuf
 /external/python/cpython2
 /external/python/cpython3
+/external/rapidjson
+/external/regex-re2
 /external/zlib
 /external/zopfli
 /prebuilts/build-tools

@@ -26,6 +26,14 @@
 	branch = master
 	path = development
 	url = ../development
+[submodule "platform/external/abseil-cpp"]
+	branch = master
+	path = external/abseil-cpp
+	url = ../external/abseil-cpp
+[submodule "platform/external/boringssl"]
+	branch = master
+	path = external/boringssl
+	url = ../external/boringssl
 [submodule "platform/external/clang"]
 	branch = master
 	path = external/clang
@@ -38,6 +46,10 @@
 	branch = master
 	path = external/fmtlib
 	url = ../external/fmtlib
+[submodule "platform/external/gflags"]
+	branch = master
+	path = external/gflags
+	url = ../external/gflags
 [submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf
@@ -50,6 +62,10 @@
 	branch = master
 	path = external/jsoncpp
 	url = ../external/jsoncpp
+[submodule "platform/external/kythe"]
+	branch = master
+	path = external/kythe
+	url = ../external/kythe
 [submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx
@@ -86,6 +102,14 @@
 	branch = master
 	path = external/python/cpython3
 	url = ../external/python/cpython3
+[submodule "platform/external/rapidjson"]
+	branch = master
+	path = external/rapidjson
+	url = ../external/rapidjson
+[submodule "platform/external/regex-re2"]
+	branch = master
+	path = external/regex-re2
+	url = ../external/regex-re2
 [submodule "platform/external/zlib"]
 	branch = master
 	path = external/zlib
