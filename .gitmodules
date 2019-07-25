@@ -952,6 +952,10 @@
 	branch = pie-gsi
 	path = external/mesa3d
 	url = ../external/mesa3d
+[submodule "platform/external/minigbm"]
+	branch = pie-gsi
+	path = external/minigbm
+	url = ../external/minigbm
 [submodule "platform/external/minijail"]
 	branch = pie-gsi
 	path = external/minijail
