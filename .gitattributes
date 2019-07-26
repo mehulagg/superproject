@@ -572,11 +572,11 @@
 /packages/apps/UnifiedEmail pdk-fs
 /packages/apps/WallpaperPicker pdk-fs
 /packages/inputmethods/LatinIME pdk-fs
-/packages/modules/CaptivePortalLogin
-/packages/modules/ExtServices
+/packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
+/packages/modules/ExtServices pdk-fs pdk-cw-fs
 /packages/modules/ModuleMetadata pdk
-/packages/modules/NetworkPermissionConfig
-/packages/modules/NetworkStack
+/packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
+/packages/modules/NetworkStack pdk-fs pdk-cw-fs
 /packages/providers/ApplicationsProvider pdk-fs
 /packages/providers/BlockedNumberProvider pdk-fs
 /packages/providers/BookmarkProvider pdk-fs
