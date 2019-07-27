@@ -2311,6 +2311,10 @@
 	branch = master
 	path = packages/modules/CaptivePortalLogin
 	url = ../packages/modules/CaptivePortalLogin
+[submodule "platform/packages/modules/DnsResolver"]
+	branch = master
+	path = packages/modules/DnsResolver
+	url = ../packages/modules/DnsResolver
 [submodule "platform/packages/modules/ExtServices"]
 	branch = master
 	path = packages/modules/ExtServices
