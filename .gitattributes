@@ -96,6 +96,7 @@
 /hardware/libhardware pdk
 /libcore pdk
 /libnativehelper pdk
+/packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /prebuilts/build-tools pdk
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/linux-x86 pdk

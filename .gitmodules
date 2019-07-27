@@ -392,6 +392,10 @@
 	branch = master
 	path = libnativehelper
 	url = ../libnativehelper
+[submodule "platform/packages/modules/DnsResolver"]
+	branch = master
+	path = packages/modules/DnsResolver
+	url = ../packages/modules/DnsResolver
 [submodule "platform/prebuilts/build-tools"]
 	branch = master
 	shallow = true
