@@ -47,6 +47,7 @@
 /external/zlib
 /external/zopfli
 /prebuilts/build-tools
+/prebuilts/clang-tools
 /prebuilts/clang/host/darwin-x86 darwin
 /prebuilts/clang/host/linux-x86 linux
 /prebuilts/clang/host/windows-x86 linux
