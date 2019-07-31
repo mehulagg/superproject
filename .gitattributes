@@ -741,4 +741,4 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs tools
 /toolchain/benchmark
 /toolchain/pgo-profiles pdk
-/tools/platform-compat
+/tools/platform-compat pdk-fs pdk-cw-fs
