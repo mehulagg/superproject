@@ -294,6 +294,10 @@
 	branch = master
 	path = system/tools/aidl
 	url = ../system/tools/aidl
+[submodule "platform/system/tools/hidl"]
+	branch = master
+	path = system/tools/hidl
+	url = ../system/tools/hidl
 [submodule "toolchain/go"]
 	branch = master
 	path = toolchain/go

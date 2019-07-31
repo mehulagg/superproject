@@ -67,6 +67,7 @@
 /prebuilts/tools pdk tools
 /system/core
 /system/tools/aidl
+/system/tools/hidl
 /toolchain/go
 /toolchain/m4
 /toolchain/make
