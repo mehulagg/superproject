@@ -254,6 +254,7 @@
 /external/markdown pdk
 /external/mdnsresponder pdk
 /external/mesa3d pdk-fs pdk-cw-fs
+/external/mime-support pdk
 /external/minigbm pdk
 /external/minijail pdk
 /external/mksh pdk

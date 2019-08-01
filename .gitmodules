@@ -1034,6 +1034,10 @@
 	branch = master
 	path = external/mesa3d
 	url = ../external/mesa3d
+[submodule "platform/external/mime-support"]
+	branch = master
+	path = external/mime-support
+	url = ../external/mime-support
 [submodule "platform/external/minigbm"]
 	branch = master
 	path = external/minigbm
