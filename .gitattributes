@@ -214,6 +214,7 @@
 /external/libevent pdk
 /external/libexif pdk
 /external/libffi pdk
+/external/libfuse pdk
 /external/libgsm pdk
 /external/libhevc pdk
 /external/libjpeg-turbo pdk

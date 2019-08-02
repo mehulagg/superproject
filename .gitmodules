@@ -874,6 +874,10 @@
 	branch = master
 	path = external/libffi
 	url = ../external/libffi
+[submodule "platform/external/libfuse"]
+	branch = master
+	path = external/libfuse
+	url = ../external/libfuse
 [submodule "platform/external/libgsm"]
 	branch = master
 	path = external/libgsm
