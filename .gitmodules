@@ -264,6 +264,10 @@
 	branch = master
 	path = external/mdnsresponder
 	url = ../external/mdnsresponder
+[submodule "platform/external/mime-support"]
+	branch = master
+	path = external/mime-support
+	url = ../external/mime-support
 [submodule "platform/external/mksh"]
 	branch = master
 	path = external/mksh

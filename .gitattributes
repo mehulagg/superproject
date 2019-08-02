@@ -64,6 +64,7 @@
 /external/lz4 pdk
 /external/lzma pdk
 /external/mdnsresponder pdk
+/external/mime-support pdk
 /external/mksh pdk
 /external/mockftpserver pdk
 /external/mockito pdk
