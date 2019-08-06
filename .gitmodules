@@ -1,161 +1,161 @@
-[submodule "art"]
+[submodule "platform/art"]
 	branch = master
 	path = art
 	url = ../art
-[submodule "bionic"]
+[submodule "platform/bionic"]
 	branch = master
 	path = bionic
 	url = ../bionic
-[submodule "build"]
+[submodule "platform/build"]
 	branch = master
 	path = build
 	url = ../build
-[submodule "dalvik"]
+[submodule "platform/dalvik"]
 	branch = master
 	path = dalvik
 	url = ../dalvik
-[submodule "external/antlr"]
+[submodule "platform/external/antlr"]
 	branch = master
 	path = external/antlr
 	url = ../external/antlr
-[submodule "external/apache-harmony"]
+[submodule "platform/external/apache-harmony"]
 	branch = master
 	path = external/apache-harmony
 	url = ../external/apache-harmony
-[submodule "external/bouncycastle"]
+[submodule "platform/external/bouncycastle"]
 	branch = master
 	path = external/bouncycastle
 	url = ../external/bouncycastle
-[submodule "external/compiler-rt"]
+[submodule "platform/external/compiler-rt"]
 	branch = master
 	path = external/compiler-rt
 	url = ../external/compiler-rt
-[submodule "external/conscrypt"]
+[submodule "platform/external/conscrypt"]
 	branch = master
 	path = external/conscrypt
 	url = ../external/conscrypt
-[submodule "external/expat"]
+[submodule "platform/external/expat"]
 	branch = master
 	path = external/expat
 	url = ../external/expat
-[submodule "external/fdlibm"]
+[submodule "platform/external/fdlibm"]
 	branch = master
 	path = external/fdlibm
 	url = ../external/fdlibm
-[submodule "external/gtest"]
+[submodule "platform/external/gtest"]
 	branch = master
 	path = external/gtest
 	url = ../external/gtest
-[submodule "external/guava"]
+[submodule "platform/external/guava"]
 	branch = master
 	path = external/guava
 	url = ../external/guava
-[submodule "external/icu"]
+[submodule "platform/external/icu"]
 	branch = master
 	path = external/icu
 	url = ../external/icu
-[submodule "external/icu4c"]
+[submodule "platform/external/icu4c"]
 	branch = master
 	path = external/icu4c
 	url = ../external/icu4c
-[submodule "external/jcommander"]
+[submodule "platform/external/jcommander"]
 	branch = master
 	path = external/jcommander
 	url = ../external/jcommander
-[submodule "external/jsr305"]
+[submodule "platform/external/jsr305"]
 	branch = master
 	path = external/jsr305
 	url = ../external/jsr305
-[submodule "external/junit"]
+[submodule "platform/external/junit"]
 	branch = master
 	path = external/junit
 	url = ../external/junit
-[submodule "external/libcxx"]
+[submodule "platform/external/libcxx"]
 	branch = master
 	path = external/libcxx
 	url = ../external/libcxx
-[submodule "external/libcxxabi"]
+[submodule "platform/external/libcxxabi"]
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
-[submodule "external/libcxxrt"]
+[submodule "platform/external/libcxxrt"]
 	branch = master
 	path = external/libcxxrt
 	url = ../external/libcxxrt
-[submodule "external/libselinux"]
+[submodule "platform/external/libselinux"]
 	branch = master
 	path = external/libselinux
 	url = ../external/libselinux
-[submodule "external/libunwind"]
+[submodule "platform/external/libunwind"]
 	branch = master
 	path = external/libunwind
 	url = ../external/libunwind
-[submodule "external/okhttp"]
+[submodule "platform/external/okhttp"]
 	branch = master
 	path = external/okhttp
 	url = ../external/okhttp
-[submodule "external/openssl"]
+[submodule "platform/external/openssl"]
 	branch = master
 	path = external/openssl
 	url = ../external/openssl
-[submodule "external/smali"]
+[submodule "platform/external/smali"]
 	branch = master
 	path = external/smali
 	url = ../external/smali
-[submodule "external/stlport"]
+[submodule "platform/external/stlport"]
 	branch = master
 	path = external/stlport
 	url = ../external/stlport
-[submodule "external/valgrind"]
+[submodule "platform/external/valgrind"]
 	branch = master
 	path = external/valgrind
 	url = ../external/valgrind
-[submodule "external/vixl"]
+[submodule "platform/external/vixl"]
 	branch = master
 	path = external/vixl
 	url = ../external/vixl
-[submodule "external/zlib"]
+[submodule "platform/external/zlib"]
 	branch = master
 	path = external/zlib
 	url = ../external/zlib
-[submodule "libcore"]
+[submodule "platform/libcore"]
 	branch = master
 	path = libcore
 	url = ../libcore
-[submodule "libnativehelper"]
+[submodule "platform/libnativehelper"]
 	branch = master
 	path = libnativehelper
 	url = ../libnativehelper
-[submodule "prebuilts/clang/host/linux-x86"]
+[submodule "platform/prebuilts/clang/host/linux-x86"]
 	branch = master
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
-[submodule "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8
-[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
-[submodule "prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
 	branch = master
 	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
-[submodule "prebuilts/misc"]
+[submodule "platform/prebuilts/misc"]
 	branch = master
 	path = prebuilts/misc
 	url = ../prebuilts/misc
-[submodule "prebuilts/sdk"]
+[submodule "platform/prebuilts/sdk"]
 	branch = master
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
-[submodule "prebuilts/tools"]
+[submodule "platform/prebuilts/tools"]
 	branch = master
 	path = prebuilts/tools
 	url = ../prebuilts/tools
-[submodule "system/core"]
+[submodule "platform/system/core"]
 	branch = master
 	path = system/core
 	url = ../system/core
@@ -163,3 +163,7 @@
 	branch = master
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
+[submodule "tools/platform-compat"]
+	branch = master
+	path = tools/platform-compat
+	url = ../../tools/platform-compat

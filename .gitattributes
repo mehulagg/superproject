@@ -1,0 +1,42 @@
+/art
+/bionic pdk
+/build pdk
+/dalvik
+/external/antlr pdk-cw-fs
+/external/apache-harmony pdk-cw-fs
+/external/bouncycastle
+/external/compiler-rt pdk
+/external/conscrypt
+/external/expat pdk
+/external/fdlibm
+/external/gtest pdk
+/external/guava pdk-cw-fs
+/external/icu
+/external/icu4c
+/external/jcommander pdk-cw-fs
+/external/jsr305 pdk-cw-fs
+/external/junit
+/external/libcxx pdk
+/external/libcxxabi pdk
+/external/libcxxrt
+/external/libselinux pdk
+/external/libunwind
+/external/okhttp
+/external/openssl pdk
+/external/smali pdk-cw-fs
+/external/stlport pdk
+/external/valgrind pdk
+/external/vixl
+/external/zlib pdk
+/libcore
+/libnativehelper pdk-java
+/prebuilts/clang/host/linux-x86 pdk linux
+/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8 pdk linux arm
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8 linux
+/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9 pdk linux mips
+/prebuilts/misc pdk
+/prebuilts/sdk pdk
+/prebuilts/tools pdk tools
+/system/core pdk
+/toolchain/pgo-profiles
+/tools/platform-compat pdk-fs pdk-cw-fs
