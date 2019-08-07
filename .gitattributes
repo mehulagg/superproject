@@ -749,4 +749,4 @@
 /toolchain/llvm_android
 /toolchain/pgo-profiles pdk
 /toolchain/prebuilts/ndk/r20
-/tools/platform-compat pdk-fs pdk-cw-fs
+/tools/platform-compat pdk-fs pdk-cw-fs pdk
