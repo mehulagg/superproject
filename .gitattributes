@@ -135,4 +135,4 @@
 /tools/dexter tools
 /tools/metalava tools
 /toolchain/pgo-profiles
-/tools/platform-compat pdk-fs pdk-cw-fs
+/tools/platform-compat pdk-fs pdk-cw-fs pdk
