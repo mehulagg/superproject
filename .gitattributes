@@ -440,7 +440,6 @@
 /frameworks/opt/car/setupwizard pdk
 /frameworks/opt/chips pdk-fs pdk-cw-fs
 /frameworks/opt/colorpicker pdk-fs pdk-cw-fs
-/frameworks/opt/datetimepicker pdk-fs pdk-cw-fs
 /frameworks/opt/inputmethodcommon pdk-fs pdk-cw-fs
 /frameworks/opt/net/ethernet pdk-fs
 /frameworks/opt/net/ike pdk
