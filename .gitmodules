@@ -2968,6 +2968,10 @@
 	branch = master
 	path = tools/dexter
 	url = ../tools/dexter
+[submodule "platform/tools/doc_generation"]
+	branch = master
+	path = tools/doc_generation
+	url = ../tools/doc_generation
 [submodule "platform/tools/external/fat32lib"]
 	branch = master
 	path = tools/external/fat32lib
