@@ -723,6 +723,7 @@
 /tools/build notdefault tools
 /tools/currysrc pdk
 /tools/dexter pdk-fs tools
+/tools/doc_generation tools
 /tools/external/fat32lib tools
 /tools/external/gradle tools
 /tools/external_updater tools
