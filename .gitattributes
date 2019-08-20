@@ -7,6 +7,7 @@
 /prebuilts/androidx/exoplayer pdk
 /prebuilts/androidx/external pdk
 /prebuilts/androidx/internal pdk
+/prebuilts/androidx/studio pdk
 /prebuilts/checkstyle pdk-fs
 /prebuilts/fullsdk-darwin/build-tools/28.0.3 notdefault platform-darwin
 /prebuilts/fullsdk-darwin/platform-tools notdefault platform-darwin
