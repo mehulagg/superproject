@@ -670,6 +670,10 @@
 	branch = master
 	path = external/guice
 	url = ../external/guice
+[submodule "platform/external/gwp_asan"]
+	branch = master
+	path = external/gwp_asan
+	url = ../external/gwp_asan
 [submodule "platform/external/hamcrest"]
 	branch = master
 	path = external/hamcrest
