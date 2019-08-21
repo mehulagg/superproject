@@ -55,7 +55,6 @@
 /bootable/recovery pdk
 /build/make pdk
 /build/blueprint tradefed pdk
-/build/kati tradefed pdk
 /build/soong tradefed pdk
 /compatibility/cdd pdk
 /cts pdk-fs cts pdk-cw-fs
