@@ -196,6 +196,7 @@
 /external/kernel-headers pdk
 /external/kmod pdk
 /external/kotlinc pdk
+/external/kotlinx.coroutines pdk
 /external/ksoap2 pdk
 /external/libavc pdk
 /external/libbackup pdk
