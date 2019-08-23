@@ -361,7 +361,11 @@
 /external/rootdev pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/libc pdk
+/external/rust/crates/proc-macro2 pdk
+/external/rust/crates/quote pdk
 /external/rust/crates/remain pdk
+/external/rust/crates/syn pdk
+/external/rust/crates/unicode-xid pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/seccomp-tests pdk
