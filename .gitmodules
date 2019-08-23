@@ -1462,10 +1462,26 @@
 	branch = master
 	path = external/rust/crates/libc
 	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/proc-macro2"]
+	branch = master
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/quote"]
+	branch = master
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
 [submodule "platform/external/rust/crates/remain"]
 	branch = master
 	path = external/rust/crates/remain
 	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/syn"]
+	branch = master
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/unicode-xid"]
+	branch = master
+	path = external/rust/crates/unicode-xid
+	url = ../external/rust/crates/unicode-xid
 [submodule "platform/external/scapy"]
 	branch = master
 	path = external/scapy
