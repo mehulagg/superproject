@@ -9,6 +9,8 @@
 /prebuilts/androidx/internal pdk
 /prebuilts/androidx/studio pdk
 /prebuilts/checkstyle pdk-fs
+/prebuilts/cmake-darwin notdefault platform-darwin
+/prebuilts/cmake-linux platform-linux notdefault
 /prebuilts/fullsdk-darwin/build-tools/28.0.3 notdefault platform-darwin
 /prebuilts/fullsdk-darwin/platform-tools notdefault platform-darwin
 /prebuilts/fullsdk-darwin/tools notdefault platform-darwin
@@ -21,5 +23,6 @@
 /prebuilts/fullsdk-darwin/sources/android-29
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/ktlint pdk-fs
+/prebuilts/ndk pdk
 /tools/external/gradle tools
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
