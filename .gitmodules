@@ -59,11 +59,20 @@
 	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
+[submodule "platform/prebuilts/jdk/jdk9"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk9
+	url = ../prebuilts/jdk/jdk9
 [submodule "toolchain/jdk/build"]
 	branch = master
 	shallow = true
 	path = toolchain/jdk/build
 	url = ../../toolchain/jdk/build
+[submodule "toolchain/jdk/jdk11"]
+	branch = master
+	path = toolchain/jdk/jdk11
+	url = ../../toolchain/jdk/jdk11
 [submodule "toolchain/jdk/jdk9"]
 	branch = master
 	path = toolchain/jdk/jdk9

@@ -12,7 +12,9 @@
 /prebuilts/clang/host/linux-x86
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 /prebuilts/jdk/jdk8
+/prebuilts/jdk/jdk9
 /toolchain/jdk/build
+/toolchain/jdk/jdk11
 /toolchain/jdk/jdk9
 /toolchain/jdk/jdk9_corba
 /toolchain/jdk/jdk9_hotspot
