@@ -23,6 +23,6 @@
 /prebuilts/fullsdk-darwin/sources/android-29
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/ktlint pdk-fs
-/prebuilts/fullsdk-darwin/ndk pdk
 /tools/external/gradle tools
 /tools/repohooks cts tradefed pdk tools adt-infra eclipse motodev
+/prebuilts/fullsdk-darwin/ndk pdk
