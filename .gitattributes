@@ -703,6 +703,7 @@
 /system/ucontainer pdk
 /system/update_engine pdk
 /system/vold pdk
+/test/app_compat/c-suite
 /test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
