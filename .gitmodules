@@ -2872,6 +2872,10 @@
 	branch = master
 	path = system/vold
 	url = ../system/vold
+[submodule "platform/test/app_compat/c-suite"]
+	branch = master
+	path = test/app_compat/c-suite
+	url = ../test/app_compat/c-suite
 [submodule "platform/test/framework"]
 	branch = master
 	path = test/framework
