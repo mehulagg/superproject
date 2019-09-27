@@ -1,1 +1,0 @@
-display/os_pickup.mk
