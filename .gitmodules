@@ -162,6 +162,10 @@
 	shallow = true
 	path = device/google/wahoo-kernel
 	url = ../../device/google/wahoo-kernel
+[submodule "device/google_car"]
+	branch = master
+	path = device/google_car
+	url = ../../device/google_car
 [submodule "device/linaro/bootloader/OpenPlatformPkg"]
 	branch = master
 	path = device/linaro/bootloader/OpenPlatformPkg
@@ -174,6 +178,15 @@
 	branch = master
 	path = device/linaro/bootloader/edk2
 	url = ../../device/linaro/bootloader/edk2
+[submodule "device/linaro/dragonboard"]
+	branch = master
+	path = device/linaro/dragonboard
+	url = ../../device/linaro/dragonboard
+[submodule "device/linaro/dragonboard-kernel"]
+	branch = master
+	shallow = true
+	path = device/linaro/dragonboard-kernel
+	url = ../../device/linaro/dragonboard-kernel
 [submodule "device/linaro/hikey"]
 	branch = master
 	path = device/linaro/hikey
@@ -474,6 +487,18 @@
 	branch = master
 	path = external/deqp
 	url = ../external/deqp
+[submodule "platform/external/deqp-deps/SPIRV-Headers"]
+	branch = master
+	path = external/deqp-deps/SPIRV-Headers
+	url = ../external/deqp-deps/SPIRV-Headers
+[submodule "platform/external/deqp-deps/SPIRV-Tools"]
+	branch = master
+	path = external/deqp-deps/SPIRV-Tools
+	url = ../external/deqp-deps/SPIRV-Tools
+[submodule "platform/external/deqp-deps/glslang"]
+	branch = master
+	path = external/deqp-deps/glslang
+	url = ../external/deqp-deps/glslang
 [submodule "platform/external/desugar"]
 	branch = master
 	path = external/desugar
@@ -518,6 +543,10 @@
 	branch = master
 	path = external/dtc
 	url = ../external/dtc
+[submodule "platform/external/dynamic_depth"]
+	branch = master
+	path = external/dynamic_depth
+	url = ../external/dynamic_depth
 [submodule "platform/external/e2fsprogs"]
 	branch = master
 	path = external/e2fsprogs
@@ -618,6 +647,14 @@
 	branch = master
 	path = external/google-breakpad
 	url = ../external/google-breakpad
+[submodule "platform/external/google-fonts/arbutus-slab"]
+	branch = master
+	path = external/google-fonts/arbutus-slab
+	url = ../external/google-fonts/arbutus-slab
+[submodule "platform/external/google-fonts/arvo"]
+	branch = master
+	path = external/google-fonts/arvo
+	url = ../external/google-fonts/arvo
 [submodule "platform/external/google-fonts/carrois-gothic-sc"]
 	branch = master
 	path = external/google-fonts/carrois-gothic-sc
@@ -634,6 +671,22 @@
 	branch = master
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-fonts/lato"]
+	branch = master
+	path = external/google-fonts/lato
+	url = ../external/google-fonts/lato
+[submodule "platform/external/google-fonts/rubik"]
+	branch = master
+	path = external/google-fonts/rubik
+	url = ../external/google-fonts/rubik
+[submodule "platform/external/google-fonts/source-sans-pro"]
+	branch = master
+	path = external/google-fonts/source-sans-pro
+	url = ../external/google-fonts/source-sans-pro
+[submodule "platform/external/google-fonts/zilla-slab"]
+	branch = master
+	path = external/google-fonts/zilla-slab
+	url = ../external/google-fonts/zilla-slab
 [submodule "platform/external/google-fruit"]
 	branch = master
 	path = external/google-fruit
@@ -694,6 +747,10 @@
 	branch = master
 	path = external/igt-gpu-tools
 	url = ../external/igt-gpu-tools
+[submodule "platform/external/image_io"]
+	branch = master
+	path = external/image_io
+	url = ../external/image_io
 [submodule "platform/external/ims"]
 	branch = master
 	path = external/ims
@@ -810,6 +867,10 @@
 	branch = master
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/libaom"]
+	branch = master
+	path = external/libaom
+	url = ../external/libaom
 [submodule "platform/external/libavc"]
 	branch = master
 	path = external/libavc
@@ -1158,6 +1219,10 @@
 	branch = master
 	path = external/opencensus-java
 	url = ../external/opencensus-java
+[submodule "platform/external/oss-fuzz"]
+	branch = master
+	path = external/oss-fuzz
+	url = ../external/oss-fuzz
 [submodule "platform/external/owasp/sanitizer"]
 	branch = master
 	path = external/owasp/sanitizer
@@ -1490,6 +1555,10 @@
 	branch = master
 	path = external/scrypt
 	url = ../external/scrypt
+[submodule "platform/external/scudo"]
+	branch = master
+	path = external/scudo
+	url = ../external/scudo
 [submodule "platform/external/seccomp-tests"]
 	branch = master
 	path = external/seccomp-tests
@@ -1498,6 +1567,14 @@
 	branch = master
 	path = external/selinux
 	url = ../external/selinux
+[submodule "platform/external/setupcompat"]
+	branch = master
+	path = external/setupcompat
+	url = ../external/setupcompat
+[submodule "platform/external/setupdesign"]
+	branch = master
+	path = external/setupdesign
+	url = ../external/setupdesign
 [submodule "platform/external/sfntly"]
 	branch = master
 	path = external/sfntly
@@ -1563,6 +1640,11 @@
 	branch = master
 	path = external/stressapptest
 	url = ../external/stressapptest
+[submodule "platform/external/subsampling-scale-image-view"]
+	branch = master
+	shallow = true
+	path = external/subsampling-scale-image-view
+	url = ../external/subsampling-scale-image-view
 [submodule "platform/external/swiftshader"]
 	branch = master
 	path = external/swiftshader
@@ -1799,10 +1881,6 @@
 	branch = master
 	path = frameworks/opt/colorpicker
 	url = ../frameworks/opt/colorpicker
-[submodule "platform/frameworks/opt/inputmethodcommon"]
-	branch = master
-	path = frameworks/opt/inputmethodcommon
-	url = ../frameworks/opt/inputmethodcommon
 [submodule "platform/frameworks/opt/net/ethernet"]
 	branch = master
 	path = frameworks/opt/net/ethernet
@@ -1847,10 +1925,6 @@
 	branch = master
 	path = frameworks/rs
 	url = ../frameworks/rs
-[submodule "platform/frameworks/support"]
-	branch = master
-	path = frameworks/support
-	url = ../frameworks/support
 [submodule "platform/frameworks/wilhelm"]
 	branch = master
 	path = frameworks/wilhelm
@@ -1983,30 +2057,6 @@
 	branch = master
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
-[submodule "platform/hardware/qcom/sdm710/data/ipacfg-mgr"]
-	branch = master
-	path = hardware/qcom/sdm710/data/ipacfg-mgr
-	url = ../hardware/qcom/sdm710/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/sdm710/display"]
-	branch = master
-	path = hardware/qcom/sdm710/display
-	url = ../hardware/qcom/sdm710/display
-[submodule "platform/hardware/qcom/sdm710/gps"]
-	branch = master
-	path = hardware/qcom/sdm710/gps
-	url = ../hardware/qcom/sdm710/gps
-[submodule "platform/hardware/qcom/sdm710/media"]
-	branch = master
-	path = hardware/qcom/sdm710/media
-	url = ../hardware/qcom/sdm710/media
-[submodule "platform/hardware/qcom/sdm710/thermal"]
-	branch = master
-	path = hardware/qcom/sdm710/thermal
-	url = ../hardware/qcom/sdm710/thermal
-[submodule "platform/hardware/qcom/sdm710/vr"]
-	branch = master
-	path = hardware/qcom/sdm710/vr
-	url = ../hardware/qcom/sdm710/vr
 [submodule "platform/hardware/qcom/sdm845/bt"]
 	branch = master
 	path = hardware/qcom/sdm845/bt
@@ -2043,14 +2093,6 @@
 	branch = master
 	path = hardware/ril
 	url = ../hardware/ril
-[submodule "platform/hardware/st/nfc"]
-	branch = master
-	path = hardware/st/nfc
-	url = ../hardware/st/nfc
-[submodule "platform/hardware/st/secure_element"]
-	branch = master
-	path = hardware/st/secure_element
-	url = ../hardware/st/secure_element
 [submodule "platform/hardware/ti/am57x"]
 	branch = master
 	path = hardware/ti/am57x
@@ -2083,6 +2125,10 @@
 	branch = master
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/Car/Cluster"]
+	branch = master
+	path = packages/apps/Car/Cluster
+	url = ../packages/apps/Car/Cluster
 [submodule "platform/packages/apps/Car/Dialer"]
 	branch = master
 	path = packages/apps/Car/Dialer
@@ -2103,6 +2149,10 @@
 	branch = master
 	path = packages/apps/Car/LensPicker
 	url = ../packages/apps/Car/LensPicker
+[submodule "platform/packages/apps/Car/LinkViewer"]
+	branch = master
+	path = packages/apps/Car/LinkViewer
+	url = ../packages/apps/Car/LinkViewer
 [submodule "platform/packages/apps/Car/LocalMediaPlayer"]
 	branch = master
 	path = packages/apps/Car/LocalMediaPlayer
@@ -2139,10 +2189,18 @@
 	branch = master
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
+[submodule "platform/packages/apps/Car/externallibs"]
+	branch = master
+	path = packages/apps/Car/externallibs
+	url = ../packages/apps/Car/externallibs
 [submodule "platform/packages/apps/Car/libs"]
 	branch = master
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/tests"]
+	branch = master
+	path = packages/apps/Car/tests
+	url = ../packages/apps/Car/tests
 [submodule "platform/packages/apps/CarrierConfig"]
 	branch = master
 	path = packages/apps/CarrierConfig
@@ -2199,10 +2257,6 @@
 	branch = master
 	path = packages/apps/KeyChain
 	url = ../packages/apps/KeyChain
-[submodule "platform/packages/apps/Launcher2"]
-	branch = master
-	path = packages/apps/Launcher2
-	url = ../packages/apps/Launcher2
 [submodule "platform/packages/apps/Launcher3"]
 	branch = master
 	path = packages/apps/Launcher3
@@ -2237,7 +2291,7 @@
 	url = ../packages/apps/OneTimeInitializer
 [submodule "platform/packages/apps/PackageInstaller"]
 	branch = master
-	path = packages/apps/PackageInstaller
+	path = packages/apps/PermissionController
 	url = ../packages/apps/PackageInstaller
 [submodule "platform/packages/apps/PhoneCommon"]
 	branch = master
@@ -2259,6 +2313,10 @@
 	branch = master
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
+[submodule "platform/packages/apps/SampleLocationAttribution"]
+	branch = master
+	path = packages/apps/SampleLocationAttribution
+	url = ../packages/apps/SampleLocationAttribution
 [submodule "platform/packages/apps/SecureElement"]
 	branch = master
 	path = packages/apps/SecureElement
@@ -2303,6 +2361,10 @@
 	branch = master
 	path = packages/apps/Test/connectivity
 	url = ../packages/apps/Test/connectivity
+[submodule "platform/packages/apps/ThemePicker"]
+	branch = master
+	path = packages/apps/ThemePicker
+	url = ../packages/apps/ThemePicker
 [submodule "platform/packages/apps/TimeZoneData"]
 	branch = master
 	path = packages/apps/TimeZoneData
@@ -2323,10 +2385,18 @@
 	branch = master
 	path = packages/apps/UnifiedEmail
 	url = ../packages/apps/UnifiedEmail
+[submodule "platform/packages/apps/UniversalMediaPlayer"]
+	branch = master
+	path = packages/apps/UniversalMediaPlayer
+	url = ../packages/apps/UniversalMediaPlayer
 [submodule "platform/packages/apps/WallpaperPicker"]
 	branch = master
 	path = packages/apps/WallpaperPicker
 	url = ../packages/apps/WallpaperPicker
+[submodule "platform/packages/apps/WallpaperPicker2"]
+	branch = master
+	path = packages/apps/WallpaperPicker2
+	url = ../packages/apps/WallpaperPicker2
 [submodule "platform/packages/inputmethods/LatinIME"]
 	branch = master
 	path = packages/inputmethods/LatinIME
@@ -2355,6 +2425,10 @@
 	branch = master
 	path = packages/modules/NetworkStack
 	url = ../packages/modules/NetworkStack
+[submodule "platform/packages/modules/TestModule"]
+	branch = master
+	path = packages/modules/TestModule
+	url = ../packages/modules/TestModule
 [submodule "platform/packages/providers/ApplicationsProvider"]
 	branch = master
 	path = packages/providers/ApplicationsProvider
@@ -2411,10 +2485,6 @@
 	branch = master
 	path = packages/screensavers/PhotoTable
 	url = ../packages/screensavers/PhotoTable
-[submodule "platform/packages/screensavers/WebView"]
-	branch = master
-	path = packages/screensavers/WebView
-	url = ../packages/screensavers/WebView
 [submodule "platform/packages/services/AlternativeNetworkAccess"]
 	branch = master
 	path = packages/services/AlternativeNetworkAccess
@@ -2431,10 +2501,6 @@
 	branch = master
 	path = packages/services/Mms
 	url = ../packages/services/Mms
-[submodule "platform/packages/services/NetworkRecommendation"]
-	branch = master
-	path = packages/services/NetworkRecommendation
-	url = ../packages/services/NetworkRecommendation
 [submodule "platform/packages/services/Telecomm"]
 	branch = master
 	path = packages/services/Telecomm
@@ -2515,11 +2581,6 @@
 	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
-[submodule "platform/prebuilts/deqp"]
-	branch = master
-	shallow = true
-	path = prebuilts/deqp
-	url = ../prebuilts/deqp
 [submodule "platform/prebuilts/devtools"]
 	branch = master
 	shallow = true
@@ -2610,6 +2671,11 @@
 	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
 	branch = master
 	shallow = true
@@ -2700,6 +2766,11 @@
 	shallow = true
 	path = prebuilts/vndk/v28
 	url = ../prebuilts/vndk/v28
+[submodule "platform/prebuilts/vndk/v29"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v29
+	url = ../prebuilts/vndk/v29
 [submodule "platform/sdk"]
 	branch = master
 	path = sdk
@@ -2708,10 +2779,6 @@
 	branch = master
 	path = system/apex
 	url = ../system/apex
-[submodule "platform/system/ashmemd"]
-	branch = master
-	path = system/ashmemd
-	url = ../system/ashmemd
 [submodule "platform/system/bpf"]
 	branch = master
 	path = system/bpf
@@ -2768,10 +2835,6 @@
 	branch = master
 	path = system/iorap
 	url = ../system/iorap
-[submodule "platform/system/iot/attestation"]
-	branch = master
-	path = system/iot/attestation
-	url = ../system/iot/attestation
 [submodule "platform/system/keymaster"]
 	branch = master
 	path = system/keymaster
@@ -2872,10 +2935,10 @@
 	branch = master
 	path = system/vold
 	url = ../system/vold
-[submodule "platform/test/app_compat/c-suite"]
+[submodule "platform/test/app_compat/csuite"]
 	branch = master
-	path = test/app_compat/c-suite
-	url = ../test/app_compat/c-suite
+	path = test/app_compat/csuite
+	url = ../test/app_compat/csuite
 [submodule "platform/test/framework"]
 	branch = master
 	path = test/framework
@@ -2992,11 +3055,6 @@
 	branch = master
 	path = tools/external/fat32lib
 	url = ../tools/external/fat32lib
-[submodule "platform/tools/external/gradle"]
-	branch = master
-	shallow = true
-	path = tools/external/gradle
-	url = ../tools/external/gradle
 [submodule "platform/tools/external_updater"]
 	branch = master
 	path = tools/external_updater
