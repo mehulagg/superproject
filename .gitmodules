@@ -370,6 +370,10 @@
 	branch = master
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
+[submodule "platform/external/arm-trusted-firmware"]
+	branch = master
+	path = external/arm-trusted-firmware
+	url = ../external/arm-trusted-firmware
 [submodule "platform/external/autotest"]
 	branch = master
 	path = external/autotest

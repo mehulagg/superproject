@@ -88,6 +88,7 @@
 /external/archive-patcher pdk
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
+/external/arm-trusted-firmware pdk
 /external/autotest pdk-fs
 /external/avb pdk
 /external/bcc pdk
