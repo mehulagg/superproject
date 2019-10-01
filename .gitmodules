@@ -210,7 +210,7 @@
 	path = kernel/build
 	url = ../../kernel/build
 [submodule "kernel/configs"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/tests"]
