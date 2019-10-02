@@ -1,28 +1,3815 @@
+[submodule "device/amlogic/yukawa"]
+	branch = master
+	shallow = true
+	path = device/amlogic/yukawa
+	url = ../../device/amlogic/yukawa
+[submodule "device/amlogic/yukawa-kernel"]
+	branch = master
+	shallow = true
+	path = device/amlogic/yukawa-kernel
+	url = ../../device/amlogic/yukawa-kernel
+[submodule "device/common"]
+	branch = master
+	shallow = true
+	path = device/common
+	url = ../../device/common
+[submodule "device/generic/arm64"]
+	branch = master
+	shallow = true
+	path = device/generic/arm64
+	url = ../../device/generic/arm64
+[submodule "device/generic/armv7-a-neon"]
+	branch = master
+	shallow = true
+	path = device/generic/armv7-a-neon
+	url = ../../device/generic/armv7-a-neon
+[submodule "device/generic/car"]
+	branch = master
+	shallow = true
+	path = device/generic/car
+	url = ../../device/generic/car
+[submodule "device/generic/common"]
+	branch = master
+	shallow = true
+	path = device/generic/common
+	url = ../../device/generic/common
+[submodule "device/generic/goldfish"]
+	branch = master
+	shallow = true
+	path = device/generic/goldfish
+	url = ../../device/generic/goldfish
+[submodule "device/generic/goldfish-opengl"]
+	branch = master
+	shallow = true
+	path = device/generic/goldfish-opengl
+	url = ../../device/generic/goldfish-opengl
+[submodule "device/generic/mini-emulator-arm64"]
+	branch = master
+	shallow = true
+	path = device/generic/mini-emulator-arm64
+	url = ../../device/generic/mini-emulator-arm64
+[submodule "device/generic/mini-emulator-armv7-a-neon"]
+	branch = master
+	shallow = true
+	path = device/generic/mini-emulator-armv7-a-neon
+	url = ../../device/generic/mini-emulator-armv7-a-neon
+[submodule "device/generic/mini-emulator-x86"]
+	branch = master
+	shallow = true
+	path = device/generic/mini-emulator-x86
+	url = ../../device/generic/mini-emulator-x86
+[submodule "device/generic/mini-emulator-x86_64"]
+	branch = master
+	shallow = true
+	path = device/generic/mini-emulator-x86_64
+	url = ../../device/generic/mini-emulator-x86_64
+[submodule "device/generic/opengl-transport"]
+	branch = master
+	shallow = true
+	path = device/generic/opengl-transport
+	url = ../../device/generic/opengl-transport
+[submodule "device/generic/qemu"]
+	branch = master
+	shallow = true
+	path = device/generic/qemu
+	url = ../../device/generic/qemu
+[submodule "device/generic/trusty"]
+	branch = master
+	shallow = true
+	path = device/generic/trusty
+	url = ../../device/generic/trusty
+[submodule "device/generic/uml"]
+	branch = master
+	shallow = true
+	path = device/generic/uml
+	url = ../../device/generic/uml
+[submodule "device/generic/x86"]
+	branch = master
+	shallow = true
+	path = device/generic/x86
+	url = ../../device/generic/x86
+[submodule "device/generic/x86_64"]
+	branch = master
+	shallow = true
+	path = device/generic/x86_64
+	url = ../../device/generic/x86_64
+[submodule "device/google/atv"]
+	branch = master
+	shallow = true
+	path = device/google/atv
+	url = ../../device/google/atv
+[submodule "device/google/bonito"]
+	branch = master
+	shallow = true
+	path = device/google/bonito
+	url = ../../device/google/bonito
+[submodule "device/google/bonito-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/bonito-kernel
+	url = ../../device/google/bonito-kernel
+[submodule "device/google/bonito-sepolicy"]
+	branch = master
+	shallow = true
+	path = device/google/bonito-sepolicy
+	url = ../../device/google/bonito-sepolicy
+[submodule "device/google/contexthub"]
+	branch = master
+	shallow = true
+	path = device/google/contexthub
+	url = ../../device/google/contexthub
+[submodule "device/google/crosshatch"]
+	branch = master
+	shallow = true
+	path = device/google/crosshatch
+	url = ../../device/google/crosshatch
+[submodule "device/google/crosshatch-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/crosshatch-kernel
+	url = ../../device/google/crosshatch-kernel
+[submodule "device/google/crosshatch-sepolicy"]
+	branch = master
+	shallow = true
+	path = device/google/crosshatch-sepolicy
+	url = ../../device/google/crosshatch-sepolicy
+[submodule "device/google/cuttlefish"]
+	branch = master
+	shallow = true
+	path = device/google/cuttlefish
+	url = ../../device/google/cuttlefish
+[submodule "device/google/cuttlefish_common"]
+	branch = master
+	shallow = true
+	path = device/google/cuttlefish_common
+	url = ../../device/google/cuttlefish_common
+[submodule "device/google/cuttlefish_kernel"]
+	branch = master
+	shallow = true
+	path = device/google/cuttlefish_kernel
+	url = ../../device/google/cuttlefish_kernel
+[submodule "device/google/cuttlefish_vmm"]
+	branch = master
+	path = device/google/cuttlefish_vmm
+	url = ../../device/google/cuttlefish_vmm
+[submodule "device/google/fuchsia"]
+	branch = master
+	shallow = true
+	path = device/google/fuchsia
+	url = ../../device/google/fuchsia
+[submodule "device/google/marlin"]
+	branch = master
+	shallow = true
+	path = device/google/marlin
+	url = ../../device/google/marlin
+[submodule "device/google/marlin-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/marlin-kernel
+	url = ../../device/google/marlin-kernel
+[submodule "device/google/muskie"]
+	branch = master
+	shallow = true
+	path = device/google/muskie
+	url = ../../device/google/muskie
+[submodule "device/google/taimen"]
+	branch = master
+	shallow = true
+	path = device/google/taimen
+	url = ../../device/google/taimen
+[submodule "device/google/vrservices"]
+	branch = master
+	shallow = true
+	path = device/google/vrservices
+	url = ../../device/google/vrservices
+[submodule "device/google/wahoo"]
+	branch = master
+	shallow = true
+	path = device/google/wahoo
+	url = ../../device/google/wahoo
+[submodule "device/google/wahoo-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/wahoo-kernel
+	url = ../../device/google/wahoo-kernel
+[submodule "device/google_car"]
+	branch = master
+	shallow = true
+	path = device/google_car
+	url = ../../device/google_car
+[submodule "device/linaro/bootloader/OpenPlatformPkg"]
+	branch = master
+	shallow = true
+	path = device/linaro/bootloader/OpenPlatformPkg
+	url = ../../device/linaro/bootloader/OpenPlatformPkg
+[submodule "device/linaro/bootloader/arm-trusted-firmware"]
+	branch = master
+	shallow = true
+	path = device/linaro/bootloader/arm-trusted-firmware
+	url = ../../device/linaro/bootloader/arm-trusted-firmware
+[submodule "device/linaro/bootloader/edk2"]
+	branch = master
+	shallow = true
+	path = device/linaro/bootloader/edk2
+	url = ../../device/linaro/bootloader/edk2
+[submodule "device/linaro/dragonboard"]
+	branch = master
+	shallow = true
+	path = device/linaro/dragonboard
+	url = ../../device/linaro/dragonboard
+[submodule "device/linaro/dragonboard-kernel"]
+	branch = master
+	shallow = true
+	path = device/linaro/dragonboard-kernel
+	url = ../../device/linaro/dragonboard-kernel
+[submodule "device/linaro/hikey"]
+	branch = master
+	shallow = true
+	path = device/linaro/hikey
+	url = ../../device/linaro/hikey
+[submodule "device/linaro/hikey-kernel"]
+	branch = master
+	shallow = true
+	path = device/linaro/hikey-kernel
+	url = ../../device/linaro/hikey-kernel
+[submodule "device/linaro/poplar"]
+	branch = master
+	shallow = true
+	path = device/linaro/poplar
+	url = ../../device/linaro/poplar
+[submodule "device/linaro/poplar-kernel"]
+	branch = master
+	shallow = true
+	path = device/linaro/poplar-kernel
+	url = ../../device/linaro/poplar-kernel
+[submodule "device/sample"]
+	branch = master
+	shallow = true
+	path = device/sample
+	url = ../../device/sample
+[submodule "device/ti/beagle-x15"]
+	branch = master
+	shallow = true
+	path = device/ti/beagle_x15
+	url = ../../device/ti/beagle-x15
+[submodule "device/ti/beagle-x15-kernel"]
+	branch = master
+	shallow = true
+	path = device/ti/beagle_x15-kernel
+	url = ../../device/ti/beagle-x15-kernel
+[submodule "kernel/build"]
+	branch = master
+	shallow = true
+	path = kernel/build
+	url = ../../kernel/build
+[submodule "kernel/configs"]
+	branch = master
+	shallow = true
+	path = kernel/configs
+	url = ../../kernel/configs
+[submodule "kernel/tests"]
+	branch = master
+	shallow = true
+	path = kernel/tests
+	url = ../../kernel/tests
+[submodule "platform/art"]
+	branch = master
+	shallow = true
+	path = art
+	url = ../art
+[submodule "platform/bionic"]
+	branch = master
+	shallow = true
+	path = bionic
+	url = ../bionic
+[submodule "platform/bootable/recovery"]
+	branch = master
+	shallow = true
+	path = bootable/recovery
+	url = ../bootable/recovery
+[submodule "platform/build"]
+	branch = master
+	shallow = true
+	path = build/make
+	url = ../build
+[submodule "platform/build/blueprint"]
+	branch = master
+	shallow = true
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "platform/build/soong"]
+	branch = master
+	shallow = true
+	path = build/soong
+	url = ../build/soong
+[submodule "platform/compatibility/cdd"]
+	branch = master
+	shallow = true
+	path = compatibility/cdd
+	url = ../compatibility/cdd
+[submodule "platform/cts"]
+	branch = master
+	shallow = true
+	path = cts
+	url = ../cts
+[submodule "platform/dalvik"]
+	branch = master
+	shallow = true
+	path = dalvik
+	url = ../dalvik
+[submodule "platform/developers/build"]
+	branch = master
+	shallow = true
+	path = developers/build
+	url = ../developers/build
+[submodule "platform/developers/demos"]
+	branch = master
+	shallow = true
+	path = developers/demos
+	url = ../developers/demos
+[submodule "platform/developers/samples/android"]
+	branch = master
+	shallow = true
+	path = developers/samples/android
+	url = ../developers/samples/android
+[submodule "platform/development"]
+	branch = master
+	shallow = true
+	path = development
+	url = ../development
+[submodule "platform/external/ARMComputeLibrary"]
+	branch = master
+	shallow = true
+	path = external/ARMComputeLibrary
+	url = ../external/ARMComputeLibrary
+[submodule "platform/external/ImageMagick"]
+	branch = master
+	shallow = true
+	path = external/ImageMagick
+	url = ../external/ImageMagick
+[submodule "platform/external/Microsoft-GSL"]
+	branch = master
+	shallow = true
+	path = external/Microsoft-GSL
+	url = ../external/Microsoft-GSL
+[submodule "platform/external/OpenCSD"]
+	branch = master
+	shallow = true
+	path = external/OpenCSD
+	url = ../external/OpenCSD
+[submodule "platform/external/Reactive-Extensions/RxCpp"]
+	branch = master
+	shallow = true
+	path = external/Reactive-Extensions/RxCpp
+	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/aac"]
+	branch = master
+	shallow = true
+	path = external/aac
+	url = ../external/aac
+[submodule "platform/external/adeb"]
+	branch = master
+	shallow = true
+	path = external/adeb
+	url = ../external/adeb
 [submodule "platform/external/adhd"]
 	branch = crosvm-master
-	path = third_party/adhd
+	path = external/adhd
 	url = ../external/adhd
+[submodule "platform/external/adt-infra"]
+	branch = master
+	shallow = true
+	path = external/adt-infra
+	url = ../external/adt-infra
+[submodule "platform/external/android-clat"]
+	branch = master
+	shallow = true
+	path = external/android-clat
+	url = ../external/android-clat
+[submodule "platform/external/androidplot"]
+	branch = master
+	shallow = true
+	path = external/androidplot
+	url = ../external/androidplot
+[submodule "platform/external/ant-glob"]
+	branch = master
+	shallow = true
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/antlr"]
+	branch = master
+	shallow = true
+	path = external/antlr
+	url = ../external/antlr
+[submodule "platform/external/apache-commons-bcel"]
+	branch = master
+	shallow = true
+	path = external/apache-commons-bcel
+	url = ../external/apache-commons-bcel
+[submodule "platform/external/apache-commons-compress"]
+	branch = master
+	shallow = true
+	path = external/apache-commons-compress
+	url = ../external/apache-commons-compress
+[submodule "platform/external/apache-commons-math"]
+	branch = master
+	shallow = true
+	path = external/apache-commons-math
+	url = ../external/apache-commons-math
+[submodule "platform/external/apache-harmony"]
+	branch = master
+	shallow = true
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "platform/external/apache-http"]
+	branch = master
+	shallow = true
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "platform/external/apache-xml"]
+	branch = master
+	shallow = true
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "platform/external/archive-patcher"]
+	branch = master
+	shallow = true
+	path = external/archive-patcher
+	url = ../external/archive-patcher
+[submodule "platform/external/arm-neon-tests"]
+	branch = master
+	shallow = true
+	path = external/arm-neon-tests
+	url = ../external/arm-neon-tests
+[submodule "platform/external/arm-optimized-routines"]
+	branch = master
+	shallow = true
+	path = external/arm-optimized-routines
+	url = ../external/arm-optimized-routines
+[submodule "platform/external/autotest"]
+	branch = master
+	shallow = true
+	path = external/autotest
+	url = ../external/autotest
+[submodule "platform/external/avb"]
+	branch = master
+	shallow = true
+	path = external/avb
+	url = ../external/avb
+[submodule "platform/external/bcc"]
+	branch = master
+	shallow = true
+	path = external/bcc
+	url = ../external/bcc
+[submodule "platform/external/blktrace"]
+	branch = master
+	shallow = true
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "platform/external/boringssl"]
+	branch = master
+	shallow = true
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "platform/external/bouncycastle"]
+	branch = master
+	shallow = true
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "platform/external/brotli"]
+	branch = master
+	shallow = true
+	path = external/brotli
+	url = ../external/brotli
+[submodule "platform/external/bsdiff"]
+	branch = master
+	shallow = true
+	path = external/bsdiff
+	url = ../external/bsdiff
+[submodule "platform/external/bzip2"]
+	branch = master
+	shallow = true
+	path = external/bzip2
+	url = ../external/bzip2
+[submodule "platform/external/caliper"]
+	branch = master
+	shallow = true
+	path = external/caliper
+	url = ../external/caliper
+[submodule "platform/external/capstone"]
+	branch = master
+	shallow = true
+	path = external/capstone
+	url = ../external/capstone
+[submodule "platform/external/catch2"]
+	branch = master
+	shallow = true
+	path = external/catch2
+	url = ../external/catch2
+[submodule "platform/external/cblas"]
+	branch = master
+	shallow = true
+	path = external/cblas
+	url = ../external/cblas
+[submodule "platform/external/chromium-libpac"]
+	branch = master
+	shallow = true
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "platform/external/chromium-trace"]
+	branch = master
+	shallow = true
+	path = external/chromium-trace
+	url = ../external/chromium-trace
+[submodule "platform/external/chromium-webview"]
+	branch = master
+	shallow = true
+	path = external/chromium-webview
+	url = ../external/chromium-webview
+[submodule "platform/external/clang"]
+	branch = master
+	shallow = true
+	path = external/clang
+	url = ../external/clang
+[submodule "platform/external/cldr"]
+	branch = master
+	shallow = true
+	path = external/cldr
+	url = ../external/cldr
+[submodule "platform/external/cmockery"]
+	branch = master
+	shallow = true
+	path = external/cmockery
+	url = ../external/cmockery
+[submodule "platform/external/cn-cbor"]
+	branch = master
+	shallow = true
+	path = external/cn-cbor
+	url = ../external/cn-cbor
+[submodule "platform/external/compiler-rt"]
+	branch = master
+	shallow = true
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "platform/external/conscrypt"]
+	branch = master
+	shallow = true
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "platform/external/cpu_features"]
+	branch = master
+	shallow = true
+	path = external/cpu_features
+	url = ../external/cpu_features
+[submodule "platform/external/crcalc"]
+	branch = master
+	shallow = true
+	path = external/crcalc
+	url = ../external/crcalc
+[submodule "platform/external/cros/system_api"]
+	branch = master
+	shallow = true
+	path = external/cros/system_api
+	url = ../external/cros/system_api
 [submodule "platform/external/crosvm"]
 	branch = crosvm-master
-	path = platform/crosvm
+	path = external/crosvm
 	url = ../external/crosvm
+[submodule "platform/external/curl"]
+	branch = master
+	shallow = true
+	path = external/curl
+	url = ../external/curl
+[submodule "platform/external/dagger2"]
+	branch = master
+	shallow = true
+	path = external/dagger2
+	url = ../external/dagger2
+[submodule "platform/external/deqp"]
+	branch = master
+	shallow = true
+	path = external/deqp
+	url = ../external/deqp
+[submodule "platform/external/deqp-deps/SPIRV-Headers"]
+	branch = master
+	shallow = true
+	path = external/deqp-deps/SPIRV-Headers
+	url = ../external/deqp-deps/SPIRV-Headers
+[submodule "platform/external/deqp-deps/SPIRV-Tools"]
+	branch = master
+	shallow = true
+	path = external/deqp-deps/SPIRV-Tools
+	url = ../external/deqp-deps/SPIRV-Tools
+[submodule "platform/external/deqp-deps/glslang"]
+	branch = master
+	shallow = true
+	path = external/deqp-deps/glslang
+	url = ../external/deqp-deps/glslang
+[submodule "platform/external/desugar"]
+	branch = master
+	shallow = true
+	path = external/desugar
+	url = ../external/desugar
+[submodule "platform/external/dexmaker"]
+	branch = master
+	shallow = true
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/external/dlmalloc"]
+	branch = master
+	shallow = true
+	path = external/dlmalloc
+	url = ../external/dlmalloc
+[submodule "platform/external/dng_sdk"]
+	branch = master
+	shallow = true
+	path = external/dng_sdk
+	url = ../external/dng_sdk
+[submodule "platform/external/dnsmasq"]
+	branch = master
+	shallow = true
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "platform/external/doclava"]
+	branch = master
+	shallow = true
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/dokka"]
+	branch = master
+	shallow = true
+	path = external/dokka
+	url = ../external/dokka
+[submodule "platform/external/drm_hwcomposer"]
+	branch = master
+	shallow = true
+	path = external/drm_hwcomposer
+	url = ../external/drm_hwcomposer
+[submodule "platform/external/droiddriver"]
+	branch = master
+	shallow = true
+	path = external/droiddriver
+	url = ../external/droiddriver
+[submodule "platform/external/drrickorang"]
+	branch = master
+	shallow = true
+	path = external/drrickorang
+	url = ../external/drrickorang
+[submodule "platform/external/dtc"]
+	branch = master
+	shallow = true
+	path = external/dtc
+	url = ../external/dtc
+[submodule "platform/external/dynamic_depth"]
+	branch = master
+	shallow = true
+	path = external/dynamic_depth
+	url = ../external/dynamic_depth
+[submodule "platform/external/e2fsprogs"]
+	branch = master
+	shallow = true
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "platform/external/easymock"]
+	branch = master
+	shallow = true
+	path = external/easymock
+	url = ../external/easymock
+[submodule "platform/external/eigen"]
+	branch = master
+	shallow = true
+	path = external/eigen
+	url = ../external/eigen
+[submodule "platform/external/elfutils"]
+	branch = master
+	shallow = true
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "platform/external/emma"]
+	branch = master
+	shallow = true
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/epid-sdk"]
+	branch = master
+	shallow = true
+	path = external/epid-sdk
+	url = ../external/epid-sdk
+[submodule "platform/external/error_prone"]
+	branch = master
+	shallow = true
+	path = external/error_prone
+	url = ../external/error_prone
+[submodule "platform/external/expat"]
+	branch = master
+	shallow = true
+	path = external/expat
+	url = ../external/expat
+[submodule "platform/external/f2fs-tools"]
+	branch = master
+	shallow = true
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "platform/external/fdlibm"]
+	branch = master
+	shallow = true
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "platform/external/fec"]
+	branch = master
+	shallow = true
+	path = external/fec
+	url = ../external/fec
+[submodule "platform/external/flac"]
+	branch = master
+	shallow = true
+	path = external/flac
+	url = ../external/flac
+[submodule "platform/external/flatbuffers"]
+	branch = master
+	shallow = true
+	path = external/flatbuffers
+	url = ../external/flatbuffers
+[submodule "platform/external/fmtlib"]
+	branch = master
+	shallow = true
+	path = external/fmtlib
+	url = ../external/fmtlib
+[submodule "platform/external/fonttools"]
+	branch = master
+	shallow = true
+	path = external/fonttools
+	url = ../external/fonttools
+[submodule "platform/external/freetype"]
+	branch = master
+	shallow = true
+	path = external/freetype
+	url = ../external/freetype
+[submodule "platform/external/fsck_msdos"]
+	branch = master
+	shallow = true
+	path = external/fsck_msdos
+	url = ../external/fsck_msdos
+[submodule "platform/external/fsverity-utils"]
+	branch = master
+	shallow = true
+	path = external/fsverity-utils
+	url = ../external/fsverity-utils
+[submodule "platform/external/gemmlowp"]
+	branch = master
+	shallow = true
+	path = external/gemmlowp
+	url = ../external/gemmlowp
+[submodule "platform/external/gflags"]
+	branch = master
+	shallow = true
+	path = external/gflags
+	url = ../external/gflags
+[submodule "platform/external/giflib"]
+	branch = master
+	shallow = true
+	path = external/giflib
+	url = ../external/giflib
+[submodule "platform/external/glide"]
+	branch = master
+	shallow = true
+	path = external/glide
+	url = ../external/glide
+[submodule "platform/external/golang-protobuf"]
+	branch = master
+	shallow = true
+	path = external/golang-protobuf
+	url = ../external/golang-protobuf
+[submodule "platform/external/google-benchmark"]
+	branch = master
+	shallow = true
+	path = external/google-benchmark
+	url = ../external/google-benchmark
+[submodule "platform/external/google-breakpad"]
+	branch = master
+	shallow = true
+	path = external/google-breakpad
+	url = ../external/google-breakpad
+[submodule "platform/external/google-fonts/arbutus-slab"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/arbutus-slab
+	url = ../external/google-fonts/arbutus-slab
+[submodule "platform/external/google-fonts/arvo"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/arvo
+	url = ../external/google-fonts/arvo
+[submodule "platform/external/google-fonts/carrois-gothic-sc"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/carrois-gothic-sc
+	url = ../external/google-fonts/carrois-gothic-sc
+[submodule "platform/external/google-fonts/coming-soon"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/coming-soon
+	url = ../external/google-fonts/coming-soon
+[submodule "platform/external/google-fonts/cutive-mono"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/cutive-mono
+	url = ../external/google-fonts/cutive-mono
+[submodule "platform/external/google-fonts/dancing-script"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/dancing-script
+	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-fonts/lato"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/lato
+	url = ../external/google-fonts/lato
+[submodule "platform/external/google-fonts/rubik"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/rubik
+	url = ../external/google-fonts/rubik
+[submodule "platform/external/google-fonts/source-sans-pro"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/source-sans-pro
+	url = ../external/google-fonts/source-sans-pro
+[submodule "platform/external/google-fonts/zilla-slab"]
+	branch = master
+	shallow = true
+	path = external/google-fonts/zilla-slab
+	url = ../external/google-fonts/zilla-slab
+[submodule "platform/external/google-fruit"]
+	branch = master
+	shallow = true
+	path = external/google-fruit
+	url = ../external/google-fruit
+[submodule "platform/external/google-styleguide"]
+	branch = master
+	shallow = true
+	path = external/google-styleguide
+	url = ../external/google-styleguide
+[submodule "platform/external/googletest"]
+	branch = master
+	shallow = true
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/gptfdisk"]
+	branch = master
+	shallow = true
+	path = external/gptfdisk
+	url = ../external/gptfdisk
+[submodule "platform/external/grpc-grpc"]
+	branch = master
+	shallow = true
+	path = external/grpc-grpc
+	url = ../external/grpc-grpc
+[submodule "platform/external/grpc-grpc-java"]
+	branch = master
+	shallow = true
+	path = external/grpc-grpc-java
+	url = ../external/grpc-grpc-java
+[submodule "platform/external/guava"]
+	branch = master
+	shallow = true
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/guice"]
+	branch = master
+	shallow = true
+	path = external/guice
+	url = ../external/guice
+[submodule "platform/external/gwp_asan"]
+	branch = master
+	shallow = true
+	path = external/gwp_asan
+	url = ../external/gwp_asan
+[submodule "platform/external/hamcrest"]
+	branch = master
+	shallow = true
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/harfbuzz_ng"]
+	branch = master
+	shallow = true
+	path = external/harfbuzz_ng
+	url = ../external/harfbuzz_ng
+[submodule "platform/external/honggfuzz"]
+	branch = master
+	shallow = true
+	path = external/honggfuzz
+	url = ../external/honggfuzz
+[submodule "platform/external/hyphenation-patterns"]
+	branch = master
+	shallow = true
+	path = external/hyphenation-patterns
+	url = ../external/hyphenation-patterns
+[submodule "platform/external/icu"]
+	branch = master
+	shallow = true
+	path = external/icu
+	url = ../external/icu
+[submodule "platform/external/igt-gpu-tools"]
+	branch = master
+	shallow = true
+	path = external/igt-gpu-tools
+	url = ../external/igt-gpu-tools
+[submodule "platform/external/image_io"]
+	branch = master
+	shallow = true
+	path = external/image_io
+	url = ../external/image_io
+[submodule "platform/external/ims"]
+	branch = master
+	shallow = true
+	path = external/ims
+	url = ../external/ims
+[submodule "platform/external/iperf3"]
+	branch = master
+	shallow = true
+	path = external/iperf3
+	url = ../external/iperf3
+[submodule "platform/external/iproute2"]
+	branch = master
+	shallow = true
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "platform/external/ipsec-tools"]
+	branch = master
+	shallow = true
+	path = external/ipsec-tools
+	url = ../external/ipsec-tools
+[submodule "platform/external/iptables"]
+	branch = master
+	shallow = true
+	path = external/iptables
+	url = ../external/iptables
+[submodule "platform/external/iputils"]
+	branch = master
+	shallow = true
+	path = external/iputils
+	url = ../external/iputils
+[submodule "platform/external/iw"]
+	branch = master
+	shallow = true
+	path = external/iw
+	url = ../external/iw
+[submodule "platform/external/jacoco"]
+	branch = master
+	shallow = true
+	path = external/jacoco
+	url = ../external/jacoco
+[submodule "platform/external/jarjar"]
+	branch = master
+	shallow = true
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/javaparser"]
+	branch = master
+	shallow = true
+	path = external/javaparser
+	url = ../external/javaparser
+[submodule "platform/external/javapoet"]
+	branch = master
+	shallow = true
+	path = external/javapoet
+	url = ../external/javapoet
+[submodule "platform/external/javasqlite"]
+	branch = master
+	shallow = true
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "platform/external/jcommander"]
+	branch = master
+	shallow = true
+	path = external/jcommander
+	url = ../external/jcommander
+[submodule "platform/external/jdiff"]
+	branch = master
+	shallow = true
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "platform/external/jemalloc"]
+	branch = master
+	shallow = true
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "platform/external/jemalloc_new"]
+	branch = master
+	shallow = true
+	path = external/jemalloc_new
+	url = ../external/jemalloc_new
+[submodule "platform/external/jline"]
+	branch = master
+	shallow = true
+	path = external/jline
+	url = ../external/jline
+[submodule "platform/external/jsilver"]
+	branch = master
+	shallow = true
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "platform/external/jsmn"]
+	branch = master
+	shallow = true
+	path = external/jsmn
+	url = ../external/jsmn
+[submodule "platform/external/jsoncpp"]
+	branch = master
+	shallow = true
+	path = external/jsoncpp
+	url = ../external/jsoncpp
+[submodule "platform/external/jsr305"]
+	branch = master
+	shallow = true
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/jsr330"]
+	branch = master
+	shallow = true
+	path = external/jsr330
+	url = ../external/jsr330
+[submodule "platform/external/junit"]
+	branch = master
+	shallow = true
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/junit-params"]
+	branch = master
+	shallow = true
+	path = external/junit-params
+	url = ../external/junit-params
+[submodule "platform/external/kernel-headers"]
+	branch = master
+	shallow = true
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "platform/external/kmod"]
+	branch = master
+	shallow = true
+	path = external/kmod
+	url = ../external/kmod
+[submodule "platform/external/kotlinc"]
+	branch = master
+	shallow = true
+	path = external/kotlinc
+	url = ../external/kotlinc
+[submodule "platform/external/kotlinx.coroutines"]
+	branch = master
+	shallow = true
+	path = external/kotlinx.coroutines
+	url = ../external/kotlinx.coroutines
+[submodule "platform/external/ksoap2"]
+	branch = master
+	shallow = true
+	path = external/ksoap2
+	url = ../external/ksoap2
+[submodule "platform/external/libaom"]
+	branch = master
+	shallow = true
+	path = external/libaom
+	url = ../external/libaom
+[submodule "platform/external/libavc"]
+	branch = master
+	shallow = true
+	path = external/libavc
+	url = ../external/libavc
+[submodule "platform/external/libbackup"]
+	branch = master
+	shallow = true
+	path = external/libbackup
+	url = ../external/libbackup
+[submodule "platform/external/libbrillo"]
+	branch = master
+	shallow = true
+	path = external/libbrillo
+	url = ../external/libbrillo
+[submodule "platform/external/libcap"]
+	branch = master
+	shallow = true
+	path = external/libcap
+	url = ../external/libcap
+[submodule "platform/external/libcap-ng"]
+	branch = master
+	shallow = true
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "platform/external/libchrome"]
+	branch = master
+	shallow = true
+	path = external/libchrome
+	url = ../external/libchrome
+[submodule "platform/external/libcups"]
+	branch = master
+	shallow = true
+	path = external/libcups
+	url = ../external/libcups
+[submodule "platform/external/libcxx"]
+	branch = master
+	shallow = true
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "platform/external/libcxxabi"]
+	branch = master
+	shallow = true
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "platform/external/libdaemon"]
+	branch = master
+	shallow = true
+	path = external/libdaemon
+	url = ../external/libdaemon
+[submodule "platform/external/libdivsufsort"]
+	branch = master
+	shallow = true
+	path = external/libdivsufsort
+	url = ../external/libdivsufsort
+[submodule "platform/external/libdrm"]
+	branch = master
+	shallow = true
+	path = external/libdrm
+	url = ../external/libdrm
 [submodule "platform/external/libepoxy"]
 	branch = crosvm-master
-	path = third_party/libepoxy
+	path = external/libepoxy
 	url = ../external/libepoxy
+[submodule "platform/external/libese"]
+	branch = master
+	shallow = true
+	path = external/libese
+	url = ../external/libese
+[submodule "platform/external/libevent"]
+	branch = master
+	shallow = true
+	path = external/libevent
+	url = ../external/libevent
+[submodule "platform/external/libexif"]
+	branch = master
+	shallow = true
+	path = external/libexif
+	url = ../external/libexif
+[submodule "platform/external/libffi"]
+	branch = master
+	shallow = true
+	path = external/libffi
+	url = ../external/libffi
+[submodule "platform/external/libfuse"]
+	branch = master
+	shallow = true
+	path = external/libfuse
+	url = ../external/libfuse
+[submodule "platform/external/libgsm"]
+	branch = master
+	shallow = true
+	path = external/libgsm
+	url = ../external/libgsm
+[submodule "platform/external/libhevc"]
+	branch = master
+	shallow = true
+	path = external/libhevc
+	url = ../external/libhevc
+[submodule "platform/external/libjpeg-turbo"]
+	branch = master
+	shallow = true
+	path = external/libjpeg-turbo
+	url = ../external/libjpeg-turbo
+[submodule "platform/external/libkmsxx"]
+	branch = master
+	shallow = true
+	path = external/libkmsxx
+	url = ../external/libkmsxx
+[submodule "platform/external/libldac"]
+	branch = master
+	shallow = true
+	path = external/libldac
+	url = ../external/libldac
+[submodule "platform/external/libmpeg2"]
+	branch = master
+	shallow = true
+	path = external/libmpeg2
+	url = ../external/libmpeg2
+[submodule "platform/external/libmtp"]
+	branch = master
+	shallow = true
+	path = external/libmtp
+	url = ../external/libmtp
+[submodule "platform/external/libnetfilter_conntrack"]
+	branch = master
+	shallow = true
+	path = external/libnetfilter_conntrack
+	url = ../external/libnetfilter_conntrack
+[submodule "platform/external/libnfnetlink"]
+	branch = master
+	shallow = true
+	path = external/libnfnetlink
+	url = ../external/libnfnetlink
+[submodule "platform/external/libnl"]
+	branch = master
+	shallow = true
+	path = external/libnl
+	url = ../external/libnl
+[submodule "platform/external/libogg"]
+	branch = master
+	shallow = true
+	path = external/libogg
+	url = ../external/libogg
+[submodule "platform/external/libopus"]
+	branch = master
+	shallow = true
+	path = external/libopus
+	url = ../external/libopus
+[submodule "platform/external/libpcap"]
+	branch = master
+	shallow = true
+	path = external/libpcap
+	url = ../external/libpcap
+[submodule "platform/external/libphonenumber"]
+	branch = master
+	shallow = true
+	path = external/libphonenumber
+	url = ../external/libphonenumber
+[submodule "platform/external/libpng"]
+	branch = master
+	shallow = true
+	path = external/libpng
+	url = ../external/libpng
+[submodule "platform/external/libprotobuf-mutator"]
+	branch = master
+	shallow = true
+	path = external/libprotobuf-mutator
+	url = ../external/libprotobuf-mutator
+[submodule "platform/external/libtextclassifier"]
+	branch = master
+	shallow = true
+	path = external/libtextclassifier
+	url = ../external/libtextclassifier
+[submodule "platform/external/libunwind"]
+	branch = master
+	shallow = true
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "platform/external/libunwind_llvm"]
+	branch = master
+	shallow = true
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "platform/external/libusb"]
+	branch = master
+	shallow = true
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/external/libusb-compat"]
+	branch = master
+	shallow = true
+	path = external/libusb-compat
+	url = ../external/libusb-compat
+[submodule "platform/external/libutf"]
+	branch = master
+	shallow = true
+	path = external/libutf
+	url = ../external/libutf
+[submodule "platform/external/libvpx"]
+	branch = master
+	shallow = true
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "platform/external/libvterm"]
+	branch = master
+	shallow = true
+	path = external/libvterm
+	url = ../external/libvterm
+[submodule "platform/external/libxaac"]
+	branch = master
+	shallow = true
+	path = external/libxaac
+	url = ../external/libxaac
+[submodule "platform/external/libxcam"]
+	branch = master
+	shallow = true
+	path = external/libxcam
+	url = ../external/libxcam
+[submodule "platform/external/libxkbcommon"]
+	branch = master
+	shallow = true
+	path = external/libxkbcommon
+	url = ../external/libxkbcommon
+[submodule "platform/external/libxml2"]
+	branch = master
+	shallow = true
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "platform/external/libyuv"]
+	branch = master
+	shallow = true
+	path = external/libyuv
+	url = ../external/libyuv
+[submodule "platform/external/linux-kselftest"]
+	branch = master
+	shallow = true
+	path = external/linux-kselftest
+	url = ../external/linux-kselftest
+[submodule "platform/external/llvm"]
+	branch = master
+	shallow = true
+	path = external/llvm
+	url = ../external/llvm
+[submodule "platform/external/lmfit"]
+	branch = master
+	shallow = true
+	path = external/lmfit
+	url = ../external/lmfit
+[submodule "platform/external/lottie"]
+	branch = master
+	shallow = true
+	path = external/lottie
+	url = ../external/lottie
+[submodule "platform/external/ltp"]
+	branch = master
+	shallow = true
+	path = external/ltp
+	url = ../external/ltp
+[submodule "platform/external/lua"]
+	branch = master
+	shallow = true
+	path = external/lua
+	url = ../external/lua
+[submodule "platform/external/lz4"]
+	branch = master
+	shallow = true
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/lzma"]
+	branch = master
+	shallow = true
+	path = external/lzma
+	url = ../external/lzma
+[submodule "platform/external/markdown"]
+	branch = master
+	shallow = true
+	path = external/markdown
+	url = ../external/markdown
+[submodule "platform/external/mdnsresponder"]
+	branch = master
+	shallow = true
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "platform/external/mesa3d"]
+	branch = master
+	shallow = true
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "platform/external/mime-support"]
+	branch = master
+	shallow = true
+	path = external/mime-support
+	url = ../external/mime-support
 [submodule "platform/external/minigbm"]
 	branch = crosvm-master
-	path = third_party/minigbm
+	path = external/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
 	branch = crosvm-master
-	path = third_party/minijail
+	path = external/minijail
 	url = ../external/minijail
+[submodule "platform/external/mksh"]
+	branch = master
+	shallow = true
+	path = external/mksh
+	url = ../external/mksh
+[submodule "platform/external/mockftpserver"]
+	branch = master
+	shallow = true
+	path = external/mockftpserver
+	url = ../external/mockftpserver
+[submodule "platform/external/mockito"]
+	branch = master
+	shallow = true
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/mockwebserver"]
+	branch = master
+	shallow = true
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "platform/external/modp_b64"]
+	branch = master
+	shallow = true
+	path = external/modp_b64
+	url = ../external/modp_b64
+[submodule "platform/external/mp4parser"]
+	branch = master
+	shallow = true
+	path = external/mp4parser
+	url = ../external/mp4parser
+[submodule "platform/external/mtpd"]
+	branch = master
+	shallow = true
+	path = external/mtpd
+	url = ../external/mtpd
+[submodule "platform/external/nanohttpd"]
+	branch = master
+	shallow = true
+	path = external/nanohttpd
+	url = ../external/nanohttpd
+[submodule "platform/external/nanopb-c"]
+	branch = master
+	shallow = true
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "platform/external/naver-fonts"]
+	branch = master
+	shallow = true
+	path = external/naver-fonts
+	url = ../external/naver-fonts
+[submodule "platform/external/neon_2_sse"]
+	branch = master
+	shallow = true
+	path = external/neon_2_sse
+	url = ../external/neon_2_sse
+[submodule "platform/external/neven"]
+	branch = master
+	shallow = true
+	path = external/neven
+	url = ../external/neven
+[submodule "platform/external/newfs_msdos"]
+	branch = master
+	shallow = true
+	path = external/newfs_msdos
+	url = ../external/newfs_msdos
+[submodule "platform/external/nfacct"]
+	branch = master
+	shallow = true
+	path = external/nfacct
+	url = ../external/nfacct
+[submodule "platform/external/nist-pkits"]
+	branch = master
+	shallow = true
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "platform/external/nist-sip"]
+	branch = master
+	shallow = true
+	path = external/nist-sip
+	url = ../external/nist-sip
+[submodule "platform/external/nos/host/android"]
+	branch = master
+	shallow = true
+	path = external/nos/host/android
+	url = ../external/nos/host/android
+[submodule "platform/external/nos/host/generic"]
+	branch = master
+	shallow = true
+	path = external/nos/host/generic
+	url = ../external/nos/host/generic
+[submodule "platform/external/nos/test/system-test-harness"]
+	branch = master
+	shallow = true
+	path = external/nos/test/system-test-harness
+	url = ../external/nos/test/system-test-harness
+[submodule "platform/external/noto-fonts"]
+	branch = master
+	shallow = true
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "platform/external/oauth"]
+	branch = master
+	shallow = true
+	path = external/oauth
+	url = ../external/oauth
+[submodule "platform/external/objenesis"]
+	branch = master
+	shallow = true
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/oj-libjdwp"]
+	branch = master
+	shallow = true
+	path = external/oj-libjdwp
+	url = ../external/oj-libjdwp
+[submodule "platform/external/okhttp"]
+	branch = master
+	shallow = true
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "platform/external/one-true-awk"]
+	branch = master
+	shallow = true
+	path = external/one-true-awk
+	url = ../external/one-true-awk
+[submodule "platform/external/opencensus-java"]
+	branch = master
+	shallow = true
+	path = external/opencensus-java
+	url = ../external/opencensus-java
+[submodule "platform/external/oss-fuzz"]
+	branch = master
+	shallow = true
+	path = external/oss-fuzz
+	url = ../external/oss-fuzz
+[submodule "platform/external/owasp/sanitizer"]
+	branch = master
+	shallow = true
+	path = external/owasp/sanitizer
+	url = ../external/owasp/sanitizer
+[submodule "platform/external/parameter-framework"]
+	branch = master
+	shallow = true
+	path = external/parameter-framework
+	url = ../external/parameter-framework
+[submodule "platform/external/pcre"]
+	branch = master
+	shallow = true
+	path = external/pcre
+	url = ../external/pcre
+[submodule "platform/external/pdfium"]
+	branch = master
+	shallow = true
+	path = external/pdfium
+	url = ../external/pdfium
+[submodule "platform/external/perfetto"]
+	branch = master
+	shallow = true
+	path = external/perfetto
+	url = ../external/perfetto
+[submodule "platform/external/piex"]
+	branch = master
+	shallow = true
+	path = external/piex
+	url = ../external/piex
+[submodule "platform/external/ply"]
+	branch = master
+	shallow = true
+	path = external/ply
+	url = ../external/ply
+[submodule "platform/external/ppp"]
+	branch = master
+	shallow = true
+	path = external/ppp
+	url = ../external/ppp
+[submodule "platform/external/proguard"]
+	branch = master
+	shallow = true
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/protobuf"]
+	branch = master
+	shallow = true
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/protobuf-javalite"]
+	branch = master
+	shallow = true
+	path = external/protobuf-javalite
+	url = ../external/protobuf-javalite
+[submodule "platform/external/puffin"]
+	branch = master
+	shallow = true
+	path = external/puffin
+	url = ../external/puffin
+[submodule "platform/external/python/Pillow"]
+	branch = master
+	shallow = true
+	path = external/python/Pillow
+	url = ../external/python/Pillow
+[submodule "platform/external/python/apitools"]
+	branch = master
+	shallow = true
+	path = external/python/apitools
+	url = ../external/python/apitools
+[submodule "platform/external/python/appdirs"]
+	branch = master
+	shallow = true
+	path = external/python/appdirs
+	url = ../external/python/appdirs
+[submodule "platform/external/python/asn1crypto"]
+	branch = master
+	shallow = true
+	path = external/python/asn1crypto
+	url = ../external/python/asn1crypto
+[submodule "platform/external/python/atomicwrites"]
+	branch = master
+	shallow = true
+	path = external/python/atomicwrites
+	url = ../external/python/atomicwrites
+[submodule "platform/external/python/attrs"]
+	branch = master
+	shallow = true
+	path = external/python/attrs
+	url = ../external/python/attrs
+[submodule "platform/external/python/cachetools"]
+	branch = master
+	shallow = true
+	path = external/python/cachetools
+	url = ../external/python/cachetools
+[submodule "platform/external/python/cffi"]
+	branch = master
+	shallow = true
+	path = external/python/cffi
+	url = ../external/python/cffi
+[submodule "platform/external/python/cpython2"]
+	branch = master
+	shallow = true
+	path = external/python/cpython2
+	url = ../external/python/cpython2
+[submodule "platform/external/python/cpython3"]
+	branch = master
+	shallow = true
+	path = external/python/cpython3
+	url = ../external/python/cpython3
+[submodule "platform/external/python/cryptography"]
+	branch = master
+	shallow = true
+	path = external/python/cryptography
+	url = ../external/python/cryptography
+[submodule "platform/external/python/dateutil"]
+	branch = master
+	shallow = true
+	path = external/python/dateutil
+	url = ../external/python/dateutil
+[submodule "platform/external/python/dill"]
+	branch = master
+	shallow = true
+	path = external/python/dill
+	url = ../external/python/dill
+[submodule "platform/external/python/enum"]
+	branch = master
+	shallow = true
+	path = external/python/enum
+	url = ../external/python/enum
+[submodule "platform/external/python/enum34"]
+	branch = master
+	shallow = true
+	path = external/python/enum34
+	url = ../external/python/enum34
+[submodule "platform/external/python/funcsigs"]
+	branch = master
+	shallow = true
+	path = external/python/funcsigs
+	url = ../external/python/funcsigs
+[submodule "platform/external/python/future"]
+	branch = master
+	shallow = true
+	path = external/python/future
+	url = ../external/python/future
+[submodule "platform/external/python/futures"]
+	branch = master
+	shallow = true
+	path = external/python/futures
+	url = ../external/python/futures
+[submodule "platform/external/python/gapic-google-cloud-pubsub-v1"]
+	branch = master
+	shallow = true
+	path = external/python/gapic-google-cloud-pubsub-v1
+	url = ../external/python/gapic-google-cloud-pubsub-v1
+[submodule "platform/external/python/google-api-python-client"]
+	branch = master
+	shallow = true
+	path = external/python/google-api-python-client
+	url = ../external/python/google-api-python-client
+[submodule "platform/external/python/google-auth"]
+	branch = master
+	shallow = true
+	path = external/python/google-auth
+	url = ../external/python/google-auth
+[submodule "platform/external/python/google-auth-httplib2"]
+	branch = master
+	shallow = true
+	path = external/python/google-auth-httplib2
+	url = ../external/python/google-auth-httplib2
+[submodule "platform/external/python/google-cloud-core"]
+	branch = master
+	shallow = true
+	path = external/python/google-cloud-core
+	url = ../external/python/google-cloud-core
+[submodule "platform/external/python/google-cloud-pubsub"]
+	branch = master
+	shallow = true
+	path = external/python/google-cloud-pubsub
+	url = ../external/python/google-cloud-pubsub
+[submodule "platform/external/python/google-gax"]
+	branch = master
+	shallow = true
+	path = external/python/google-gax
+	url = ../external/python/google-gax
+[submodule "platform/external/python/googleapis"]
+	branch = master
+	shallow = true
+	path = external/python/googleapis
+	url = ../external/python/googleapis
+[submodule "platform/external/python/grpc-google-iam-v1"]
+	branch = master
+	shallow = true
+	path = external/python/grpc-google-iam-v1
+	url = ../external/python/grpc-google-iam-v1
+[submodule "platform/external/python/grpcio"]
+	branch = master
+	shallow = true
+	path = external/python/grpcio
+	url = ../external/python/grpcio
+[submodule "platform/external/python/httplib2"]
+	branch = master
+	shallow = true
+	path = external/python/httplib2
+	url = ../external/python/httplib2
+[submodule "platform/external/python/ipaddress"]
+	branch = master
+	shallow = true
+	path = external/python/ipaddress
+	url = ../external/python/ipaddress
+[submodule "platform/external/python/matplotlib"]
+	branch = master
+	shallow = true
+	path = external/python/matplotlib
+	url = ../external/python/matplotlib
+[submodule "platform/external/python/mock"]
+	branch = master
+	shallow = true
+	path = external/python/mock
+	url = ../external/python/mock
+[submodule "platform/external/python/more-itertools"]
+	branch = master
+	shallow = true
+	path = external/python/more-itertools
+	url = ../external/python/more-itertools
+[submodule "platform/external/python/numpy"]
+	branch = master
+	shallow = true
+	path = external/python/numpy
+	url = ../external/python/numpy
+[submodule "platform/external/python/oauth2client"]
+	branch = master
+	shallow = true
+	path = external/python/oauth2client
+	url = ../external/python/oauth2client
+[submodule "platform/external/python/olefile"]
+	branch = master
+	shallow = true
+	path = external/python/olefile
+	url = ../external/python/olefile
+[submodule "platform/external/python/packaging"]
+	branch = master
+	shallow = true
+	path = external/python/packaging
+	url = ../external/python/packaging
+[submodule "platform/external/python/parse"]
+	branch = master
+	shallow = true
+	path = external/python/parse
+	url = ../external/python/parse
+[submodule "platform/external/python/pluggy"]
+	branch = master
+	shallow = true
+	path = external/python/pluggy
+	url = ../external/python/pluggy
+[submodule "platform/external/python/ply"]
+	branch = master
+	shallow = true
+	path = external/python/ply
+	url = ../external/python/ply
+[submodule "platform/external/python/proto-google-cloud-pubsub-v1"]
+	branch = master
+	shallow = true
+	path = external/python/proto-google-cloud-pubsub-v1
+	url = ../external/python/proto-google-cloud-pubsub-v1
+[submodule "platform/external/python/protobuf"]
+	branch = master
+	shallow = true
+	path = external/python/protobuf
+	url = ../external/python/protobuf
+[submodule "platform/external/python/py"]
+	branch = master
+	shallow = true
+	path = external/python/py
+	url = ../external/python/py
+[submodule "platform/external/python/pyasn1"]
+	branch = master
+	shallow = true
+	path = external/python/pyasn1
+	url = ../external/python/pyasn1
+[submodule "platform/external/python/pyasn1-modules"]
+	branch = master
+	shallow = true
+	path = external/python/pyasn1-modules
+	url = ../external/python/pyasn1-modules
+[submodule "platform/external/python/pycparser"]
+	branch = master
+	shallow = true
+	path = external/python/pycparser
+	url = ../external/python/pycparser
+[submodule "platform/external/python/pyopenssl"]
+	branch = master
+	shallow = true
+	path = external/python/pyopenssl
+	url = ../external/python/pyopenssl
+[submodule "platform/external/python/pyparsing"]
+	branch = master
+	shallow = true
+	path = external/python/pyparsing
+	url = ../external/python/pyparsing
+[submodule "platform/external/python/pytest"]
+	branch = master
+	shallow = true
+	path = external/python/pytest
+	url = ../external/python/pytest
+[submodule "platform/external/python/requests"]
+	branch = master
+	shallow = true
+	path = external/python/requests
+	url = ../external/python/requests
+[submodule "platform/external/python/rsa"]
+	branch = master
+	shallow = true
+	path = external/python/rsa
+	url = ../external/python/rsa
+[submodule "platform/external/python/scipy"]
+	branch = master
+	shallow = true
+	path = external/python/scipy
+	url = ../external/python/scipy
+[submodule "platform/external/python/setuptools"]
+	branch = master
+	shallow = true
+	path = external/python/setuptools
+	url = ../external/python/setuptools
+[submodule "platform/external/python/six"]
+	branch = master
+	shallow = true
+	path = external/python/six
+	url = ../external/python/six
+[submodule "platform/external/python/uritemplates"]
+	branch = master
+	shallow = true
+	path = external/python/uritemplates
+	url = ../external/python/uritemplates
+[submodule "platform/external/rapidjson"]
+	branch = master
+	shallow = true
+	path = external/rapidjson
+	url = ../external/rapidjson
+[submodule "platform/external/rappor"]
+	branch = master
+	shallow = true
+	path = external/rappor
+	url = ../external/rappor
+[submodule "platform/external/replicaisland"]
+	branch = master
+	shallow = true
+	path = external/replicaisland
+	url = ../external/replicaisland
+[submodule "platform/external/rmi4utils"]
+	branch = master
+	shallow = true
+	path = external/rmi4utils
+	url = ../external/rmi4utils
+[submodule "platform/external/robolectric-shadows"]
+	branch = master
+	shallow = true
+	path = external/robolectric-shadows
+	url = ../external/robolectric-shadows
+[submodule "platform/external/roboto-fonts"]
+	branch = master
+	shallow = true
+	path = external/roboto-fonts
+	url = ../external/roboto-fonts
+[submodule "platform/external/rootdev"]
+	branch = master
+	shallow = true
+	path = external/rootdev
+	url = ../external/rootdev
+[submodule "platform/external/rust/crates/byteorder"]
+	branch = master
+	path = external/rust/crates/byteorder
+	url = ../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/libc"]
+	branch = master
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/proc-macro2"]
+	branch = master
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/quote"]
+	branch = master
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
+[submodule "platform/external/rust/crates/remain"]
+	branch = master
+	path = external/rust/crates/remain
+	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/syn"]
+	branch = master
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/unicode-xid"]
+	branch = master
+	path = external/rust/crates/unicode-xid
+	url = ../external/rust/crates/unicode-xid
+[submodule "platform/external/scapy"]
+	branch = master
+	shallow = true
+	path = external/scapy
+	url = ../external/scapy
+[submodule "platform/external/scrypt"]
+	branch = master
+	shallow = true
+	path = external/scrypt
+	url = ../external/scrypt
+[submodule "platform/external/scudo"]
+	branch = master
+	shallow = true
+	path = external/scudo
+	url = ../external/scudo
+[submodule "platform/external/seccomp-tests"]
+	branch = master
+	shallow = true
+	path = external/seccomp-tests
+	url = ../external/seccomp-tests
+[submodule "platform/external/selinux"]
+	branch = master
+	shallow = true
+	path = external/selinux
+	url = ../external/selinux
+[submodule "platform/external/setupcompat"]
+	branch = master
+	shallow = true
+	path = external/setupcompat
+	url = ../external/setupcompat
+[submodule "platform/external/setupdesign"]
+	branch = master
+	shallow = true
+	path = external/setupdesign
+	url = ../external/setupdesign
+[submodule "platform/external/sfntly"]
+	branch = master
+	shallow = true
+	path = external/sfntly
+	url = ../external/sfntly
+[submodule "platform/external/shaderc/spirv-headers"]
+	branch = master
+	shallow = true
+	path = external/shaderc/spirv-headers
+	url = ../external/shaderc/spirv-headers
+[submodule "platform/external/shflags"]
+	branch = master
+	shallow = true
+	path = external/shflags
+	url = ../external/shflags
+[submodule "platform/external/skia"]
+	branch = master
+	shallow = true
+	path = external/skia
+	url = ../external/skia
+[submodule "platform/external/skqp"]
+	branch = master
+	shallow = true
+	path = external/skqp
+	url = ../external/skqp
+[submodule "platform/external/sl4a"]
+	branch = master
+	shallow = true
+	path = external/sl4a
+	url = ../external/sl4a
+[submodule "platform/external/slf4j"]
+	branch = master
+	shallow = true
+	path = external/slf4j
+	url = ../external/slf4j
+[submodule "platform/external/smali"]
+	branch = master
+	shallow = true
+	path = external/smali
+	url = ../external/smali
+[submodule "platform/external/snakeyaml"]
+	branch = master
+	shallow = true
+	path = external/snakeyaml
+	url = ../external/snakeyaml
+[submodule "platform/external/sonic"]
+	branch = master
+	shallow = true
+	path = external/sonic
+	url = ../external/sonic
+[submodule "platform/external/sonivox"]
+	branch = master
+	shallow = true
+	path = external/sonivox
+	url = ../external/sonivox
+[submodule "platform/external/speex"]
+	branch = master
+	shallow = true
+	path = external/speex
+	url = ../external/speex
+[submodule "platform/external/sqlite"]
+	branch = master
+	shallow = true
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "platform/external/squashfs-tools"]
+	branch = master
+	shallow = true
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
+[submodule "platform/external/strace"]
+	branch = master
+	shallow = true
+	path = external/strace
+	url = ../external/strace
+[submodule "platform/external/stressapptest"]
+	branch = master
+	shallow = true
+	path = external/stressapptest
+	url = ../external/stressapptest
+[submodule "platform/external/subsampling-scale-image-view"]
+	branch = master
+	shallow = true
+	path = external/subsampling-scale-image-view
+	url = ../external/subsampling-scale-image-view
+[submodule "platform/external/swiftshader"]
+	branch = master
+	shallow = true
+	path = external/swiftshader
+	url = ../external/swiftshader
+[submodule "platform/external/syzkaller"]
+	branch = master
+	shallow = true
+	path = external/syzkaller
+	url = ../external/syzkaller
+[submodule "platform/external/tagsoup"]
+	branch = master
+	shallow = true
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "platform/external/tcpdump"]
+	branch = master
+	shallow = true
+	path = external/tcpdump
+	url = ../external/tcpdump
+[submodule "platform/external/tensorflow"]
+	branch = master
+	shallow = true
+	path = external/tensorflow
+	url = ../external/tensorflow
+[submodule "platform/external/testng"]
+	branch = master
+	shallow = true
+	path = external/testng
+	url = ../external/testng
+[submodule "platform/external/tinyalsa"]
+	branch = master
+	shallow = true
+	path = external/tinyalsa
+	url = ../external/tinyalsa
+[submodule "platform/external/tinycompress"]
+	branch = master
+	shallow = true
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "platform/external/tinyxml"]
+	branch = master
+	shallow = true
+	path = external/tinyxml
+	url = ../external/tinyxml
+[submodule "platform/external/tinyxml2"]
+	branch = master
+	shallow = true
+	path = external/tinyxml2
+	url = ../external/tinyxml2
+[submodule "platform/external/toolchain-utils"]
+	branch = master
+	shallow = true
+	path = external/toolchain-utils
+	url = ../external/toolchain-utils
+[submodule "platform/external/toybox"]
+	branch = master
+	shallow = true
+	path = external/toybox
+	url = ../external/toybox
+[submodule "platform/external/tremolo"]
+	branch = master
+	shallow = true
+	path = external/tremolo
+	url = ../external/tremolo
+[submodule "platform/external/turbine"]
+	branch = master
+	shallow = true
+	path = external/turbine
+	url = ../external/turbine
+[submodule "platform/external/u-boot"]
+	branch = master
+	shallow = true
+	path = external/u-boot
+	url = ../external/u-boot
+[submodule "platform/external/ukey2"]
+	branch = master
+	shallow = true
+	path = external/ukey2
+	url = ../external/ukey2
+[submodule "platform/external/unicode"]
+	branch = master
+	shallow = true
+	path = external/unicode
+	url = ../external/unicode
+[submodule "platform/external/universal-tween-engine"]
+	branch = master
+	shallow = true
+	path = external/universal-tween-engine
+	url = ../external/universal-tween-engine
+[submodule "platform/external/v4l2_codec2"]
+	branch = master
+	shallow = true
+	path = external/v4l2_codec2
+	url = ../external/v4l2_codec2
+[submodule "platform/external/v8"]
+	branch = master
+	shallow = true
+	path = external/v8
+	url = ../external/v8
+[submodule "platform/external/vboot_reference"]
+	branch = master
+	shallow = true
+	path = external/vboot_reference
+	url = ../external/vboot_reference
 [submodule "platform/external/virglrenderer"]
 	branch = crosvm-master
-	path = third_party/virglrenderer
+	path = external/virglrenderer
 	url = ../external/virglrenderer
+[submodule "platform/external/vixl"]
+	branch = master
+	shallow = true
+	path = external/vixl
+	url = ../external/vixl
+[submodule "platform/external/vogar"]
+	branch = master
+	shallow = true
+	path = external/vogar
+	url = ../external/vogar
+[submodule "platform/external/volley"]
+	branch = master
+	shallow = true
+	path = external/volley
+	url = ../external/volley
+[submodule "platform/external/vulkan-headers"]
+	branch = master
+	shallow = true
+	path = external/vulkan-headers
+	url = ../external/vulkan-headers
+[submodule "platform/external/vulkan-validation-layers"]
+	branch = master
+	shallow = true
+	path = external/vulkan-validation-layers
+	url = ../external/vulkan-validation-layers
+[submodule "platform/external/walt"]
+	branch = master
+	shallow = true
+	path = external/walt
+	url = ../external/walt
+[submodule "platform/external/wayland"]
+	branch = master
+	shallow = true
+	path = external/wayland
+	url = ../external/wayland
+[submodule "platform/external/wayland-protocols"]
+	branch = master
+	shallow = true
+	path = external/wayland-protocols
+	url = ../external/wayland-protocols
+[submodule "platform/external/webp"]
+	branch = master
+	shallow = true
+	path = external/webp
+	url = ../external/webp
+[submodule "platform/external/webrtc"]
+	branch = master
+	shallow = true
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "platform/external/wpa_supplicant_8"]
+	branch = master
+	shallow = true
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "platform/external/wycheproof"]
+	branch = master
+	shallow = true
+	path = external/wycheproof
+	url = ../external/wycheproof
+[submodule "platform/external/xmp_toolkit"]
+	branch = master
+	shallow = true
+	path = external/xmp_toolkit
+	url = ../external/xmp_toolkit
+[submodule "platform/external/xz-embedded"]
+	branch = master
+	shallow = true
+	path = external/xz-embedded
+	url = ../external/xz-embedded
+[submodule "platform/external/xz-java"]
+	branch = master
+	shallow = true
+	path = external/xz-java
+	url = ../external/xz-java
+[submodule "platform/external/yapf"]
+	branch = master
+	shallow = true
+	path = external/yapf
+	url = ../external/yapf
+[submodule "platform/external/zlib"]
+	branch = master
+	shallow = true
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/external/zopfli"]
+	branch = master
+	shallow = true
+	path = external/zopfli
+	url = ../external/zopfli
+[submodule "platform/external/zxing"]
+	branch = master
+	shallow = true
+	path = external/zxing
+	url = ../external/zxing
+[submodule "platform/frameworks/av"]
+	branch = master
+	shallow = true
+	path = frameworks/av
+	url = ../frameworks/av
+[submodule "platform/frameworks/base"]
+	branch = master
+	shallow = true
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "platform/frameworks/compile/libbcc"]
+	branch = master
+	shallow = true
+	path = frameworks/compile/libbcc
+	url = ../frameworks/compile/libbcc
+[submodule "platform/frameworks/compile/mclinker"]
+	branch = master
+	shallow = true
+	path = frameworks/compile/mclinker
+	url = ../frameworks/compile/mclinker
+[submodule "platform/frameworks/compile/slang"]
+	branch = master
+	shallow = true
+	path = frameworks/compile/slang
+	url = ../frameworks/compile/slang
+[submodule "platform/frameworks/ex"]
+	branch = master
+	shallow = true
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "platform/frameworks/hardware/interfaces"]
+	branch = master
+	shallow = true
+	path = frameworks/hardware/interfaces
+	url = ../frameworks/hardware/interfaces
+[submodule "platform/frameworks/layoutlib"]
+	branch = master
+	shallow = true
+	path = frameworks/layoutlib
+	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/minikin"]
+	branch = master
+	shallow = true
+	path = frameworks/minikin
+	url = ../frameworks/minikin
+[submodule "platform/frameworks/ml"]
+	branch = master
+	shallow = true
+	path = frameworks/ml
+	url = ../frameworks/ml
+[submodule "platform/frameworks/multidex"]
+	branch = master
+	shallow = true
+	path = frameworks/multidex
+	url = ../frameworks/multidex
+[submodule "platform/frameworks/native"]
+	branch = master
+	shallow = true
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/frameworks/opt/bitmap"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/bitmap
+	url = ../frameworks/opt/bitmap
+[submodule "platform/frameworks/opt/calendar"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/calendar
+	url = ../frameworks/opt/calendar
+[submodule "platform/frameworks/opt/car/services"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/car/services
+	url = ../frameworks/opt/car/services
+[submodule "platform/frameworks/opt/car/setupwizard"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/car/setupwizard
+	url = ../frameworks/opt/car/setupwizard
+[submodule "platform/frameworks/opt/chips"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/chips
+	url = ../frameworks/opt/chips
+[submodule "platform/frameworks/opt/colorpicker"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/colorpicker
+	url = ../frameworks/opt/colorpicker
+[submodule "platform/frameworks/opt/net/ethernet"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/net/ethernet
+	url = ../frameworks/opt/net/ethernet
+[submodule "platform/frameworks/opt/net/ike"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/net/ike
+	url = ../frameworks/opt/net/ike
+[submodule "platform/frameworks/opt/net/ims"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/net/ims
+	url = ../frameworks/opt/net/ims
+[submodule "platform/frameworks/opt/net/voip"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/net/voip
+	url = ../frameworks/opt/net/voip
+[submodule "platform/frameworks/opt/net/wifi"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/net/wifi
+	url = ../frameworks/opt/net/wifi
+[submodule "platform/frameworks/opt/photoviewer"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/photoviewer
+	url = ../frameworks/opt/photoviewer
+[submodule "platform/frameworks/opt/setupwizard"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/setupwizard
+	url = ../frameworks/opt/setupwizard
+[submodule "platform/frameworks/opt/telephony"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/telephony
+	url = ../frameworks/opt/telephony
+[submodule "platform/frameworks/opt/timezonepicker"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/timezonepicker
+	url = ../frameworks/opt/timezonepicker
+[submodule "platform/frameworks/opt/vcard"]
+	branch = master
+	shallow = true
+	path = frameworks/opt/vcard
+	url = ../frameworks/opt/vcard
+[submodule "platform/frameworks/rs"]
+	branch = master
+	shallow = true
+	path = frameworks/rs
+	url = ../frameworks/rs
+[submodule "platform/frameworks/wilhelm"]
+	branch = master
+	shallow = true
+	path = frameworks/wilhelm
+	url = ../frameworks/wilhelm
+[submodule "platform/hardware/broadcom/libbt"]
+	branch = master
+	shallow = true
+	path = hardware/broadcom/libbt
+	url = ../hardware/broadcom/libbt
+[submodule "platform/hardware/broadcom/wlan"]
+	branch = master
+	shallow = true
+	path = hardware/broadcom/wlan
+	url = ../hardware/broadcom/wlan
+[submodule "platform/hardware/google/apf"]
+	branch = master
+	shallow = true
+	path = hardware/google/apf
+	url = ../hardware/google/apf
+[submodule "platform/hardware/google/av"]
+	branch = master
+	shallow = true
+	path = hardware/google/av
+	url = ../hardware/google/av
+[submodule "platform/hardware/google/easel"]
+	branch = master
+	shallow = true
+	path = hardware/google/easel
+	url = ../hardware/google/easel
+[submodule "platform/hardware/google/interfaces"]
+	branch = master
+	shallow = true
+	path = hardware/google/interfaces
+	url = ../hardware/google/interfaces
+[submodule "platform/hardware/google/pixel"]
+	branch = master
+	shallow = true
+	path = hardware/google/pixel
+	url = ../hardware/google/pixel
+[submodule "platform/hardware/interfaces"]
+	branch = master
+	shallow = true
+	path = hardware/interfaces
+	url = ../hardware/interfaces
+[submodule "platform/hardware/invensense"]
+	branch = master
+	shallow = true
+	path = hardware/invensense
+	url = ../hardware/invensense
+[submodule "platform/hardware/libhardware"]
+	branch = master
+	shallow = true
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "platform/hardware/libhardware_legacy"]
+	branch = master
+	shallow = true
+	path = hardware/libhardware_legacy
+	url = ../hardware/libhardware_legacy
+[submodule "platform/hardware/nxp/nfc"]
+	branch = master
+	shallow = true
+	path = hardware/nxp/nfc
+	url = ../hardware/nxp/nfc
+[submodule "platform/hardware/nxp/secure_element"]
+	branch = master
+	shallow = true
+	path = hardware/nxp/secure_element
+	url = ../hardware/nxp/secure_element
+[submodule "platform/hardware/qcom/audio"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/audio
+	url = ../hardware/qcom/audio
+[submodule "platform/hardware/qcom/bootctrl"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/bootctrl
+	url = ../hardware/qcom/bootctrl
+[submodule "platform/hardware/qcom/bt"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/bt
+	url = ../hardware/qcom/bt
+[submodule "platform/hardware/qcom/camera"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/camera
+	url = ../hardware/qcom/camera
+[submodule "platform/hardware/qcom/data/ipacfg-mgr"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/data/ipacfg-mgr
+	url = ../hardware/qcom/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/display"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/display
+	url = ../hardware/qcom/display
+[submodule "platform/hardware/qcom/gps"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/gps
+	url = ../hardware/qcom/gps
+[submodule "platform/hardware/qcom/keymaster"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/keymaster
+	url = ../hardware/qcom/keymaster
+[submodule "platform/hardware/qcom/media"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/media
+	url = ../hardware/qcom/media
+[submodule "platform/hardware/qcom/msm8960"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8960
+	url = ../hardware/qcom/msm8960
+[submodule "platform/hardware/qcom/msm8994"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8994
+	url = ../hardware/qcom/msm8994
+[submodule "platform/hardware/qcom/msm8996"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8996
+	url = ../hardware/qcom/msm8996
+[submodule "platform/hardware/qcom/msm8998"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8998
+	url = ../hardware/qcom/msm8998
+[submodule "platform/hardware/qcom/msm8x09"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8x09
+	url = ../hardware/qcom/msm8x09
+[submodule "platform/hardware/qcom/msm8x26"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8x26
+	url = ../hardware/qcom/msm8x26
+[submodule "platform/hardware/qcom/msm8x27"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8x27
+	url = ../hardware/qcom/msm8x27
+[submodule "platform/hardware/qcom/msm8x84"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/msm8x84
+	url = ../hardware/qcom/msm8x84
+[submodule "platform/hardware/qcom/neuralnetworks/hvxservice"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/neuralnetworks/hvxservice
+	url = ../hardware/qcom/neuralnetworks/hvxservice
+[submodule "platform/hardware/qcom/power"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/power
+	url = ../hardware/qcom/power
+[submodule "platform/hardware/qcom/sdm845/bt"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/sdm845/bt
+	url = ../hardware/qcom/sdm845/bt
+[submodule "platform/hardware/qcom/sdm845/data/ipacfg-mgr"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/sdm845/data/ipacfg-mgr
+	url = ../hardware/qcom/sdm845/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/sdm845/display"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/sdm845/display
+	url = ../hardware/qcom/sdm845/display
+[submodule "platform/hardware/qcom/sdm845/gps"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/sdm845/gps
+	url = ../hardware/qcom/sdm845/gps
+[submodule "platform/hardware/qcom/sdm845/media"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/sdm845/media
+	url = ../hardware/qcom/sdm845/media
+[submodule "platform/hardware/qcom/sdm845/thermal"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/sdm845/thermal
+	url = ../hardware/qcom/sdm845/thermal
+[submodule "platform/hardware/qcom/sdm845/vr"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/sdm845/vr
+	url = ../hardware/qcom/sdm845/vr
+[submodule "platform/hardware/qcom/wlan"]
+	branch = master
+	shallow = true
+	path = hardware/qcom/wlan
+	url = ../hardware/qcom/wlan
+[submodule "platform/hardware/ril"]
+	branch = master
+	shallow = true
+	path = hardware/ril
+	url = ../hardware/ril
+[submodule "platform/hardware/ti/am57x"]
+	branch = master
+	shallow = true
+	path = hardware/ti/am57x
+	url = ../hardware/ti/am57x
+[submodule "platform/libcore"]
+	branch = master
+	shallow = true
+	path = libcore
+	url = ../libcore
+[submodule "platform/libnativehelper"]
+	branch = master
+	shallow = true
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "platform/packages/apps/BasicSmsReceiver"]
+	branch = master
+	shallow = true
+	path = packages/apps/BasicSmsReceiver
+	url = ../packages/apps/BasicSmsReceiver
+[submodule "platform/packages/apps/Bluetooth"]
+	branch = master
+	shallow = true
+	path = packages/apps/Bluetooth
+	url = ../packages/apps/Bluetooth
+[submodule "platform/packages/apps/Browser2"]
+	branch = master
+	shallow = true
+	path = packages/apps/Browser2
+	url = ../packages/apps/Browser2
+[submodule "platform/packages/apps/Calendar"]
+	branch = master
+	shallow = true
+	path = packages/apps/Calendar
+	url = ../packages/apps/Calendar
+[submodule "platform/packages/apps/Camera2"]
+	branch = master
+	shallow = true
+	path = packages/apps/Camera2
+	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/Car/Cluster"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Cluster
+	url = ../packages/apps/Car/Cluster
+[submodule "platform/packages/apps/Car/Dialer"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Dialer
+	url = ../packages/apps/Car/Dialer
+[submodule "platform/packages/apps/Car/Hvac"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Hvac
+	url = ../packages/apps/Car/Hvac
+[submodule "platform/packages/apps/Car/LatinIME"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/LatinIME
+	url = ../packages/apps/Car/LatinIME
+[submodule "platform/packages/apps/Car/Launcher"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Launcher
+	url = ../packages/apps/Car/Launcher
+[submodule "platform/packages/apps/Car/LensPicker"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/LensPicker
+	url = ../packages/apps/Car/LensPicker
+[submodule "platform/packages/apps/Car/LinkViewer"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/LinkViewer
+	url = ../packages/apps/Car/LinkViewer
+[submodule "platform/packages/apps/Car/LocalMediaPlayer"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/LocalMediaPlayer
+	url = ../packages/apps/Car/LocalMediaPlayer
+[submodule "platform/packages/apps/Car/Media"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Media
+	url = ../packages/apps/Car/Media
+[submodule "platform/packages/apps/Car/Messenger"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Messenger
+	url = ../packages/apps/Car/Messenger
+[submodule "platform/packages/apps/Car/Notification"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Notification
+	url = ../packages/apps/Car/Notification
+[submodule "platform/packages/apps/Car/Overview"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Overview
+	url = ../packages/apps/Car/Overview
+[submodule "platform/packages/apps/Car/Radio"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Radio
+	url = ../packages/apps/Car/Radio
+[submodule "platform/packages/apps/Car/Settings"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Settings
+	url = ../packages/apps/Car/Settings
+[submodule "platform/packages/apps/Car/Stream"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/Stream
+	url = ../packages/apps/Car/Stream
+[submodule "platform/packages/apps/Car/SystemUpdater"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/SystemUpdater
+	url = ../packages/apps/Car/SystemUpdater
+[submodule "platform/packages/apps/Car/externallibs"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/externallibs
+	url = ../packages/apps/Car/externallibs
+[submodule "platform/packages/apps/Car/libs"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/libs
+	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/tests"]
+	branch = master
+	shallow = true
+	path = packages/apps/Car/tests
+	url = ../packages/apps/Car/tests
+[submodule "platform/packages/apps/CarrierConfig"]
+	branch = master
+	shallow = true
+	path = packages/apps/CarrierConfig
+	url = ../packages/apps/CarrierConfig
+[submodule "platform/packages/apps/CellBroadcastReceiver"]
+	branch = master
+	shallow = true
+	path = packages/apps/CellBroadcastReceiver
+	url = ../packages/apps/CellBroadcastReceiver
+[submodule "platform/packages/apps/CertInstaller"]
+	branch = master
+	shallow = true
+	path = packages/apps/CertInstaller
+	url = ../packages/apps/CertInstaller
+[submodule "platform/packages/apps/Contacts"]
+	branch = master
+	shallow = true
+	path = packages/apps/Contacts
+	url = ../packages/apps/Contacts
+[submodule "platform/packages/apps/DeskClock"]
+	branch = master
+	shallow = true
+	path = packages/apps/DeskClock
+	url = ../packages/apps/DeskClock
+[submodule "platform/packages/apps/DevCamera"]
+	branch = master
+	shallow = true
+	path = packages/apps/DevCamera
+	url = ../packages/apps/DevCamera
+[submodule "platform/packages/apps/Dialer"]
+	branch = master
+	shallow = true
+	path = packages/apps/Dialer
+	url = ../packages/apps/Dialer
+[submodule "platform/packages/apps/DocumentsUI"]
+	branch = master
+	shallow = true
+	path = packages/apps/DocumentsUI
+	url = ../packages/apps/DocumentsUI
+[submodule "platform/packages/apps/Email"]
+	branch = master
+	shallow = true
+	path = packages/apps/Email
+	url = ../packages/apps/Email
+[submodule "platform/packages/apps/EmergencyInfo"]
+	branch = master
+	shallow = true
+	path = packages/apps/EmergencyInfo
+	url = ../packages/apps/EmergencyInfo
+[submodule "platform/packages/apps/Gallery"]
+	branch = master
+	shallow = true
+	path = packages/apps/Gallery
+	url = ../packages/apps/Gallery
+[submodule "platform/packages/apps/Gallery2"]
+	branch = master
+	shallow = true
+	path = packages/apps/Gallery2
+	url = ../packages/apps/Gallery2
+[submodule "platform/packages/apps/HTMLViewer"]
+	branch = master
+	shallow = true
+	path = packages/apps/HTMLViewer
+	url = ../packages/apps/HTMLViewer
+[submodule "platform/packages/apps/KeyChain"]
+	branch = master
+	shallow = true
+	path = packages/apps/KeyChain
+	url = ../packages/apps/KeyChain
+[submodule "platform/packages/apps/Launcher3"]
+	branch = master
+	shallow = true
+	path = packages/apps/Launcher3
+	url = ../packages/apps/Launcher3
+[submodule "platform/packages/apps/LegacyCamera"]
+	branch = master
+	shallow = true
+	path = packages/apps/LegacyCamera
+	url = ../packages/apps/LegacyCamera
+[submodule "platform/packages/apps/ManagedProvisioning"]
+	branch = master
+	shallow = true
+	path = packages/apps/ManagedProvisioning
+	url = ../packages/apps/ManagedProvisioning
+[submodule "platform/packages/apps/Messaging"]
+	branch = master
+	shallow = true
+	path = packages/apps/Messaging
+	url = ../packages/apps/Messaging
+[submodule "platform/packages/apps/Music"]
+	branch = master
+	shallow = true
+	path = packages/apps/Music
+	url = ../packages/apps/Music
+[submodule "platform/packages/apps/MusicFX"]
+	branch = master
+	shallow = true
+	path = packages/apps/MusicFX
+	url = ../packages/apps/MusicFX
+[submodule "platform/packages/apps/Nfc"]
+	branch = master
+	shallow = true
+	path = packages/apps/Nfc
+	url = ../packages/apps/Nfc
+[submodule "platform/packages/apps/OneTimeInitializer"]
+	branch = master
+	shallow = true
+	path = packages/apps/OneTimeInitializer
+	url = ../packages/apps/OneTimeInitializer
+[submodule "platform/packages/apps/PackageInstaller"]
+	branch = master
+	shallow = true
+	path = packages/apps/PermissionController
+	url = ../packages/apps/PackageInstaller
+[submodule "platform/packages/apps/PhoneCommon"]
+	branch = master
+	shallow = true
+	path = packages/apps/PhoneCommon
+	url = ../packages/apps/PhoneCommon
+[submodule "platform/packages/apps/Protips"]
+	branch = master
+	shallow = true
+	path = packages/apps/Protips
+	url = ../packages/apps/Protips
+[submodule "platform/packages/apps/Provision"]
+	branch = master
+	shallow = true
+	path = packages/apps/Provision
+	url = ../packages/apps/Provision
+[submodule "platform/packages/apps/QuickSearchBox"]
+	branch = master
+	shallow = true
+	path = packages/apps/QuickSearchBox
+	url = ../packages/apps/QuickSearchBox
+[submodule "platform/packages/apps/SafetyRegulatoryInfo"]
+	branch = master
+	shallow = true
+	path = packages/apps/SafetyRegulatoryInfo
+	url = ../packages/apps/SafetyRegulatoryInfo
+[submodule "platform/packages/apps/SampleLocationAttribution"]
+	branch = master
+	shallow = true
+	path = packages/apps/SampleLocationAttribution
+	url = ../packages/apps/SampleLocationAttribution
+[submodule "platform/packages/apps/SecureElement"]
+	branch = master
+	shallow = true
+	path = packages/apps/SecureElement
+	url = ../packages/apps/SecureElement
+[submodule "platform/packages/apps/Settings"]
+	branch = master
+	shallow = true
+	path = packages/apps/Settings
+	url = ../packages/apps/Settings
+[submodule "platform/packages/apps/SettingsIntelligence"]
+	branch = master
+	shallow = true
+	path = packages/apps/SettingsIntelligence
+	url = ../packages/apps/SettingsIntelligence
+[submodule "platform/packages/apps/SoundRecorder"]
+	branch = master
+	shallow = true
+	path = packages/apps/SoundRecorder
+	url = ../packages/apps/SoundRecorder
+[submodule "platform/packages/apps/SpareParts"]
+	branch = master
+	shallow = true
+	path = packages/apps/SpareParts
+	url = ../packages/apps/SpareParts
+[submodule "platform/packages/apps/Stk"]
+	branch = master
+	shallow = true
+	path = packages/apps/Stk
+	url = ../packages/apps/Stk
+[submodule "platform/packages/apps/StorageManager"]
+	branch = master
+	shallow = true
+	path = packages/apps/StorageManager
+	url = ../packages/apps/StorageManager
+[submodule "platform/packages/apps/TV"]
+	branch = master
+	shallow = true
+	path = packages/apps/TV
+	url = ../packages/apps/TV
+[submodule "platform/packages/apps/Tag"]
+	branch = master
+	shallow = true
+	path = packages/apps/Tag
+	url = ../packages/apps/Tag
+[submodule "platform/packages/apps/Terminal"]
+	branch = master
+	shallow = true
+	path = packages/apps/Terminal
+	url = ../packages/apps/Terminal
+[submodule "platform/packages/apps/Test/connectivity"]
+	branch = master
+	shallow = true
+	path = packages/apps/Test/connectivity
+	url = ../packages/apps/Test/connectivity
+[submodule "platform/packages/apps/ThemePicker"]
+	branch = master
+	shallow = true
+	path = packages/apps/ThemePicker
+	url = ../packages/apps/ThemePicker
+[submodule "platform/packages/apps/TimeZoneData"]
+	branch = master
+	shallow = true
+	path = packages/apps/TimeZoneData
+	url = ../packages/apps/TimeZoneData
+[submodule "platform/packages/apps/TimeZoneUpdater"]
+	branch = master
+	shallow = true
+	path = packages/apps/TimeZoneUpdater
+	url = ../packages/apps/TimeZoneUpdater
+[submodule "platform/packages/apps/Traceur"]
+	branch = master
+	shallow = true
+	path = packages/apps/Traceur
+	url = ../packages/apps/Traceur
+[submodule "platform/packages/apps/TvSettings"]
+	branch = master
+	shallow = true
+	path = packages/apps/TvSettings
+	url = ../packages/apps/TvSettings
+[submodule "platform/packages/apps/UnifiedEmail"]
+	branch = master
+	shallow = true
+	path = packages/apps/UnifiedEmail
+	url = ../packages/apps/UnifiedEmail
+[submodule "platform/packages/apps/UniversalMediaPlayer"]
+	branch = master
+	shallow = true
+	path = packages/apps/UniversalMediaPlayer
+	url = ../packages/apps/UniversalMediaPlayer
+[submodule "platform/packages/apps/WallpaperPicker"]
+	branch = master
+	shallow = true
+	path = packages/apps/WallpaperPicker
+	url = ../packages/apps/WallpaperPicker
+[submodule "platform/packages/apps/WallpaperPicker2"]
+	branch = master
+	shallow = true
+	path = packages/apps/WallpaperPicker2
+	url = ../packages/apps/WallpaperPicker2
+[submodule "platform/packages/inputmethods/LatinIME"]
+	branch = master
+	shallow = true
+	path = packages/inputmethods/LatinIME
+	url = ../packages/inputmethods/LatinIME
+[submodule "platform/packages/modules/CaptivePortalLogin"]
+	branch = master
+	shallow = true
+	path = packages/modules/CaptivePortalLogin
+	url = ../packages/modules/CaptivePortalLogin
+[submodule "platform/packages/modules/DnsResolver"]
+	branch = master
+	shallow = true
+	path = packages/modules/DnsResolver
+	url = ../packages/modules/DnsResolver
+[submodule "platform/packages/modules/ExtServices"]
+	branch = master
+	shallow = true
+	path = packages/modules/ExtServices
+	url = ../packages/modules/ExtServices
+[submodule "platform/packages/modules/ModuleMetadata"]
+	branch = master
+	shallow = true
+	path = packages/modules/ModuleMetadata
+	url = ../packages/modules/ModuleMetadata
+[submodule "platform/packages/modules/NetworkPermissionConfig"]
+	branch = master
+	shallow = true
+	path = packages/modules/NetworkPermissionConfig
+	url = ../packages/modules/NetworkPermissionConfig
+[submodule "platform/packages/modules/NetworkStack"]
+	branch = master
+	shallow = true
+	path = packages/modules/NetworkStack
+	url = ../packages/modules/NetworkStack
+[submodule "platform/packages/modules/TestModule"]
+	branch = master
+	shallow = true
+	path = packages/modules/TestModule
+	url = ../packages/modules/TestModule
+[submodule "platform/packages/providers/ApplicationsProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/ApplicationsProvider
+	url = ../packages/providers/ApplicationsProvider
+[submodule "platform/packages/providers/BlockedNumberProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/BlockedNumberProvider
+	url = ../packages/providers/BlockedNumberProvider
+[submodule "platform/packages/providers/BookmarkProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/BookmarkProvider
+	url = ../packages/providers/BookmarkProvider
+[submodule "platform/packages/providers/CalendarProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/CalendarProvider
+	url = ../packages/providers/CalendarProvider
+[submodule "platform/packages/providers/CallLogProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/CallLogProvider
+	url = ../packages/providers/CallLogProvider
+[submodule "platform/packages/providers/ContactsProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/ContactsProvider
+	url = ../packages/providers/ContactsProvider
+[submodule "platform/packages/providers/DownloadProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/DownloadProvider
+	url = ../packages/providers/DownloadProvider
+[submodule "platform/packages/providers/MediaProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/MediaProvider
+	url = ../packages/providers/MediaProvider
+[submodule "platform/packages/providers/PartnerBookmarksProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/PartnerBookmarksProvider
+	url = ../packages/providers/PartnerBookmarksProvider
+[submodule "platform/packages/providers/TelephonyProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/TelephonyProvider
+	url = ../packages/providers/TelephonyProvider
+[submodule "platform/packages/providers/TvProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/TvProvider
+	url = ../packages/providers/TvProvider
+[submodule "platform/packages/providers/UserDictionaryProvider"]
+	branch = master
+	shallow = true
+	path = packages/providers/UserDictionaryProvider
+	url = ../packages/providers/UserDictionaryProvider
+[submodule "platform/packages/screensavers/Basic"]
+	branch = master
+	shallow = true
+	path = packages/screensavers/Basic
+	url = ../packages/screensavers/Basic
+[submodule "platform/packages/screensavers/PhotoTable"]
+	branch = master
+	shallow = true
+	path = packages/screensavers/PhotoTable
+	url = ../packages/screensavers/PhotoTable
+[submodule "platform/packages/services/AlternativeNetworkAccess"]
+	branch = master
+	shallow = true
+	path = packages/services/AlternativeNetworkAccess
+	url = ../packages/services/AlternativeNetworkAccess
+[submodule "platform/packages/services/BuiltInPrintService"]
+	branch = master
+	shallow = true
+	path = packages/services/BuiltInPrintService
+	url = ../packages/services/BuiltInPrintService
+[submodule "platform/packages/services/Car"]
+	branch = master
+	shallow = true
+	path = packages/services/Car
+	url = ../packages/services/Car
+[submodule "platform/packages/services/Mms"]
+	branch = master
+	shallow = true
+	path = packages/services/Mms
+	url = ../packages/services/Mms
+[submodule "platform/packages/services/Telecomm"]
+	branch = master
+	shallow = true
+	path = packages/services/Telecomm
+	url = ../packages/services/Telecomm
+[submodule "platform/packages/services/Telephony"]
+	branch = master
+	shallow = true
+	path = packages/services/Telephony
+	url = ../packages/services/Telephony
+[submodule "platform/packages/wallpapers/LivePicker"]
+	branch = master
+	shallow = true
+	path = packages/wallpapers/LivePicker
+	url = ../packages/wallpapers/LivePicker
+[submodule "platform/pdk"]
+	branch = master
+	shallow = true
+	path = pdk
+	url = ../pdk
+[submodule "platform/platform_testing"]
+	branch = master
+	shallow = true
+	path = platform_testing
+	url = ../platform_testing
+[submodule "platform/prebuilts/abi-dumps/ndk"]
+	branch = master
+	shallow = true
+	path = prebuilts/abi-dumps/ndk
+	url = ../prebuilts/abi-dumps/ndk
+[submodule "platform/prebuilts/abi-dumps/platform"]
+	branch = master
+	shallow = true
+	path = prebuilts/abi-dumps/platform
+	url = ../prebuilts/abi-dumps/platform
+[submodule "platform/prebuilts/abi-dumps/vndk"]
+	branch = master
+	shallow = true
+	path = prebuilts/abi-dumps/vndk
+	url = ../prebuilts/abi-dumps/vndk
+[submodule "platform/prebuilts/android-emulator"]
+	branch = master
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/asuite"]
+	branch = master
+	shallow = true
+	path = prebuilts/asuite
+	url = ../prebuilts/asuite
+[submodule "platform/prebuilts/build-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
+[submodule "platform/prebuilts/bundletool"]
+	branch = master
+	shallow = true
+	path = prebuilts/bundletool
+	url = ../prebuilts/bundletool
+[submodule "platform/prebuilts/checkcolor"]
+	branch = master
+	shallow = true
+	path = prebuilts/checkcolor
+	url = ../prebuilts/checkcolor
+[submodule "platform/prebuilts/checkstyle"]
+	branch = master
+	shallow = true
+	path = prebuilts/checkstyle
+	url = ../prebuilts/checkstyle
+[submodule "platform/prebuilts/clang-tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang-tools
+	url = ../prebuilts/clang-tools
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/devtools"]
+	branch = master
+	shallow = true
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "platform/prebuilts/fuchsia_sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/fuchsia_sdk
+	url = ../prebuilts/fuchsia_sdk
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = master
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gdb/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/gdb/darwin-x86
+	url = ../prebuilts/gdb/darwin-x86
+[submodule "platform/prebuilts/gdb/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/gdb/linux-x86
+	url = ../prebuilts/gdb/linux-x86
+[submodule "platform/prebuilts/go/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "platform/prebuilts/go/linux-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "platform/prebuilts/gradle-plugin"]
+	branch = master
+	shallow = true
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
+[submodule "platform/prebuilts/jdk/jdk8"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "platform/prebuilts/jdk/jdk9"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk9
+	url = ../prebuilts/jdk/jdk9
+[submodule "platform/prebuilts/ktlint"]
+	branch = master
+	shallow = true
+	path = prebuilts/ktlint
+	url = ../prebuilts/ktlint
+[submodule "platform/prebuilts/manifest-merger"]
+	branch = master
+	shallow = true
+	path = prebuilts/manifest-merger
+	url = ../prebuilts/manifest-merger
+[submodule "platform/prebuilts/maven_repo/android"]
+	branch = master
+	shallow = true
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "platform/prebuilts/maven_repo/bumptech"]
+	branch = master
+	shallow = true
+	path = prebuilts/maven_repo/bumptech
+	url = ../prebuilts/maven_repo/bumptech
+[submodule "platform/prebuilts/maven_repo/google-play-service-client-libraries-3p"]
+	branch = master
+	shallow = true
+	path = prebuilts/maven_repo/google-play-service-client-libraries-3p
+	url = ../prebuilts/maven_repo/google-play-service-client-libraries-3p
+[submodule "platform/prebuilts/misc"]
+	branch = master
+	shallow = true
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/ndk"]
+	branch = master
+	shallow = true
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
+	branch = master
+	shallow = true
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
+	branch = master
+	shallow = true
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "platform/prebuilts/qemu-kernel"]
+	branch = master
+	shallow = true
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/r8"]
+	branch = master
+	shallow = true
+	path = prebuilts/r8
+	url = ../prebuilts/r8
+[submodule "platform/prebuilts/rust"]
+	branch = master
+	shallow = true
+	path = prebuilts/rust
+	url = ../prebuilts/rust
+[submodule "platform/prebuilts/sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/tools"]
+	branch = master
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/prebuilts/vndk/v27"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v27
+	url = ../prebuilts/vndk/v27
+[submodule "platform/prebuilts/vndk/v28"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v28
+	url = ../prebuilts/vndk/v28
+[submodule "platform/prebuilts/vndk/v29"]
+	branch = master
+	shallow = true
+	path = prebuilts/vndk/v29
+	url = ../prebuilts/vndk/v29
+[submodule "platform/sdk"]
+	branch = master
+	shallow = true
+	path = sdk
+	url = ../sdk
+[submodule "platform/system/apex"]
+	branch = master
+	shallow = true
+	path = system/apex
+	url = ../system/apex
+[submodule "platform/system/bpf"]
+	branch = master
+	shallow = true
+	path = system/bpf
+	url = ../system/bpf
+[submodule "platform/system/bpfprogs"]
+	branch = master
+	shallow = true
+	path = system/bpfprogs
+	url = ../system/bpfprogs
+[submodule "platform/system/bt"]
+	branch = master
+	shallow = true
+	path = system/bt
+	url = ../system/bt
+[submodule "platform/system/ca-certificates"]
+	branch = master
+	shallow = true
+	path = system/ca-certificates
+	url = ../system/ca-certificates
+[submodule "platform/system/chre"]
+	branch = master
+	shallow = true
+	path = system/chre
+	url = ../system/chre
+[submodule "platform/system/connectivity/wificond"]
+	branch = master
+	shallow = true
+	path = system/connectivity/wificond
+	url = ../system/connectivity/wificond
+[submodule "platform/system/connectivity/wifilogd"]
+	branch = master
+	shallow = true
+	path = system/connectivity/wifilogd
+	url = ../system/connectivity/wifilogd
+[submodule "platform/system/core"]
+	branch = master
+	shallow = true
+	path = system/core
+	url = ../system/core
+[submodule "platform/system/extras"]
+	branch = master
+	shallow = true
+	path = system/extras
+	url = ../system/extras
+[submodule "platform/system/gatekeeper"]
+	branch = master
+	shallow = true
+	path = system/gatekeeper
+	url = ../system/gatekeeper
+[submodule "platform/system/gsid"]
+	branch = master
+	shallow = true
+	path = system/gsid
+	url = ../system/gsid
+[submodule "platform/system/hardware/interfaces"]
+	branch = master
+	shallow = true
+	path = system/hardware/interfaces
+	url = ../system/hardware/interfaces
+[submodule "platform/system/hwservicemanager"]
+	branch = master
+	shallow = true
+	path = system/hwservicemanager
+	url = ../system/hwservicemanager
+[submodule "platform/system/iorap"]
+	branch = master
+	shallow = true
+	path = system/iorap
+	url = ../system/iorap
+[submodule "platform/system/keymaster"]
+	branch = master
+	shallow = true
+	path = system/keymaster
+	url = ../system/keymaster
+[submodule "platform/system/libfmq"]
+	branch = master
+	shallow = true
+	path = system/libfmq
+	url = ../system/libfmq
+[submodule "platform/system/libhidl"]
+	branch = master
+	shallow = true
+	path = system/libhidl
+	url = ../system/libhidl
+[submodule "platform/system/libhwbinder"]
+	branch = master
+	shallow = true
+	path = system/libhwbinder
+	url = ../system/libhwbinder
+[submodule "platform/system/libsysprop"]
+	branch = master
+	shallow = true
+	path = system/libsysprop
+	url = ../system/libsysprop
+[submodule "platform/system/libufdt"]
+	branch = master
+	shallow = true
+	path = system/libufdt
+	url = ../system/libufdt
+[submodule "platform/system/libvintf"]
+	branch = master
+	shallow = true
+	path = system/libvintf
+	url = ../system/libvintf
+[submodule "platform/system/linkerconfig"]
+	branch = master
+	shallow = true
+	path = system/linkerconfig
+	url = ../system/linkerconfig
+[submodule "platform/system/media"]
+	branch = master
+	shallow = true
+	path = system/media
+	url = ../system/media
+[submodule "platform/system/netd"]
+	branch = master
+	shallow = true
+	path = system/netd
+	url = ../system/netd
+[submodule "platform/system/nfc"]
+	branch = master
+	shallow = true
+	path = system/nfc
+	url = ../system/nfc
+[submodule "platform/system/nvram"]
+	branch = master
+	shallow = true
+	path = system/nvram
+	url = ../system/nvram
+[submodule "platform/system/security"]
+	branch = master
+	shallow = true
+	path = system/security
+	url = ../system/security
+[submodule "platform/system/sepolicy"]
+	branch = master
+	shallow = true
+	path = system/sepolicy
+	url = ../system/sepolicy
+[submodule "platform/system/server_configurable_flags"]
+	branch = master
+	shallow = true
+	path = system/server_configurable_flags
+	url = ../system/server_configurable_flags
+[submodule "platform/system/testing/gtest_extras"]
+	branch = master
+	shallow = true
+	path = system/testing/gtest_extras
+	url = ../system/testing/gtest_extras
+[submodule "platform/system/timezone"]
+	branch = master
+	shallow = true
+	path = system/timezone
+	url = ../system/timezone
+[submodule "platform/system/tools/aidl"]
+	branch = master
+	shallow = true
+	path = system/tools/aidl
+	url = ../system/tools/aidl
+[submodule "platform/system/tools/hidl"]
+	branch = master
+	shallow = true
+	path = system/tools/hidl
+	url = ../system/tools/hidl
+[submodule "platform/system/tools/mkbootimg"]
+	branch = master
+	shallow = true
+	path = system/tools/mkbootimg
+	url = ../system/tools/mkbootimg
+[submodule "platform/system/tools/sysprop"]
+	branch = master
+	shallow = true
+	path = system/tools/sysprop
+	url = ../system/tools/sysprop
+[submodule "platform/system/tools/xsdc"]
+	branch = master
+	shallow = true
+	path = system/tools/xsdc
+	url = ../system/tools/xsdc
+[submodule "platform/system/ucontainer"]
+	branch = master
+	shallow = true
+	path = system/ucontainer
+	url = ../system/ucontainer
+[submodule "platform/system/update_engine"]
+	branch = master
+	shallow = true
+	path = system/update_engine
+	url = ../system/update_engine
+[submodule "platform/system/vold"]
+	branch = master
+	shallow = true
+	path = system/vold
+	url = ../system/vold
+[submodule "platform/test/app_compat/csuite"]
+	branch = master
+	shallow = true
+	path = test/app_compat/csuite
+	url = ../test/app_compat/csuite
+[submodule "platform/test/framework"]
+	branch = master
+	shallow = true
+	path = test/framework
+	url = ../test/framework
+[submodule "platform/test/mlts/benchmark"]
+	branch = master
+	shallow = true
+	path = test/mlts/benchmark
+	url = ../test/mlts/benchmark
+[submodule "platform/test/mlts/models"]
+	branch = master
+	shallow = true
+	path = test/mlts/models
+	url = ../test/mlts/models
+[submodule "platform/test/mts"]
+	branch = master
+	shallow = true
+	path = test/mts
+	url = ../test/mts
+[submodule "platform/test/suite_harness"]
+	branch = master
+	shallow = true
+	path = test/suite_harness
+	url = ../test/suite_harness
+[submodule "platform/test/vti/alert"]
+	branch = master
+	shallow = true
+	path = test/vti/alert
+	url = ../test/vti/alert
+[submodule "platform/test/vti/dashboard"]
+	branch = master
+	shallow = true
+	path = test/vti/dashboard
+	url = ../test/vti/dashboard
+[submodule "platform/test/vti/fuzz_test_serving"]
+	branch = master
+	shallow = true
+	path = test/vti/fuzz_test_serving
+	url = ../test/vti/fuzz_test_serving
+[submodule "platform/test/vti/test_serving"]
+	branch = master
+	shallow = true
+	path = test/vti/test_serving
+	url = ../test/vti/test_serving
+[submodule "platform/test/vts"]
+	branch = master
+	shallow = true
+	path = test/vts
+	url = ../test/vts
+[submodule "platform/test/vts-testcase/fuzz"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/fuzz
+	url = ../test/vts-testcase/fuzz
+[submodule "platform/test/vts-testcase/hal"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/hal
+	url = ../test/vts-testcase/hal
+[submodule "platform/test/vts-testcase/hal-trace"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/hal-trace
+	url = ../test/vts-testcase/hal-trace
+[submodule "platform/test/vts-testcase/kernel"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/kernel
+	url = ../test/vts-testcase/kernel
+[submodule "platform/test/vts-testcase/nbu"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/nbu
+	url = ../test/vts-testcase/nbu
+[submodule "platform/test/vts-testcase/performance"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/performance
+	url = ../test/vts-testcase/performance
+[submodule "platform/test/vts-testcase/security"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/security
+	url = ../test/vts-testcase/security
+[submodule "platform/test/vts-testcase/vndk"]
+	branch = master
+	shallow = true
+	path = test/vts-testcase/vndk
+	url = ../test/vts-testcase/vndk
+[submodule "platform/tools/acloud"]
+	branch = master
+	shallow = true
+	path = tools/acloud
+	url = ../tools/acloud
+[submodule "platform/tools/adt/idea"]
+	branch = master
+	shallow = true
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/apksig"]
+	branch = master
+	shallow = true
+	path = tools/apksig
+	url = ../tools/apksig
+[submodule "platform/tools/apkzlib"]
+	branch = master
+	shallow = true
+	path = tools/apkzlib
+	url = ../tools/apkzlib
+[submodule "platform/tools/asuite"]
+	branch = master
+	shallow = true
+	path = tools/asuite
+	url = ../tools/asuite
+[submodule "platform/tools/base"]
+	branch = master
+	shallow = true
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/build"]
+	branch = master
+	shallow = true
+	path = tools/build
+	url = ../tools/build
+[submodule "platform/tools/currysrc"]
+	branch = master
+	shallow = true
+	path = tools/currysrc
+	url = ../tools/currysrc
+[submodule "platform/tools/dexter"]
+	branch = master
+	shallow = true
+	path = tools/dexter
+	url = ../tools/dexter
+[submodule "platform/tools/doc_generation"]
+	branch = master
+	shallow = true
+	path = tools/doc_generation
+	url = ../tools/doc_generation
+[submodule "platform/tools/external/fat32lib"]
+	branch = master
+	shallow = true
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external_updater"]
+	branch = master
+	shallow = true
+	path = tools/external_updater
+	url = ../tools/external_updater
+[submodule "platform/tools/idea"]
+	branch = master
+	shallow = true
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/loganalysis"]
+	branch = master
+	shallow = true
+	path = tools/loganalysis
+	url = ../tools/loganalysis
+[submodule "platform/tools/metalava"]
+	branch = master
+	shallow = true
+	path = tools/metalava
+	url = ../tools/metalava
+[submodule "platform/tools/motodev"]
+	branch = master
+	shallow = true
+	path = tools/motodev
+	url = ../tools/motodev
+[submodule "platform/tools/ndkports"]
+	branch = master
+	shallow = true
+	path = tools/ndkports
+	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
 	branch = crosvm-master
 	path = tools/repohooks
 	url = ../tools/repohooks
+[submodule "platform/tools/security"]
+	branch = master
+	shallow = true
+	path = tools/security
+	url = ../tools/security
+[submodule "platform/tools/studio/cloud"]
+	branch = master
+	shallow = true
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "platform/tools/swt"]
+	branch = master
+	shallow = true
+	path = tools/swt
+	url = ../tools/swt
+[submodule "platform/tools/test/connectivity"]
+	branch = master
+	shallow = true
+	path = tools/test/connectivity
+	url = ../tools/test/connectivity
+[submodule "platform/tools/test/graphicsbenchmark"]
+	branch = master
+	shallow = true
+	path = tools/test/graphicsbenchmark
+	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/tradefederation"]
+	branch = master
+	shallow = true
+	path = tools/tradefederation/core
+	url = ../tools/tradefederation
+[submodule "platform/tools/tradefederation/contrib"]
+	branch = master
+	shallow = true
+	path = tools/tradefederation/contrib
+	url = ../tools/tradefederation/contrib
+[submodule "platform/tools/trebuchet"]
+	branch = master
+	shallow = true
+	path = tools/trebuchet
+	url = ../tools/trebuchet
+[submodule "toolchain/benchmark"]
+	branch = master
+	shallow = true
+	path = toolchain/benchmark
+	url = ../../toolchain/benchmark
+[submodule "toolchain/pgo-profiles"]
+	branch = master
+	shallow = true
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
+[submodule "tools/platform-compat"]
+	branch = master
+	shallow = true
+	path = tools/platform-compat
+	url = ../../tools/platform-compat
