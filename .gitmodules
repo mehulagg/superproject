@@ -74,16 +74,42 @@
 	branch = master
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
-[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
+[submodule "platform/prebuilts/go/darwin-x86"]
 	branch = master
 	shallow = true
-	path = prebuilts/python/darwin-x86/2.7.5
-	url = ../prebuilts/python/darwin-x86/2.7.5
-[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "platform/prebuilts/go/linux-x86"]
 	branch = master
 	shallow = true
-	path = prebuilts/python/linux-x86/2.7.5
-	url = ../prebuilts/python/linux-x86/2.7.5
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "platform/prebuilts/libedit/darwin-x86"]
+	path = prebuilts/libedit/darwin-x86
+	url = ../prebuilts/libedit/darwin-x86
+[submodule "platform/prebuilts/libedit/linux-x86"]
+	path = prebuilts/libedit/linux-x86
+	url = ../prebuilts/libedit/linux-x86
+[submodule "platform/prebuilts/python/darwin-x86"]
+	branch = master
+	shallow = true
+	path = prebuilts/python/darwin-x86
+	url = ../prebuilts/python/darwin-x86
+[submodule "platform/prebuilts/python/linux-x86"]
+	path = prebuilts/python/linux-x86
+	url = ../prebuilts/python/linux-x86
+[submodule "platform/prebuilts/python/windows-x86"]
+	path = prebuilts/python/windows-x86
+	url = ../prebuilts/python/windows-x86
+[submodule "platform/prebuilts/swig/darwin-x86"]
+	path = prebuilts/swig/darwin-x86
+	url = ../prebuilts/swig/darwin-x86
+[submodule "platform/prebuilts/swig/linux-x86"]
+	path = prebuilts/swig/linux-x86
+	url = ../prebuilts/swig/linux-x86
+[submodule "platform/prebuilts/swig/windows-x86"]
+	path = prebuilts/swig/windows-x86
+	url = ../prebuilts/swig/windows-x86
 [submodule "toolchain/binutils"]
 	branch = master
 	path = toolchain/binutils
