@@ -88,6 +88,7 @@
 /external/archive-patcher pdk
 /external/arm-neon-tests vendor
 /external/arm-optimized-routines pdk
+/external/arm-trusted-firmware pdk
 /external/autotest pdk-fs
 /external/avb pdk
 /external/bcc pdk
@@ -602,6 +603,7 @@
 /packages/modules/NetworkPermissionConfig pdk-fs pdk-cw-fs
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
 /packages/modules/TestModule
+/packages/modules/vndk pdk-fs pdk-cw-fs
 /packages/providers/ApplicationsProvider pdk-fs
 /packages/providers/BlockedNumberProvider pdk-fs
 /packages/providers/BookmarkProvider pdk-fs
