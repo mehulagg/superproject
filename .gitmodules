@@ -2767,7 +2767,7 @@
 	path = system/libufdt
 	url = ../system/libufdt
 [submodule "platform/system/libvintf"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = system/libvintf
 	url = ../system/libvintf
 [submodule "platform/system/linkerconfig"]
