@@ -3051,6 +3051,10 @@
 	branch = master
 	path = tools/adt/idea
 	url = ../tools/adt/idea
+[submodule "platform/tools/apifinder"]
+	branch = master
+	path = tools/apifinder
+	url = ../tools/apifinder
 [submodule "platform/tools/apksig"]
 	branch = master
 	path = tools/apksig

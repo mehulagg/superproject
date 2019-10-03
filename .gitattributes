@@ -747,6 +747,7 @@
 /test/vts-testcase/vndk vts pdk
 /tools/acloud vts tradefed pdk tools projectarch
 /tools/adt/idea notdefault tools
+/tools/apifinder pdk tools
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
 /tools/asuite pdk
