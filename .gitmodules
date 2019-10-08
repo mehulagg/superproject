@@ -1729,7 +1729,7 @@
 	path = external/zxing
 	url = ../external/zxing
 [submodule "platform/frameworks/av"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = frameworks/av
 	url = ../frameworks/av
 [submodule "platform/frameworks/base"]
