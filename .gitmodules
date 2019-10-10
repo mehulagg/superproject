@@ -439,7 +439,7 @@
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "platform/external/conscrypt"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = external/conscrypt
 	url = ../external/conscrypt
 [submodule "platform/external/crcalc"]
