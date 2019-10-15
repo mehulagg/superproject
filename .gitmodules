@@ -2237,10 +2237,6 @@
 	branch = master
 	path = packages/apps/DocumentsUI
 	url = ../packages/apps/DocumentsUI
-[submodule "platform/packages/apps/Email"]
-	branch = master
-	path = packages/apps/Email
-	url = ../packages/apps/Email
 [submodule "platform/packages/apps/EmergencyInfo"]
 	branch = master
 	path = packages/apps/EmergencyInfo
@@ -2385,10 +2381,6 @@
 	branch = master
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
-[submodule "platform/packages/apps/UnifiedEmail"]
-	branch = master
-	path = packages/apps/UnifiedEmail
-	url = ../packages/apps/UnifiedEmail
 [submodule "platform/packages/apps/UniversalMediaPlayer"]
 	branch = master
 	path = packages/apps/UniversalMediaPlayer
