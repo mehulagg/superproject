@@ -554,7 +554,6 @@
 /packages/apps/DevCamera pdk
 /packages/apps/Dialer pdk-fs
 /packages/apps/DocumentsUI pdk-fs pdk-cw-fs
-/packages/apps/Email pdk-fs
 /packages/apps/EmergencyInfo pdk-fs
 /packages/apps/Gallery pdk-fs
 /packages/apps/Gallery2 pdk-fs
@@ -591,7 +590,6 @@
 /packages/apps/TimeZoneUpdater pdk
 /packages/apps/Traceur pdk-fs
 /packages/apps/TvSettings pdk-fs
-/packages/apps/UnifiedEmail pdk-fs
 /packages/apps/UniversalMediaPlayer
 /packages/apps/WallpaperPicker pdk-fs
 /packages/apps/WallpaperPicker2 pdk-fs
