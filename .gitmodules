@@ -579,6 +579,10 @@
 	branch = master
 	path = external/error_prone
 	url = ../external/error_prone
+[submodule "platform/external/ethtool"]
+	branch = master
+	path = external/ethtool
+	url = ../external/ethtool
 [submodule "platform/external/expat"]
 	branch = master
 	path = external/expat
