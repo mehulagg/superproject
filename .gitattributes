@@ -140,6 +140,7 @@
 /external/emma pdk
 /external/epid-sdk pdk
 /external/error_prone pdk
+/external/ethtool pdk
 /external/expat pdk
 /external/f2fs-tools pdk
 /external/fdlibm pdk
