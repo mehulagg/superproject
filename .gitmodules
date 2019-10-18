@@ -1117,7 +1117,7 @@
 	path = external/python/cachetools
 	url = ../external/python/cachetools
 [submodule "platform/external/python/cpython2"]
-	branch = pie-release
+	branch = pie-vts-dev
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
