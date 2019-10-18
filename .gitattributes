@@ -1,0 +1,26 @@
+/external/clang
+/external/libedit
+/external/lldb
+/external/lldb-utils
+/external/llvm
+/external/cpython3
+/external/swig
+/prebuilts/clang/darwin-x86/sdk/3.5 notdefault platform-darwin
+/prebuilts/clang/host/darwin-x86 notdefault platform-darwin
+/prebuilts/clang/host/linux-x86 platform-linux notdefault
+/prebuilts/clang/host/windows-x86
+/prebuilts/cmake/darwin-x86 notdefault platform-darwin
+/prebuilts/cmake/linux-x86 platform-linux notdefault
+/prebuilts/cmake/windows-x86
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 platform-linux notdefault
+/prebuilts/libedit/darwin-x86 notdefault platform-darwin
+/prebuilts/libedit/linux-x86 platform-linux notdefault
+/prebuilts/ninja/darwin-x86 notdefault platform-darwin
+/prebuilts/ninja/linux-x86 platform-linux notdefault
+/prebuilts/ninja/windows-x86
+/prebuilts/python/linux-x86 platform-linux notdefault
+/prebuilts/python/windows-x86
+/prebuilts/swig/darwin-x86 notdefault platform-darwin
+/prebuilts/swig/linux-x86 platform-linux notdefault
+/prebuilts/swig/windows-x86
+/prebuilts/ndk platform-linux notdefault
