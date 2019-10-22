@@ -671,6 +671,7 @@
 /prebuilts/python/linux-x86/2.7.5 pdk-fs pdk-cw-fs pdk linux
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk
+/prebuilts/remoteexecution-client pdk
 /prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
