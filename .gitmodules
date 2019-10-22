@@ -2764,6 +2764,11 @@
 	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
+[submodule "platform/prebuilts/remoteexecution-client"]
+	branch = master
+	shallow = true
+	path = prebuilts/remoteexecution-client
+	url = ../prebuilts/remoteexecution-client
 [submodule "platform/prebuilts/rust"]
 	branch = master
 	shallow = true

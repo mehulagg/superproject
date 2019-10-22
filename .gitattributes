@@ -676,6 +676,7 @@
 /prebuilts/python/windows-x86
 /prebuilts/qemu-kernel pdk
 /prebuilts/r8 pdk
+/prebuilts/remoteexecution-client pdk
 /prebuilts/rust pdk
 /prebuilts/sdk pdk
 /prebuilts/swig/darwin-x86
