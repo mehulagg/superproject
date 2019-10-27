@@ -96,6 +96,19 @@
 	branch = master
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
+[submodule "device/google/coral"]
+	branch = master
+	path = device/google/coral
+	url = ../../device/google/coral
+[submodule "device/google/coral-kernel"]
+	branch = master
+	shallow = true
+	path = device/google/coral-kernel
+	url = ../../device/google/coral-kernel
+[submodule "device/google/coral-sepolicy"]
+	branch = master
+	path = device/google/coral-sepolicy
+	url = ../../device/google/coral-sepolicy
 [submodule "device/google/crosshatch"]
 	branch = master
 	path = device/google/crosshatch
@@ -131,15 +144,6 @@
 	branch = master
 	path = device/google/fuchsia
 	url = ../../device/google/fuchsia
-[submodule "device/google/marlin"]
-	branch = master
-	path = device/google/marlin
-	url = ../../device/google/marlin
-[submodule "device/google/marlin-kernel"]
-	branch = master
-	shallow = true
-	path = device/google/marlin-kernel
-	url = ../../device/google/marlin-kernel
 [submodule "device/google/muskie"]
 	branch = master
 	path = device/google/muskie
@@ -1973,6 +1977,10 @@
 	branch = master
 	path = hardware/invensense
 	url = ../hardware/invensense
+[submodule "platform/hardware/knowles/athletico/sound_trigger_hal"]
+	branch = master
+	path = hardware/knowles/athletico/sound_trigger_hal
+	url = ../hardware/knowles/athletico/sound_trigger_hal
 [submodule "platform/hardware/libhardware"]
 	branch = master
 	path = hardware/libhardware
@@ -2093,6 +2101,30 @@
 	branch = master
 	path = hardware/qcom/sdm845/vr
 	url = ../hardware/qcom/sdm845/vr
+[submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
+	branch = master
+	path = hardware/qcom/sm8150/data/ipacfg-mgr
+	url = ../hardware/qcom/sm8150/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/sm8150/display"]
+	branch = master
+	path = hardware/qcom/sm8150/display
+	url = ../hardware/qcom/sm8150/display
+[submodule "platform/hardware/qcom/sm8150/gps"]
+	branch = master
+	path = hardware/qcom/sm8150/gps
+	url = ../hardware/qcom/sm8150/gps
+[submodule "platform/hardware/qcom/sm8150/media"]
+	branch = master
+	path = hardware/qcom/sm8150/media
+	url = ../hardware/qcom/sm8150/media
+[submodule "platform/hardware/qcom/sm8150/thermal"]
+	branch = master
+	path = hardware/qcom/sm8150/thermal
+	url = ../hardware/qcom/sm8150/thermal
+[submodule "platform/hardware/qcom/sm8150/vr"]
+	branch = master
+	path = hardware/qcom/sm8150/vr
+	url = ../hardware/qcom/sm8150/vr
 [submodule "platform/hardware/qcom/wlan"]
 	branch = master
 	path = hardware/qcom/wlan
@@ -2101,6 +2133,14 @@
 	branch = master
 	path = hardware/ril
 	url = ../hardware/ril
+[submodule "platform/hardware/st/nfc"]
+	branch = master
+	path = hardware/st/nfc
+	url = ../hardware/st/nfc
+[submodule "platform/hardware/st/secure_element"]
+	branch = master
+	path = hardware/st/secure_element
+	url = ../hardware/st/secure_element
 [submodule "platform/hardware/ti/am57x"]
 	branch = master
 	path = hardware/ti/am57x
@@ -3152,6 +3192,10 @@
 	branch = master
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
+[submodule "platform/tools/treble"]
+	branch = master
+	path = tools/treble
+	url = ../tools/treble
 [submodule "platform/tools/trebuchet"]
 	branch = master
 	path = tools/trebuchet
