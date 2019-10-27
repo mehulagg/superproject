@@ -21,7 +21,10 @@
 /device/google/bonito bonito device
 /device/google/bonito-kernel bonito device
 /device/google/bonito-sepolicy bonito device
-/device/google/contexthub pdk device marlin
+/device/google/contexthub pdk device
+/device/google/coral coral device
+/device/google/coral-kernel coral device
+/device/google/coral-sepolicy coral device
 /device/google/crosshatch crosshatch generic_fs device
 /device/google/crosshatch-kernel crosshatch generic_fs device
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
@@ -30,8 +33,6 @@
 /device/google/cuttlefish_kernel pdk device
 /device/google/cuttlefish_vmm pdk device
 /device/google/fuchsia device
-/device/google/marlin device marlin
-/device/google/marlin-kernel device marlin
 /device/google/muskie generic_fs muskie device
 /device/google/taimen taimen device
 /device/google/vrservices pdk
@@ -485,9 +486,10 @@
 /hardware/google/av pdk
 /hardware/google/easel easel pdk
 /hardware/google/interfaces pdk
-/hardware/google/pixel pixel
+/hardware/google/pixel generic_fs pixel
 /hardware/interfaces pdk
 /hardware/invensense invensense pdk
+/hardware/knowles/athletico/sound_trigger_hal coral
 /hardware/libhardware pdk
 /hardware/libhardware_legacy pdk
 /hardware/nxp/nfc pdk
@@ -511,15 +513,23 @@
 /hardware/qcom/msm8x84 qcom_msm8x84 pdk-qcom
 /hardware/qcom/neuralnetworks/hvxservice wahoo
 /hardware/qcom/power qcom pdk-qcom
-/hardware/qcom/sdm845/bt qcom_sdm845
-/hardware/qcom/sdm845/data/ipacfg-mgr vendor qcom_sdm845
-/hardware/qcom/sdm845/display qcom_sdm845
-/hardware/qcom/sdm845/gps qcom_sdm845
-/hardware/qcom/sdm845/media qcom_sdm845
+/hardware/qcom/sdm845/bt generic_fs qcom_sdm845
+/hardware/qcom/sdm845/data/ipacfg-mgr generic_fs vendor qcom_sdm845
+/hardware/qcom/sdm845/display generic_fs qcom_sdm845
+/hardware/qcom/sdm845/gps generic_fs qcom_sdm845
+/hardware/qcom/sdm845/media generic_fs qcom_sdm845
 /hardware/qcom/sdm845/thermal generic_fs qcom_sdm845
 /hardware/qcom/sdm845/vr generic_fs qcom_sdm845
+/hardware/qcom/sm8150/data/ipacfg-mgr qcom_sm8150
+/hardware/qcom/sm8150/display qcom_sm8150
+/hardware/qcom/sm8150/gps qcom_sm8150
+/hardware/qcom/sm8150/media qcom_sm8150
+/hardware/qcom/sm8150/thermal qcom_sm8150
+/hardware/qcom/sm8150/vr qcom_sm8150
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
+/hardware/st/nfc pdk
+/hardware/st/secure_element pdk
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
@@ -764,7 +774,8 @@
 /tools/test/graphicsbenchmark pdk
 /tools/tradefederation/core tradefed pdk
 /tools/tradefederation/contrib tradefed pdk
-/tools/trebuchet pdk-fs cts pdk-cw-fs tools
+/tools/treble pdk tools
+/tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/benchmark
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk
