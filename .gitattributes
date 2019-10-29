@@ -59,6 +59,7 @@
 /prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 /prebuilts/go/darwin-x86 darwin
 /prebuilts/go/linux-x86 linux
+/prebuilts/jdk/jdk11
 /prebuilts/jdk/jdk8
 /prebuilts/jdk/jdk9
 /prebuilts/misc
