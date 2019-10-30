@@ -3004,6 +3004,11 @@
 	shallow = true
 	path = packages/modules/TestModule
 	url = ../packages/modules/TestModule
+[submodule "platform/packages/modules/vndk"]
+	branch = master
+	shallow = true
+	path = packages/modules/vndk
+	url = ../packages/modules/vndk
 [submodule "platform/packages/providers/ApplicationsProvider"]
 	branch = master
 	shallow = true
@@ -3679,6 +3684,11 @@
 	shallow = true
 	path = tools/adt/idea
 	url = ../tools/adt/idea
+[submodule "platform/tools/apifinder"]
+	branch = master
+	shallow = true
+	path = tools/apifinder
+	url = ../tools/apifinder
 [submodule "platform/tools/apksig"]
 	branch = master
 	shallow = true
