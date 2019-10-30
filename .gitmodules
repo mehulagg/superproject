@@ -1187,7 +1187,7 @@
 	path = external/perf_data_converter
 	url = ../external/perf_data_converter
 [submodule "platform/external/perfetto"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/piex"]
