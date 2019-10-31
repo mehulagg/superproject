@@ -304,6 +304,10 @@
 	branch = master
 	path = external/pcre
 	url = ../external/pcre
+[submodule "platform/external/perfetto"]
+	branch = master
+	path = external/perfetto
+	url = ../external/perfetto
 [submodule "platform/external/protobuf"]
 	branch = master
 	path = external/protobuf
@@ -455,6 +459,11 @@
 	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/jdk/jdk11"]
+	branch = master
+	shallow = true
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
 	branch = master
 	shallow = true

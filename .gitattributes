@@ -74,6 +74,7 @@
 /external/oj-libjdwp pdk
 /external/okhttp pdk
 /external/pcre pdk
+/external/perfetto pdk
 /external/protobuf pdk
 /external/python/cpython2 pdk
 /external/python/cpython3 pdk
@@ -109,6 +110,7 @@
 /prebuilts/gdb/linux-x86 linux
 /prebuilts/go/linux-x86 tradefed linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs
+/prebuilts/jdk/jdk11 pdk
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/jdk/jdk9 pdk
 /prebuilts/misc pdk
