@@ -1077,7 +1077,7 @@
 	path = external/perf_data_converter
 	url = ../external/perf_data_converter
 [submodule "platform/external/perfetto"]
-	branch = pie-release
+	branch = pie-cts-dev
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/piex"]
