@@ -1,0 +1,183 @@
+[submodule "platform/bionic"]
+	path = bionic
+	url = ../bionic
+[submodule "platform/development"]
+	path = development
+	url = ../development
+[submodule "platform/external/effcee"]
+	path = external/effcee
+	url = ../external/effcee
+[submodule "platform/external/googletest"]
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/libcxx"]
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "platform/external/libcxxabi"]
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "platform/external/libunwind_llvm"]
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "platform/external/llvm"]
+	path = external/llvm
+	url = ../external/llvm
+[submodule "platform/external/python/cpython3"]
+	path = external/python/cpython3
+	url = ../external/python/cpython3
+[submodule "platform/external/regex-re2"]
+	path = external/regex-re2
+	url = ../external/regex-re2
+[submodule "platform/external/shaderc/glslang"]
+	path = external/shaderc/glslang
+	url = ../external/shaderc/glslang
+[submodule "platform/external/shaderc/shaderc"]
+	path = external/shaderc/shaderc
+	url = ../external/shaderc/shaderc
+[submodule "platform/external/shaderc/spirv-headers"]
+	path = external/shaderc/spirv-headers
+	url = ../external/shaderc/spirv-headers
+[submodule "platform/external/shaderc/spirv-tools"]
+	path = external/shaderc/spirv-tools
+	url = ../external/shaderc/spirv-tools
+[submodule "platform/external/vulkan-headers"]
+	path = external/vulkan-headers
+	url = ../external/vulkan-headers
+[submodule "platform/external/vulkan-tools"]
+	path = external/vulkan-tools
+	url = ../external/vulkan-tools
+[submodule "platform/external/vulkan-validation-layers"]
+	path = external/vulkan-validation-layers
+	url = ../external/vulkan-validation-layers
+[submodule "platform/ndk"]
+	path = ndk
+	url = ../ndk
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/clang/host/windows-x86"]
+	path = prebuilts/clang/host/windows-x86
+	url = ../prebuilts/clang/host/windows-x86
+[submodule "platform/prebuilts/cmake/darwin-x86"]
+	path = prebuilts/cmake/darwin-x86
+	url = ../prebuilts/cmake/darwin-x86
+[submodule "platform/prebuilts/cmake/linux-x86"]
+	path = prebuilts/cmake/linux-x86
+	url = ../prebuilts/cmake/linux-x86
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"]
+	path = prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
+	path = prebuilts/gcc/darwin-x86/host/headers
+	url = ../prebuilts/gcc/darwin-x86/host/headers
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"]
+	path = prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+	url = ../prebuilts/gcc/linux-x86/arm/arm-eabi-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/ndk"]
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "platform/prebuilts/ninja/darwin-x86"]
+	path = prebuilts/ninja/darwin-x86
+	url = ../prebuilts/ninja/darwin-x86
+[submodule "platform/prebuilts/ninja/linux-x86"]
+	path = prebuilts/ninja/linux-x86
+	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "platform/prebuilts/renderscript/host/darwin-x86"]
+	path = prebuilts/renderscript/host/darwin-x86
+	url = ../prebuilts/renderscript/host/darwin-x86
+[submodule "platform/prebuilts/renderscript/host/linux-x86"]
+	path = prebuilts/renderscript/host/linux-x86
+	url = ../prebuilts/renderscript/host/linux-x86
+[submodule "platform/prebuilts/renderscript/host/windows-x86"]
+	path = prebuilts/renderscript/host/windows-x86
+	url = ../prebuilts/renderscript/host/windows-x86
+[submodule "platform/prebuilts/simpleperf"]
+	path = prebuilts/simpleperf
+	url = ../prebuilts/simpleperf
+[submodule "toolchain/binutils"]
+	path = toolchain/binutils
+	url = ../../toolchain/binutils
+[submodule "toolchain/build"]
+	path = toolchain/build
+	url = ../../toolchain/build
+[submodule "toolchain/cloog"]
+	path = toolchain/cloog
+	url = ../../toolchain/cloog
+[submodule "toolchain/expat"]
+	path = toolchain/expat
+	url = ../../toolchain/expat
+[submodule "toolchain/gcc"]
+	path = toolchain/gcc
+	url = ../../toolchain/gcc
+[submodule "toolchain/gdb"]
+	path = toolchain/gdb
+	url = ../../toolchain/gdb
+[submodule "toolchain/gmp"]
+	path = toolchain/gmp
+	url = ../../toolchain/gmp
+[submodule "toolchain/isl"]
+	path = toolchain/isl
+	url = ../../toolchain/isl
+[submodule "toolchain/make"]
+	path = toolchain/make
+	url = ../../toolchain/make
+[submodule "toolchain/mpc"]
+	path = toolchain/mpc
+	url = ../../toolchain/mpc
+[submodule "toolchain/mpfr"]
+	path = toolchain/mpfr
+	url = ../../toolchain/mpfr
+[submodule "toolchain/ppl"]
+	path = toolchain/ppl
+	url = ../../toolchain/ppl
+[submodule "toolchain/python"]
+	path = toolchain/python
+	url = ../../toolchain/python
+[submodule "toolchain/sed"]
+	path = toolchain/sed
+	url = ../../toolchain/sed
+[submodule "toolchain/xz"]
+	path = toolchain/xz
+	url = ../../toolchain/xz
+[submodule "toolchain/yasm"]
+	path = toolchain/yasm
+	url = ../../toolchain/yasm
