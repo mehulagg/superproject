@@ -1,0 +1,9 @@
+[submodule "platform/prebuilts/sdk"]
+	branch = master
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/tools/metalava"]
+	branch = master
+	path = tools/metalava
+	url = ../tools/metalava
