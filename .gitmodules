@@ -1503,10 +1503,6 @@
 	branch = master
 	path = external/python/uritemplates
 	url = ../external/python/uritemplates
-[submodule "platform/external/rapidjson"]
-	branch = master
-	path = external/rapidjson
-	url = ../external/rapidjson
 [submodule "platform/external/rappor"]
 	branch = master
 	path = external/rappor
