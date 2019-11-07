@@ -1,9 +1,4 @@
-[submodule "platform/prebuilts/sdk"]
+[submodule "platform/external/dokka"]
 	branch = master
-	shallow = true
-	path = prebuilts/sdk
-	url = ../prebuilts/sdk
-[submodule "platform/tools/metalava"]
-	branch = master
-	path = tools/metalava
-	url = ../tools/metalava
+	path = external/dokka
+	url = ../external/dokka
