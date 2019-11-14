@@ -1,8 +1,10 @@
 /external/clang
 /external/libedit
+/external/libffi
 /external/lldb
 /external/lldb-utils
 /external/llvm
+/external/pcre
 /external/cpython3
 /external/swig
 /prebuilts/clang/darwin-x86/sdk/3.5 notdefault platform-darwin
@@ -12,7 +14,11 @@
 /prebuilts/cmake/darwin-x86 notdefault platform-darwin
 /prebuilts/cmake/linux-x86 platform-linux notdefault
 /prebuilts/cmake/windows-x86
+/prebuilts/gcc/darwin-x86/host/headers notdefault platform-darwin
+/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1 notdefault platform-darwin
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8 platform-linux notdefault
+/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 platform-linux notdefault
+/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 platform-linux notdefault
 /prebuilts/libedit/darwin-x86 notdefault platform-darwin
 /prebuilts/libedit/linux-x86 platform-linux notdefault
 /prebuilts/ninja/darwin-x86 notdefault platform-darwin

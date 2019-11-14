@@ -6,6 +6,10 @@
 	branch = master
 	path = external/libedit
 	url = ../external/libedit
+[submodule "platform/external/libffi"]
+	branch = master
+	path = external/libffi
+	url = ../external/libffi
 [submodule "platform/external/lldb"]
 	branch = lldb-master-dev
 	path = external/lldb
@@ -18,6 +22,9 @@
 	branch = lldb-master-dev
 	path = external/llvm
 	url = ../external/llvm
+[submodule "platform/external/pcre"]
+	path = external/pcre
+	url = ../external/pcre
 [submodule "platform/external/python/cpython3"]
 	branch = master
 	path = external/cpython3
@@ -61,11 +68,27 @@
 	shallow = true
 	path = prebuilts/cmake/windows-x86
 	url = ../prebuilts/cmake/windows-x86
+[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
+	branch = master
+	path = prebuilts/gcc/darwin-x86/host/headers
+	url = ../prebuilts/gcc/darwin-x86/host/headers
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = master
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
 	branch = master
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = master
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = master
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/libedit/darwin-x86"]
 	branch = lldb-master-dev
 	shallow = true
