@@ -144,6 +144,7 @@
 /external/ethtool pdk
 /external/expat pdk
 /external/f2fs-tools pdk
+/external/fastrpc pdk
 /external/fdlibm pdk
 /external/fec pdk
 /external/flac pdk

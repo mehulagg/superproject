@@ -595,6 +595,10 @@
 	branch = master
 	path = external/f2fs-tools
 	url = ../external/f2fs-tools
+[submodule "platform/external/fastrpc"]
+	branch = master
+	path = external/fastrpc
+	url = ../external/fastrpc
 [submodule "platform/external/fdlibm"]
 	branch = master
 	path = external/fdlibm
