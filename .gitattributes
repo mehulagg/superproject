@@ -260,7 +260,6 @@
 /external/libvpx pdk
 /external/libvterm pdk
 /external/libxaac pdk
-/external/libxcam pdk
 /external/libxkbcommon pdk
 /external/libxml2 pdk libxml2
 /external/libyuv libyuv pdk

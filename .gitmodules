@@ -1059,10 +1059,6 @@
 	branch = master
 	path = external/libxaac
 	url = ../external/libxaac
-[submodule "platform/external/libxcam"]
-	branch = master
-	path = external/libxcam
-	url = ../external/libxcam
 [submodule "platform/external/libxkbcommon"]
 	branch = master
 	path = external/libxkbcommon
