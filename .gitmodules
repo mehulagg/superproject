@@ -595,6 +595,10 @@
 	branch = master
 	path = external/f2fs-tools
 	url = ../external/f2fs-tools
+[submodule "platform/external/fastrpc"]
+	branch = master
+	path = external/fastrpc
+	url = ../external/fastrpc
 [submodule "platform/external/fdlibm"]
 	branch = master
 	path = external/fdlibm
@@ -1055,10 +1059,6 @@
 	branch = master
 	path = external/libxaac
 	url = ../external/libxaac
-[submodule "platform/external/libxcam"]
-	branch = master
-	path = external/libxcam
-	url = ../external/libxcam
 [submodule "platform/external/libxkbcommon"]
 	branch = master
 	path = external/libxkbcommon
