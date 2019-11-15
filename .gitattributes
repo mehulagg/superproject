@@ -410,7 +410,6 @@
 /external/stressapptest pdk
 /external/subsampling-scale-image-view pdk
 /external/swiftshader pdk
-/external/syzkaller pdk projectarch
 /external/tagsoup pdk
 /external/tcpdump pdk
 /external/tensorflow pdk

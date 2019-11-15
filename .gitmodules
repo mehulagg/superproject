@@ -1661,10 +1661,6 @@
 	branch = master
 	path = external/swiftshader
 	url = ../external/swiftshader
-[submodule "platform/external/syzkaller"]
-	branch = master
-	path = external/syzkaller
-	url = ../external/syzkaller
 [submodule "platform/external/tagsoup"]
 	branch = master
 	path = external/tagsoup
