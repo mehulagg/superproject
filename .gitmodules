@@ -2843,7 +2843,7 @@
 	path = test/framework
 	url = ../test/framework
 [submodule "platform/test/mlts/benchmark"]
-	branch = android10-release
+	branch = android10-tests-dev
 	path = test/mlts/benchmark
 	url = ../test/mlts/benchmark
 [submodule "platform/test/mlts/models"]
