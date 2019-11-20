@@ -92,6 +92,7 @@
 /external/arm-trusted-firmware pdk
 /external/autotest pdk-fs
 /external/avb pdk
+/external/bc pdk
 /external/bcc pdk
 /external/blktrace pdk
 /external/boringssl pdk

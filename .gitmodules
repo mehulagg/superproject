@@ -386,6 +386,10 @@
 	branch = master
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/bc"]
+	branch = master
+	path = external/bc
+	url = ../external/bc
 [submodule "platform/external/bcc"]
 	branch = master
 	path = external/bcc
