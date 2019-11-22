@@ -358,6 +358,7 @@
 /external/python/py pdk
 /external/python/pyasn1 vts pdk
 /external/python/pyasn1-modules vts pdk
+/external/python/pybind11 pdk
 /external/python/pycparser pdk
 /external/python/pyopenssl pdk
 /external/python/pyparsing vts pdk
