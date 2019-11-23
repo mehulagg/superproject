@@ -2979,6 +2979,11 @@
 	shallow = true
 	path = packages/modules/CaptivePortalLogin
 	url = ../packages/modules/CaptivePortalLogin
+[submodule "platform/packages/modules/CellBroadcastService"]
+	branch = master
+	shallow = true
+	path = packages/modules/CellBroadcastService
+	url = ../packages/modules/CellBroadcastService
 [submodule "platform/packages/modules/DnsResolver"]
 	branch = master
 	shallow = true
