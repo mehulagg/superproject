@@ -2764,6 +2764,11 @@
 	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/art"]
+	branch = master
+	shallow = true
+	path = prebuilts/module_sdk/art
+	url = ../prebuilts/module_sdk/art
 [submodule "platform/prebuilts/ndk"]
 	branch = master
 	shallow = true

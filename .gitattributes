@@ -676,6 +676,7 @@
 /prebuilts/maven_repo/bumptech pdk-fs pdk-cw-fs
 /prebuilts/maven_repo/google-play-service-client-libraries-3p
 /prebuilts/misc pdk
+/prebuilts/module_sdk/art pdk
 /prebuilts/ndk pdk
 /prebuilts/python/darwin-x86/2.7.5 pdk-fs pdk-cw-fs darwin pdk
 /prebuilts/python/linux-x86/2.7.5 pdk-fs pdk-cw-fs pdk linux
