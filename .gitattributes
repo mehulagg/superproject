@@ -706,6 +706,7 @@
 /system/hwservicemanager pdk
 /system/iorap pdk
 /system/keymaster pdk
+/system/libartpalette pdk
 /system/libfmq pdk
 /system/libhidl pdk
 /system/libhwbinder pdk
