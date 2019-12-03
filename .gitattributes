@@ -127,6 +127,7 @@
 /system/core pdk
 /system/extras pdk
 /system/keymaster pdk
+/system/libartpalette pdk
 /system/netd pdk
 /system/security pdk
 /system/sepolicy pdk
