@@ -236,6 +236,7 @@
 /external/libexif pdk
 /external/libffi pdk
 /external/libfuse pdk
+/external/libgav1 pdk
 /external/libgsm pdk
 /external/libhevc pdk
 /external/libjpeg-turbo pdk
@@ -294,9 +295,7 @@
 /external/nfacct pdk
 /external/nist-pkits pdk
 /external/nist-sip pdk
-/external/nos/host/android pixel
 /external/nos/host/generic pixel
-/external/nos/test/system-test-harness pixel
 /external/noto-fonts pdk
 /external/oauth pdk
 /external/objenesis pdk
@@ -487,6 +486,7 @@
 /hardware/google/easel easel pdk
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
+/hardware/google/pixel-sepolicy generic_fs pixel
 /hardware/interfaces pdk
 /hardware/invensense invensense pdk
 /hardware/knowles/athletico/sound_trigger_hal coral
@@ -607,6 +607,7 @@
 /packages/inputmethods/LatinIME pdk-fs
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
+/packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
 /packages/modules/ModuleMetadata pdk

@@ -963,6 +963,10 @@
 	branch = master
 	path = external/libfuse
 	url = ../external/libfuse
+[submodule "platform/external/libgav1"]
+	branch = master
+	path = external/libgav1
+	url = ../external/libgav1
 [submodule "platform/external/libgsm"]
 	branch = master
 	path = external/libgsm
@@ -1195,18 +1199,10 @@
 	branch = master
 	path = external/nist-sip
 	url = ../external/nist-sip
-[submodule "platform/external/nos/host/android"]
-	branch = master
-	path = external/nos/host/android
-	url = ../external/nos/host/android
 [submodule "platform/external/nos/host/generic"]
 	branch = master
 	path = external/nos/host/generic
 	url = ../external/nos/host/generic
-[submodule "platform/external/nos/test/system-test-harness"]
-	branch = master
-	path = external/nos/test/system-test-harness
-	url = ../external/nos/test/system-test-harness
 [submodule "platform/external/noto-fonts"]
 	branch = master
 	path = external/noto-fonts
@@ -1969,6 +1965,10 @@
 	branch = master
 	path = hardware/google/pixel
 	url = ../hardware/google/pixel
+[submodule "platform/hardware/google/pixel-sepolicy"]
+	branch = master
+	path = hardware/google/pixel-sepolicy
+	url = ../hardware/google/pixel-sepolicy
 [submodule "platform/hardware/interfaces"]
 	branch = master
 	path = hardware/interfaces
@@ -2449,6 +2449,10 @@
 	branch = master
 	path = packages/modules/CellBroadcastService
 	url = ../packages/modules/CellBroadcastService
+[submodule "platform/packages/modules/Cronet"]
+	branch = master
+	path = packages/modules/Cronet
+	url = ../packages/modules/Cronet
 [submodule "platform/packages/modules/DnsResolver"]
 	branch = master
 	path = packages/modules/DnsResolver
