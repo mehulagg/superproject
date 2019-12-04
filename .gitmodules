@@ -2933,6 +2933,26 @@
 	branch = master
 	path = system/media
 	url = ../system/media
+[submodule "platform/system/memory/libion"]
+	branch = master
+	path = system/memory/libion
+	url = ../system/memory/libion
+[submodule "platform/system/memory/libmeminfo"]
+	branch = master
+	path = system/memory/libmeminfo
+	url = ../system/memory/libmeminfo
+[submodule "platform/system/memory/libmemtrack"]
+	branch = master
+	path = system/memory/libmemtrack
+	url = ../system/memory/libmemtrack
+[submodule "platform/system/memory/libmemunreachable"]
+	branch = master
+	path = system/memory/libmemunreachable
+	url = ../system/memory/libmemunreachable
+[submodule "platform/system/memory/lmkd"]
+	branch = master
+	path = system/memory/lmkd
+	url = ../system/memory/lmkd
 [submodule "platform/system/netd"]
 	branch = master
 	path = system/netd

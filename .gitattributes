@@ -715,6 +715,11 @@
 /system/libvintf pdk
 /system/linkerconfig pdk
 /system/media pdk
+/system/memory/libion pdk
+/system/memory/libmeminfo pdk
+/system/memory/libmemtrack pdk
+/system/memory/libmemunreachable pdk
+/system/memory/lmkd pdk
 /system/netd pdk
 /system/nfc pdk
 /system/nvram pdk
