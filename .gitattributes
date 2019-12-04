@@ -268,7 +268,6 @@
 /external/linux-kselftest vts pdk
 /external/llvm pdk
 /external/lmfit pdk
-/external/lottie pdk
 /external/ltp vts pdk
 /external/lua pdk
 /external/lz4 pdk

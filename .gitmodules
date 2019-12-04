@@ -1091,10 +1091,6 @@
 	branch = master
 	path = external/lmfit
 	url = ../external/lmfit
-[submodule "platform/external/lottie"]
-	branch = master
-	path = external/lottie
-	url = ../external/lottie
 [submodule "platform/external/ltp"]
 	branch = master
 	path = external/ltp
