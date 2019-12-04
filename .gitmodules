@@ -2449,6 +2449,10 @@
 	branch = master
 	path = packages/modules/CellBroadcastService
 	url = ../packages/modules/CellBroadcastService
+[submodule "platform/packages/modules/Cronet"]
+	branch = master
+	path = packages/modules/Cronet
+	url = ../packages/modules/Cronet
 [submodule "platform/packages/modules/DnsResolver"]
 	branch = master
 	path = packages/modules/DnsResolver

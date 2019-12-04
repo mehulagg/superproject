@@ -607,6 +607,7 @@
 /packages/inputmethods/LatinIME pdk-fs
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
+/packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
 /packages/modules/ModuleMetadata pdk
