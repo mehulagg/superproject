@@ -704,6 +704,7 @@
 /system/gsid pdk
 /system/hardware/interfaces pdk
 /system/hwservicemanager pdk
+/system/incremental_delivery pdk
 /system/iorap pdk
 /system/keymaster pdk
 /system/libartpalette pdk
