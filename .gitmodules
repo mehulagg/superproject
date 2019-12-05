@@ -2913,6 +2913,10 @@
 	branch = master
 	path = system/hwservicemanager
 	url = ../system/hwservicemanager
+[submodule "platform/system/incremental_delivery"]
+	branch = master
+	path = system/incremental_delivery
+	url = ../system/incremental_delivery
 [submodule "platform/system/iorap"]
 	branch = master
 	path = system/iorap
