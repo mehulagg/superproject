@@ -542,6 +542,10 @@
 	branch = master
 	path = system/libartpalette
 	url = ../system/libartpalette
+[submodule "platform/system/memory/libmeminfo"]
+	branch = master
+	path = system/memory/libmeminfo
+	url = ../system/memory/libmeminfo
 [submodule "platform/system/netd"]
 	branch = master
 	path = system/netd
