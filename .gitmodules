@@ -294,10 +294,6 @@
 	branch = master
 	path = external/ImageMagick
 	url = ../external/ImageMagick
-[submodule "platform/external/Microsoft-GSL"]
-	branch = master
-	path = external/Microsoft-GSL
-	url = ../external/Microsoft-GSL
 [submodule "platform/external/OpenCSD"]
 	branch = master
 	path = external/OpenCSD
