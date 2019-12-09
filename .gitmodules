@@ -123,6 +123,10 @@
 	branch = master
 	path = external/libcxxabi
 	url = ../external/libcxxabi
+[submodule "platform/external/libffi"]
+	branch = master
+	path = external/libffi
+	url = ../external/libffi
 [submodule "platform/external/libunwind"]
 	branch = master
 	path = external/libunwind

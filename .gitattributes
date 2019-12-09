@@ -29,6 +29,7 @@
 /external/kythe
 /external/libcxx
 /external/libcxxabi
+/external/libffi
 /external/libunwind
 /external/libunwind_llvm
 /external/llvm
