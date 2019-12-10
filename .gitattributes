@@ -122,6 +122,7 @@
 /prebuilts/sdk pdk
 /prebuilts/tools pdk tools
 /prebuilts/vndk/v28 pdk
+/prebuilts/vndk/v29 pdk
 /sdk pdk-fs pdk-cw-fs
 /system/apex pdk
 /system/core pdk
