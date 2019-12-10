@@ -7,6 +7,7 @@
 /development
 /external/arm-optimized-routines
 /external/bazelbuild-remote-apis
+/external/bc
 /external/bison
 /external/boringssl
 /external/bzip2
