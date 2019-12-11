@@ -1841,6 +1841,10 @@
 	branch = master
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/net"]
+	branch = master
+	path = frameworks/libs/net
+	url = ../frameworks/libs/net
 [submodule "platform/frameworks/minikin"]
 	branch = master
 	path = frameworks/minikin
