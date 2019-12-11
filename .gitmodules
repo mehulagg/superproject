@@ -1452,21 +1452,11 @@
 	shallow = true
 	path = external/nist-sip
 	url = ../external/nist-sip
-[submodule "platform/external/nos/host/android"]
-	branch = master
-	shallow = true
-	path = external/nos/host/android
-	url = ../external/nos/host/android
 [submodule "platform/external/nos/host/generic"]
 	branch = master
 	shallow = true
 	path = external/nos/host/generic
 	url = ../external/nos/host/generic
-[submodule "platform/external/nos/test/system-test-harness"]
-	branch = master
-	shallow = true
-	path = external/nos/test/system-test-harness
-	url = ../external/nos/test/system-test-harness
 [submodule "platform/external/noto-fonts"]
 	branch = master
 	shallow = true

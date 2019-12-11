@@ -290,9 +290,7 @@
 /external/nfacct pdk
 /external/nist-pkits pdk
 /external/nist-sip pdk
-/external/nos/host/android pixel
 /external/nos/host/generic pixel
-/external/nos/test/system-test-harness pixel
 /external/noto-fonts pdk
 /external/oauth pdk
 /external/objenesis pdk
