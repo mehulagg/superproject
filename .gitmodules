@@ -3005,6 +3005,10 @@
 	branch = master
 	path = system/server_configurable_flags
 	url = ../system/server_configurable_flags
+[submodule "platform/system/teeui"]
+	branch = master
+	path = system/teeui
+	url = ../system/teeui
 [submodule "platform/system/testing/gtest_extras"]
 	branch = master
 	path = system/testing/gtest_extras
