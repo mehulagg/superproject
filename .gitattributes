@@ -1,4 +1,5 @@
 /device/generic/goldfish-opengl
+/device/generic/vulkan-cereal
 /build
 /external/adt-infra
 /external/angle

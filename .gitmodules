@@ -2,6 +2,10 @@
 	branch = master
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
+[submodule "device/generic/vulkan-cereal"]
+	branch = master
+	path = device/generic/vulkan-cereal
+	url = ../../device/generic/vulkan-cereal
 [submodule "platform/build"]
 	branch = emu-master-dev
 	path = build
