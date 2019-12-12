@@ -727,6 +727,7 @@
 /system/security pdk
 /system/sepolicy pdk
 /system/server_configurable_flags pdk
+/system/teeui pdk
 /system/testing/gtest_extras pdk
 /system/timezone pdk
 /system/tools/aidl pdk
