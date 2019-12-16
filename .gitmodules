@@ -1,0 +1,2851 @@
+[submodule "device/generic/car"]
+	branch = android10-gsi
+	path = device/generic/car
+	url = ../../device/generic/car
+[submodule "device/generic/common"]
+	branch = android10-gsi
+	path = device/generic/common
+	url = ../../device/generic/common
+[submodule "device/generic/goldfish"]
+	branch = android10-gsi
+	path = device/generic/goldfish
+	url = ../../device/generic/goldfish
+[submodule "device/generic/goldfish-opengl"]
+	branch = android10-gsi
+	path = device/generic/goldfish-opengl
+	url = ../../device/generic/goldfish-opengl
+[submodule "device/google/cuttlefish"]
+	branch = android10-gsi
+	path = device/google/cuttlefish
+	url = ../../device/google/cuttlefish
+[submodule "device/google/cuttlefish_kernel"]
+	branch = android10-gsi
+	shallow = true
+	path = device/google/cuttlefish_kernel
+	url = ../../device/google/cuttlefish_kernel
+[submodule "device/google/cuttlefish_vmm"]
+	branch = android10-gsi
+	path = device/google/cuttlefish_vmm
+	url = ../../device/google/cuttlefish_vmm
+[submodule "device/sample"]
+	branch = android10-gsi
+	path = device/sample
+	url = ../../device/sample
+[submodule "kernel/build"]
+	branch = android10-gsi
+	path = kernel/build
+	url = ../../kernel/build
+[submodule "kernel/configs"]
+	branch = android10-gsi
+	path = kernel/configs
+	url = ../../kernel/configs
+[submodule "kernel/tests"]
+	branch = android10-gsi
+	path = kernel/tests
+	url = ../../kernel/tests
+[submodule "platform/art"]
+	branch = android10-gsi
+	path = art
+	url = ../art
+[submodule "platform/bionic"]
+	branch = android10-gsi
+	path = bionic
+	url = ../bionic
+[submodule "platform/bootable/recovery"]
+	branch = android10-gsi
+	path = bootable/recovery
+	url = ../bootable/recovery
+[submodule "platform/build"]
+	branch = android10-gsi
+	path = build/make
+	url = ../build
+[submodule "platform/build/blueprint"]
+	branch = android10-gsi
+	path = build/blueprint
+	url = ../build/blueprint
+[submodule "platform/build/kati"]
+	branch = android10-gsi
+	path = build/kati
+	url = ../build/kati
+[submodule "platform/build/soong"]
+	branch = android10-gsi
+	path = build/soong
+	url = ../build/soong
+[submodule "platform/compatibility/cdd"]
+	branch = android10-gsi
+	path = compatibility/cdd
+	url = ../compatibility/cdd
+[submodule "platform/cts"]
+	branch = android10-gsi
+	path = cts
+	url = ../cts
+[submodule "platform/dalvik"]
+	branch = android10-gsi
+	path = dalvik
+	url = ../dalvik
+[submodule "platform/developers/build"]
+	branch = android10-gsi
+	path = developers/build
+	url = ../developers/build
+[submodule "platform/developers/demos"]
+	branch = android10-gsi
+	path = developers/demos
+	url = ../developers/demos
+[submodule "platform/developers/samples/android"]
+	branch = android10-gsi
+	path = developers/samples/android
+	url = ../developers/samples/android
+[submodule "platform/development"]
+	branch = android10-gsi
+	path = development
+	url = ../development
+[submodule "platform/external/ARMComputeLibrary"]
+	branch = android10-gsi
+	path = external/ARMComputeLibrary
+	url = ../external/ARMComputeLibrary
+[submodule "platform/external/ImageMagick"]
+	branch = android10-gsi
+	path = external/ImageMagick
+	url = ../external/ImageMagick
+[submodule "platform/external/Microsoft-GSL"]
+	branch = android10-gsi
+	path = external/Microsoft-GSL
+	url = ../external/Microsoft-GSL
+[submodule "platform/external/Reactive-Extensions/RxCpp"]
+	branch = android10-gsi
+	path = external/Reactive-Extensions/RxCpp
+	url = ../external/Reactive-Extensions/RxCpp
+[submodule "platform/external/aac"]
+	branch = android10-gsi
+	path = external/aac
+	url = ../external/aac
+[submodule "platform/external/adeb"]
+	branch = android10-gsi
+	path = external/adeb
+	url = ../external/adeb
+[submodule "platform/external/adhd"]
+	branch = android10-gsi
+	path = external/adhd
+	url = ../external/adhd
+[submodule "platform/external/adt-infra"]
+	branch = android10-gsi
+	path = external/adt-infra
+	url = ../external/adt-infra
+[submodule "platform/external/android-clat"]
+	branch = android10-gsi
+	path = external/android-clat
+	url = ../external/android-clat
+[submodule "platform/external/androidplot"]
+	branch = android10-gsi
+	path = external/androidplot
+	url = ../external/androidplot
+[submodule "platform/external/ant-glob"]
+	branch = android10-gsi
+	path = external/ant-glob
+	url = ../external/ant-glob
+[submodule "platform/external/antlr"]
+	branch = android10-gsi
+	path = external/antlr
+	url = ../external/antlr
+[submodule "platform/external/apache-commons-bcel"]
+	branch = android10-gsi
+	path = external/apache-commons-bcel
+	url = ../external/apache-commons-bcel
+[submodule "platform/external/apache-commons-compress"]
+	branch = android10-gsi
+	path = external/apache-commons-compress
+	url = ../external/apache-commons-compress
+[submodule "platform/external/apache-commons-math"]
+	branch = android10-gsi
+	path = external/apache-commons-math
+	url = ../external/apache-commons-math
+[submodule "platform/external/apache-harmony"]
+	branch = android10-gsi
+	path = external/apache-harmony
+	url = ../external/apache-harmony
+[submodule "platform/external/apache-http"]
+	branch = android10-gsi
+	path = external/apache-http
+	url = ../external/apache-http
+[submodule "platform/external/apache-xml"]
+	branch = android10-gsi
+	path = external/apache-xml
+	url = ../external/apache-xml
+[submodule "platform/external/archive-patcher"]
+	branch = android10-gsi
+	path = external/archive-patcher
+	url = ../external/archive-patcher
+[submodule "platform/external/arm-neon-tests"]
+	branch = android10-gsi
+	path = external/arm-neon-tests
+	url = ../external/arm-neon-tests
+[submodule "platform/external/arm-optimized-routines"]
+	branch = android10-gsi
+	path = external/arm-optimized-routines
+	url = ../external/arm-optimized-routines
+[submodule "platform/external/autotest"]
+	branch = android10-gsi
+	path = external/autotest
+	url = ../external/autotest
+[submodule "platform/external/avb"]
+	branch = android10-gsi
+	path = external/avb
+	url = ../external/avb
+[submodule "platform/external/bcc"]
+	branch = android10-gsi
+	path = external/bcc
+	url = ../external/bcc
+[submodule "platform/external/blktrace"]
+	branch = android10-gsi
+	path = external/blktrace
+	url = ../external/blktrace
+[submodule "platform/external/boringssl"]
+	branch = android10-gsi
+	path = external/boringssl
+	url = ../external/boringssl
+[submodule "platform/external/bouncycastle"]
+	branch = android10-gsi
+	path = external/bouncycastle
+	url = ../external/bouncycastle
+[submodule "platform/external/brotli"]
+	branch = android10-gsi
+	path = external/brotli
+	url = ../external/brotli
+[submodule "platform/external/bsdiff"]
+	branch = android10-gsi
+	path = external/bsdiff
+	url = ../external/bsdiff
+[submodule "platform/external/bzip2"]
+	branch = android10-gsi
+	path = external/bzip2
+	url = ../external/bzip2
+[submodule "platform/external/caliper"]
+	branch = android10-gsi
+	path = external/caliper
+	url = ../external/caliper
+[submodule "platform/external/capstone"]
+	branch = android10-gsi
+	path = external/capstone
+	url = ../external/capstone
+[submodule "platform/external/catch2"]
+	branch = android10-gsi
+	path = external/catch2
+	url = ../external/catch2
+[submodule "platform/external/cblas"]
+	branch = android10-gsi
+	path = external/cblas
+	url = ../external/cblas
+[submodule "platform/external/chromium-libpac"]
+	branch = android10-gsi
+	path = external/chromium-libpac
+	url = ../external/chromium-libpac
+[submodule "platform/external/chromium-trace"]
+	branch = android10-gsi
+	path = external/chromium-trace
+	url = ../external/chromium-trace
+[submodule "platform/external/chromium-webview"]
+	branch = android10-gsi
+	shallow = true
+	path = external/chromium-webview
+	url = ../external/chromium-webview
+[submodule "platform/external/clang"]
+	branch = android10-gsi
+	path = external/clang
+	url = ../external/clang
+[submodule "platform/external/cldr"]
+	branch = android10-gsi
+	path = external/cldr
+	url = ../external/cldr
+[submodule "platform/external/cmockery"]
+	branch = android10-gsi
+	path = external/cmockery
+	url = ../external/cmockery
+[submodule "platform/external/cn-cbor"]
+	branch = android10-gsi
+	path = external/cn-cbor
+	url = ../external/cn-cbor
+[submodule "platform/external/compiler-rt"]
+	branch = android10-gsi
+	path = external/compiler-rt
+	url = ../external/compiler-rt
+[submodule "platform/external/conscrypt"]
+	branch = android10-gsi
+	path = external/conscrypt
+	url = ../external/conscrypt
+[submodule "platform/external/crcalc"]
+	branch = android10-gsi
+	path = external/crcalc
+	url = ../external/crcalc
+[submodule "platform/external/cros/system_api"]
+	branch = android10-gsi
+	path = external/cros/system_api
+	url = ../external/cros/system_api
+[submodule "platform/external/curl"]
+	branch = android10-gsi
+	path = external/curl
+	url = ../external/curl
+[submodule "platform/external/dagger2"]
+	branch = android10-gsi
+	path = external/dagger2
+	url = ../external/dagger2
+[submodule "platform/external/deqp"]
+	branch = android10-gsi
+	path = external/deqp
+	url = ../external/deqp
+[submodule "platform/external/deqp-deps/SPIRV-Headers"]
+	branch = android10-gsi
+	path = external/deqp-deps/SPIRV-Headers
+	url = ../external/deqp-deps/SPIRV-Headers
+[submodule "platform/external/deqp-deps/SPIRV-Tools"]
+	branch = android10-gsi
+	path = external/deqp-deps/SPIRV-Tools
+	url = ../external/deqp-deps/SPIRV-Tools
+[submodule "platform/external/deqp-deps/glslang"]
+	branch = android10-gsi
+	path = external/deqp-deps/glslang
+	url = ../external/deqp-deps/glslang
+[submodule "platform/external/desugar"]
+	branch = android10-gsi
+	path = external/desugar
+	url = ../external/desugar
+[submodule "platform/external/dexmaker"]
+	branch = android10-gsi
+	path = external/dexmaker
+	url = ../external/dexmaker
+[submodule "platform/external/dlmalloc"]
+	branch = android10-gsi
+	path = external/dlmalloc
+	url = ../external/dlmalloc
+[submodule "platform/external/dng_sdk"]
+	branch = android10-gsi
+	path = external/dng_sdk
+	url = ../external/dng_sdk
+[submodule "platform/external/dnsmasq"]
+	branch = android10-gsi
+	path = external/dnsmasq
+	url = ../external/dnsmasq
+[submodule "platform/external/doclava"]
+	branch = android10-gsi
+	path = external/doclava
+	url = ../external/doclava
+[submodule "platform/external/dokka"]
+	branch = android10-gsi
+	path = external/dokka
+	url = ../external/dokka
+[submodule "platform/external/drm_hwcomposer"]
+	branch = android10-gsi
+	path = external/drm_hwcomposer
+	url = ../external/drm_hwcomposer
+[submodule "platform/external/droiddriver"]
+	branch = android10-gsi
+	path = external/droiddriver
+	url = ../external/droiddriver
+[submodule "platform/external/drrickorang"]
+	branch = android10-gsi
+	path = external/drrickorang
+	url = ../external/drrickorang
+[submodule "platform/external/dtc"]
+	branch = android10-gsi
+	path = external/dtc
+	url = ../external/dtc
+[submodule "platform/external/dynamic_depth"]
+	branch = android10-gsi
+	path = external/dynamic_depth
+	url = ../external/dynamic_depth
+[submodule "platform/external/e2fsprogs"]
+	branch = android10-gsi
+	path = external/e2fsprogs
+	url = ../external/e2fsprogs
+[submodule "platform/external/easymock"]
+	branch = android10-gsi
+	path = external/easymock
+	url = ../external/easymock
+[submodule "platform/external/eigen"]
+	branch = android10-gsi
+	path = external/eigen
+	url = ../external/eigen
+[submodule "platform/external/elfutils"]
+	branch = android10-gsi
+	path = external/elfutils
+	url = ../external/elfutils
+[submodule "platform/external/emma"]
+	branch = android10-gsi
+	path = external/emma
+	url = ../external/emma
+[submodule "platform/external/epid-sdk"]
+	branch = android10-gsi
+	path = external/epid-sdk
+	url = ../external/epid-sdk
+[submodule "platform/external/error_prone"]
+	branch = android10-gsi
+	path = external/error_prone
+	url = ../external/error_prone
+[submodule "platform/external/expat"]
+	branch = android10-gsi
+	path = external/expat
+	url = ../external/expat
+[submodule "platform/external/f2fs-tools"]
+	branch = android10-gsi
+	path = external/f2fs-tools
+	url = ../external/f2fs-tools
+[submodule "platform/external/fdlibm"]
+	branch = android10-gsi
+	path = external/fdlibm
+	url = ../external/fdlibm
+[submodule "platform/external/fec"]
+	branch = android10-gsi
+	path = external/fec
+	url = ../external/fec
+[submodule "platform/external/flac"]
+	branch = android10-gsi
+	path = external/flac
+	url = ../external/flac
+[submodule "platform/external/flatbuffers"]
+	branch = android10-gsi
+	path = external/flatbuffers
+	url = ../external/flatbuffers
+[submodule "platform/external/fonttools"]
+	branch = android10-gsi
+	path = external/fonttools
+	url = ../external/fonttools
+[submodule "platform/external/freetype"]
+	branch = android10-gsi
+	path = external/freetype
+	url = ../external/freetype
+[submodule "platform/external/fsck_msdos"]
+	branch = android10-gsi
+	path = external/fsck_msdos
+	url = ../external/fsck_msdos
+[submodule "platform/external/fsverity-utils"]
+	branch = android10-gsi
+	path = external/fsverity-utils
+	url = ../external/fsverity-utils
+[submodule "platform/external/gemmlowp"]
+	branch = android10-gsi
+	path = external/gemmlowp
+	url = ../external/gemmlowp
+[submodule "platform/external/gflags"]
+	branch = android10-gsi
+	path = external/gflags
+	url = ../external/gflags
+[submodule "platform/external/giflib"]
+	branch = android10-gsi
+	path = external/giflib
+	url = ../external/giflib
+[submodule "platform/external/glide"]
+	branch = android10-gsi
+	path = external/glide
+	url = ../external/glide
+[submodule "platform/external/golang-protobuf"]
+	branch = android10-gsi
+	path = external/golang-protobuf
+	url = ../external/golang-protobuf
+[submodule "platform/external/google-benchmark"]
+	branch = android10-gsi
+	path = external/google-benchmark
+	url = ../external/google-benchmark
+[submodule "platform/external/google-breakpad"]
+	branch = android10-gsi
+	path = external/google-breakpad
+	url = ../external/google-breakpad
+[submodule "platform/external/google-fonts/arbutus-slab"]
+	branch = android10-gsi
+	path = external/google-fonts/arbutus-slab
+	url = ../external/google-fonts/arbutus-slab
+[submodule "platform/external/google-fonts/arvo"]
+	branch = android10-gsi
+	path = external/google-fonts/arvo
+	url = ../external/google-fonts/arvo
+[submodule "platform/external/google-fonts/carrois-gothic-sc"]
+	branch = android10-gsi
+	path = external/google-fonts/carrois-gothic-sc
+	url = ../external/google-fonts/carrois-gothic-sc
+[submodule "platform/external/google-fonts/coming-soon"]
+	branch = android10-gsi
+	path = external/google-fonts/coming-soon
+	url = ../external/google-fonts/coming-soon
+[submodule "platform/external/google-fonts/cutive-mono"]
+	branch = android10-gsi
+	path = external/google-fonts/cutive-mono
+	url = ../external/google-fonts/cutive-mono
+[submodule "platform/external/google-fonts/dancing-script"]
+	branch = android10-gsi
+	path = external/google-fonts/dancing-script
+	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-fonts/lato"]
+	branch = android10-gsi
+	path = external/google-fonts/lato
+	url = ../external/google-fonts/lato
+[submodule "platform/external/google-fonts/rubik"]
+	branch = android10-gsi
+	path = external/google-fonts/rubik
+	url = ../external/google-fonts/rubik
+[submodule "platform/external/google-fonts/source-sans-pro"]
+	branch = android10-gsi
+	path = external/google-fonts/source-sans-pro
+	url = ../external/google-fonts/source-sans-pro
+[submodule "platform/external/google-fonts/zilla-slab"]
+	branch = android10-gsi
+	path = external/google-fonts/zilla-slab
+	url = ../external/google-fonts/zilla-slab
+[submodule "platform/external/google-fruit"]
+	branch = android10-gsi
+	path = external/google-fruit
+	url = ../external/google-fruit
+[submodule "platform/external/google-styleguide"]
+	branch = android10-gsi
+	path = external/google-styleguide
+	url = ../external/google-styleguide
+[submodule "platform/external/googletest"]
+	branch = android10-gsi
+	path = external/googletest
+	url = ../external/googletest
+[submodule "platform/external/gptfdisk"]
+	branch = android10-gsi
+	path = external/gptfdisk
+	url = ../external/gptfdisk
+[submodule "platform/external/grpc-grpc"]
+	branch = android10-gsi
+	path = external/grpc-grpc
+	url = ../external/grpc-grpc
+[submodule "platform/external/grpc-grpc-java"]
+	branch = android10-gsi
+	path = external/grpc-grpc-java
+	url = ../external/grpc-grpc-java
+[submodule "platform/external/guava"]
+	branch = android10-gsi
+	path = external/guava
+	url = ../external/guava
+[submodule "platform/external/guice"]
+	branch = android10-gsi
+	path = external/guice
+	url = ../external/guice
+[submodule "platform/external/hamcrest"]
+	branch = android10-gsi
+	path = external/hamcrest
+	url = ../external/hamcrest
+[submodule "platform/external/harfbuzz_ng"]
+	branch = android10-gsi
+	path = external/harfbuzz_ng
+	url = ../external/harfbuzz_ng
+[submodule "platform/external/honggfuzz"]
+	branch = android10-gsi
+	path = external/honggfuzz
+	url = ../external/honggfuzz
+[submodule "platform/external/hyphenation-patterns"]
+	branch = android10-gsi
+	path = external/hyphenation-patterns
+	url = ../external/hyphenation-patterns
+[submodule "platform/external/icu"]
+	branch = android10-gsi
+	path = external/icu
+	url = ../external/icu
+[submodule "platform/external/image_io"]
+	branch = android10-gsi
+	path = external/image_io
+	url = ../external/image_io
+[submodule "platform/external/ims"]
+	branch = android10-gsi
+	path = external/ims
+	url = ../external/ims
+[submodule "platform/external/iperf3"]
+	branch = android10-gsi
+	path = external/iperf3
+	url = ../external/iperf3
+[submodule "platform/external/iproute2"]
+	branch = android10-gsi
+	path = external/iproute2
+	url = ../external/iproute2
+[submodule "platform/external/ipsec-tools"]
+	branch = android10-gsi
+	path = external/ipsec-tools
+	url = ../external/ipsec-tools
+[submodule "platform/external/iptables"]
+	branch = android10-gsi
+	path = external/iptables
+	url = ../external/iptables
+[submodule "platform/external/iputils"]
+	branch = android10-gsi
+	path = external/iputils
+	url = ../external/iputils
+[submodule "platform/external/iw"]
+	branch = android10-gsi
+	path = external/iw
+	url = ../external/iw
+[submodule "platform/external/jacoco"]
+	branch = android10-gsi
+	path = external/jacoco
+	url = ../external/jacoco
+[submodule "platform/external/jarjar"]
+	branch = android10-gsi
+	path = external/jarjar
+	url = ../external/jarjar
+[submodule "platform/external/javaparser"]
+	branch = android10-gsi
+	path = external/javaparser
+	url = ../external/javaparser
+[submodule "platform/external/javapoet"]
+	branch = android10-gsi
+	path = external/javapoet
+	url = ../external/javapoet
+[submodule "platform/external/javasqlite"]
+	branch = android10-gsi
+	path = external/javasqlite
+	url = ../external/javasqlite
+[submodule "platform/external/jcommander"]
+	branch = android10-gsi
+	path = external/jcommander
+	url = ../external/jcommander
+[submodule "platform/external/jdiff"]
+	branch = android10-gsi
+	path = external/jdiff
+	url = ../external/jdiff
+[submodule "platform/external/jemalloc"]
+	branch = android10-gsi
+	path = external/jemalloc
+	url = ../external/jemalloc
+[submodule "platform/external/jemalloc_new"]
+	branch = android10-gsi
+	path = external/jemalloc_new
+	url = ../external/jemalloc_new
+[submodule "platform/external/jline"]
+	branch = android10-gsi
+	path = external/jline
+	url = ../external/jline
+[submodule "platform/external/jsilver"]
+	branch = android10-gsi
+	path = external/jsilver
+	url = ../external/jsilver
+[submodule "platform/external/jsmn"]
+	branch = android10-gsi
+	path = external/jsmn
+	url = ../external/jsmn
+[submodule "platform/external/jsoncpp"]
+	branch = android10-gsi
+	path = external/jsoncpp
+	url = ../external/jsoncpp
+[submodule "platform/external/jsr305"]
+	branch = android10-gsi
+	path = external/jsr305
+	url = ../external/jsr305
+[submodule "platform/external/jsr330"]
+	branch = android10-gsi
+	path = external/jsr330
+	url = ../external/jsr330
+[submodule "platform/external/junit"]
+	branch = android10-gsi
+	path = external/junit
+	url = ../external/junit
+[submodule "platform/external/junit-params"]
+	branch = android10-gsi
+	path = external/junit-params
+	url = ../external/junit-params
+[submodule "platform/external/kernel-headers"]
+	branch = android10-gsi
+	path = external/kernel-headers
+	url = ../external/kernel-headers
+[submodule "platform/external/kmod"]
+	branch = android10-gsi
+	path = external/kmod
+	url = ../external/kmod
+[submodule "platform/external/kotlinc"]
+	branch = android10-gsi
+	path = external/kotlinc
+	url = ../external/kotlinc
+[submodule "platform/external/ksoap2"]
+	branch = android10-gsi
+	path = external/ksoap2
+	url = ../external/ksoap2
+[submodule "platform/external/libaom"]
+	branch = android10-gsi
+	path = external/libaom
+	url = ../external/libaom
+[submodule "platform/external/libavc"]
+	branch = android10-gsi
+	path = external/libavc
+	url = ../external/libavc
+[submodule "platform/external/libbackup"]
+	branch = android10-gsi
+	path = external/libbackup
+	url = ../external/libbackup
+[submodule "platform/external/libbrillo"]
+	branch = android10-gsi
+	path = external/libbrillo
+	url = ../external/libbrillo
+[submodule "platform/external/libcap"]
+	branch = android10-gsi
+	path = external/libcap
+	url = ../external/libcap
+[submodule "platform/external/libcap-ng"]
+	branch = android10-gsi
+	path = external/libcap-ng
+	url = ../external/libcap-ng
+[submodule "platform/external/libchrome"]
+	branch = android10-gsi
+	path = external/libchrome
+	url = ../external/libchrome
+[submodule "platform/external/libcups"]
+	branch = android10-gsi
+	path = external/libcups
+	url = ../external/libcups
+[submodule "platform/external/libcxx"]
+	branch = android10-gsi
+	path = external/libcxx
+	url = ../external/libcxx
+[submodule "platform/external/libcxxabi"]
+	branch = android10-gsi
+	path = external/libcxxabi
+	url = ../external/libcxxabi
+[submodule "platform/external/libdaemon"]
+	branch = android10-gsi
+	path = external/libdaemon
+	url = ../external/libdaemon
+[submodule "platform/external/libdivsufsort"]
+	branch = android10-gsi
+	path = external/libdivsufsort
+	url = ../external/libdivsufsort
+[submodule "platform/external/libdrm"]
+	branch = android10-gsi
+	path = external/libdrm
+	url = ../external/libdrm
+[submodule "platform/external/libese"]
+	branch = android10-gsi
+	path = external/libese
+	url = ../external/libese
+[submodule "platform/external/libevent"]
+	branch = android10-gsi
+	path = external/libevent
+	url = ../external/libevent
+[submodule "platform/external/libexif"]
+	branch = android10-gsi
+	path = external/libexif
+	url = ../external/libexif
+[submodule "platform/external/libffi"]
+	branch = android10-gsi
+	path = external/libffi
+	url = ../external/libffi
+[submodule "platform/external/libgsm"]
+	branch = android10-gsi
+	path = external/libgsm
+	url = ../external/libgsm
+[submodule "platform/external/libhevc"]
+	branch = android10-gsi
+	path = external/libhevc
+	url = ../external/libhevc
+[submodule "platform/external/libjpeg-turbo"]
+	branch = android10-gsi
+	path = external/libjpeg-turbo
+	url = ../external/libjpeg-turbo
+[submodule "platform/external/libkmsxx"]
+	branch = android10-gsi
+	path = external/libkmsxx
+	url = ../external/libkmsxx
+[submodule "platform/external/libldac"]
+	branch = android10-gsi
+	path = external/libldac
+	url = ../external/libldac
+[submodule "platform/external/libmpeg2"]
+	branch = android10-gsi
+	path = external/libmpeg2
+	url = ../external/libmpeg2
+[submodule "platform/external/libmtp"]
+	branch = android10-gsi
+	path = external/libmtp
+	url = ../external/libmtp
+[submodule "platform/external/libnetfilter_conntrack"]
+	branch = android10-gsi
+	path = external/libnetfilter_conntrack
+	url = ../external/libnetfilter_conntrack
+[submodule "platform/external/libnfnetlink"]
+	branch = android10-gsi
+	path = external/libnfnetlink
+	url = ../external/libnfnetlink
+[submodule "platform/external/libnl"]
+	branch = android10-gsi
+	path = external/libnl
+	url = ../external/libnl
+[submodule "platform/external/libogg"]
+	branch = android10-gsi
+	path = external/libogg
+	url = ../external/libogg
+[submodule "platform/external/libopus"]
+	branch = android10-gsi
+	path = external/libopus
+	url = ../external/libopus
+[submodule "platform/external/libpcap"]
+	branch = android10-gsi
+	path = external/libpcap
+	url = ../external/libpcap
+[submodule "platform/external/libphonenumber"]
+	branch = android10-gsi
+	path = external/libphonenumber
+	url = ../external/libphonenumber
+[submodule "platform/external/libpng"]
+	branch = android10-gsi
+	path = external/libpng
+	url = ../external/libpng
+[submodule "platform/external/libprotobuf-mutator"]
+	branch = android10-gsi
+	path = external/libprotobuf-mutator
+	url = ../external/libprotobuf-mutator
+[submodule "platform/external/libtextclassifier"]
+	branch = android10-gsi
+	path = external/libtextclassifier
+	url = ../external/libtextclassifier
+[submodule "platform/external/libunwind"]
+	branch = android10-gsi
+	path = external/libunwind
+	url = ../external/libunwind
+[submodule "platform/external/libunwind_llvm"]
+	branch = android10-gsi
+	path = external/libunwind_llvm
+	url = ../external/libunwind_llvm
+[submodule "platform/external/libusb"]
+	branch = android10-gsi
+	path = external/libusb
+	url = ../external/libusb
+[submodule "platform/external/libusb-compat"]
+	branch = android10-gsi
+	path = external/libusb-compat
+	url = ../external/libusb-compat
+[submodule "platform/external/libutf"]
+	branch = android10-gsi
+	path = external/libutf
+	url = ../external/libutf
+[submodule "platform/external/libvpx"]
+	branch = android10-gsi
+	path = external/libvpx
+	url = ../external/libvpx
+[submodule "platform/external/libvterm"]
+	branch = android10-gsi
+	path = external/libvterm
+	url = ../external/libvterm
+[submodule "platform/external/libxaac"]
+	branch = android10-gsi
+	path = external/libxaac
+	url = ../external/libxaac
+[submodule "platform/external/libxcam"]
+	branch = android10-gsi
+	path = external/libxcam
+	url = ../external/libxcam
+[submodule "platform/external/libxkbcommon"]
+	branch = android10-gsi
+	path = external/libxkbcommon
+	url = ../external/libxkbcommon
+[submodule "platform/external/libxml2"]
+	branch = android10-gsi
+	path = external/libxml2
+	url = ../external/libxml2
+[submodule "platform/external/libyuv"]
+	branch = android10-gsi
+	path = external/libyuv
+	url = ../external/libyuv
+[submodule "platform/external/linux-kselftest"]
+	branch = android10-gsi
+	path = external/linux-kselftest
+	url = ../external/linux-kselftest
+[submodule "platform/external/llvm"]
+	branch = android10-gsi
+	path = external/llvm
+	url = ../external/llvm
+[submodule "platform/external/lmfit"]
+	branch = android10-gsi
+	path = external/lmfit
+	url = ../external/lmfit
+[submodule "platform/external/ltp"]
+	branch = android10-gsi
+	path = external/ltp
+	url = ../external/ltp
+[submodule "platform/external/lua"]
+	branch = android10-gsi
+	path = external/lua
+	url = ../external/lua
+[submodule "platform/external/lz4"]
+	branch = android10-gsi
+	path = external/lz4
+	url = ../external/lz4
+[submodule "platform/external/lzma"]
+	branch = android10-gsi
+	path = external/lzma
+	url = ../external/lzma
+[submodule "platform/external/markdown"]
+	branch = android10-gsi
+	path = external/markdown
+	url = ../external/markdown
+[submodule "platform/external/mdnsresponder"]
+	branch = android10-gsi
+	path = external/mdnsresponder
+	url = ../external/mdnsresponder
+[submodule "platform/external/mesa3d"]
+	branch = android10-gsi
+	path = external/mesa3d
+	url = ../external/mesa3d
+[submodule "platform/external/minigbm"]
+	branch = android10-gsi
+	path = external/minigbm
+	url = ../external/minigbm
+[submodule "platform/external/minijail"]
+	branch = android10-gsi
+	path = external/minijail
+	url = ../external/minijail
+[submodule "platform/external/mksh"]
+	branch = android10-gsi
+	path = external/mksh
+	url = ../external/mksh
+[submodule "platform/external/mockftpserver"]
+	branch = android10-gsi
+	path = external/mockftpserver
+	url = ../external/mockftpserver
+[submodule "platform/external/mockito"]
+	branch = android10-gsi
+	path = external/mockito
+	url = ../external/mockito
+[submodule "platform/external/mockwebserver"]
+	branch = android10-gsi
+	path = external/mockwebserver
+	url = ../external/mockwebserver
+[submodule "platform/external/modp_b64"]
+	branch = android10-gsi
+	path = external/modp_b64
+	url = ../external/modp_b64
+[submodule "platform/external/mp4parser"]
+	branch = android10-gsi
+	path = external/mp4parser
+	url = ../external/mp4parser
+[submodule "platform/external/mtpd"]
+	branch = android10-gsi
+	path = external/mtpd
+	url = ../external/mtpd
+[submodule "platform/external/nanohttpd"]
+	branch = android10-gsi
+	path = external/nanohttpd
+	url = ../external/nanohttpd
+[submodule "platform/external/nanopb-c"]
+	branch = android10-gsi
+	path = external/nanopb-c
+	url = ../external/nanopb-c
+[submodule "platform/external/naver-fonts"]
+	branch = android10-gsi
+	path = external/naver-fonts
+	url = ../external/naver-fonts
+[submodule "platform/external/neon_2_sse"]
+	branch = android10-gsi
+	path = external/neon_2_sse
+	url = ../external/neon_2_sse
+[submodule "platform/external/neven"]
+	branch = android10-gsi
+	path = external/neven
+	url = ../external/neven
+[submodule "platform/external/newfs_msdos"]
+	branch = android10-gsi
+	path = external/newfs_msdos
+	url = ../external/newfs_msdos
+[submodule "platform/external/nfacct"]
+	branch = android10-gsi
+	path = external/nfacct
+	url = ../external/nfacct
+[submodule "platform/external/nist-pkits"]
+	branch = android10-gsi
+	path = external/nist-pkits
+	url = ../external/nist-pkits
+[submodule "platform/external/nist-sip"]
+	branch = android10-gsi
+	path = external/nist-sip
+	url = ../external/nist-sip
+[submodule "platform/external/nos/host/android"]
+	branch = android10-gsi
+	path = external/nos/host/android
+	url = ../external/nos/host/android
+[submodule "platform/external/nos/host/generic"]
+	branch = android10-gsi
+	path = external/nos/host/generic
+	url = ../external/nos/host/generic
+[submodule "platform/external/nos/test/system-test-harness"]
+	branch = android10-gsi
+	path = external/nos/test/system-test-harness
+	url = ../external/nos/test/system-test-harness
+[submodule "platform/external/noto-fonts"]
+	branch = android10-gsi
+	path = external/noto-fonts
+	url = ../external/noto-fonts
+[submodule "platform/external/oauth"]
+	branch = android10-gsi
+	path = external/oauth
+	url = ../external/oauth
+[submodule "platform/external/objenesis"]
+	branch = android10-gsi
+	path = external/objenesis
+	url = ../external/objenesis
+[submodule "platform/external/oj-libjdwp"]
+	branch = android10-gsi
+	path = external/oj-libjdwp
+	url = ../external/oj-libjdwp
+[submodule "platform/external/okhttp"]
+	branch = android10-gsi
+	path = external/okhttp
+	url = ../external/okhttp
+[submodule "platform/external/one-true-awk"]
+	branch = android10-gsi
+	path = external/one-true-awk
+	url = ../external/one-true-awk
+[submodule "platform/external/opencensus-java"]
+	branch = android10-gsi
+	path = external/opencensus-java
+	url = ../external/opencensus-java
+[submodule "platform/external/openssh"]
+	branch = android10-gsi
+	path = external/openssh
+	url = ../external/openssh
+[submodule "platform/external/owasp/sanitizer"]
+	branch = android10-gsi
+	path = external/owasp/sanitizer
+	url = ../external/owasp/sanitizer
+[submodule "platform/external/parameter-framework"]
+	branch = android10-gsi
+	path = external/parameter-framework
+	url = ../external/parameter-framework
+[submodule "platform/external/pcre"]
+	branch = android10-gsi
+	path = external/pcre
+	url = ../external/pcre
+[submodule "platform/external/pdfium"]
+	branch = android10-gsi
+	path = external/pdfium
+	url = ../external/pdfium
+[submodule "platform/external/perf_data_converter"]
+	branch = android10-gsi
+	path = external/perf_data_converter
+	url = ../external/perf_data_converter
+[submodule "platform/external/perfetto"]
+	branch = android10-gsi
+	path = external/perfetto
+	url = ../external/perfetto
+[submodule "platform/external/piex"]
+	branch = android10-gsi
+	path = external/piex
+	url = ../external/piex
+[submodule "platform/external/ply"]
+	branch = android10-gsi
+	path = external/ply
+	url = ../external/ply
+[submodule "platform/external/ppp"]
+	branch = android10-gsi
+	path = external/ppp
+	url = ../external/ppp
+[submodule "platform/external/proguard"]
+	branch = android10-gsi
+	path = external/proguard
+	url = ../external/proguard
+[submodule "platform/external/protobuf"]
+	branch = android10-gsi
+	path = external/protobuf
+	url = ../external/protobuf
+[submodule "platform/external/protobuf-javalite"]
+	branch = android10-gsi
+	path = external/protobuf-javalite
+	url = ../external/protobuf-javalite
+[submodule "platform/external/puffin"]
+	branch = android10-gsi
+	path = external/puffin
+	url = ../external/puffin
+[submodule "platform/external/python/Pillow"]
+	branch = android10-gsi
+	path = external/python/Pillow
+	url = ../external/python/Pillow
+[submodule "platform/external/python/apitools"]
+	branch = android10-gsi
+	path = external/python/apitools
+	url = ../external/python/apitools
+[submodule "platform/external/python/appdirs"]
+	branch = android10-gsi
+	path = external/python/appdirs
+	url = ../external/python/appdirs
+[submodule "platform/external/python/asn1crypto"]
+	branch = android10-gsi
+	path = external/python/asn1crypto
+	url = ../external/python/asn1crypto
+[submodule "platform/external/python/atomicwrites"]
+	branch = android10-gsi
+	path = external/python/atomicwrites
+	url = ../external/python/atomicwrites
+[submodule "platform/external/python/attrs"]
+	branch = android10-gsi
+	path = external/python/attrs
+	url = ../external/python/attrs
+[submodule "platform/external/python/cachetools"]
+	branch = android10-gsi
+	path = external/python/cachetools
+	url = ../external/python/cachetools
+[submodule "platform/external/python/cffi"]
+	branch = android10-gsi
+	path = external/python/cffi
+	url = ../external/python/cffi
+[submodule "platform/external/python/cpython2"]
+	branch = android10-gsi
+	path = external/python/cpython2
+	url = ../external/python/cpython2
+[submodule "platform/external/python/cpython3"]
+	branch = android10-gsi
+	path = external/python/cpython3
+	url = ../external/python/cpython3
+[submodule "platform/external/python/cryptography"]
+	branch = android10-gsi
+	path = external/python/cryptography
+	url = ../external/python/cryptography
+[submodule "platform/external/python/dateutil"]
+	branch = android10-gsi
+	path = external/python/dateutil
+	url = ../external/python/dateutil
+[submodule "platform/external/python/dill"]
+	branch = android10-gsi
+	path = external/python/dill
+	url = ../external/python/dill
+[submodule "platform/external/python/enum"]
+	branch = android10-gsi
+	path = external/python/enum
+	url = ../external/python/enum
+[submodule "platform/external/python/enum34"]
+	branch = android10-gsi
+	path = external/python/enum34
+	url = ../external/python/enum34
+[submodule "platform/external/python/funcsigs"]
+	branch = android10-gsi
+	path = external/python/funcsigs
+	url = ../external/python/funcsigs
+[submodule "platform/external/python/future"]
+	branch = android10-gsi
+	path = external/python/future
+	url = ../external/python/future
+[submodule "platform/external/python/futures"]
+	branch = android10-gsi
+	path = external/python/futures
+	url = ../external/python/futures
+[submodule "platform/external/python/gapic-google-cloud-pubsub-v1"]
+	branch = android10-gsi
+	path = external/python/gapic-google-cloud-pubsub-v1
+	url = ../external/python/gapic-google-cloud-pubsub-v1
+[submodule "platform/external/python/google-api-python-client"]
+	branch = android10-gsi
+	path = external/python/google-api-python-client
+	url = ../external/python/google-api-python-client
+[submodule "platform/external/python/google-auth"]
+	branch = android10-gsi
+	path = external/python/google-auth
+	url = ../external/python/google-auth
+[submodule "platform/external/python/google-auth-httplib2"]
+	branch = android10-gsi
+	path = external/python/google-auth-httplib2
+	url = ../external/python/google-auth-httplib2
+[submodule "platform/external/python/google-cloud-core"]
+	branch = android10-gsi
+	path = external/python/google-cloud-core
+	url = ../external/python/google-cloud-core
+[submodule "platform/external/python/google-cloud-pubsub"]
+	branch = android10-gsi
+	path = external/python/google-cloud-pubsub
+	url = ../external/python/google-cloud-pubsub
+[submodule "platform/external/python/google-gax"]
+	branch = android10-gsi
+	path = external/python/google-gax
+	url = ../external/python/google-gax
+[submodule "platform/external/python/googleapis"]
+	branch = android10-gsi
+	path = external/python/googleapis
+	url = ../external/python/googleapis
+[submodule "platform/external/python/grpc-google-iam-v1"]
+	branch = android10-gsi
+	path = external/python/grpc-google-iam-v1
+	url = ../external/python/grpc-google-iam-v1
+[submodule "platform/external/python/grpcio"]
+	branch = android10-gsi
+	path = external/python/grpcio
+	url = ../external/python/grpcio
+[submodule "platform/external/python/httplib2"]
+	branch = android10-gsi
+	path = external/python/httplib2
+	url = ../external/python/httplib2
+[submodule "platform/external/python/matplotlib"]
+	branch = android10-gsi
+	path = external/python/matplotlib
+	url = ../external/python/matplotlib
+[submodule "platform/external/python/mock"]
+	branch = android10-gsi
+	path = external/python/mock
+	url = ../external/python/mock
+[submodule "platform/external/python/more-itertools"]
+	branch = android10-gsi
+	path = external/python/more-itertools
+	url = ../external/python/more-itertools
+[submodule "platform/external/python/numpy"]
+	branch = android10-gsi
+	path = external/python/numpy
+	url = ../external/python/numpy
+[submodule "platform/external/python/oauth2client"]
+	branch = android10-gsi
+	path = external/python/oauth2client
+	url = ../external/python/oauth2client
+[submodule "platform/external/python/olefile"]
+	branch = android10-gsi
+	path = external/python/olefile
+	url = ../external/python/olefile
+[submodule "platform/external/python/packaging"]
+	branch = android10-gsi
+	path = external/python/packaging
+	url = ../external/python/packaging
+[submodule "platform/external/python/parse"]
+	branch = android10-gsi
+	path = external/python/parse
+	url = ../external/python/parse
+[submodule "platform/external/python/pluggy"]
+	branch = android10-gsi
+	path = external/python/pluggy
+	url = ../external/python/pluggy
+[submodule "platform/external/python/ply"]
+	branch = android10-gsi
+	path = external/python/ply
+	url = ../external/python/ply
+[submodule "platform/external/python/proto-google-cloud-pubsub-v1"]
+	branch = android10-gsi
+	path = external/python/proto-google-cloud-pubsub-v1
+	url = ../external/python/proto-google-cloud-pubsub-v1
+[submodule "platform/external/python/protobuf"]
+	branch = android10-gsi
+	path = external/python/protobuf
+	url = ../external/python/protobuf
+[submodule "platform/external/python/py"]
+	branch = android10-gsi
+	path = external/python/py
+	url = ../external/python/py
+[submodule "platform/external/python/pyasn1"]
+	branch = android10-gsi
+	path = external/python/pyasn1
+	url = ../external/python/pyasn1
+[submodule "platform/external/python/pyasn1-modules"]
+	branch = android10-gsi
+	path = external/python/pyasn1-modules
+	url = ../external/python/pyasn1-modules
+[submodule "platform/external/python/pycparser"]
+	branch = android10-gsi
+	path = external/python/pycparser
+	url = ../external/python/pycparser
+[submodule "platform/external/python/pyopenssl"]
+	branch = android10-gsi
+	path = external/python/pyopenssl
+	url = ../external/python/pyopenssl
+[submodule "platform/external/python/pyparsing"]
+	branch = android10-gsi
+	path = external/python/pyparsing
+	url = ../external/python/pyparsing
+[submodule "platform/external/python/pytest"]
+	branch = android10-gsi
+	path = external/python/pytest
+	url = ../external/python/pytest
+[submodule "platform/external/python/requests"]
+	branch = android10-gsi
+	path = external/python/requests
+	url = ../external/python/requests
+[submodule "platform/external/python/rsa"]
+	branch = android10-gsi
+	path = external/python/rsa
+	url = ../external/python/rsa
+[submodule "platform/external/python/scipy"]
+	branch = android10-gsi
+	path = external/python/scipy
+	url = ../external/python/scipy
+[submodule "platform/external/python/setuptools"]
+	branch = android10-gsi
+	path = external/python/setuptools
+	url = ../external/python/setuptools
+[submodule "platform/external/python/six"]
+	branch = android10-gsi
+	path = external/python/six
+	url = ../external/python/six
+[submodule "platform/external/python/uritemplates"]
+	branch = android10-gsi
+	path = external/python/uritemplates
+	url = ../external/python/uritemplates
+[submodule "platform/external/rapidjson"]
+	branch = android10-gsi
+	path = external/rapidjson
+	url = ../external/rapidjson
+[submodule "platform/external/rappor"]
+	branch = android10-gsi
+	path = external/rappor
+	url = ../external/rappor
+[submodule "platform/external/replicaisland"]
+	branch = android10-gsi
+	path = external/replicaisland
+	url = ../external/replicaisland
+[submodule "platform/external/rmi4utils"]
+	branch = android10-gsi
+	path = external/rmi4utils
+	url = ../external/rmi4utils
+[submodule "platform/external/robolectric"]
+	branch = android10-gsi
+	path = external/robolectric
+	url = ../external/robolectric
+[submodule "platform/external/robolectric-shadows"]
+	branch = android10-gsi
+	path = external/robolectric-shadows
+	url = ../external/robolectric-shadows
+[submodule "platform/external/roboto-fonts"]
+	branch = android10-gsi
+	path = external/roboto-fonts
+	url = ../external/roboto-fonts
+[submodule "platform/external/rootdev"]
+	branch = android10-gsi
+	path = external/rootdev
+	url = ../external/rootdev
+[submodule "platform/external/scapy"]
+	branch = android10-gsi
+	path = external/scapy
+	url = ../external/scapy
+[submodule "platform/external/scrypt"]
+	branch = android10-gsi
+	path = external/scrypt
+	url = ../external/scrypt
+[submodule "platform/external/seccomp-tests"]
+	branch = android10-gsi
+	path = external/seccomp-tests
+	url = ../external/seccomp-tests
+[submodule "platform/external/selinux"]
+	branch = android10-gsi
+	path = external/selinux
+	url = ../external/selinux
+[submodule "platform/external/setupcompat"]
+	branch = android10-gsi
+	path = external/setupcompat
+	url = ../external/setupcompat
+[submodule "platform/external/setupdesign"]
+	branch = android10-gsi
+	path = external/setupdesign
+	url = ../external/setupdesign
+[submodule "platform/external/sfntly"]
+	branch = android10-gsi
+	path = external/sfntly
+	url = ../external/sfntly
+[submodule "platform/external/shaderc/spirv-headers"]
+	branch = android10-gsi
+	path = external/shaderc/spirv-headers
+	url = ../external/shaderc/spirv-headers
+[submodule "platform/external/shflags"]
+	branch = android10-gsi
+	path = external/shflags
+	url = ../external/shflags
+[submodule "platform/external/skia"]
+	branch = android10-gsi
+	path = external/skia
+	url = ../external/skia
+[submodule "platform/external/skqp"]
+	branch = android10-gsi
+	shallow = true
+	path = external/skqp
+	url = ../external/skqp
+[submodule "platform/external/sl4a"]
+	branch = android10-gsi
+	path = external/sl4a
+	url = ../external/sl4a
+[submodule "platform/external/slf4j"]
+	branch = android10-gsi
+	path = external/slf4j
+	url = ../external/slf4j
+[submodule "platform/external/smali"]
+	branch = android10-gsi
+	path = external/smali
+	url = ../external/smali
+[submodule "platform/external/snakeyaml"]
+	branch = android10-gsi
+	path = external/snakeyaml
+	url = ../external/snakeyaml
+[submodule "platform/external/sonic"]
+	branch = android10-gsi
+	path = external/sonic
+	url = ../external/sonic
+[submodule "platform/external/sonivox"]
+	branch = android10-gsi
+	path = external/sonivox
+	url = ../external/sonivox
+[submodule "platform/external/speex"]
+	branch = android10-gsi
+	path = external/speex
+	url = ../external/speex
+[submodule "platform/external/spirv-llvm"]
+	branch = android10-gsi
+	path = external/spirv-llvm
+	url = ../external/spirv-llvm
+[submodule "platform/external/sqlite"]
+	branch = android10-gsi
+	path = external/sqlite
+	url = ../external/sqlite
+[submodule "platform/external/squashfs-tools"]
+	branch = android10-gsi
+	path = external/squashfs-tools
+	url = ../external/squashfs-tools
+[submodule "platform/external/strace"]
+	branch = android10-gsi
+	path = external/strace
+	url = ../external/strace
+[submodule "platform/external/stressapptest"]
+	branch = android10-gsi
+	path = external/stressapptest
+	url = ../external/stressapptest
+[submodule "platform/external/subsampling-scale-image-view"]
+	branch = android10-gsi
+	shallow = true
+	path = external/subsampling-scale-image-view
+	url = ../external/subsampling-scale-image-view
+[submodule "platform/external/swiftshader"]
+	branch = android10-gsi
+	path = external/swiftshader
+	url = ../external/swiftshader
+[submodule "platform/external/syzkaller"]
+	branch = android10-gsi
+	path = external/syzkaller
+	url = ../external/syzkaller
+[submodule "platform/external/tagsoup"]
+	branch = android10-gsi
+	path = external/tagsoup
+	url = ../external/tagsoup
+[submodule "platform/external/tcpdump"]
+	branch = android10-gsi
+	path = external/tcpdump
+	url = ../external/tcpdump
+[submodule "platform/external/tensorflow"]
+	branch = android10-gsi
+	path = external/tensorflow
+	url = ../external/tensorflow
+[submodule "platform/external/testng"]
+	branch = android10-gsi
+	path = external/testng
+	url = ../external/testng
+[submodule "platform/external/tinyalsa"]
+	branch = android10-gsi
+	path = external/tinyalsa
+	url = ../external/tinyalsa
+[submodule "platform/external/tinycompress"]
+	branch = android10-gsi
+	path = external/tinycompress
+	url = ../external/tinycompress
+[submodule "platform/external/tinyxml"]
+	branch = android10-gsi
+	path = external/tinyxml
+	url = ../external/tinyxml
+[submodule "platform/external/tinyxml2"]
+	branch = android10-gsi
+	path = external/tinyxml2
+	url = ../external/tinyxml2
+[submodule "platform/external/toolchain-utils"]
+	branch = android10-gsi
+	path = external/toolchain-utils
+	url = ../external/toolchain-utils
+[submodule "platform/external/toybox"]
+	branch = android10-gsi
+	path = external/toybox
+	url = ../external/toybox
+[submodule "platform/external/tremolo"]
+	branch = android10-gsi
+	path = external/tremolo
+	url = ../external/tremolo
+[submodule "platform/external/turbine"]
+	branch = android10-gsi
+	path = external/turbine
+	url = ../external/turbine
+[submodule "platform/external/u-boot"]
+	branch = android10-gsi
+	path = external/u-boot
+	url = ../external/u-boot
+[submodule "platform/external/ukey2"]
+	branch = android10-gsi
+	path = external/ukey2
+	url = ../external/ukey2
+[submodule "platform/external/unicode"]
+	branch = android10-gsi
+	path = external/unicode
+	url = ../external/unicode
+[submodule "platform/external/universal-tween-engine"]
+	branch = android10-gsi
+	path = external/universal-tween-engine
+	url = ../external/universal-tween-engine
+[submodule "platform/external/v4l2_codec2"]
+	branch = android10-gsi
+	path = external/v4l2_codec2
+	url = ../external/v4l2_codec2
+[submodule "platform/external/v8"]
+	branch = android10-gsi
+	path = external/v8
+	url = ../external/v8
+[submodule "platform/external/vboot_reference"]
+	branch = android10-gsi
+	path = external/vboot_reference
+	url = ../external/vboot_reference
+[submodule "platform/external/virglrenderer"]
+	branch = android10-gsi
+	path = external/virglrenderer
+	url = ../external/virglrenderer
+[submodule "platform/external/vixl"]
+	branch = android10-gsi
+	path = external/vixl
+	url = ../external/vixl
+[submodule "platform/external/vogar"]
+	branch = android10-gsi
+	path = external/vogar
+	url = ../external/vogar
+[submodule "platform/external/volley"]
+	branch = android10-gsi
+	path = external/volley
+	url = ../external/volley
+[submodule "platform/external/vulkan-headers"]
+	branch = android10-gsi
+	path = external/vulkan-headers
+	url = ../external/vulkan-headers
+[submodule "platform/external/vulkan-validation-layers"]
+	branch = android10-gsi
+	path = external/vulkan-validation-layers
+	url = ../external/vulkan-validation-layers
+[submodule "platform/external/walt"]
+	branch = android10-gsi
+	path = external/walt
+	url = ../external/walt
+[submodule "platform/external/wayland"]
+	branch = android10-gsi
+	path = external/wayland
+	url = ../external/wayland
+[submodule "platform/external/wayland-protocols"]
+	branch = android10-gsi
+	path = external/wayland-protocols
+	url = ../external/wayland-protocols
+[submodule "platform/external/webp"]
+	branch = android10-gsi
+	path = external/webp
+	url = ../external/webp
+[submodule "platform/external/webrtc"]
+	branch = android10-gsi
+	path = external/webrtc
+	url = ../external/webrtc
+[submodule "platform/external/wpa_supplicant_8"]
+	branch = android10-gsi
+	path = external/wpa_supplicant_8
+	url = ../external/wpa_supplicant_8
+[submodule "platform/external/wycheproof"]
+	branch = android10-gsi
+	path = external/wycheproof
+	url = ../external/wycheproof
+[submodule "platform/external/xmp_toolkit"]
+	branch = android10-gsi
+	path = external/xmp_toolkit
+	url = ../external/xmp_toolkit
+[submodule "platform/external/xz-embedded"]
+	branch = android10-gsi
+	path = external/xz-embedded
+	url = ../external/xz-embedded
+[submodule "platform/external/xz-java"]
+	branch = android10-gsi
+	path = external/xz-java
+	url = ../external/xz-java
+[submodule "platform/external/yapf"]
+	branch = android10-gsi
+	path = external/yapf
+	url = ../external/yapf
+[submodule "platform/external/zlib"]
+	branch = android10-gsi
+	path = external/zlib
+	url = ../external/zlib
+[submodule "platform/external/zopfli"]
+	branch = android10-gsi
+	path = external/zopfli
+	url = ../external/zopfli
+[submodule "platform/external/zxing"]
+	branch = android10-gsi
+	path = external/zxing
+	url = ../external/zxing
+[submodule "platform/frameworks/av"]
+	branch = android10-gsi
+	path = frameworks/av
+	url = ../frameworks/av
+[submodule "platform/frameworks/base"]
+	branch = android10-gsi
+	path = frameworks/base
+	url = ../frameworks/base
+[submodule "platform/frameworks/compile/libbcc"]
+	branch = android10-gsi
+	path = frameworks/compile/libbcc
+	url = ../frameworks/compile/libbcc
+[submodule "platform/frameworks/compile/mclinker"]
+	branch = android10-gsi
+	path = frameworks/compile/mclinker
+	url = ../frameworks/compile/mclinker
+[submodule "platform/frameworks/compile/slang"]
+	branch = android10-gsi
+	path = frameworks/compile/slang
+	url = ../frameworks/compile/slang
+[submodule "platform/frameworks/ex"]
+	branch = android10-gsi
+	path = frameworks/ex
+	url = ../frameworks/ex
+[submodule "platform/frameworks/hardware/interfaces"]
+	branch = android10-gsi
+	path = frameworks/hardware/interfaces
+	url = ../frameworks/hardware/interfaces
+[submodule "platform/frameworks/layoutlib"]
+	branch = android10-gsi
+	path = frameworks/layoutlib
+	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/minikin"]
+	branch = android10-gsi
+	path = frameworks/minikin
+	url = ../frameworks/minikin
+[submodule "platform/frameworks/ml"]
+	branch = android10-gsi
+	path = frameworks/ml
+	url = ../frameworks/ml
+[submodule "platform/frameworks/multidex"]
+	branch = android10-gsi
+	path = frameworks/multidex
+	url = ../frameworks/multidex
+[submodule "platform/frameworks/native"]
+	branch = android10-gsi
+	path = frameworks/native
+	url = ../frameworks/native
+[submodule "platform/frameworks/opt/bitmap"]
+	branch = android10-gsi
+	path = frameworks/opt/bitmap
+	url = ../frameworks/opt/bitmap
+[submodule "platform/frameworks/opt/calendar"]
+	branch = android10-gsi
+	path = frameworks/opt/calendar
+	url = ../frameworks/opt/calendar
+[submodule "platform/frameworks/opt/car/services"]
+	branch = android10-gsi
+	path = frameworks/opt/car/services
+	url = ../frameworks/opt/car/services
+[submodule "platform/frameworks/opt/car/setupwizard"]
+	branch = android10-gsi
+	path = frameworks/opt/car/setupwizard
+	url = ../frameworks/opt/car/setupwizard
+[submodule "platform/frameworks/opt/chips"]
+	branch = android10-gsi
+	path = frameworks/opt/chips
+	url = ../frameworks/opt/chips
+[submodule "platform/frameworks/opt/colorpicker"]
+	branch = android10-gsi
+	path = frameworks/opt/colorpicker
+	url = ../frameworks/opt/colorpicker
+[submodule "platform/frameworks/opt/datetimepicker"]
+	branch = android10-gsi
+	path = frameworks/opt/datetimepicker
+	url = ../frameworks/opt/datetimepicker
+[submodule "platform/frameworks/opt/gamesdk"]
+	branch = android10-gsi
+	path = frameworks/opt/gamesdk
+	url = ../frameworks/opt/gamesdk
+[submodule "platform/frameworks/opt/net/ethernet"]
+	branch = android10-gsi
+	path = frameworks/opt/net/ethernet
+	url = ../frameworks/opt/net/ethernet
+[submodule "platform/frameworks/opt/net/ike"]
+	branch = android10-gsi
+	path = frameworks/opt/net/ike
+	url = ../frameworks/opt/net/ike
+[submodule "platform/frameworks/opt/net/ims"]
+	branch = android10-gsi
+	path = frameworks/opt/net/ims
+	url = ../frameworks/opt/net/ims
+[submodule "platform/frameworks/opt/net/voip"]
+	branch = android10-gsi
+	path = frameworks/opt/net/voip
+	url = ../frameworks/opt/net/voip
+[submodule "platform/frameworks/opt/net/wifi"]
+	branch = android10-gsi
+	path = frameworks/opt/net/wifi
+	url = ../frameworks/opt/net/wifi
+[submodule "platform/frameworks/opt/photoviewer"]
+	branch = android10-gsi
+	path = frameworks/opt/photoviewer
+	url = ../frameworks/opt/photoviewer
+[submodule "platform/frameworks/opt/setupwizard"]
+	branch = android10-gsi
+	path = frameworks/opt/setupwizard
+	url = ../frameworks/opt/setupwizard
+[submodule "platform/frameworks/opt/telephony"]
+	branch = android10-gsi
+	path = frameworks/opt/telephony
+	url = ../frameworks/opt/telephony
+[submodule "platform/frameworks/opt/timezonepicker"]
+	branch = android10-gsi
+	path = frameworks/opt/timezonepicker
+	url = ../frameworks/opt/timezonepicker
+[submodule "platform/frameworks/opt/vcard"]
+	branch = android10-gsi
+	path = frameworks/opt/vcard
+	url = ../frameworks/opt/vcard
+[submodule "platform/frameworks/rs"]
+	branch = android10-gsi
+	path = frameworks/rs
+	url = ../frameworks/rs
+[submodule "platform/frameworks/wilhelm"]
+	branch = android10-gsi
+	path = frameworks/wilhelm
+	url = ../frameworks/wilhelm
+[submodule "platform/hardware/broadcom/libbt"]
+	branch = android10-gsi
+	path = hardware/broadcom/libbt
+	url = ../hardware/broadcom/libbt
+[submodule "platform/hardware/broadcom/wlan"]
+	branch = android10-gsi
+	path = hardware/broadcom/wlan
+	url = ../hardware/broadcom/wlan
+[submodule "platform/hardware/google/apf"]
+	branch = android10-gsi
+	path = hardware/google/apf
+	url = ../hardware/google/apf
+[submodule "platform/hardware/google/av"]
+	branch = android10-gsi
+	path = hardware/google/av
+	url = ../hardware/google/av
+[submodule "platform/hardware/google/easel"]
+	branch = android10-gsi
+	path = hardware/google/easel
+	url = ../hardware/google/easel
+[submodule "platform/hardware/google/interfaces"]
+	branch = android10-gsi
+	path = hardware/google/interfaces
+	url = ../hardware/google/interfaces
+[submodule "platform/hardware/google/pixel"]
+	branch = android10-gsi
+	path = hardware/google/pixel
+	url = ../hardware/google/pixel
+[submodule "platform/hardware/interfaces"]
+	branch = android10-gsi
+	path = hardware/interfaces
+	url = ../hardware/interfaces
+[submodule "platform/hardware/invensense"]
+	branch = android10-gsi
+	path = hardware/invensense
+	url = ../hardware/invensense
+[submodule "platform/hardware/libhardware"]
+	branch = android10-gsi
+	path = hardware/libhardware
+	url = ../hardware/libhardware
+[submodule "platform/hardware/libhardware_legacy"]
+	branch = android10-gsi
+	path = hardware/libhardware_legacy
+	url = ../hardware/libhardware_legacy
+[submodule "platform/hardware/nxp/nfc"]
+	branch = android10-gsi
+	path = hardware/nxp/nfc
+	url = ../hardware/nxp/nfc
+[submodule "platform/hardware/nxp/secure_element"]
+	branch = android10-gsi
+	path = hardware/nxp/secure_element
+	url = ../hardware/nxp/secure_element
+[submodule "platform/hardware/qcom/audio"]
+	branch = android10-gsi
+	path = hardware/qcom/audio
+	url = ../hardware/qcom/audio
+[submodule "platform/hardware/qcom/bootctrl"]
+	branch = android10-gsi
+	path = hardware/qcom/bootctrl
+	url = ../hardware/qcom/bootctrl
+[submodule "platform/hardware/qcom/bt"]
+	branch = android10-gsi
+	path = hardware/qcom/bt
+	url = ../hardware/qcom/bt
+[submodule "platform/hardware/qcom/camera"]
+	branch = android10-gsi
+	path = hardware/qcom/camera
+	url = ../hardware/qcom/camera
+[submodule "platform/hardware/qcom/data/ipacfg-mgr"]
+	branch = android10-gsi
+	path = hardware/qcom/data/ipacfg-mgr
+	url = ../hardware/qcom/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/display"]
+	branch = android10-gsi
+	path = hardware/qcom/display
+	url = ../hardware/qcom/display
+[submodule "platform/hardware/qcom/gps"]
+	branch = android10-gsi
+	path = hardware/qcom/gps
+	url = ../hardware/qcom/gps
+[submodule "platform/hardware/qcom/keymaster"]
+	branch = android10-gsi
+	path = hardware/qcom/keymaster
+	url = ../hardware/qcom/keymaster
+[submodule "platform/hardware/qcom/media"]
+	branch = android10-gsi
+	path = hardware/qcom/media
+	url = ../hardware/qcom/media
+[submodule "platform/hardware/qcom/msm8960"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8960
+	url = ../hardware/qcom/msm8960
+[submodule "platform/hardware/qcom/msm8994"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8994
+	url = ../hardware/qcom/msm8994
+[submodule "platform/hardware/qcom/msm8996"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8996
+	url = ../hardware/qcom/msm8996
+[submodule "platform/hardware/qcom/msm8998"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8998
+	url = ../hardware/qcom/msm8998
+[submodule "platform/hardware/qcom/msm8x09"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8x09
+	url = ../hardware/qcom/msm8x09
+[submodule "platform/hardware/qcom/msm8x26"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8x26
+	url = ../hardware/qcom/msm8x26
+[submodule "platform/hardware/qcom/msm8x27"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8x27
+	url = ../hardware/qcom/msm8x27
+[submodule "platform/hardware/qcom/msm8x84"]
+	branch = android10-gsi
+	path = hardware/qcom/msm8x84
+	url = ../hardware/qcom/msm8x84
+[submodule "platform/hardware/qcom/neuralnetworks/hvxservice"]
+	branch = android10-gsi
+	path = hardware/qcom/neuralnetworks/hvxservice
+	url = ../hardware/qcom/neuralnetworks/hvxservice
+[submodule "platform/hardware/qcom/power"]
+	branch = android10-gsi
+	path = hardware/qcom/power
+	url = ../hardware/qcom/power
+[submodule "platform/hardware/qcom/sdm845/bt"]
+	branch = android10-gsi
+	path = hardware/qcom/sdm845/bt
+	url = ../hardware/qcom/sdm845/bt
+[submodule "platform/hardware/qcom/sdm845/data/ipacfg-mgr"]
+	branch = android10-gsi
+	path = hardware/qcom/sdm845/data/ipacfg-mgr
+	url = ../hardware/qcom/sdm845/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/sdm845/display"]
+	branch = android10-gsi
+	path = hardware/qcom/sdm845/display
+	url = ../hardware/qcom/sdm845/display
+[submodule "platform/hardware/qcom/sdm845/gps"]
+	branch = android10-gsi
+	path = hardware/qcom/sdm845/gps
+	url = ../hardware/qcom/sdm845/gps
+[submodule "platform/hardware/qcom/sdm845/media"]
+	branch = android10-gsi
+	path = hardware/qcom/sdm845/media
+	url = ../hardware/qcom/sdm845/media
+[submodule "platform/hardware/qcom/sdm845/thermal"]
+	branch = android10-gsi
+	path = hardware/qcom/sdm845/thermal
+	url = ../hardware/qcom/sdm845/thermal
+[submodule "platform/hardware/qcom/sdm845/vr"]
+	branch = android10-gsi
+	path = hardware/qcom/sdm845/vr
+	url = ../hardware/qcom/sdm845/vr
+[submodule "platform/hardware/qcom/wlan"]
+	branch = android10-gsi
+	path = hardware/qcom/wlan
+	url = ../hardware/qcom/wlan
+[submodule "platform/hardware/ril"]
+	branch = android10-gsi
+	path = hardware/ril
+	url = ../hardware/ril
+[submodule "platform/hardware/ti/am57x"]
+	branch = android10-gsi
+	path = hardware/ti/am57x
+	url = ../hardware/ti/am57x
+[submodule "platform/libcore"]
+	branch = android10-gsi
+	path = libcore
+	url = ../libcore
+[submodule "platform/libnativehelper"]
+	branch = android10-gsi
+	path = libnativehelper
+	url = ../libnativehelper
+[submodule "platform/packages/apps/BasicSmsReceiver"]
+	branch = android10-gsi
+	path = packages/apps/BasicSmsReceiver
+	url = ../packages/apps/BasicSmsReceiver
+[submodule "platform/packages/apps/Bluetooth"]
+	branch = android10-gsi
+	path = packages/apps/Bluetooth
+	url = ../packages/apps/Bluetooth
+[submodule "platform/packages/apps/Browser2"]
+	branch = android10-gsi
+	path = packages/apps/Browser2
+	url = ../packages/apps/Browser2
+[submodule "platform/packages/apps/Calendar"]
+	branch = android10-gsi
+	path = packages/apps/Calendar
+	url = ../packages/apps/Calendar
+[submodule "platform/packages/apps/Camera2"]
+	branch = android10-gsi
+	path = packages/apps/Camera2
+	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/Car/Cluster"]
+	branch = android10-gsi
+	path = packages/apps/Car/Cluster
+	url = ../packages/apps/Car/Cluster
+[submodule "platform/packages/apps/Car/Dialer"]
+	branch = android10-gsi
+	path = packages/apps/Car/Dialer
+	url = ../packages/apps/Car/Dialer
+[submodule "platform/packages/apps/Car/Hvac"]
+	branch = android10-gsi
+	path = packages/apps/Car/Hvac
+	url = ../packages/apps/Car/Hvac
+[submodule "platform/packages/apps/Car/LatinIME"]
+	branch = android10-gsi
+	path = packages/apps/Car/LatinIME
+	url = ../packages/apps/Car/LatinIME
+[submodule "platform/packages/apps/Car/Launcher"]
+	branch = android10-gsi
+	path = packages/apps/Car/Launcher
+	url = ../packages/apps/Car/Launcher
+[submodule "platform/packages/apps/Car/LensPicker"]
+	branch = android10-gsi
+	path = packages/apps/Car/LensPicker
+	url = ../packages/apps/Car/LensPicker
+[submodule "platform/packages/apps/Car/LinkViewer"]
+	branch = android10-gsi
+	path = packages/apps/Car/LinkViewer
+	url = ../packages/apps/Car/LinkViewer
+[submodule "platform/packages/apps/Car/LocalMediaPlayer"]
+	branch = android10-gsi
+	path = packages/apps/Car/LocalMediaPlayer
+	url = ../packages/apps/Car/LocalMediaPlayer
+[submodule "platform/packages/apps/Car/Media"]
+	branch = android10-gsi
+	path = packages/apps/Car/Media
+	url = ../packages/apps/Car/Media
+[submodule "platform/packages/apps/Car/Messenger"]
+	branch = android10-gsi
+	path = packages/apps/Car/Messenger
+	url = ../packages/apps/Car/Messenger
+[submodule "platform/packages/apps/Car/Notification"]
+	branch = android10-gsi
+	path = packages/apps/Car/Notification
+	url = ../packages/apps/Car/Notification
+[submodule "platform/packages/apps/Car/Overview"]
+	branch = android10-gsi
+	path = packages/apps/Car/Overview
+	url = ../packages/apps/Car/Overview
+[submodule "platform/packages/apps/Car/Radio"]
+	branch = android10-gsi
+	path = packages/apps/Car/Radio
+	url = ../packages/apps/Car/Radio
+[submodule "platform/packages/apps/Car/Settings"]
+	branch = android10-gsi
+	path = packages/apps/Car/Settings
+	url = ../packages/apps/Car/Settings
+[submodule "platform/packages/apps/Car/Stream"]
+	branch = android10-gsi
+	path = packages/apps/Car/Stream
+	url = ../packages/apps/Car/Stream
+[submodule "platform/packages/apps/Car/SystemUpdater"]
+	branch = android10-gsi
+	path = packages/apps/Car/SystemUpdater
+	url = ../packages/apps/Car/SystemUpdater
+[submodule "platform/packages/apps/Car/externallibs"]
+	branch = android10-gsi
+	path = packages/apps/Car/externallibs
+	url = ../packages/apps/Car/externallibs
+[submodule "platform/packages/apps/Car/libs"]
+	branch = android10-gsi
+	path = packages/apps/Car/libs
+	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/tests"]
+	branch = android10-gsi
+	path = packages/apps/Car/tests
+	url = ../packages/apps/Car/tests
+[submodule "platform/packages/apps/CarrierConfig"]
+	branch = android10-gsi
+	path = packages/apps/CarrierConfig
+	url = ../packages/apps/CarrierConfig
+[submodule "platform/packages/apps/CellBroadcastReceiver"]
+	branch = android10-gsi
+	path = packages/apps/CellBroadcastReceiver
+	url = ../packages/apps/CellBroadcastReceiver
+[submodule "platform/packages/apps/CertInstaller"]
+	branch = android10-gsi
+	path = packages/apps/CertInstaller
+	url = ../packages/apps/CertInstaller
+[submodule "platform/packages/apps/Contacts"]
+	branch = android10-gsi
+	path = packages/apps/Contacts
+	url = ../packages/apps/Contacts
+[submodule "platform/packages/apps/DeskClock"]
+	branch = android10-gsi
+	path = packages/apps/DeskClock
+	url = ../packages/apps/DeskClock
+[submodule "platform/packages/apps/DevCamera"]
+	branch = android10-gsi
+	path = packages/apps/DevCamera
+	url = ../packages/apps/DevCamera
+[submodule "platform/packages/apps/Dialer"]
+	branch = android10-gsi
+	path = packages/apps/Dialer
+	url = ../packages/apps/Dialer
+[submodule "platform/packages/apps/DocumentsUI"]
+	branch = android10-gsi
+	path = packages/apps/DocumentsUI
+	url = ../packages/apps/DocumentsUI
+[submodule "platform/packages/apps/Email"]
+	branch = android10-gsi
+	path = packages/apps/Email
+	url = ../packages/apps/Email
+[submodule "platform/packages/apps/EmergencyInfo"]
+	branch = android10-gsi
+	path = packages/apps/EmergencyInfo
+	url = ../packages/apps/EmergencyInfo
+[submodule "platform/packages/apps/Gallery"]
+	branch = android10-gsi
+	path = packages/apps/Gallery
+	url = ../packages/apps/Gallery
+[submodule "platform/packages/apps/Gallery2"]
+	branch = android10-gsi
+	path = packages/apps/Gallery2
+	url = ../packages/apps/Gallery2
+[submodule "platform/packages/apps/HTMLViewer"]
+	branch = android10-gsi
+	path = packages/apps/HTMLViewer
+	url = ../packages/apps/HTMLViewer
+[submodule "platform/packages/apps/KeyChain"]
+	branch = android10-gsi
+	path = packages/apps/KeyChain
+	url = ../packages/apps/KeyChain
+[submodule "platform/packages/apps/Launcher3"]
+	branch = android10-gsi
+	path = packages/apps/Launcher3
+	url = ../packages/apps/Launcher3
+[submodule "platform/packages/apps/LegacyCamera"]
+	branch = android10-gsi
+	path = packages/apps/LegacyCamera
+	url = ../packages/apps/LegacyCamera
+[submodule "platform/packages/apps/ManagedProvisioning"]
+	branch = android10-gsi
+	path = packages/apps/ManagedProvisioning
+	url = ../packages/apps/ManagedProvisioning
+[submodule "platform/packages/apps/Messaging"]
+	branch = android10-gsi
+	path = packages/apps/Messaging
+	url = ../packages/apps/Messaging
+[submodule "platform/packages/apps/Music"]
+	branch = android10-gsi
+	path = packages/apps/Music
+	url = ../packages/apps/Music
+[submodule "platform/packages/apps/MusicFX"]
+	branch = android10-gsi
+	path = packages/apps/MusicFX
+	url = ../packages/apps/MusicFX
+[submodule "platform/packages/apps/Nfc"]
+	branch = android10-gsi
+	path = packages/apps/Nfc
+	url = ../packages/apps/Nfc
+[submodule "platform/packages/apps/OneTimeInitializer"]
+	branch = android10-gsi
+	path = packages/apps/OneTimeInitializer
+	url = ../packages/apps/OneTimeInitializer
+[submodule "platform/packages/apps/PackageInstaller"]
+	branch = android10-gsi
+	path = packages/apps/PermissionController
+	url = ../packages/apps/PackageInstaller
+[submodule "platform/packages/apps/PhoneCommon"]
+	branch = android10-gsi
+	path = packages/apps/PhoneCommon
+	url = ../packages/apps/PhoneCommon
+[submodule "platform/packages/apps/Protips"]
+	branch = android10-gsi
+	path = packages/apps/Protips
+	url = ../packages/apps/Protips
+[submodule "platform/packages/apps/Provision"]
+	branch = android10-gsi
+	path = packages/apps/Provision
+	url = ../packages/apps/Provision
+[submodule "platform/packages/apps/QuickSearchBox"]
+	branch = android10-gsi
+	path = packages/apps/QuickSearchBox
+	url = ../packages/apps/QuickSearchBox
+[submodule "platform/packages/apps/SafetyRegulatoryInfo"]
+	branch = android10-gsi
+	path = packages/apps/SafetyRegulatoryInfo
+	url = ../packages/apps/SafetyRegulatoryInfo
+[submodule "platform/packages/apps/SampleLocationAttribution"]
+	branch = android10-gsi
+	path = packages/apps/SampleLocationAttribution
+	url = ../packages/apps/SampleLocationAttribution
+[submodule "platform/packages/apps/SecureElement"]
+	branch = android10-gsi
+	path = packages/apps/SecureElement
+	url = ../packages/apps/SecureElement
+[submodule "platform/packages/apps/Settings"]
+	branch = android10-gsi
+	path = packages/apps/Settings
+	url = ../packages/apps/Settings
+[submodule "platform/packages/apps/SettingsIntelligence"]
+	branch = android10-gsi
+	path = packages/apps/SettingsIntelligence
+	url = ../packages/apps/SettingsIntelligence
+[submodule "platform/packages/apps/SoundRecorder"]
+	branch = android10-gsi
+	path = packages/apps/SoundRecorder
+	url = ../packages/apps/SoundRecorder
+[submodule "platform/packages/apps/SpareParts"]
+	branch = android10-gsi
+	path = packages/apps/SpareParts
+	url = ../packages/apps/SpareParts
+[submodule "platform/packages/apps/Stk"]
+	branch = android10-gsi
+	path = packages/apps/Stk
+	url = ../packages/apps/Stk
+[submodule "platform/packages/apps/StorageManager"]
+	branch = android10-gsi
+	path = packages/apps/StorageManager
+	url = ../packages/apps/StorageManager
+[submodule "platform/packages/apps/TV"]
+	branch = android10-gsi
+	path = packages/apps/TV
+	url = ../packages/apps/TV
+[submodule "platform/packages/apps/Tag"]
+	branch = android10-gsi
+	path = packages/apps/Tag
+	url = ../packages/apps/Tag
+[submodule "platform/packages/apps/Terminal"]
+	branch = android10-gsi
+	path = packages/apps/Terminal
+	url = ../packages/apps/Terminal
+[submodule "platform/packages/apps/Test/connectivity"]
+	branch = android10-gsi
+	path = packages/apps/Test/connectivity
+	url = ../packages/apps/Test/connectivity
+[submodule "platform/packages/apps/ThemePicker"]
+	branch = android10-gsi
+	path = packages/apps/ThemePicker
+	url = ../packages/apps/ThemePicker
+[submodule "platform/packages/apps/TimeZoneData"]
+	branch = android10-gsi
+	path = packages/apps/TimeZoneData
+	url = ../packages/apps/TimeZoneData
+[submodule "platform/packages/apps/TimeZoneUpdater"]
+	branch = android10-gsi
+	path = packages/apps/TimeZoneUpdater
+	url = ../packages/apps/TimeZoneUpdater
+[submodule "platform/packages/apps/Traceur"]
+	branch = android10-gsi
+	path = packages/apps/Traceur
+	url = ../packages/apps/Traceur
+[submodule "platform/packages/apps/TvSettings"]
+	branch = android10-gsi
+	path = packages/apps/TvSettings
+	url = ../packages/apps/TvSettings
+[submodule "platform/packages/apps/UnifiedEmail"]
+	branch = android10-gsi
+	path = packages/apps/UnifiedEmail
+	url = ../packages/apps/UnifiedEmail
+[submodule "platform/packages/apps/UniversalMediaPlayer"]
+	branch = android10-gsi
+	path = packages/apps/UniversalMediaPlayer
+	url = ../packages/apps/UniversalMediaPlayer
+[submodule "platform/packages/apps/WallpaperPicker"]
+	branch = android10-gsi
+	path = packages/apps/WallpaperPicker
+	url = ../packages/apps/WallpaperPicker
+[submodule "platform/packages/apps/WallpaperPicker2"]
+	branch = android10-gsi
+	path = packages/apps/WallpaperPicker2
+	url = ../packages/apps/WallpaperPicker2
+[submodule "platform/packages/inputmethods/LatinIME"]
+	branch = android10-gsi
+	path = packages/inputmethods/LatinIME
+	url = ../packages/inputmethods/LatinIME
+[submodule "platform/packages/modules/CaptivePortalLogin"]
+	branch = android10-gsi
+	path = packages/modules/CaptivePortalLogin
+	url = ../packages/modules/CaptivePortalLogin
+[submodule "platform/packages/modules/ExtServices"]
+	branch = android10-gsi
+	path = packages/modules/ExtServices
+	url = ../packages/modules/ExtServices
+[submodule "platform/packages/modules/ModuleMetadata"]
+	branch = android10-gsi
+	path = packages/modules/ModuleMetadata
+	url = ../packages/modules/ModuleMetadata
+[submodule "platform/packages/modules/NetworkPermissionConfig"]
+	branch = android10-gsi
+	path = packages/modules/NetworkPermissionConfig
+	url = ../packages/modules/NetworkPermissionConfig
+[submodule "platform/packages/modules/NetworkStack"]
+	branch = android10-gsi
+	path = packages/modules/NetworkStack
+	url = ../packages/modules/NetworkStack
+[submodule "platform/packages/modules/TestModule"]
+	branch = android10-gsi
+	path = packages/modules/TestModule
+	url = ../packages/modules/TestModule
+[submodule "platform/packages/providers/ApplicationsProvider"]
+	branch = android10-gsi
+	path = packages/providers/ApplicationsProvider
+	url = ../packages/providers/ApplicationsProvider
+[submodule "platform/packages/providers/BlockedNumberProvider"]
+	branch = android10-gsi
+	path = packages/providers/BlockedNumberProvider
+	url = ../packages/providers/BlockedNumberProvider
+[submodule "platform/packages/providers/BookmarkProvider"]
+	branch = android10-gsi
+	path = packages/providers/BookmarkProvider
+	url = ../packages/providers/BookmarkProvider
+[submodule "platform/packages/providers/CalendarProvider"]
+	branch = android10-gsi
+	path = packages/providers/CalendarProvider
+	url = ../packages/providers/CalendarProvider
+[submodule "platform/packages/providers/CallLogProvider"]
+	branch = android10-gsi
+	path = packages/providers/CallLogProvider
+	url = ../packages/providers/CallLogProvider
+[submodule "platform/packages/providers/ContactsProvider"]
+	branch = android10-gsi
+	path = packages/providers/ContactsProvider
+	url = ../packages/providers/ContactsProvider
+[submodule "platform/packages/providers/DownloadProvider"]
+	branch = android10-gsi
+	path = packages/providers/DownloadProvider
+	url = ../packages/providers/DownloadProvider
+[submodule "platform/packages/providers/MediaProvider"]
+	branch = android10-gsi
+	path = packages/providers/MediaProvider
+	url = ../packages/providers/MediaProvider
+[submodule "platform/packages/providers/PartnerBookmarksProvider"]
+	branch = android10-gsi
+	path = packages/providers/PartnerBookmarksProvider
+	url = ../packages/providers/PartnerBookmarksProvider
+[submodule "platform/packages/providers/TelephonyProvider"]
+	branch = android10-gsi
+	path = packages/providers/TelephonyProvider
+	url = ../packages/providers/TelephonyProvider
+[submodule "platform/packages/providers/TvProvider"]
+	branch = android10-gsi
+	path = packages/providers/TvProvider
+	url = ../packages/providers/TvProvider
+[submodule "platform/packages/providers/UserDictionaryProvider"]
+	branch = android10-gsi
+	path = packages/providers/UserDictionaryProvider
+	url = ../packages/providers/UserDictionaryProvider
+[submodule "platform/packages/screensavers/Basic"]
+	branch = android10-gsi
+	path = packages/screensavers/Basic
+	url = ../packages/screensavers/Basic
+[submodule "platform/packages/screensavers/PhotoTable"]
+	branch = android10-gsi
+	path = packages/screensavers/PhotoTable
+	url = ../packages/screensavers/PhotoTable
+[submodule "platform/packages/services/AlternativeNetworkAccess"]
+	branch = android10-gsi
+	path = packages/services/AlternativeNetworkAccess
+	url = ../packages/services/AlternativeNetworkAccess
+[submodule "platform/packages/services/BuiltInPrintService"]
+	branch = android10-gsi
+	path = packages/services/BuiltInPrintService
+	url = ../packages/services/BuiltInPrintService
+[submodule "platform/packages/services/Car"]
+	branch = android10-gsi
+	path = packages/services/Car
+	url = ../packages/services/Car
+[submodule "platform/packages/services/Mms"]
+	branch = android10-gsi
+	path = packages/services/Mms
+	url = ../packages/services/Mms
+[submodule "platform/packages/services/Telecomm"]
+	branch = android10-gsi
+	path = packages/services/Telecomm
+	url = ../packages/services/Telecomm
+[submodule "platform/packages/services/Telephony"]
+	branch = android10-gsi
+	path = packages/services/Telephony
+	url = ../packages/services/Telephony
+[submodule "platform/packages/wallpapers/LivePicker"]
+	branch = android10-gsi
+	path = packages/wallpapers/LivePicker
+	url = ../packages/wallpapers/LivePicker
+[submodule "platform/pdk"]
+	branch = android10-gsi
+	path = pdk
+	url = ../pdk
+[submodule "platform/platform_testing"]
+	branch = android10-gsi
+	path = platform_testing
+	url = ../platform_testing
+[submodule "platform/prebuilts/abi-dumps/ndk"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/abi-dumps/ndk
+	url = ../prebuilts/abi-dumps/ndk
+[submodule "platform/prebuilts/abi-dumps/vndk"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/abi-dumps/vndk
+	url = ../prebuilts/abi-dumps/vndk
+[submodule "platform/prebuilts/android-emulator"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/android-emulator
+	url = ../prebuilts/android-emulator
+[submodule "platform/prebuilts/asuite"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/asuite
+	url = ../prebuilts/asuite
+[submodule "platform/prebuilts/build-tools"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/build-tools
+	url = ../prebuilts/build-tools
+[submodule "platform/prebuilts/bundletool"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/bundletool
+	url = ../prebuilts/bundletool
+[submodule "platform/prebuilts/checkcolor"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/checkcolor
+	url = ../prebuilts/checkcolor
+[submodule "platform/prebuilts/checkstyle"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/checkstyle
+	url = ../prebuilts/checkstyle
+[submodule "platform/prebuilts/clang-tools"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/clang-tools
+	url = ../prebuilts/clang-tools
+[submodule "platform/prebuilts/clang/host/darwin-x86"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/clang/host/darwin-x86
+	url = ../prebuilts/clang/host/darwin-x86
+[submodule "platform/prebuilts/clang/host/linux-x86"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/clang/host/linux-x86
+	url = ../prebuilts/clang/host/linux-x86
+[submodule "platform/prebuilts/devtools"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/devtools
+	url = ../prebuilts/devtools
+[submodule "platform/prebuilts/fuchsia_sdk"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/fuchsia_sdk
+	url = ../prebuilts/fuchsia_sdk
+[submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+[submodule "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+[submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
+[submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
+[submodule "platform/prebuilts/gdb/darwin-x86"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gdb/darwin-x86
+	url = ../prebuilts/gdb/darwin-x86
+[submodule "platform/prebuilts/gdb/linux-x86"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gdb/linux-x86
+	url = ../prebuilts/gdb/linux-x86
+[submodule "platform/prebuilts/go/darwin-x86"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/go/darwin-x86
+	url = ../prebuilts/go/darwin-x86
+[submodule "platform/prebuilts/go/linux-x86"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/go/linux-x86
+	url = ../prebuilts/go/linux-x86
+[submodule "platform/prebuilts/gradle-plugin"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/gradle-plugin
+	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/jdk/jdk8"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/jdk/jdk8
+	url = ../prebuilts/jdk/jdk8
+[submodule "platform/prebuilts/jdk/jdk9"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/jdk/jdk9
+	url = ../prebuilts/jdk/jdk9
+[submodule "platform/prebuilts/ktlint"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/ktlint
+	url = ../prebuilts/ktlint
+[submodule "platform/prebuilts/manifest-merger"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/manifest-merger
+	url = ../prebuilts/manifest-merger
+[submodule "platform/prebuilts/maven_repo/android"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/maven_repo/android
+	url = ../prebuilts/maven_repo/android
+[submodule "platform/prebuilts/maven_repo/bumptech"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/maven_repo/bumptech
+	url = ../prebuilts/maven_repo/bumptech
+[submodule "platform/prebuilts/maven_repo/google-play-service-client-libraries-3p"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/maven_repo/google-play-service-client-libraries-3p
+	url = ../prebuilts/maven_repo/google-play-service-client-libraries-3p
+[submodule "platform/prebuilts/misc"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/misc
+	url = ../prebuilts/misc
+[submodule "platform/prebuilts/ndk"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/ndk
+	url = ../prebuilts/ndk
+[submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/python/darwin-x86/2.7.5
+	url = ../prebuilts/python/darwin-x86/2.7.5
+[submodule "platform/prebuilts/python/linux-x86/2.7.5"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/python/linux-x86/2.7.5
+	url = ../prebuilts/python/linux-x86/2.7.5
+[submodule "platform/prebuilts/qemu-kernel"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/qemu-kernel
+	url = ../prebuilts/qemu-kernel
+[submodule "platform/prebuilts/r8"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/r8
+	url = ../prebuilts/r8
+[submodule "platform/prebuilts/sdk"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/sdk
+	url = ../prebuilts/sdk
+[submodule "platform/prebuilts/tools"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/tools
+	url = ../prebuilts/tools
+[submodule "platform/prebuilts/vndk/v27"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/vndk/v27
+	url = ../prebuilts/vndk/v27
+[submodule "platform/prebuilts/vndk/v28"]
+	branch = android10-gsi
+	shallow = true
+	path = prebuilts/vndk/v28
+	url = ../prebuilts/vndk/v28
+[submodule "platform/sdk"]
+	branch = android10-gsi
+	path = sdk
+	url = ../sdk
+[submodule "platform/system/apex"]
+	branch = android10-gsi
+	path = system/apex
+	url = ../system/apex
+[submodule "platform/system/ashmemd"]
+	branch = android10-gsi
+	path = system/ashmemd
+	url = ../system/ashmemd
+[submodule "platform/system/bpf"]
+	branch = android10-gsi
+	path = system/bpf
+	url = ../system/bpf
+[submodule "platform/system/bpfprogs"]
+	branch = android10-gsi
+	path = system/bpfprogs
+	url = ../system/bpfprogs
+[submodule "platform/system/bt"]
+	branch = android10-gsi
+	path = system/bt
+	url = ../system/bt
+[submodule "platform/system/ca-certificates"]
+	branch = android10-gsi
+	path = system/ca-certificates
+	url = ../system/ca-certificates
+[submodule "platform/system/chre"]
+	branch = android10-gsi
+	path = system/chre
+	url = ../system/chre
+[submodule "platform/system/connectivity/wificond"]
+	branch = android10-gsi
+	path = system/connectivity/wificond
+	url = ../system/connectivity/wificond
+[submodule "platform/system/connectivity/wifilogd"]
+	branch = android10-gsi
+	path = system/connectivity/wifilogd
+	url = ../system/connectivity/wifilogd
+[submodule "platform/system/core"]
+	branch = android10-gsi
+	path = system/core
+	url = ../system/core
+[submodule "platform/system/extras"]
+	branch = android10-gsi
+	path = system/extras
+	url = ../system/extras
+[submodule "platform/system/gatekeeper"]
+	branch = android10-gsi
+	path = system/gatekeeper
+	url = ../system/gatekeeper
+[submodule "platform/system/gsid"]
+	branch = android10-gsi
+	path = system/gsid
+	url = ../system/gsid
+[submodule "platform/system/hardware/interfaces"]
+	branch = android10-gsi
+	path = system/hardware/interfaces
+	url = ../system/hardware/interfaces
+[submodule "platform/system/hwservicemanager"]
+	branch = android10-gsi
+	path = system/hwservicemanager
+	url = ../system/hwservicemanager
+[submodule "platform/system/iorap"]
+	branch = android10-gsi
+	path = system/iorap
+	url = ../system/iorap
+[submodule "platform/system/keymaster"]
+	branch = android10-gsi
+	path = system/keymaster
+	url = ../system/keymaster
+[submodule "platform/system/libfmq"]
+	branch = android10-gsi
+	path = system/libfmq
+	url = ../system/libfmq
+[submodule "platform/system/libhidl"]
+	branch = android10-gsi
+	path = system/libhidl
+	url = ../system/libhidl
+[submodule "platform/system/libhwbinder"]
+	branch = android10-gsi
+	path = system/libhwbinder
+	url = ../system/libhwbinder
+[submodule "platform/system/libsysprop"]
+	branch = android10-gsi
+	path = system/libsysprop
+	url = ../system/libsysprop
+[submodule "platform/system/libufdt"]
+	branch = android10-gsi
+	path = system/libufdt
+	url = ../system/libufdt
+[submodule "platform/system/libvintf"]
+	branch = android10-gsi
+	path = system/libvintf
+	url = ../system/libvintf
+[submodule "platform/system/linkerconfig"]
+	branch = android10-gsi
+	path = system/linkerconfig
+	url = ../system/linkerconfig
+[submodule "platform/system/media"]
+	branch = android10-gsi
+	path = system/media
+	url = ../system/media
+[submodule "platform/system/netd"]
+	branch = android10-gsi
+	path = system/netd
+	url = ../system/netd
+[submodule "platform/system/nfc"]
+	branch = android10-gsi
+	path = system/nfc
+	url = ../system/nfc
+[submodule "platform/system/nvram"]
+	branch = android10-gsi
+	path = system/nvram
+	url = ../system/nvram
+[submodule "platform/system/security"]
+	branch = android10-gsi
+	path = system/security
+	url = ../system/security
+[submodule "platform/system/sepolicy"]
+	branch = android10-gsi
+	path = system/sepolicy
+	url = ../system/sepolicy
+[submodule "platform/system/server_configurable_flags"]
+	branch = android10-gsi
+	path = system/server_configurable_flags
+	url = ../system/server_configurable_flags
+[submodule "platform/system/testing/gtest_extras"]
+	branch = android10-gsi
+	path = system/testing/gtest_extras
+	url = ../system/testing/gtest_extras
+[submodule "platform/system/timezone"]
+	branch = android10-gsi
+	path = system/timezone
+	url = ../system/timezone
+[submodule "platform/system/tools/aidl"]
+	branch = android10-gsi
+	path = system/tools/aidl
+	url = ../system/tools/aidl
+[submodule "platform/system/tools/hidl"]
+	branch = android10-gsi
+	path = system/tools/hidl
+	url = ../system/tools/hidl
+[submodule "platform/system/tools/sysprop"]
+	branch = android10-gsi
+	path = system/tools/sysprop
+	url = ../system/tools/sysprop
+[submodule "platform/system/tools/xsdc"]
+	branch = android10-gsi
+	path = system/tools/xsdc
+	url = ../system/tools/xsdc
+[submodule "platform/system/ucontainer"]
+	branch = android10-gsi
+	path = system/ucontainer
+	url = ../system/ucontainer
+[submodule "platform/system/update_engine"]
+	branch = android10-gsi
+	path = system/update_engine
+	url = ../system/update_engine
+[submodule "platform/system/vold"]
+	branch = android10-gsi
+	path = system/vold
+	url = ../system/vold
+[submodule "platform/test/framework"]
+	branch = android10-gsi
+	path = test/framework
+	url = ../test/framework
+[submodule "platform/test/mlts/benchmark"]
+	branch = android10-gsi
+	path = test/mlts/benchmark
+	url = ../test/mlts/benchmark
+[submodule "platform/test/mlts/models"]
+	branch = android10-gsi
+	path = test/mlts/models
+	url = ../test/mlts/models
+[submodule "platform/test/suite_harness"]
+	branch = android10-gsi
+	path = test/suite_harness
+	url = ../test/suite_harness
+[submodule "platform/test/vti/alert"]
+	branch = android10-gsi
+	path = test/vti/alert
+	url = ../test/vti/alert
+[submodule "platform/test/vti/dashboard"]
+	branch = android10-gsi
+	path = test/vti/dashboard
+	url = ../test/vti/dashboard
+[submodule "platform/test/vti/fuzz_test_serving"]
+	branch = android10-gsi
+	path = test/vti/fuzz_test_serving
+	url = ../test/vti/fuzz_test_serving
+[submodule "platform/test/vti/test_serving"]
+	branch = android10-gsi
+	path = test/vti/test_serving
+	url = ../test/vti/test_serving
+[submodule "platform/test/vts"]
+	branch = android10-gsi
+	path = test/vts
+	url = ../test/vts
+[submodule "platform/test/vts-testcase/fuzz"]
+	branch = android10-gsi
+	path = test/vts-testcase/fuzz
+	url = ../test/vts-testcase/fuzz
+[submodule "platform/test/vts-testcase/hal"]
+	branch = android10-gsi
+	path = test/vts-testcase/hal
+	url = ../test/vts-testcase/hal
+[submodule "platform/test/vts-testcase/hal-trace"]
+	branch = android10-gsi
+	path = test/vts-testcase/hal-trace
+	url = ../test/vts-testcase/hal-trace
+[submodule "platform/test/vts-testcase/kernel"]
+	branch = android10-gsi
+	path = test/vts-testcase/kernel
+	url = ../test/vts-testcase/kernel
+[submodule "platform/test/vts-testcase/nbu"]
+	branch = android10-gsi
+	path = test/vts-testcase/nbu
+	url = ../test/vts-testcase/nbu
+[submodule "platform/test/vts-testcase/performance"]
+	branch = android10-gsi
+	path = test/vts-testcase/performance
+	url = ../test/vts-testcase/performance
+[submodule "platform/test/vts-testcase/security"]
+	branch = android10-gsi
+	path = test/vts-testcase/security
+	url = ../test/vts-testcase/security
+[submodule "platform/test/vts-testcase/vndk"]
+	branch = android10-gsi
+	path = test/vts-testcase/vndk
+	url = ../test/vts-testcase/vndk
+[submodule "platform/tools/acloud"]
+	branch = android10-gsi
+	path = tools/acloud
+	url = ../tools/acloud
+[submodule "platform/tools/adt/idea"]
+	branch = android10-gsi
+	path = tools/adt/idea
+	url = ../tools/adt/idea
+[submodule "platform/tools/apksig"]
+	branch = android10-gsi
+	path = tools/apksig
+	url = ../tools/apksig
+[submodule "platform/tools/apkzlib"]
+	branch = android10-gsi
+	path = tools/apkzlib
+	url = ../tools/apkzlib
+[submodule "platform/tools/asuite"]
+	branch = android10-gsi
+	path = tools/asuite
+	url = ../tools/asuite
+[submodule "platform/tools/base"]
+	branch = android10-gsi
+	path = tools/base
+	url = ../tools/base
+[submodule "platform/tools/build"]
+	branch = android10-gsi
+	path = tools/build
+	url = ../tools/build
+[submodule "platform/tools/currysrc"]
+	branch = android10-gsi
+	path = tools/currysrc
+	url = ../tools/currysrc
+[submodule "platform/tools/dexter"]
+	branch = android10-gsi
+	path = tools/dexter
+	url = ../tools/dexter
+[submodule "platform/tools/external/fat32lib"]
+	branch = android10-gsi
+	path = tools/external/fat32lib
+	url = ../tools/external/fat32lib
+[submodule "platform/tools/external/gradle"]
+	branch = android10-gsi
+	shallow = true
+	path = tools/external/gradle
+	url = ../tools/external/gradle
+[submodule "platform/tools/external_updater"]
+	branch = android10-gsi
+	path = tools/external_updater
+	url = ../tools/external_updater
+[submodule "platform/tools/idea"]
+	branch = android10-gsi
+	path = tools/idea
+	url = ../tools/idea
+[submodule "platform/tools/loganalysis"]
+	branch = android10-gsi
+	path = tools/loganalysis
+	url = ../tools/loganalysis
+[submodule "platform/tools/metalava"]
+	branch = android10-gsi
+	path = tools/metalava
+	url = ../tools/metalava
+[submodule "platform/tools/motodev"]
+	branch = android10-gsi
+	path = tools/motodev
+	url = ../tools/motodev
+[submodule "platform/tools/ndkports"]
+	branch = android10-gsi
+	path = tools/ndkports
+	url = ../tools/ndkports
+[submodule "platform/tools/repohooks"]
+	branch = android10-gsi
+	path = tools/repohooks
+	url = ../tools/repohooks
+[submodule "platform/tools/security"]
+	branch = android10-gsi
+	path = tools/security
+	url = ../tools/security
+[submodule "platform/tools/studio/cloud"]
+	branch = android10-gsi
+	path = tools/studio/cloud
+	url = ../tools/studio/cloud
+[submodule "platform/tools/swt"]
+	branch = android10-gsi
+	path = tools/swt
+	url = ../tools/swt
+[submodule "platform/tools/test/connectivity"]
+	branch = android10-gsi
+	path = tools/test/connectivity
+	url = ../tools/test/connectivity
+[submodule "platform/tools/test/graphicsbenchmark"]
+	branch = android10-gsi
+	path = tools/test/graphicsbenchmark
+	url = ../tools/test/graphicsbenchmark
+[submodule "platform/tools/tradefederation"]
+	branch = android10-gsi
+	path = tools/tradefederation/core
+	url = ../tools/tradefederation
+[submodule "platform/tools/tradefederation/contrib"]
+	branch = android10-gsi
+	path = tools/tradefederation/contrib
+	url = ../tools/tradefederation/contrib
+[submodule "platform/tools/trebuchet"]
+	branch = android10-gsi
+	path = tools/trebuchet
+	url = ../tools/trebuchet
+[submodule "toolchain/benchmark"]
+	branch = android10-gsi
+	path = toolchain/benchmark
+	url = ../../toolchain/benchmark
+[submodule "toolchain/pgo-profiles"]
+	branch = android10-gsi
+	path = toolchain/pgo-profiles
+	url = ../../toolchain/pgo-profiles
