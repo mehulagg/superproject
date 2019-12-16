@@ -126,10 +126,6 @@
 	branch = master
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
-[submodule "device/google/cuttlefish_common"]
-	branch = master
-	path = device/google/cuttlefish_common
-	url = ../../device/google/cuttlefish_common
 [submodule "device/google/cuttlefish_kernel"]
 	branch = master
 	shallow = true
