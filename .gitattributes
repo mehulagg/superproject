@@ -29,7 +29,6 @@
 /device/google/crosshatch-kernel crosshatch generic_fs device
 /device/google/crosshatch-sepolicy crosshatch generic_fs device
 /device/google/cuttlefish pdk device
-/device/google/cuttlefish_common pdk device
 /device/google/cuttlefish_kernel pdk device
 /device/google/cuttlefish_vmm pdk device
 /device/google/fuchsia device
