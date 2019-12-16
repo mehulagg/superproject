@@ -22,7 +22,6 @@
 /device/google/atv broadcom_pdk generic_fs pdk device
 /device/google/contexthub pdk device marlin
 /device/google/cuttlefish device
-/device/google/cuttlefish_common device
 /device/google/cuttlefish_kernel device
 /device/google/cuttlefish_vmm device
 /device/google/marlin pdk device marlin
