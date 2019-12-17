@@ -1,2933 +1,2367 @@
 [submodule "device/amlogic/yukawa"]
-	branch = simpleperf-release
 	path = device/amlogic/yukawa
 	url = ../../device/amlogic/yukawa
 [submodule "device/amlogic/yukawa-kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/amlogic/yukawa-kernel
 	url = ../../device/amlogic/yukawa-kernel
 [submodule "device/common"]
-	branch = simpleperf-release
 	path = device/common
 	url = ../../device/common
 [submodule "device/generic/arm64"]
-	branch = simpleperf-release
 	path = device/generic/arm64
 	url = ../../device/generic/arm64
 [submodule "device/generic/armv7-a-neon"]
-	branch = simpleperf-release
 	path = device/generic/armv7-a-neon
 	url = ../../device/generic/armv7-a-neon
 [submodule "device/generic/car"]
-	branch = simpleperf-release
 	path = device/generic/car
 	url = ../../device/generic/car
 [submodule "device/generic/common"]
-	branch = simpleperf-release
 	path = device/generic/common
 	url = ../../device/generic/common
 [submodule "device/generic/goldfish"]
-	branch = simpleperf-release
 	path = device/generic/goldfish
 	url = ../../device/generic/goldfish
 [submodule "device/generic/goldfish-opengl"]
-	branch = simpleperf-release
 	path = device/generic/goldfish-opengl
 	url = ../../device/generic/goldfish-opengl
 [submodule "device/generic/mini-emulator-arm64"]
-	branch = simpleperf-release
 	path = device/generic/mini-emulator-arm64
 	url = ../../device/generic/mini-emulator-arm64
 [submodule "device/generic/mini-emulator-armv7-a-neon"]
-	branch = simpleperf-release
 	path = device/generic/mini-emulator-armv7-a-neon
 	url = ../../device/generic/mini-emulator-armv7-a-neon
 [submodule "device/generic/mini-emulator-x86"]
-	branch = simpleperf-release
 	path = device/generic/mini-emulator-x86
 	url = ../../device/generic/mini-emulator-x86
 [submodule "device/generic/mini-emulator-x86_64"]
-	branch = simpleperf-release
 	path = device/generic/mini-emulator-x86_64
 	url = ../../device/generic/mini-emulator-x86_64
 [submodule "device/generic/opengl-transport"]
-	branch = simpleperf-release
 	path = device/generic/opengl-transport
 	url = ../../device/generic/opengl-transport
 [submodule "device/generic/qemu"]
-	branch = simpleperf-release
 	path = device/generic/qemu
 	url = ../../device/generic/qemu
 [submodule "device/generic/trusty"]
-	branch = simpleperf-release
 	path = device/generic/trusty
 	url = ../../device/generic/trusty
 [submodule "device/generic/uml"]
-	branch = simpleperf-release
 	path = device/generic/uml
 	url = ../../device/generic/uml
 [submodule "device/generic/x86"]
-	branch = simpleperf-release
 	path = device/generic/x86
 	url = ../../device/generic/x86
 [submodule "device/generic/x86_64"]
-	branch = simpleperf-release
 	path = device/generic/x86_64
 	url = ../../device/generic/x86_64
 [submodule "device/google/atv"]
-	branch = simpleperf-release
 	path = device/google/atv
 	url = ../../device/google/atv
+[submodule "device/google/bonito"]
+	path = device/google/bonito
+	url = ../../device/google/bonito
+[submodule "device/google/bonito-kernel"]
+	path = device/google/bonito-kernel
+	url = ../../device/google/bonito-kernel
+[submodule "device/google/bonito-sepolicy"]
+	path = device/google/bonito-sepolicy
+	url = ../../device/google/bonito-sepolicy
 [submodule "device/google/contexthub"]
-	branch = simpleperf-release
 	path = device/google/contexthub
 	url = ../../device/google/contexthub
+[submodule "device/google/coral"]
+	path = device/google/coral
+	url = ../../device/google/coral
+[submodule "device/google/coral-kernel"]
+	path = device/google/coral-kernel
+	url = ../../device/google/coral-kernel
+[submodule "device/google/coral-sepolicy"]
+	path = device/google/coral-sepolicy
+	url = ../../device/google/coral-sepolicy
 [submodule "device/google/crosshatch"]
-	branch = simpleperf-release
 	path = device/google/crosshatch
 	url = ../../device/google/crosshatch
 [submodule "device/google/crosshatch-kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/google/crosshatch-kernel
 	url = ../../device/google/crosshatch-kernel
 [submodule "device/google/crosshatch-sepolicy"]
-	branch = simpleperf-release
 	path = device/google/crosshatch-sepolicy
 	url = ../../device/google/crosshatch-sepolicy
 [submodule "device/google/cuttlefish"]
-	branch = simpleperf-release
 	path = device/google/cuttlefish
 	url = ../../device/google/cuttlefish
-[submodule "device/google/cuttlefish_common"]
-	branch = simpleperf-release
-	path = device/google/cuttlefish_common
-	url = ../../device/google/cuttlefish_common
 [submodule "device/google/cuttlefish_kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/google/cuttlefish_kernel
 	url = ../../device/google/cuttlefish_kernel
 [submodule "device/google/cuttlefish_vmm"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/google/cuttlefish_vmm
 	url = ../../device/google/cuttlefish_vmm
 [submodule "device/google/fuchsia"]
-	branch = simpleperf-release
 	path = device/google/fuchsia
 	url = ../../device/google/fuchsia
-[submodule "device/google/marlin"]
-	branch = simpleperf-release
-	path = device/google/marlin
-	url = ../../device/google/marlin
-[submodule "device/google/marlin-kernel"]
-	branch = simpleperf-release
-	shallow = true
-	path = device/google/marlin-kernel
-	url = ../../device/google/marlin-kernel
 [submodule "device/google/muskie"]
-	branch = simpleperf-release
 	path = device/google/muskie
 	url = ../../device/google/muskie
 [submodule "device/google/taimen"]
-	branch = simpleperf-release
 	path = device/google/taimen
 	url = ../../device/google/taimen
 [submodule "device/google/vrservices"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/google/vrservices
 	url = ../../device/google/vrservices
 [submodule "device/google/wahoo"]
-	branch = simpleperf-release
 	path = device/google/wahoo
 	url = ../../device/google/wahoo
 [submodule "device/google/wahoo-kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/google/wahoo-kernel
 	url = ../../device/google/wahoo-kernel
+[submodule "device/google_car"]
+	path = device/google_car
+	url = ../../device/google_car
 [submodule "device/linaro/bootloader/OpenPlatformPkg"]
-	branch = simpleperf-release
 	path = device/linaro/bootloader/OpenPlatformPkg
 	url = ../../device/linaro/bootloader/OpenPlatformPkg
 [submodule "device/linaro/bootloader/arm-trusted-firmware"]
-	branch = simpleperf-release
 	path = device/linaro/bootloader/arm-trusted-firmware
 	url = ../../device/linaro/bootloader/arm-trusted-firmware
 [submodule "device/linaro/bootloader/edk2"]
-	branch = simpleperf-release
 	path = device/linaro/bootloader/edk2
 	url = ../../device/linaro/bootloader/edk2
+[submodule "device/linaro/dragonboard"]
+	path = device/linaro/dragonboard
+	url = ../../device/linaro/dragonboard
+[submodule "device/linaro/dragonboard-kernel"]
+	path = device/linaro/dragonboard-kernel
+	url = ../../device/linaro/dragonboard-kernel
 [submodule "device/linaro/hikey"]
-	branch = simpleperf-release
 	path = device/linaro/hikey
 	url = ../../device/linaro/hikey
 [submodule "device/linaro/hikey-kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/linaro/hikey-kernel
 	url = ../../device/linaro/hikey-kernel
 [submodule "device/linaro/poplar"]
-	branch = simpleperf-release
 	path = device/linaro/poplar
 	url = ../../device/linaro/poplar
 [submodule "device/linaro/poplar-kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/linaro/poplar-kernel
 	url = ../../device/linaro/poplar-kernel
 [submodule "device/sample"]
-	branch = simpleperf-release
 	path = device/sample
 	url = ../../device/sample
 [submodule "device/ti/beagle-x15"]
-	branch = simpleperf-release
 	path = device/ti/beagle_x15
 	url = ../../device/ti/beagle-x15
 [submodule "device/ti/beagle-x15-kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = device/ti/beagle_x15-kernel
 	url = ../../device/ti/beagle-x15-kernel
 [submodule "kernel/build"]
-	branch = simpleperf-release
 	path = kernel/build
 	url = ../../kernel/build
 [submodule "kernel/configs"]
-	branch = simpleperf-release
 	path = kernel/configs
 	url = ../../kernel/configs
 [submodule "kernel/tests"]
-	branch = simpleperf-release
 	path = kernel/tests
 	url = ../../kernel/tests
 [submodule "platform/art"]
-	branch = simpleperf-release
 	path = art
 	url = ../art
 [submodule "platform/bionic"]
-	branch = simpleperf-release
 	path = bionic
 	url = ../bionic
 [submodule "platform/bootable/recovery"]
-	branch = simpleperf-release
 	path = bootable/recovery
 	url = ../bootable/recovery
 [submodule "platform/build"]
-	branch = simpleperf-release
 	path = build/make
 	url = ../build
 [submodule "platform/build/blueprint"]
-	branch = simpleperf-release
 	path = build/blueprint
 	url = ../build/blueprint
-[submodule "platform/build/kati"]
-	branch = simpleperf-release
-	path = build/kati
-	url = ../build/kati
 [submodule "platform/build/soong"]
-	branch = simpleperf-release
 	path = build/soong
 	url = ../build/soong
 [submodule "platform/compatibility/cdd"]
-	branch = simpleperf-release
 	path = compatibility/cdd
 	url = ../compatibility/cdd
 [submodule "platform/cts"]
-	branch = simpleperf-release
 	path = cts
 	url = ../cts
 [submodule "platform/dalvik"]
-	branch = simpleperf-release
 	path = dalvik
 	url = ../dalvik
 [submodule "platform/developers/build"]
-	branch = simpleperf-release
 	path = developers/build
 	url = ../developers/build
 [submodule "platform/developers/demos"]
-	branch = simpleperf-release
 	path = developers/demos
 	url = ../developers/demos
 [submodule "platform/developers/samples/android"]
-	branch = simpleperf-release
 	path = developers/samples/android
 	url = ../developers/samples/android
 [submodule "platform/development"]
-	branch = simpleperf-release
 	path = development
 	url = ../development
 [submodule "platform/external/ARMComputeLibrary"]
-	branch = simpleperf-release
 	path = external/ARMComputeLibrary
 	url = ../external/ARMComputeLibrary
 [submodule "platform/external/ImageMagick"]
-	branch = simpleperf-release
 	path = external/ImageMagick
 	url = ../external/ImageMagick
-[submodule "platform/external/Microsoft-GSL"]
-	branch = simpleperf-release
-	path = external/Microsoft-GSL
-	url = ../external/Microsoft-GSL
+[submodule "platform/external/OpenCSD"]
+	path = external/OpenCSD
+	url = ../external/OpenCSD
 [submodule "platform/external/Reactive-Extensions/RxCpp"]
-	branch = simpleperf-release
 	path = external/Reactive-Extensions/RxCpp
 	url = ../external/Reactive-Extensions/RxCpp
 [submodule "platform/external/aac"]
-	branch = simpleperf-release
 	path = external/aac
 	url = ../external/aac
 [submodule "platform/external/adeb"]
-	branch = simpleperf-release
 	path = external/adeb
 	url = ../external/adeb
 [submodule "platform/external/adhd"]
-	branch = simpleperf-release
 	path = external/adhd
 	url = ../external/adhd
 [submodule "platform/external/adt-infra"]
-	branch = simpleperf-release
 	path = external/adt-infra
 	url = ../external/adt-infra
 [submodule "platform/external/android-clat"]
-	branch = simpleperf-release
 	path = external/android-clat
 	url = ../external/android-clat
 [submodule "platform/external/androidplot"]
-	branch = simpleperf-release
 	path = external/androidplot
 	url = ../external/androidplot
 [submodule "platform/external/ant-glob"]
-	branch = simpleperf-release
 	path = external/ant-glob
 	url = ../external/ant-glob
 [submodule "platform/external/antlr"]
-	branch = simpleperf-release
 	path = external/antlr
 	url = ../external/antlr
 [submodule "platform/external/apache-commons-bcel"]
-	branch = simpleperf-release
 	path = external/apache-commons-bcel
 	url = ../external/apache-commons-bcel
 [submodule "platform/external/apache-commons-compress"]
-	branch = simpleperf-release
 	path = external/apache-commons-compress
 	url = ../external/apache-commons-compress
 [submodule "platform/external/apache-commons-math"]
-	branch = simpleperf-release
 	path = external/apache-commons-math
 	url = ../external/apache-commons-math
 [submodule "platform/external/apache-harmony"]
-	branch = simpleperf-release
 	path = external/apache-harmony
 	url = ../external/apache-harmony
 [submodule "platform/external/apache-http"]
-	branch = simpleperf-release
 	path = external/apache-http
 	url = ../external/apache-http
 [submodule "platform/external/apache-xml"]
-	branch = simpleperf-release
 	path = external/apache-xml
 	url = ../external/apache-xml
 [submodule "platform/external/archive-patcher"]
-	branch = simpleperf-release
 	path = external/archive-patcher
 	url = ../external/archive-patcher
 [submodule "platform/external/arm-neon-tests"]
-	branch = simpleperf-release
 	path = external/arm-neon-tests
 	url = ../external/arm-neon-tests
 [submodule "platform/external/arm-optimized-routines"]
-	branch = simpleperf-release
 	path = external/arm-optimized-routines
 	url = ../external/arm-optimized-routines
+[submodule "platform/external/arm-trusted-firmware"]
+	path = external/arm-trusted-firmware
+	url = ../external/arm-trusted-firmware
 [submodule "platform/external/autotest"]
-	branch = simpleperf-release
 	path = external/autotest
 	url = ../external/autotest
 [submodule "platform/external/avb"]
-	branch = simpleperf-release
 	path = external/avb
 	url = ../external/avb
+[submodule "platform/external/bc"]
+	path = external/bc
+	url = ../external/bc
 [submodule "platform/external/bcc"]
-	branch = simpleperf-release
 	path = external/bcc
 	url = ../external/bcc
 [submodule "platform/external/blktrace"]
-	branch = simpleperf-release
 	path = external/blktrace
 	url = ../external/blktrace
 [submodule "platform/external/boringssl"]
-	branch = simpleperf-release
 	path = external/boringssl
 	url = ../external/boringssl
 [submodule "platform/external/bouncycastle"]
-	branch = simpleperf-release
 	path = external/bouncycastle
 	url = ../external/bouncycastle
 [submodule "platform/external/brotli"]
-	branch = simpleperf-release
 	path = external/brotli
 	url = ../external/brotli
 [submodule "platform/external/bsdiff"]
-	branch = simpleperf-release
 	path = external/bsdiff
 	url = ../external/bsdiff
 [submodule "platform/external/bzip2"]
-	branch = simpleperf-release
 	path = external/bzip2
 	url = ../external/bzip2
 [submodule "platform/external/caliper"]
-	branch = simpleperf-release
 	path = external/caliper
 	url = ../external/caliper
 [submodule "platform/external/capstone"]
-	branch = simpleperf-release
 	path = external/capstone
 	url = ../external/capstone
 [submodule "platform/external/catch2"]
-	branch = simpleperf-release
 	path = external/catch2
 	url = ../external/catch2
 [submodule "platform/external/cblas"]
-	branch = simpleperf-release
 	path = external/cblas
 	url = ../external/cblas
 [submodule "platform/external/chromium-libpac"]
-	branch = simpleperf-release
 	path = external/chromium-libpac
 	url = ../external/chromium-libpac
 [submodule "platform/external/chromium-trace"]
-	branch = simpleperf-release
 	path = external/chromium-trace
 	url = ../external/chromium-trace
 [submodule "platform/external/chromium-webview"]
-	branch = simpleperf-release
-	shallow = true
 	path = external/chromium-webview
 	url = ../external/chromium-webview
 [submodule "platform/external/clang"]
-	branch = simpleperf-release
 	path = external/clang
 	url = ../external/clang
 [submodule "platform/external/cldr"]
-	branch = simpleperf-release
 	path = external/cldr
 	url = ../external/cldr
 [submodule "platform/external/cmockery"]
-	branch = simpleperf-release
 	path = external/cmockery
 	url = ../external/cmockery
 [submodule "platform/external/cn-cbor"]
-	branch = simpleperf-release
 	path = external/cn-cbor
 	url = ../external/cn-cbor
 [submodule "platform/external/compiler-rt"]
-	branch = simpleperf-release
 	path = external/compiler-rt
 	url = ../external/compiler-rt
 [submodule "platform/external/conscrypt"]
-	branch = simpleperf-release
 	path = external/conscrypt
 	url = ../external/conscrypt
+[submodule "platform/external/cpu_features"]
+	path = external/cpu_features
+	url = ../external/cpu_features
 [submodule "platform/external/crcalc"]
-	branch = simpleperf-release
 	path = external/crcalc
 	url = ../external/crcalc
 [submodule "platform/external/cros/system_api"]
-	branch = simpleperf-release
 	path = external/cros/system_api
 	url = ../external/cros/system_api
+[submodule "platform/external/crosvm"]
+	path = external/crosvm
+	url = ../external/crosvm
 [submodule "platform/external/curl"]
-	branch = simpleperf-release
 	path = external/curl
 	url = ../external/curl
 [submodule "platform/external/dagger2"]
-	branch = simpleperf-release
 	path = external/dagger2
 	url = ../external/dagger2
 [submodule "platform/external/deqp"]
-	branch = simpleperf-release
 	path = external/deqp
 	url = ../external/deqp
+[submodule "platform/external/deqp-deps/SPIRV-Headers"]
+	path = external/deqp-deps/SPIRV-Headers
+	url = ../external/deqp-deps/SPIRV-Headers
+[submodule "platform/external/deqp-deps/SPIRV-Tools"]
+	path = external/deqp-deps/SPIRV-Tools
+	url = ../external/deqp-deps/SPIRV-Tools
+[submodule "platform/external/deqp-deps/glslang"]
+	path = external/deqp-deps/glslang
+	url = ../external/deqp-deps/glslang
 [submodule "platform/external/desugar"]
-	branch = simpleperf-release
 	path = external/desugar
 	url = ../external/desugar
 [submodule "platform/external/dexmaker"]
-	branch = simpleperf-release
 	path = external/dexmaker
 	url = ../external/dexmaker
 [submodule "platform/external/dlmalloc"]
-	branch = simpleperf-release
 	path = external/dlmalloc
 	url = ../external/dlmalloc
 [submodule "platform/external/dng_sdk"]
-	branch = simpleperf-release
 	path = external/dng_sdk
 	url = ../external/dng_sdk
 [submodule "platform/external/dnsmasq"]
-	branch = simpleperf-release
 	path = external/dnsmasq
 	url = ../external/dnsmasq
 [submodule "platform/external/doclava"]
-	branch = simpleperf-release
 	path = external/doclava
 	url = ../external/doclava
 [submodule "platform/external/dokka"]
-	branch = simpleperf-release
 	path = external/dokka
 	url = ../external/dokka
 [submodule "platform/external/drm_hwcomposer"]
-	branch = simpleperf-release
 	path = external/drm_hwcomposer
 	url = ../external/drm_hwcomposer
 [submodule "platform/external/droiddriver"]
-	branch = simpleperf-release
 	path = external/droiddriver
 	url = ../external/droiddriver
 [submodule "platform/external/drrickorang"]
-	branch = simpleperf-release
 	path = external/drrickorang
 	url = ../external/drrickorang
 [submodule "platform/external/dtc"]
-	branch = simpleperf-release
 	path = external/dtc
 	url = ../external/dtc
+[submodule "platform/external/dynamic_depth"]
+	path = external/dynamic_depth
+	url = ../external/dynamic_depth
 [submodule "platform/external/e2fsprogs"]
-	branch = simpleperf-release
 	path = external/e2fsprogs
 	url = ../external/e2fsprogs
 [submodule "platform/external/easymock"]
-	branch = simpleperf-release
 	path = external/easymock
 	url = ../external/easymock
 [submodule "platform/external/eigen"]
-	branch = simpleperf-release
 	path = external/eigen
 	url = ../external/eigen
 [submodule "platform/external/elfutils"]
-	branch = simpleperf-release
 	path = external/elfutils
 	url = ../external/elfutils
 [submodule "platform/external/emma"]
-	branch = simpleperf-release
 	path = external/emma
 	url = ../external/emma
 [submodule "platform/external/epid-sdk"]
-	branch = simpleperf-release
 	path = external/epid-sdk
 	url = ../external/epid-sdk
 [submodule "platform/external/error_prone"]
-	branch = simpleperf-release
 	path = external/error_prone
 	url = ../external/error_prone
+[submodule "platform/external/ethtool"]
+	path = external/ethtool
+	url = ../external/ethtool
 [submodule "platform/external/expat"]
-	branch = simpleperf-release
 	path = external/expat
 	url = ../external/expat
 [submodule "platform/external/f2fs-tools"]
-	branch = simpleperf-release
 	path = external/f2fs-tools
 	url = ../external/f2fs-tools
+[submodule "platform/external/fastrpc"]
+	path = external/fastrpc
+	url = ../external/fastrpc
 [submodule "platform/external/fdlibm"]
-	branch = simpleperf-release
 	path = external/fdlibm
 	url = ../external/fdlibm
 [submodule "platform/external/fec"]
-	branch = simpleperf-release
 	path = external/fec
 	url = ../external/fec
 [submodule "platform/external/flac"]
-	branch = simpleperf-release
 	path = external/flac
 	url = ../external/flac
 [submodule "platform/external/flatbuffers"]
-	branch = simpleperf-release
 	path = external/flatbuffers
 	url = ../external/flatbuffers
+[submodule "platform/external/fmtlib"]
+	path = external/fmtlib
+	url = ../external/fmtlib
 [submodule "platform/external/fonttools"]
-	branch = simpleperf-release
 	path = external/fonttools
 	url = ../external/fonttools
 [submodule "platform/external/freetype"]
-	branch = simpleperf-release
 	path = external/freetype
 	url = ../external/freetype
 [submodule "platform/external/fsck_msdos"]
-	branch = simpleperf-release
 	path = external/fsck_msdos
 	url = ../external/fsck_msdos
 [submodule "platform/external/fsverity-utils"]
-	branch = simpleperf-release
 	path = external/fsverity-utils
 	url = ../external/fsverity-utils
 [submodule "platform/external/gemmlowp"]
-	branch = simpleperf-release
 	path = external/gemmlowp
 	url = ../external/gemmlowp
 [submodule "platform/external/gflags"]
-	branch = simpleperf-release
 	path = external/gflags
 	url = ../external/gflags
 [submodule "platform/external/giflib"]
-	branch = simpleperf-release
 	path = external/giflib
 	url = ../external/giflib
 [submodule "platform/external/glide"]
-	branch = simpleperf-release
 	path = external/glide
 	url = ../external/glide
 [submodule "platform/external/golang-protobuf"]
-	branch = simpleperf-release
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
 [submodule "platform/external/google-benchmark"]
-	branch = simpleperf-release
 	path = external/google-benchmark
 	url = ../external/google-benchmark
 [submodule "platform/external/google-breakpad"]
-	branch = simpleperf-release
 	path = external/google-breakpad
 	url = ../external/google-breakpad
+[submodule "platform/external/google-fonts/arbutus-slab"]
+	path = external/google-fonts/arbutus-slab
+	url = ../external/google-fonts/arbutus-slab
+[submodule "platform/external/google-fonts/arvo"]
+	path = external/google-fonts/arvo
+	url = ../external/google-fonts/arvo
 [submodule "platform/external/google-fonts/carrois-gothic-sc"]
-	branch = simpleperf-release
 	path = external/google-fonts/carrois-gothic-sc
 	url = ../external/google-fonts/carrois-gothic-sc
 [submodule "platform/external/google-fonts/coming-soon"]
-	branch = simpleperf-release
 	path = external/google-fonts/coming-soon
 	url = ../external/google-fonts/coming-soon
 [submodule "platform/external/google-fonts/cutive-mono"]
-	branch = simpleperf-release
 	path = external/google-fonts/cutive-mono
 	url = ../external/google-fonts/cutive-mono
 [submodule "platform/external/google-fonts/dancing-script"]
-	branch = simpleperf-release
 	path = external/google-fonts/dancing-script
 	url = ../external/google-fonts/dancing-script
+[submodule "platform/external/google-fonts/lato"]
+	path = external/google-fonts/lato
+	url = ../external/google-fonts/lato
+[submodule "platform/external/google-fonts/rubik"]
+	path = external/google-fonts/rubik
+	url = ../external/google-fonts/rubik
+[submodule "platform/external/google-fonts/source-sans-pro"]
+	path = external/google-fonts/source-sans-pro
+	url = ../external/google-fonts/source-sans-pro
+[submodule "platform/external/google-fonts/zilla-slab"]
+	path = external/google-fonts/zilla-slab
+	url = ../external/google-fonts/zilla-slab
 [submodule "platform/external/google-fruit"]
-	branch = simpleperf-release
 	path = external/google-fruit
 	url = ../external/google-fruit
 [submodule "platform/external/google-styleguide"]
-	branch = simpleperf-release
 	path = external/google-styleguide
 	url = ../external/google-styleguide
 [submodule "platform/external/googletest"]
-	branch = simpleperf-release
 	path = external/googletest
 	url = ../external/googletest
 [submodule "platform/external/gptfdisk"]
-	branch = simpleperf-release
 	path = external/gptfdisk
 	url = ../external/gptfdisk
 [submodule "platform/external/grpc-grpc"]
-	branch = simpleperf-release
 	path = external/grpc-grpc
 	url = ../external/grpc-grpc
 [submodule "platform/external/grpc-grpc-java"]
-	branch = simpleperf-release
 	path = external/grpc-grpc-java
 	url = ../external/grpc-grpc-java
 [submodule "platform/external/guava"]
-	branch = simpleperf-release
 	path = external/guava
 	url = ../external/guava
 [submodule "platform/external/guice"]
-	branch = simpleperf-release
 	path = external/guice
 	url = ../external/guice
+[submodule "platform/external/gwp_asan"]
+	path = external/gwp_asan
+	url = ../external/gwp_asan
 [submodule "platform/external/hamcrest"]
-	branch = simpleperf-release
 	path = external/hamcrest
 	url = ../external/hamcrest
 [submodule "platform/external/harfbuzz_ng"]
-	branch = simpleperf-release
 	path = external/harfbuzz_ng
 	url = ../external/harfbuzz_ng
 [submodule "platform/external/honggfuzz"]
-	branch = simpleperf-release
 	path = external/honggfuzz
 	url = ../external/honggfuzz
 [submodule "platform/external/hyphenation-patterns"]
-	branch = simpleperf-release
 	path = external/hyphenation-patterns
 	url = ../external/hyphenation-patterns
 [submodule "platform/external/icu"]
-	branch = simpleperf-release
 	path = external/icu
 	url = ../external/icu
+[submodule "platform/external/igt-gpu-tools"]
+	path = external/igt-gpu-tools
+	url = ../external/igt-gpu-tools
+[submodule "platform/external/image_io"]
+	path = external/image_io
+	url = ../external/image_io
 [submodule "platform/external/ims"]
-	branch = simpleperf-release
 	path = external/ims
 	url = ../external/ims
+[submodule "platform/external/iperf3"]
+	path = external/iperf3
+	url = ../external/iperf3
 [submodule "platform/external/iproute2"]
-	branch = simpleperf-release
 	path = external/iproute2
 	url = ../external/iproute2
 [submodule "platform/external/ipsec-tools"]
-	branch = simpleperf-release
 	path = external/ipsec-tools
 	url = ../external/ipsec-tools
 [submodule "platform/external/iptables"]
-	branch = simpleperf-release
 	path = external/iptables
 	url = ../external/iptables
 [submodule "platform/external/iputils"]
-	branch = simpleperf-release
 	path = external/iputils
 	url = ../external/iputils
 [submodule "platform/external/iw"]
-	branch = simpleperf-release
 	path = external/iw
 	url = ../external/iw
 [submodule "platform/external/jacoco"]
-	branch = simpleperf-release
 	path = external/jacoco
 	url = ../external/jacoco
 [submodule "platform/external/jarjar"]
-	branch = simpleperf-release
 	path = external/jarjar
 	url = ../external/jarjar
 [submodule "platform/external/javaparser"]
-	branch = simpleperf-release
 	path = external/javaparser
 	url = ../external/javaparser
+[submodule "platform/external/javapoet"]
+	path = external/javapoet
+	url = ../external/javapoet
 [submodule "platform/external/javasqlite"]
-	branch = simpleperf-release
 	path = external/javasqlite
 	url = ../external/javasqlite
 [submodule "platform/external/jcommander"]
-	branch = simpleperf-release
 	path = external/jcommander
 	url = ../external/jcommander
 [submodule "platform/external/jdiff"]
-	branch = simpleperf-release
 	path = external/jdiff
 	url = ../external/jdiff
 [submodule "platform/external/jemalloc"]
-	branch = simpleperf-release
 	path = external/jemalloc
 	url = ../external/jemalloc
 [submodule "platform/external/jemalloc_new"]
-	branch = simpleperf-release
 	path = external/jemalloc_new
 	url = ../external/jemalloc_new
 [submodule "platform/external/jline"]
-	branch = simpleperf-release
 	path = external/jline
 	url = ../external/jline
 [submodule "platform/external/jsilver"]
-	branch = simpleperf-release
 	path = external/jsilver
 	url = ../external/jsilver
 [submodule "platform/external/jsmn"]
-	branch = simpleperf-release
 	path = external/jsmn
 	url = ../external/jsmn
 [submodule "platform/external/jsoncpp"]
-	branch = simpleperf-release
 	path = external/jsoncpp
 	url = ../external/jsoncpp
 [submodule "platform/external/jsr305"]
-	branch = simpleperf-release
 	path = external/jsr305
 	url = ../external/jsr305
 [submodule "platform/external/jsr330"]
-	branch = simpleperf-release
 	path = external/jsr330
 	url = ../external/jsr330
 [submodule "platform/external/junit"]
-	branch = simpleperf-release
 	path = external/junit
 	url = ../external/junit
 [submodule "platform/external/junit-params"]
-	branch = simpleperf-release
 	path = external/junit-params
 	url = ../external/junit-params
 [submodule "platform/external/kernel-headers"]
-	branch = simpleperf-release
 	path = external/kernel-headers
 	url = ../external/kernel-headers
 [submodule "platform/external/kmod"]
-	branch = simpleperf-release
 	path = external/kmod
 	url = ../external/kmod
 [submodule "platform/external/kotlinc"]
-	branch = simpleperf-release
 	path = external/kotlinc
 	url = ../external/kotlinc
+[submodule "platform/external/kotlinx.coroutines"]
+	path = external/kotlinx.coroutines
+	url = ../external/kotlinx.coroutines
 [submodule "platform/external/ksoap2"]
-	branch = simpleperf-release
 	path = external/ksoap2
 	url = ../external/ksoap2
+[submodule "platform/external/libaom"]
+	path = external/libaom
+	url = ../external/libaom
 [submodule "platform/external/libavc"]
-	branch = simpleperf-release
 	path = external/libavc
 	url = ../external/libavc
 [submodule "platform/external/libbackup"]
-	branch = simpleperf-release
 	path = external/libbackup
 	url = ../external/libbackup
 [submodule "platform/external/libbrillo"]
-	branch = simpleperf-release
 	path = external/libbrillo
 	url = ../external/libbrillo
 [submodule "platform/external/libcap"]
-	branch = simpleperf-release
 	path = external/libcap
 	url = ../external/libcap
 [submodule "platform/external/libcap-ng"]
-	branch = simpleperf-release
 	path = external/libcap-ng
 	url = ../external/libcap-ng
 [submodule "platform/external/libchrome"]
-	branch = simpleperf-release
 	path = external/libchrome
 	url = ../external/libchrome
 [submodule "platform/external/libcups"]
-	branch = simpleperf-release
 	path = external/libcups
 	url = ../external/libcups
 [submodule "platform/external/libcxx"]
-	branch = simpleperf-release
 	path = external/libcxx
 	url = ../external/libcxx
 [submodule "platform/external/libcxxabi"]
-	branch = simpleperf-release
 	path = external/libcxxabi
 	url = ../external/libcxxabi
 [submodule "platform/external/libdaemon"]
-	branch = simpleperf-release
 	path = external/libdaemon
 	url = ../external/libdaemon
 [submodule "platform/external/libdivsufsort"]
-	branch = simpleperf-release
 	path = external/libdivsufsort
 	url = ../external/libdivsufsort
 [submodule "platform/external/libdrm"]
-	branch = simpleperf-release
 	path = external/libdrm
 	url = ../external/libdrm
-[submodule "platform/external/libedit"]
-	branch = simpleperf-release
-	path = external/libedit
-	url = ../external/libedit
+[submodule "platform/external/libepoxy"]
+	path = external/libepoxy
+	url = ../external/libepoxy
 [submodule "platform/external/libese"]
-	branch = simpleperf-release
 	path = external/libese
 	url = ../external/libese
 [submodule "platform/external/libevent"]
-	branch = simpleperf-release
 	path = external/libevent
 	url = ../external/libevent
 [submodule "platform/external/libexif"]
-	branch = simpleperf-release
 	path = external/libexif
 	url = ../external/libexif
 [submodule "platform/external/libffi"]
-	branch = simpleperf-release
 	path = external/libffi
 	url = ../external/libffi
+[submodule "platform/external/libfuse"]
+	path = external/libfuse
+	url = ../external/libfuse
+[submodule "platform/external/libgav1"]
+	path = external/libgav1
+	url = ../external/libgav1
 [submodule "platform/external/libgsm"]
-	branch = simpleperf-release
 	path = external/libgsm
 	url = ../external/libgsm
 [submodule "platform/external/libhevc"]
-	branch = simpleperf-release
 	path = external/libhevc
 	url = ../external/libhevc
 [submodule "platform/external/libjpeg-turbo"]
-	branch = simpleperf-release
 	path = external/libjpeg-turbo
 	url = ../external/libjpeg-turbo
 [submodule "platform/external/libkmsxx"]
-	branch = simpleperf-release
 	path = external/libkmsxx
 	url = ../external/libkmsxx
 [submodule "platform/external/libldac"]
-	branch = simpleperf-release
 	path = external/libldac
 	url = ../external/libldac
 [submodule "platform/external/libmpeg2"]
-	branch = simpleperf-release
 	path = external/libmpeg2
 	url = ../external/libmpeg2
 [submodule "platform/external/libmtp"]
-	branch = simpleperf-release
 	path = external/libmtp
 	url = ../external/libmtp
 [submodule "platform/external/libnetfilter_conntrack"]
-	branch = simpleperf-release
 	path = external/libnetfilter_conntrack
 	url = ../external/libnetfilter_conntrack
 [submodule "platform/external/libnfnetlink"]
-	branch = simpleperf-release
 	path = external/libnfnetlink
 	url = ../external/libnfnetlink
 [submodule "platform/external/libnl"]
-	branch = simpleperf-release
 	path = external/libnl
 	url = ../external/libnl
 [submodule "platform/external/libogg"]
-	branch = simpleperf-release
 	path = external/libogg
 	url = ../external/libogg
 [submodule "platform/external/libopus"]
-	branch = simpleperf-release
 	path = external/libopus
 	url = ../external/libopus
 [submodule "platform/external/libpcap"]
-	branch = simpleperf-release
 	path = external/libpcap
 	url = ../external/libpcap
 [submodule "platform/external/libphonenumber"]
-	branch = simpleperf-release
 	path = external/libphonenumber
 	url = ../external/libphonenumber
 [submodule "platform/external/libpng"]
-	branch = simpleperf-release
 	path = external/libpng
 	url = ../external/libpng
 [submodule "platform/external/libprotobuf-mutator"]
-	branch = simpleperf-release
 	path = external/libprotobuf-mutator
 	url = ../external/libprotobuf-mutator
 [submodule "platform/external/libtextclassifier"]
-	branch = simpleperf-release
 	path = external/libtextclassifier
 	url = ../external/libtextclassifier
 [submodule "platform/external/libunwind"]
-	branch = simpleperf-release
 	path = external/libunwind
 	url = ../external/libunwind
 [submodule "platform/external/libunwind_llvm"]
-	branch = simpleperf-release
 	path = external/libunwind_llvm
 	url = ../external/libunwind_llvm
 [submodule "platform/external/libusb"]
-	branch = simpleperf-release
 	path = external/libusb
 	url = ../external/libusb
 [submodule "platform/external/libusb-compat"]
-	branch = simpleperf-release
 	path = external/libusb-compat
 	url = ../external/libusb-compat
 [submodule "platform/external/libutf"]
-	branch = simpleperf-release
 	path = external/libutf
 	url = ../external/libutf
 [submodule "platform/external/libvpx"]
-	branch = simpleperf-release
 	path = external/libvpx
 	url = ../external/libvpx
 [submodule "platform/external/libvterm"]
-	branch = simpleperf-release
 	path = external/libvterm
 	url = ../external/libvterm
 [submodule "platform/external/libxaac"]
-	branch = simpleperf-release
 	path = external/libxaac
 	url = ../external/libxaac
-[submodule "platform/external/libxcam"]
-	branch = simpleperf-release
-	path = external/libxcam
-	url = ../external/libxcam
 [submodule "platform/external/libxkbcommon"]
-	branch = simpleperf-release
 	path = external/libxkbcommon
 	url = ../external/libxkbcommon
 [submodule "platform/external/libxml2"]
-	branch = simpleperf-release
 	path = external/libxml2
 	url = ../external/libxml2
 [submodule "platform/external/libyuv"]
-	branch = simpleperf-release
 	path = external/libyuv
 	url = ../external/libyuv
 [submodule "platform/external/linux-kselftest"]
-	branch = simpleperf-release
 	path = external/linux-kselftest
 	url = ../external/linux-kselftest
 [submodule "platform/external/llvm"]
-	branch = simpleperf-release
 	path = external/llvm
 	url = ../external/llvm
 [submodule "platform/external/lmfit"]
-	branch = simpleperf-release
 	path = external/lmfit
 	url = ../external/lmfit
 [submodule "platform/external/ltp"]
-	branch = simpleperf-release
 	path = external/ltp
 	url = ../external/ltp
 [submodule "platform/external/lua"]
-	branch = simpleperf-release
 	path = external/lua
 	url = ../external/lua
 [submodule "platform/external/lz4"]
-	branch = simpleperf-release
 	path = external/lz4
 	url = ../external/lz4
 [submodule "platform/external/lzma"]
-	branch = simpleperf-release
 	path = external/lzma
 	url = ../external/lzma
 [submodule "platform/external/markdown"]
-	branch = simpleperf-release
 	path = external/markdown
 	url = ../external/markdown
 [submodule "platform/external/mdnsresponder"]
-	branch = simpleperf-release
 	path = external/mdnsresponder
 	url = ../external/mdnsresponder
 [submodule "platform/external/mesa3d"]
-	branch = simpleperf-release
 	path = external/mesa3d
 	url = ../external/mesa3d
+[submodule "platform/external/mime-support"]
+	path = external/mime-support
+	url = ../external/mime-support
 [submodule "platform/external/minigbm"]
-	branch = simpleperf-release
 	path = external/minigbm
 	url = ../external/minigbm
 [submodule "platform/external/minijail"]
-	branch = simpleperf-release
 	path = external/minijail
 	url = ../external/minijail
 [submodule "platform/external/mksh"]
-	branch = simpleperf-release
 	path = external/mksh
 	url = ../external/mksh
 [submodule "platform/external/mockftpserver"]
-	branch = simpleperf-release
 	path = external/mockftpserver
 	url = ../external/mockftpserver
 [submodule "platform/external/mockito"]
-	branch = simpleperf-release
 	path = external/mockito
 	url = ../external/mockito
 [submodule "platform/external/mockwebserver"]
-	branch = simpleperf-release
 	path = external/mockwebserver
 	url = ../external/mockwebserver
 [submodule "platform/external/modp_b64"]
-	branch = simpleperf-release
 	path = external/modp_b64
 	url = ../external/modp_b64
 [submodule "platform/external/mp4parser"]
-	branch = simpleperf-release
 	path = external/mp4parser
 	url = ../external/mp4parser
 [submodule "platform/external/mtpd"]
-	branch = simpleperf-release
 	path = external/mtpd
 	url = ../external/mtpd
 [submodule "platform/external/nanohttpd"]
-	branch = simpleperf-release
 	path = external/nanohttpd
 	url = ../external/nanohttpd
 [submodule "platform/external/nanopb-c"]
-	branch = simpleperf-release
 	path = external/nanopb-c
 	url = ../external/nanopb-c
 [submodule "platform/external/naver-fonts"]
-	branch = simpleperf-release
 	path = external/naver-fonts
 	url = ../external/naver-fonts
 [submodule "platform/external/neon_2_sse"]
-	branch = simpleperf-release
 	path = external/neon_2_sse
 	url = ../external/neon_2_sse
 [submodule "platform/external/neven"]
-	branch = simpleperf-release
 	path = external/neven
 	url = ../external/neven
 [submodule "platform/external/newfs_msdos"]
-	branch = simpleperf-release
 	path = external/newfs_msdos
 	url = ../external/newfs_msdos
 [submodule "platform/external/nfacct"]
-	branch = simpleperf-release
 	path = external/nfacct
 	url = ../external/nfacct
 [submodule "platform/external/nist-pkits"]
-	branch = simpleperf-release
 	path = external/nist-pkits
 	url = ../external/nist-pkits
 [submodule "platform/external/nist-sip"]
-	branch = simpleperf-release
 	path = external/nist-sip
 	url = ../external/nist-sip
-[submodule "platform/external/nos/host/android"]
-	branch = simpleperf-release
-	path = external/nos/host/android
-	url = ../external/nos/host/android
 [submodule "platform/external/nos/host/generic"]
-	branch = simpleperf-release
 	path = external/nos/host/generic
 	url = ../external/nos/host/generic
-[submodule "platform/external/nos/test/system-test-harness"]
-	branch = simpleperf-release
-	path = external/nos/test/system-test-harness
-	url = ../external/nos/test/system-test-harness
 [submodule "platform/external/noto-fonts"]
-	branch = simpleperf-release
 	path = external/noto-fonts
 	url = ../external/noto-fonts
 [submodule "platform/external/oauth"]
-	branch = simpleperf-release
 	path = external/oauth
 	url = ../external/oauth
 [submodule "platform/external/objenesis"]
-	branch = simpleperf-release
 	path = external/objenesis
 	url = ../external/objenesis
 [submodule "platform/external/oj-libjdwp"]
-	branch = simpleperf-release
 	path = external/oj-libjdwp
 	url = ../external/oj-libjdwp
 [submodule "platform/external/okhttp"]
-	branch = simpleperf-release
 	path = external/okhttp
 	url = ../external/okhttp
 [submodule "platform/external/one-true-awk"]
-	branch = simpleperf-release
 	path = external/one-true-awk
 	url = ../external/one-true-awk
 [submodule "platform/external/opencensus-java"]
-	branch = simpleperf-release
 	path = external/opencensus-java
 	url = ../external/opencensus-java
+[submodule "platform/external/oss-fuzz"]
+	path = external/oss-fuzz
+	url = ../external/oss-fuzz
 [submodule "platform/external/owasp/sanitizer"]
-	branch = simpleperf-release
 	path = external/owasp/sanitizer
 	url = ../external/owasp/sanitizer
 [submodule "platform/external/parameter-framework"]
-	branch = simpleperf-release
 	path = external/parameter-framework
 	url = ../external/parameter-framework
 [submodule "platform/external/pcre"]
-	branch = simpleperf-release
 	path = external/pcre
 	url = ../external/pcre
 [submodule "platform/external/pdfium"]
-	branch = simpleperf-release
 	path = external/pdfium
 	url = ../external/pdfium
-[submodule "platform/external/perf_data_converter"]
-	branch = simpleperf-release
-	path = external/perf_data_converter
-	url = ../external/perf_data_converter
 [submodule "platform/external/perfetto"]
-	branch = simpleperf-release
 	path = external/perfetto
 	url = ../external/perfetto
 [submodule "platform/external/piex"]
-	branch = simpleperf-release
 	path = external/piex
 	url = ../external/piex
 [submodule "platform/external/ply"]
-	branch = simpleperf-release
 	path = external/ply
 	url = ../external/ply
 [submodule "platform/external/ppp"]
-	branch = simpleperf-release
 	path = external/ppp
 	url = ../external/ppp
 [submodule "platform/external/proguard"]
-	branch = simpleperf-release
 	path = external/proguard
 	url = ../external/proguard
 [submodule "platform/external/protobuf"]
-	branch = simpleperf-release
 	path = external/protobuf
 	url = ../external/protobuf
 [submodule "platform/external/protobuf-javalite"]
-	branch = simpleperf-release
 	path = external/protobuf-javalite
 	url = ../external/protobuf-javalite
 [submodule "platform/external/puffin"]
-	branch = simpleperf-release
 	path = external/puffin
 	url = ../external/puffin
 [submodule "platform/external/python/Pillow"]
-	branch = simpleperf-release
 	path = external/python/Pillow
 	url = ../external/python/Pillow
 [submodule "platform/external/python/apitools"]
-	branch = simpleperf-release
 	path = external/python/apitools
 	url = ../external/python/apitools
 [submodule "platform/external/python/appdirs"]
-	branch = simpleperf-release
 	path = external/python/appdirs
 	url = ../external/python/appdirs
 [submodule "platform/external/python/asn1crypto"]
-	branch = simpleperf-release
 	path = external/python/asn1crypto
 	url = ../external/python/asn1crypto
 [submodule "platform/external/python/atomicwrites"]
-	branch = simpleperf-release
 	path = external/python/atomicwrites
 	url = ../external/python/atomicwrites
 [submodule "platform/external/python/attrs"]
-	branch = simpleperf-release
 	path = external/python/attrs
 	url = ../external/python/attrs
 [submodule "platform/external/python/cachetools"]
-	branch = simpleperf-release
 	path = external/python/cachetools
 	url = ../external/python/cachetools
 [submodule "platform/external/python/cffi"]
-	branch = simpleperf-release
 	path = external/python/cffi
 	url = ../external/python/cffi
 [submodule "platform/external/python/cpython2"]
-	branch = simpleperf-release
 	path = external/python/cpython2
 	url = ../external/python/cpython2
 [submodule "platform/external/python/cpython3"]
-	branch = simpleperf-release
 	path = external/python/cpython3
 	url = ../external/python/cpython3
 [submodule "platform/external/python/cryptography"]
-	branch = simpleperf-release
 	path = external/python/cryptography
 	url = ../external/python/cryptography
 [submodule "platform/external/python/dateutil"]
-	branch = simpleperf-release
 	path = external/python/dateutil
 	url = ../external/python/dateutil
 [submodule "platform/external/python/dill"]
-	branch = simpleperf-release
 	path = external/python/dill
 	url = ../external/python/dill
 [submodule "platform/external/python/enum"]
-	branch = simpleperf-release
 	path = external/python/enum
 	url = ../external/python/enum
 [submodule "platform/external/python/enum34"]
-	branch = simpleperf-release
 	path = external/python/enum34
 	url = ../external/python/enum34
 [submodule "platform/external/python/funcsigs"]
-	branch = simpleperf-release
 	path = external/python/funcsigs
 	url = ../external/python/funcsigs
 [submodule "platform/external/python/future"]
-	branch = simpleperf-release
 	path = external/python/future
 	url = ../external/python/future
 [submodule "platform/external/python/futures"]
-	branch = simpleperf-release
 	path = external/python/futures
 	url = ../external/python/futures
 [submodule "platform/external/python/gapic-google-cloud-pubsub-v1"]
-	branch = simpleperf-release
 	path = external/python/gapic-google-cloud-pubsub-v1
 	url = ../external/python/gapic-google-cloud-pubsub-v1
 [submodule "platform/external/python/google-api-python-client"]
-	branch = simpleperf-release
 	path = external/python/google-api-python-client
 	url = ../external/python/google-api-python-client
 [submodule "platform/external/python/google-auth"]
-	branch = simpleperf-release
 	path = external/python/google-auth
 	url = ../external/python/google-auth
 [submodule "platform/external/python/google-auth-httplib2"]
-	branch = simpleperf-release
 	path = external/python/google-auth-httplib2
 	url = ../external/python/google-auth-httplib2
 [submodule "platform/external/python/google-cloud-core"]
-	branch = simpleperf-release
 	path = external/python/google-cloud-core
 	url = ../external/python/google-cloud-core
 [submodule "platform/external/python/google-cloud-pubsub"]
-	branch = simpleperf-release
 	path = external/python/google-cloud-pubsub
 	url = ../external/python/google-cloud-pubsub
 [submodule "platform/external/python/google-gax"]
-	branch = simpleperf-release
 	path = external/python/google-gax
 	url = ../external/python/google-gax
 [submodule "platform/external/python/googleapis"]
-	branch = simpleperf-release
 	path = external/python/googleapis
 	url = ../external/python/googleapis
 [submodule "platform/external/python/grpc-google-iam-v1"]
-	branch = simpleperf-release
 	path = external/python/grpc-google-iam-v1
 	url = ../external/python/grpc-google-iam-v1
 [submodule "platform/external/python/grpcio"]
-	branch = simpleperf-release
 	path = external/python/grpcio
 	url = ../external/python/grpcio
 [submodule "platform/external/python/httplib2"]
-	branch = simpleperf-release
 	path = external/python/httplib2
 	url = ../external/python/httplib2
+[submodule "platform/external/python/ipaddress"]
+	path = external/python/ipaddress
+	url = ../external/python/ipaddress
 [submodule "platform/external/python/matplotlib"]
-	branch = simpleperf-release
 	path = external/python/matplotlib
 	url = ../external/python/matplotlib
 [submodule "platform/external/python/mock"]
-	branch = simpleperf-release
 	path = external/python/mock
 	url = ../external/python/mock
 [submodule "platform/external/python/more-itertools"]
-	branch = simpleperf-release
 	path = external/python/more-itertools
 	url = ../external/python/more-itertools
 [submodule "platform/external/python/numpy"]
-	branch = simpleperf-release
 	path = external/python/numpy
 	url = ../external/python/numpy
 [submodule "platform/external/python/oauth2client"]
-	branch = simpleperf-release
 	path = external/python/oauth2client
 	url = ../external/python/oauth2client
 [submodule "platform/external/python/olefile"]
-	branch = simpleperf-release
 	path = external/python/olefile
 	url = ../external/python/olefile
 [submodule "platform/external/python/packaging"]
-	branch = simpleperf-release
 	path = external/python/packaging
 	url = ../external/python/packaging
 [submodule "platform/external/python/parse"]
-	branch = simpleperf-release
 	path = external/python/parse
 	url = ../external/python/parse
 [submodule "platform/external/python/pluggy"]
-	branch = simpleperf-release
 	path = external/python/pluggy
 	url = ../external/python/pluggy
 [submodule "platform/external/python/ply"]
-	branch = simpleperf-release
 	path = external/python/ply
 	url = ../external/python/ply
 [submodule "platform/external/python/proto-google-cloud-pubsub-v1"]
-	branch = simpleperf-release
 	path = external/python/proto-google-cloud-pubsub-v1
 	url = ../external/python/proto-google-cloud-pubsub-v1
 [submodule "platform/external/python/protobuf"]
-	branch = simpleperf-release
 	path = external/python/protobuf
 	url = ../external/python/protobuf
 [submodule "platform/external/python/py"]
-	branch = simpleperf-release
 	path = external/python/py
 	url = ../external/python/py
 [submodule "platform/external/python/pyasn1"]
-	branch = simpleperf-release
 	path = external/python/pyasn1
 	url = ../external/python/pyasn1
 [submodule "platform/external/python/pyasn1-modules"]
-	branch = simpleperf-release
 	path = external/python/pyasn1-modules
 	url = ../external/python/pyasn1-modules
+[submodule "platform/external/python/pybind11"]
+	path = external/python/pybind11
+	url = ../external/python/pybind11
 [submodule "platform/external/python/pycparser"]
-	branch = simpleperf-release
 	path = external/python/pycparser
 	url = ../external/python/pycparser
 [submodule "platform/external/python/pyopenssl"]
-	branch = simpleperf-release
 	path = external/python/pyopenssl
 	url = ../external/python/pyopenssl
 [submodule "platform/external/python/pyparsing"]
-	branch = simpleperf-release
 	path = external/python/pyparsing
 	url = ../external/python/pyparsing
 [submodule "platform/external/python/pytest"]
-	branch = simpleperf-release
 	path = external/python/pytest
 	url = ../external/python/pytest
 [submodule "platform/external/python/requests"]
-	branch = simpleperf-release
 	path = external/python/requests
 	url = ../external/python/requests
 [submodule "platform/external/python/rsa"]
-	branch = simpleperf-release
 	path = external/python/rsa
 	url = ../external/python/rsa
 [submodule "platform/external/python/scipy"]
-	branch = simpleperf-release
 	path = external/python/scipy
 	url = ../external/python/scipy
 [submodule "platform/external/python/setuptools"]
-	branch = simpleperf-release
 	path = external/python/setuptools
 	url = ../external/python/setuptools
 [submodule "platform/external/python/six"]
-	branch = simpleperf-release
 	path = external/python/six
 	url = ../external/python/six
 [submodule "platform/external/python/uritemplates"]
-	branch = simpleperf-release
 	path = external/python/uritemplates
 	url = ../external/python/uritemplates
-[submodule "platform/external/rapidjson"]
-	branch = simpleperf-release
-	path = external/rapidjson
-	url = ../external/rapidjson
 [submodule "platform/external/rappor"]
-	branch = simpleperf-release
 	path = external/rappor
 	url = ../external/rappor
 [submodule "platform/external/replicaisland"]
-	branch = simpleperf-release
 	path = external/replicaisland
 	url = ../external/replicaisland
 [submodule "platform/external/rmi4utils"]
-	branch = simpleperf-release
 	path = external/rmi4utils
 	url = ../external/rmi4utils
-[submodule "platform/external/robolectric"]
-	branch = simpleperf-release
-	path = external/robolectric
-	url = ../external/robolectric
 [submodule "platform/external/robolectric-shadows"]
-	branch = simpleperf-release
 	path = external/robolectric-shadows
 	url = ../external/robolectric-shadows
 [submodule "platform/external/roboto-fonts"]
-	branch = simpleperf-release
 	path = external/roboto-fonts
 	url = ../external/roboto-fonts
 [submodule "platform/external/rootdev"]
-	branch = simpleperf-release
 	path = external/rootdev
 	url = ../external/rootdev
+[submodule "platform/external/rust/crates/byteorder"]
+	path = external/rust/crates/byteorder
+	url = ../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/libc"]
+	path = external/rust/crates/libc
+	url = ../external/rust/crates/libc
+[submodule "platform/external/rust/crates/proc-macro2"]
+	path = external/rust/crates/proc-macro2
+	url = ../external/rust/crates/proc-macro2
+[submodule "platform/external/rust/crates/quote"]
+	path = external/rust/crates/quote
+	url = ../external/rust/crates/quote
+[submodule "platform/external/rust/crates/remain"]
+	path = external/rust/crates/remain
+	url = ../external/rust/crates/remain
+[submodule "platform/external/rust/crates/syn"]
+	path = external/rust/crates/syn
+	url = ../external/rust/crates/syn
+[submodule "platform/external/rust/crates/unicode-xid"]
+	path = external/rust/crates/unicode-xid
+	url = ../external/rust/crates/unicode-xid
 [submodule "platform/external/scapy"]
-	branch = simpleperf-release
 	path = external/scapy
 	url = ../external/scapy
 [submodule "platform/external/scrypt"]
-	branch = simpleperf-release
 	path = external/scrypt
 	url = ../external/scrypt
+[submodule "platform/external/scudo"]
+	path = external/scudo
+	url = ../external/scudo
 [submodule "platform/external/seccomp-tests"]
-	branch = simpleperf-release
 	path = external/seccomp-tests
 	url = ../external/seccomp-tests
 [submodule "platform/external/selinux"]
-	branch = simpleperf-release
 	path = external/selinux
 	url = ../external/selinux
+[submodule "platform/external/setupcompat"]
+	path = external/setupcompat
+	url = ../external/setupcompat
+[submodule "platform/external/setupdesign"]
+	path = external/setupdesign
+	url = ../external/setupdesign
 [submodule "platform/external/sfntly"]
-	branch = simpleperf-release
 	path = external/sfntly
 	url = ../external/sfntly
 [submodule "platform/external/shaderc/spirv-headers"]
-	branch = simpleperf-release
 	path = external/shaderc/spirv-headers
 	url = ../external/shaderc/spirv-headers
 [submodule "platform/external/shflags"]
-	branch = simpleperf-release
 	path = external/shflags
 	url = ../external/shflags
 [submodule "platform/external/skia"]
-	branch = simpleperf-release
 	path = external/skia
 	url = ../external/skia
 [submodule "platform/external/skqp"]
-	branch = simpleperf-release
-	shallow = true
 	path = external/skqp
 	url = ../external/skqp
 [submodule "platform/external/sl4a"]
-	branch = simpleperf-release
 	path = external/sl4a
 	url = ../external/sl4a
 [submodule "platform/external/slf4j"]
-	branch = simpleperf-release
 	path = external/slf4j
 	url = ../external/slf4j
 [submodule "platform/external/smali"]
-	branch = simpleperf-release
 	path = external/smali
 	url = ../external/smali
 [submodule "platform/external/snakeyaml"]
-	branch = simpleperf-release
 	path = external/snakeyaml
 	url = ../external/snakeyaml
 [submodule "platform/external/sonic"]
-	branch = simpleperf-release
 	path = external/sonic
 	url = ../external/sonic
 [submodule "platform/external/sonivox"]
-	branch = simpleperf-release
 	path = external/sonivox
 	url = ../external/sonivox
 [submodule "platform/external/speex"]
-	branch = simpleperf-release
 	path = external/speex
 	url = ../external/speex
-[submodule "platform/external/spirv-llvm"]
-	branch = simpleperf-release
-	path = external/spirv-llvm
-	url = ../external/spirv-llvm
 [submodule "platform/external/sqlite"]
-	branch = simpleperf-release
 	path = external/sqlite
 	url = ../external/sqlite
 [submodule "platform/external/squashfs-tools"]
-	branch = simpleperf-release
 	path = external/squashfs-tools
 	url = ../external/squashfs-tools
 [submodule "platform/external/strace"]
-	branch = simpleperf-release
 	path = external/strace
 	url = ../external/strace
 [submodule "platform/external/stressapptest"]
-	branch = simpleperf-release
 	path = external/stressapptest
 	url = ../external/stressapptest
+[submodule "platform/external/subsampling-scale-image-view"]
+	path = external/subsampling-scale-image-view
+	url = ../external/subsampling-scale-image-view
 [submodule "platform/external/swiftshader"]
-	branch = simpleperf-release
 	path = external/swiftshader
 	url = ../external/swiftshader
-[submodule "platform/external/syzkaller"]
-	branch = simpleperf-release
-	path = external/syzkaller
-	url = ../external/syzkaller
 [submodule "platform/external/tagsoup"]
-	branch = simpleperf-release
 	path = external/tagsoup
 	url = ../external/tagsoup
 [submodule "platform/external/tcpdump"]
-	branch = simpleperf-release
 	path = external/tcpdump
 	url = ../external/tcpdump
 [submodule "platform/external/tensorflow"]
-	branch = simpleperf-release
 	path = external/tensorflow
 	url = ../external/tensorflow
 [submodule "platform/external/testng"]
-	branch = simpleperf-release
 	path = external/testng
 	url = ../external/testng
 [submodule "platform/external/tinyalsa"]
-	branch = simpleperf-release
 	path = external/tinyalsa
 	url = ../external/tinyalsa
 [submodule "platform/external/tinycompress"]
-	branch = simpleperf-release
 	path = external/tinycompress
 	url = ../external/tinycompress
 [submodule "platform/external/tinyxml"]
-	branch = simpleperf-release
 	path = external/tinyxml
 	url = ../external/tinyxml
 [submodule "platform/external/tinyxml2"]
-	branch = simpleperf-release
 	path = external/tinyxml2
 	url = ../external/tinyxml2
 [submodule "platform/external/toolchain-utils"]
-	branch = simpleperf-release
 	path = external/toolchain-utils
 	url = ../external/toolchain-utils
 [submodule "platform/external/toybox"]
-	branch = simpleperf-release
 	path = external/toybox
 	url = ../external/toybox
 [submodule "platform/external/tremolo"]
-	branch = simpleperf-release
 	path = external/tremolo
 	url = ../external/tremolo
 [submodule "platform/external/turbine"]
-	branch = simpleperf-release
 	path = external/turbine
 	url = ../external/turbine
 [submodule "platform/external/u-boot"]
-	branch = simpleperf-release
 	path = external/u-boot
 	url = ../external/u-boot
 [submodule "platform/external/ukey2"]
-	branch = simpleperf-release
 	path = external/ukey2
 	url = ../external/ukey2
 [submodule "platform/external/unicode"]
-	branch = simpleperf-release
 	path = external/unicode
 	url = ../external/unicode
 [submodule "platform/external/universal-tween-engine"]
-	branch = simpleperf-release
 	path = external/universal-tween-engine
 	url = ../external/universal-tween-engine
 [submodule "platform/external/v4l2_codec2"]
-	branch = simpleperf-release
 	path = external/v4l2_codec2
 	url = ../external/v4l2_codec2
 [submodule "platform/external/v8"]
-	branch = simpleperf-release
 	path = external/v8
 	url = ../external/v8
 [submodule "platform/external/vboot_reference"]
-	branch = simpleperf-release
 	path = external/vboot_reference
 	url = ../external/vboot_reference
 [submodule "platform/external/virglrenderer"]
-	branch = simpleperf-release
 	path = external/virglrenderer
 	url = ../external/virglrenderer
 [submodule "platform/external/vixl"]
-	branch = simpleperf-release
 	path = external/vixl
 	url = ../external/vixl
 [submodule "platform/external/vogar"]
-	branch = simpleperf-release
 	path = external/vogar
 	url = ../external/vogar
 [submodule "platform/external/volley"]
-	branch = simpleperf-release
 	path = external/volley
 	url = ../external/volley
 [submodule "platform/external/vulkan-headers"]
-	branch = simpleperf-release
 	path = external/vulkan-headers
 	url = ../external/vulkan-headers
 [submodule "platform/external/vulkan-validation-layers"]
-	branch = simpleperf-release
 	path = external/vulkan-validation-layers
 	url = ../external/vulkan-validation-layers
 [submodule "platform/external/walt"]
-	branch = simpleperf-release
 	path = external/walt
 	url = ../external/walt
 [submodule "platform/external/wayland"]
-	branch = simpleperf-release
 	path = external/wayland
 	url = ../external/wayland
 [submodule "platform/external/wayland-protocols"]
-	branch = simpleperf-release
 	path = external/wayland-protocols
 	url = ../external/wayland-protocols
 [submodule "platform/external/webp"]
-	branch = simpleperf-release
 	path = external/webp
 	url = ../external/webp
 [submodule "platform/external/webrtc"]
-	branch = simpleperf-release
 	path = external/webrtc
 	url = ../external/webrtc
 [submodule "platform/external/wpa_supplicant_8"]
-	branch = simpleperf-release
 	path = external/wpa_supplicant_8
 	url = ../external/wpa_supplicant_8
 [submodule "platform/external/wycheproof"]
-	branch = simpleperf-release
 	path = external/wycheproof
 	url = ../external/wycheproof
 [submodule "platform/external/xmp_toolkit"]
-	branch = simpleperf-release
 	path = external/xmp_toolkit
 	url = ../external/xmp_toolkit
 [submodule "platform/external/xz-embedded"]
-	branch = simpleperf-release
 	path = external/xz-embedded
 	url = ../external/xz-embedded
 [submodule "platform/external/xz-java"]
-	branch = simpleperf-release
 	path = external/xz-java
 	url = ../external/xz-java
 [submodule "platform/external/yapf"]
-	branch = simpleperf-release
 	path = external/yapf
 	url = ../external/yapf
 [submodule "platform/external/zlib"]
-	branch = simpleperf-release
 	path = external/zlib
 	url = ../external/zlib
 [submodule "platform/external/zopfli"]
-	branch = simpleperf-release
 	path = external/zopfli
 	url = ../external/zopfli
 [submodule "platform/external/zxing"]
-	branch = simpleperf-release
 	path = external/zxing
 	url = ../external/zxing
 [submodule "platform/frameworks/av"]
-	branch = simpleperf-release
 	path = frameworks/av
 	url = ../frameworks/av
 [submodule "platform/frameworks/base"]
-	branch = simpleperf-release
 	path = frameworks/base
 	url = ../frameworks/base
 [submodule "platform/frameworks/compile/libbcc"]
-	branch = simpleperf-release
 	path = frameworks/compile/libbcc
 	url = ../frameworks/compile/libbcc
 [submodule "platform/frameworks/compile/mclinker"]
-	branch = simpleperf-release
 	path = frameworks/compile/mclinker
 	url = ../frameworks/compile/mclinker
 [submodule "platform/frameworks/compile/slang"]
-	branch = simpleperf-release
 	path = frameworks/compile/slang
 	url = ../frameworks/compile/slang
 [submodule "platform/frameworks/ex"]
-	branch = simpleperf-release
 	path = frameworks/ex
 	url = ../frameworks/ex
 [submodule "platform/frameworks/hardware/interfaces"]
-	branch = simpleperf-release
 	path = frameworks/hardware/interfaces
 	url = ../frameworks/hardware/interfaces
 [submodule "platform/frameworks/layoutlib"]
-	branch = simpleperf-release
 	path = frameworks/layoutlib
 	url = ../frameworks/layoutlib
+[submodule "platform/frameworks/libs/net"]
+	path = frameworks/libs/net
+	url = ../frameworks/libs/net
 [submodule "platform/frameworks/minikin"]
-	branch = simpleperf-release
 	path = frameworks/minikin
 	url = ../frameworks/minikin
 [submodule "platform/frameworks/ml"]
-	branch = simpleperf-release
 	path = frameworks/ml
 	url = ../frameworks/ml
 [submodule "platform/frameworks/multidex"]
-	branch = simpleperf-release
 	path = frameworks/multidex
 	url = ../frameworks/multidex
 [submodule "platform/frameworks/native"]
-	branch = simpleperf-release
 	path = frameworks/native
 	url = ../frameworks/native
 [submodule "platform/frameworks/opt/bitmap"]
-	branch = simpleperf-release
 	path = frameworks/opt/bitmap
 	url = ../frameworks/opt/bitmap
 [submodule "platform/frameworks/opt/calendar"]
-	branch = simpleperf-release
 	path = frameworks/opt/calendar
 	url = ../frameworks/opt/calendar
 [submodule "platform/frameworks/opt/car/services"]
-	branch = simpleperf-release
 	path = frameworks/opt/car/services
 	url = ../frameworks/opt/car/services
 [submodule "platform/frameworks/opt/car/setupwizard"]
-	branch = simpleperf-release
 	path = frameworks/opt/car/setupwizard
 	url = ../frameworks/opt/car/setupwizard
 [submodule "platform/frameworks/opt/chips"]
-	branch = simpleperf-release
 	path = frameworks/opt/chips
 	url = ../frameworks/opt/chips
 [submodule "platform/frameworks/opt/colorpicker"]
-	branch = simpleperf-release
 	path = frameworks/opt/colorpicker
 	url = ../frameworks/opt/colorpicker
-[submodule "platform/frameworks/opt/datetimepicker"]
-	branch = simpleperf-release
-	path = frameworks/opt/datetimepicker
-	url = ../frameworks/opt/datetimepicker
-[submodule "platform/frameworks/opt/gamesdk"]
-	branch = simpleperf-release
-	path = frameworks/opt/gamesdk
-	url = ../frameworks/opt/gamesdk
-[submodule "platform/frameworks/opt/inputmethodcommon"]
-	branch = simpleperf-release
-	path = frameworks/opt/inputmethodcommon
-	url = ../frameworks/opt/inputmethodcommon
 [submodule "platform/frameworks/opt/net/ethernet"]
-	branch = simpleperf-release
 	path = frameworks/opt/net/ethernet
 	url = ../frameworks/opt/net/ethernet
 [submodule "platform/frameworks/opt/net/ike"]
-	branch = simpleperf-release
 	path = frameworks/opt/net/ike
 	url = ../frameworks/opt/net/ike
 [submodule "platform/frameworks/opt/net/ims"]
-	branch = simpleperf-release
 	path = frameworks/opt/net/ims
 	url = ../frameworks/opt/net/ims
-[submodule "platform/frameworks/opt/net/lowpan"]
-	branch = simpleperf-release
-	path = frameworks/opt/net/lowpan
-	url = ../frameworks/opt/net/lowpan
 [submodule "platform/frameworks/opt/net/voip"]
-	branch = simpleperf-release
 	path = frameworks/opt/net/voip
 	url = ../frameworks/opt/net/voip
 [submodule "platform/frameworks/opt/net/wifi"]
-	branch = simpleperf-release
 	path = frameworks/opt/net/wifi
 	url = ../frameworks/opt/net/wifi
 [submodule "platform/frameworks/opt/photoviewer"]
-	branch = simpleperf-release
 	path = frameworks/opt/photoviewer
 	url = ../frameworks/opt/photoviewer
 [submodule "platform/frameworks/opt/setupwizard"]
-	branch = simpleperf-release
 	path = frameworks/opt/setupwizard
 	url = ../frameworks/opt/setupwizard
 [submodule "platform/frameworks/opt/telephony"]
-	branch = simpleperf-release
 	path = frameworks/opt/telephony
 	url = ../frameworks/opt/telephony
 [submodule "platform/frameworks/opt/timezonepicker"]
-	branch = simpleperf-release
 	path = frameworks/opt/timezonepicker
 	url = ../frameworks/opt/timezonepicker
 [submodule "platform/frameworks/opt/vcard"]
-	branch = simpleperf-release
 	path = frameworks/opt/vcard
 	url = ../frameworks/opt/vcard
 [submodule "platform/frameworks/rs"]
-	branch = simpleperf-release
 	path = frameworks/rs
 	url = ../frameworks/rs
-[submodule "platform/frameworks/support"]
-	branch = simpleperf-release
-	path = frameworks/support
-	url = ../frameworks/support
 [submodule "platform/frameworks/wilhelm"]
-	branch = simpleperf-release
 	path = frameworks/wilhelm
 	url = ../frameworks/wilhelm
 [submodule "platform/hardware/broadcom/libbt"]
-	branch = simpleperf-release
 	path = hardware/broadcom/libbt
 	url = ../hardware/broadcom/libbt
 [submodule "platform/hardware/broadcom/wlan"]
-	branch = simpleperf-release
 	path = hardware/broadcom/wlan
 	url = ../hardware/broadcom/wlan
 [submodule "platform/hardware/google/apf"]
-	branch = simpleperf-release
 	path = hardware/google/apf
 	url = ../hardware/google/apf
 [submodule "platform/hardware/google/av"]
-	branch = simpleperf-release
 	path = hardware/google/av
 	url = ../hardware/google/av
 [submodule "platform/hardware/google/easel"]
-	branch = simpleperf-release
 	path = hardware/google/easel
 	url = ../hardware/google/easel
 [submodule "platform/hardware/google/interfaces"]
-	branch = simpleperf-release
 	path = hardware/google/interfaces
 	url = ../hardware/google/interfaces
+[submodule "platform/hardware/google/pixel"]
+	path = hardware/google/pixel
+	url = ../hardware/google/pixel
+[submodule "platform/hardware/google/pixel-sepolicy"]
+	path = hardware/google/pixel-sepolicy
+	url = ../hardware/google/pixel-sepolicy
 [submodule "platform/hardware/interfaces"]
-	branch = simpleperf-release
 	path = hardware/interfaces
 	url = ../hardware/interfaces
 [submodule "platform/hardware/invensense"]
-	branch = simpleperf-release
 	path = hardware/invensense
 	url = ../hardware/invensense
+[submodule "platform/hardware/knowles/athletico/sound_trigger_hal"]
+	path = hardware/knowles/athletico/sound_trigger_hal
+	url = ../hardware/knowles/athletico/sound_trigger_hal
 [submodule "platform/hardware/libhardware"]
-	branch = simpleperf-release
 	path = hardware/libhardware
 	url = ../hardware/libhardware
 [submodule "platform/hardware/libhardware_legacy"]
-	branch = simpleperf-release
 	path = hardware/libhardware_legacy
 	url = ../hardware/libhardware_legacy
 [submodule "platform/hardware/nxp/nfc"]
-	branch = simpleperf-release
 	path = hardware/nxp/nfc
 	url = ../hardware/nxp/nfc
 [submodule "platform/hardware/nxp/secure_element"]
-	branch = simpleperf-release
 	path = hardware/nxp/secure_element
 	url = ../hardware/nxp/secure_element
 [submodule "platform/hardware/qcom/audio"]
-	branch = simpleperf-release
 	path = hardware/qcom/audio
 	url = ../hardware/qcom/audio
 [submodule "platform/hardware/qcom/bootctrl"]
-	branch = simpleperf-release
 	path = hardware/qcom/bootctrl
 	url = ../hardware/qcom/bootctrl
 [submodule "platform/hardware/qcom/bt"]
-	branch = simpleperf-release
 	path = hardware/qcom/bt
 	url = ../hardware/qcom/bt
 [submodule "platform/hardware/qcom/camera"]
-	branch = simpleperf-release
 	path = hardware/qcom/camera
 	url = ../hardware/qcom/camera
 [submodule "platform/hardware/qcom/data/ipacfg-mgr"]
-	branch = simpleperf-release
 	path = hardware/qcom/data/ipacfg-mgr
 	url = ../hardware/qcom/data/ipacfg-mgr
 [submodule "platform/hardware/qcom/display"]
-	branch = simpleperf-release
 	path = hardware/qcom/display
 	url = ../hardware/qcom/display
 [submodule "platform/hardware/qcom/gps"]
-	branch = simpleperf-release
 	path = hardware/qcom/gps
 	url = ../hardware/qcom/gps
 [submodule "platform/hardware/qcom/keymaster"]
-	branch = simpleperf-release
 	path = hardware/qcom/keymaster
 	url = ../hardware/qcom/keymaster
 [submodule "platform/hardware/qcom/media"]
-	branch = simpleperf-release
 	path = hardware/qcom/media
 	url = ../hardware/qcom/media
 [submodule "platform/hardware/qcom/msm8960"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8960
 	url = ../hardware/qcom/msm8960
 [submodule "platform/hardware/qcom/msm8994"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8994
 	url = ../hardware/qcom/msm8994
 [submodule "platform/hardware/qcom/msm8996"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8996
 	url = ../hardware/qcom/msm8996
 [submodule "platform/hardware/qcom/msm8998"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8998
 	url = ../hardware/qcom/msm8998
 [submodule "platform/hardware/qcom/msm8x09"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8x09
 	url = ../hardware/qcom/msm8x09
 [submodule "platform/hardware/qcom/msm8x26"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8x26
 	url = ../hardware/qcom/msm8x26
 [submodule "platform/hardware/qcom/msm8x27"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8x27
 	url = ../hardware/qcom/msm8x27
 [submodule "platform/hardware/qcom/msm8x84"]
-	branch = simpleperf-release
 	path = hardware/qcom/msm8x84
 	url = ../hardware/qcom/msm8x84
 [submodule "platform/hardware/qcom/neuralnetworks/hvxservice"]
-	branch = simpleperf-release
 	path = hardware/qcom/neuralnetworks/hvxservice
 	url = ../hardware/qcom/neuralnetworks/hvxservice
 [submodule "platform/hardware/qcom/power"]
-	branch = simpleperf-release
 	path = hardware/qcom/power
 	url = ../hardware/qcom/power
 [submodule "platform/hardware/qcom/sdm845/bt"]
-	branch = simpleperf-release
 	path = hardware/qcom/sdm845/bt
 	url = ../hardware/qcom/sdm845/bt
 [submodule "platform/hardware/qcom/sdm845/data/ipacfg-mgr"]
-	branch = simpleperf-release
 	path = hardware/qcom/sdm845/data/ipacfg-mgr
 	url = ../hardware/qcom/sdm845/data/ipacfg-mgr
 [submodule "platform/hardware/qcom/sdm845/display"]
-	branch = simpleperf-release
 	path = hardware/qcom/sdm845/display
 	url = ../hardware/qcom/sdm845/display
 [submodule "platform/hardware/qcom/sdm845/gps"]
-	branch = simpleperf-release
 	path = hardware/qcom/sdm845/gps
 	url = ../hardware/qcom/sdm845/gps
 [submodule "platform/hardware/qcom/sdm845/media"]
-	branch = simpleperf-release
 	path = hardware/qcom/sdm845/media
 	url = ../hardware/qcom/sdm845/media
 [submodule "platform/hardware/qcom/sdm845/thermal"]
-	branch = simpleperf-release
 	path = hardware/qcom/sdm845/thermal
 	url = ../hardware/qcom/sdm845/thermal
 [submodule "platform/hardware/qcom/sdm845/vr"]
-	branch = simpleperf-release
 	path = hardware/qcom/sdm845/vr
 	url = ../hardware/qcom/sdm845/vr
+[submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
+	path = hardware/qcom/sm8150/data/ipacfg-mgr
+	url = ../hardware/qcom/sm8150/data/ipacfg-mgr
+[submodule "platform/hardware/qcom/sm8150/display"]
+	path = hardware/qcom/sm8150/display
+	url = ../hardware/qcom/sm8150/display
+[submodule "platform/hardware/qcom/sm8150/gps"]
+	path = hardware/qcom/sm8150/gps
+	url = ../hardware/qcom/sm8150/gps
+[submodule "platform/hardware/qcom/sm8150/media"]
+	path = hardware/qcom/sm8150/media
+	url = ../hardware/qcom/sm8150/media
+[submodule "platform/hardware/qcom/sm8150/thermal"]
+	path = hardware/qcom/sm8150/thermal
+	url = ../hardware/qcom/sm8150/thermal
+[submodule "platform/hardware/qcom/sm8150/vr"]
+	path = hardware/qcom/sm8150/vr
+	url = ../hardware/qcom/sm8150/vr
 [submodule "platform/hardware/qcom/wlan"]
-	branch = simpleperf-release
 	path = hardware/qcom/wlan
 	url = ../hardware/qcom/wlan
 [submodule "platform/hardware/ril"]
-	branch = simpleperf-release
 	path = hardware/ril
 	url = ../hardware/ril
 [submodule "platform/hardware/st/nfc"]
-	branch = simpleperf-release
 	path = hardware/st/nfc
 	url = ../hardware/st/nfc
 [submodule "platform/hardware/st/secure_element"]
-	branch = simpleperf-release
 	path = hardware/st/secure_element
 	url = ../hardware/st/secure_element
 [submodule "platform/hardware/ti/am57x"]
-	branch = simpleperf-release
 	path = hardware/ti/am57x
 	url = ../hardware/ti/am57x
 [submodule "platform/libcore"]
-	branch = simpleperf-release
 	path = libcore
 	url = ../libcore
 [submodule "platform/libnativehelper"]
-	branch = simpleperf-release
 	path = libnativehelper
 	url = ../libnativehelper
 [submodule "platform/packages/apps/BasicSmsReceiver"]
-	branch = simpleperf-release
 	path = packages/apps/BasicSmsReceiver
 	url = ../packages/apps/BasicSmsReceiver
 [submodule "platform/packages/apps/Bluetooth"]
-	branch = simpleperf-release
 	path = packages/apps/Bluetooth
 	url = ../packages/apps/Bluetooth
 [submodule "platform/packages/apps/Browser2"]
-	branch = simpleperf-release
 	path = packages/apps/Browser2
 	url = ../packages/apps/Browser2
 [submodule "platform/packages/apps/Calendar"]
-	branch = simpleperf-release
 	path = packages/apps/Calendar
 	url = ../packages/apps/Calendar
 [submodule "platform/packages/apps/Camera2"]
-	branch = simpleperf-release
 	path = packages/apps/Camera2
 	url = ../packages/apps/Camera2
+[submodule "platform/packages/apps/Car/Cluster"]
+	path = packages/apps/Car/Cluster
+	url = ../packages/apps/Car/Cluster
 [submodule "platform/packages/apps/Car/Dialer"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Dialer
 	url = ../packages/apps/Car/Dialer
 [submodule "platform/packages/apps/Car/Hvac"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Hvac
 	url = ../packages/apps/Car/Hvac
 [submodule "platform/packages/apps/Car/LatinIME"]
-	branch = simpleperf-release
 	path = packages/apps/Car/LatinIME
 	url = ../packages/apps/Car/LatinIME
 [submodule "platform/packages/apps/Car/Launcher"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Launcher
 	url = ../packages/apps/Car/Launcher
 [submodule "platform/packages/apps/Car/LensPicker"]
-	branch = simpleperf-release
 	path = packages/apps/Car/LensPicker
 	url = ../packages/apps/Car/LensPicker
+[submodule "platform/packages/apps/Car/LinkViewer"]
+	path = packages/apps/Car/LinkViewer
+	url = ../packages/apps/Car/LinkViewer
 [submodule "platform/packages/apps/Car/LocalMediaPlayer"]
-	branch = simpleperf-release
 	path = packages/apps/Car/LocalMediaPlayer
 	url = ../packages/apps/Car/LocalMediaPlayer
 [submodule "platform/packages/apps/Car/Media"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Media
 	url = ../packages/apps/Car/Media
 [submodule "platform/packages/apps/Car/Messenger"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Messenger
 	url = ../packages/apps/Car/Messenger
 [submodule "platform/packages/apps/Car/Notification"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Notification
 	url = ../packages/apps/Car/Notification
 [submodule "platform/packages/apps/Car/Overview"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Overview
 	url = ../packages/apps/Car/Overview
 [submodule "platform/packages/apps/Car/Radio"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Radio
 	url = ../packages/apps/Car/Radio
 [submodule "platform/packages/apps/Car/Settings"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Settings
 	url = ../packages/apps/Car/Settings
 [submodule "platform/packages/apps/Car/Stream"]
-	branch = simpleperf-release
 	path = packages/apps/Car/Stream
 	url = ../packages/apps/Car/Stream
 [submodule "platform/packages/apps/Car/SystemUpdater"]
-	branch = simpleperf-release
 	path = packages/apps/Car/SystemUpdater
 	url = ../packages/apps/Car/SystemUpdater
+[submodule "platform/packages/apps/Car/externallibs"]
+	path = packages/apps/Car/externallibs
+	url = ../packages/apps/Car/externallibs
 [submodule "platform/packages/apps/Car/libs"]
-	branch = simpleperf-release
 	path = packages/apps/Car/libs
 	url = ../packages/apps/Car/libs
+[submodule "platform/packages/apps/Car/tests"]
+	path = packages/apps/Car/tests
+	url = ../packages/apps/Car/tests
 [submodule "platform/packages/apps/CarrierConfig"]
-	branch = simpleperf-release
 	path = packages/apps/CarrierConfig
 	url = ../packages/apps/CarrierConfig
 [submodule "platform/packages/apps/CellBroadcastReceiver"]
-	branch = simpleperf-release
 	path = packages/apps/CellBroadcastReceiver
 	url = ../packages/apps/CellBroadcastReceiver
 [submodule "platform/packages/apps/CertInstaller"]
-	branch = simpleperf-release
 	path = packages/apps/CertInstaller
 	url = ../packages/apps/CertInstaller
 [submodule "platform/packages/apps/Contacts"]
-	branch = simpleperf-release
 	path = packages/apps/Contacts
 	url = ../packages/apps/Contacts
 [submodule "platform/packages/apps/DeskClock"]
-	branch = simpleperf-release
 	path = packages/apps/DeskClock
 	url = ../packages/apps/DeskClock
 [submodule "platform/packages/apps/DevCamera"]
-	branch = simpleperf-release
 	path = packages/apps/DevCamera
 	url = ../packages/apps/DevCamera
 [submodule "platform/packages/apps/Dialer"]
-	branch = simpleperf-release
 	path = packages/apps/Dialer
 	url = ../packages/apps/Dialer
 [submodule "platform/packages/apps/DocumentsUI"]
-	branch = simpleperf-release
 	path = packages/apps/DocumentsUI
 	url = ../packages/apps/DocumentsUI
-[submodule "platform/packages/apps/Email"]
-	branch = simpleperf-release
-	path = packages/apps/Email
-	url = ../packages/apps/Email
 [submodule "platform/packages/apps/EmergencyInfo"]
-	branch = simpleperf-release
 	path = packages/apps/EmergencyInfo
 	url = ../packages/apps/EmergencyInfo
 [submodule "platform/packages/apps/Gallery"]
-	branch = simpleperf-release
 	path = packages/apps/Gallery
 	url = ../packages/apps/Gallery
 [submodule "platform/packages/apps/Gallery2"]
-	branch = simpleperf-release
 	path = packages/apps/Gallery2
 	url = ../packages/apps/Gallery2
 [submodule "platform/packages/apps/HTMLViewer"]
-	branch = simpleperf-release
 	path = packages/apps/HTMLViewer
 	url = ../packages/apps/HTMLViewer
 [submodule "platform/packages/apps/KeyChain"]
-	branch = simpleperf-release
 	path = packages/apps/KeyChain
 	url = ../packages/apps/KeyChain
-[submodule "platform/packages/apps/Launcher2"]
-	branch = simpleperf-release
-	path = packages/apps/Launcher2
-	url = ../packages/apps/Launcher2
 [submodule "platform/packages/apps/Launcher3"]
-	branch = simpleperf-release
 	path = packages/apps/Launcher3
 	url = ../packages/apps/Launcher3
 [submodule "platform/packages/apps/LegacyCamera"]
-	branch = simpleperf-release
 	path = packages/apps/LegacyCamera
 	url = ../packages/apps/LegacyCamera
 [submodule "platform/packages/apps/ManagedProvisioning"]
-	branch = simpleperf-release
 	path = packages/apps/ManagedProvisioning
 	url = ../packages/apps/ManagedProvisioning
 [submodule "platform/packages/apps/Messaging"]
-	branch = simpleperf-release
 	path = packages/apps/Messaging
 	url = ../packages/apps/Messaging
 [submodule "platform/packages/apps/Music"]
-	branch = simpleperf-release
 	path = packages/apps/Music
 	url = ../packages/apps/Music
 [submodule "platform/packages/apps/MusicFX"]
-	branch = simpleperf-release
 	path = packages/apps/MusicFX
 	url = ../packages/apps/MusicFX
 [submodule "platform/packages/apps/Nfc"]
-	branch = simpleperf-release
 	path = packages/apps/Nfc
 	url = ../packages/apps/Nfc
 [submodule "platform/packages/apps/OneTimeInitializer"]
-	branch = simpleperf-release
 	path = packages/apps/OneTimeInitializer
 	url = ../packages/apps/OneTimeInitializer
 [submodule "platform/packages/apps/PackageInstaller"]
-	branch = simpleperf-release
-	path = packages/apps/PackageInstaller
+	path = packages/apps/PermissionController
 	url = ../packages/apps/PackageInstaller
 [submodule "platform/packages/apps/PhoneCommon"]
-	branch = simpleperf-release
 	path = packages/apps/PhoneCommon
 	url = ../packages/apps/PhoneCommon
 [submodule "platform/packages/apps/Protips"]
-	branch = simpleperf-release
 	path = packages/apps/Protips
 	url = ../packages/apps/Protips
 [submodule "platform/packages/apps/Provision"]
-	branch = simpleperf-release
 	path = packages/apps/Provision
 	url = ../packages/apps/Provision
 [submodule "platform/packages/apps/QuickSearchBox"]
-	branch = simpleperf-release
 	path = packages/apps/QuickSearchBox
 	url = ../packages/apps/QuickSearchBox
 [submodule "platform/packages/apps/SafetyRegulatoryInfo"]
-	branch = simpleperf-release
 	path = packages/apps/SafetyRegulatoryInfo
 	url = ../packages/apps/SafetyRegulatoryInfo
+[submodule "platform/packages/apps/SampleLocationAttribution"]
+	path = packages/apps/SampleLocationAttribution
+	url = ../packages/apps/SampleLocationAttribution
 [submodule "platform/packages/apps/SecureElement"]
-	branch = simpleperf-release
 	path = packages/apps/SecureElement
 	url = ../packages/apps/SecureElement
 [submodule "platform/packages/apps/Settings"]
-	branch = simpleperf-release
 	path = packages/apps/Settings
 	url = ../packages/apps/Settings
 [submodule "platform/packages/apps/SettingsIntelligence"]
-	branch = simpleperf-release
 	path = packages/apps/SettingsIntelligence
 	url = ../packages/apps/SettingsIntelligence
 [submodule "platform/packages/apps/SoundRecorder"]
-	branch = simpleperf-release
 	path = packages/apps/SoundRecorder
 	url = ../packages/apps/SoundRecorder
 [submodule "platform/packages/apps/SpareParts"]
-	branch = simpleperf-release
 	path = packages/apps/SpareParts
 	url = ../packages/apps/SpareParts
 [submodule "platform/packages/apps/Stk"]
-	branch = simpleperf-release
 	path = packages/apps/Stk
 	url = ../packages/apps/Stk
 [submodule "platform/packages/apps/StorageManager"]
-	branch = simpleperf-release
 	path = packages/apps/StorageManager
 	url = ../packages/apps/StorageManager
 [submodule "platform/packages/apps/TV"]
-	branch = simpleperf-release
 	path = packages/apps/TV
 	url = ../packages/apps/TV
 [submodule "platform/packages/apps/Tag"]
-	branch = simpleperf-release
 	path = packages/apps/Tag
 	url = ../packages/apps/Tag
 [submodule "platform/packages/apps/Terminal"]
-	branch = simpleperf-release
 	path = packages/apps/Terminal
 	url = ../packages/apps/Terminal
 [submodule "platform/packages/apps/Test/connectivity"]
-	branch = simpleperf-release
 	path = packages/apps/Test/connectivity
 	url = ../packages/apps/Test/connectivity
+[submodule "platform/packages/apps/ThemePicker"]
+	path = packages/apps/ThemePicker
+	url = ../packages/apps/ThemePicker
 [submodule "platform/packages/apps/TimeZoneData"]
-	branch = simpleperf-release
 	path = packages/apps/TimeZoneData
 	url = ../packages/apps/TimeZoneData
 [submodule "platform/packages/apps/TimeZoneUpdater"]
-	branch = simpleperf-release
 	path = packages/apps/TimeZoneUpdater
 	url = ../packages/apps/TimeZoneUpdater
 [submodule "platform/packages/apps/Traceur"]
-	branch = simpleperf-release
 	path = packages/apps/Traceur
 	url = ../packages/apps/Traceur
 [submodule "platform/packages/apps/TvSettings"]
-	branch = simpleperf-release
 	path = packages/apps/TvSettings
 	url = ../packages/apps/TvSettings
-[submodule "platform/packages/apps/UnifiedEmail"]
-	branch = simpleperf-release
-	path = packages/apps/UnifiedEmail
-	url = ../packages/apps/UnifiedEmail
+[submodule "platform/packages/apps/UniversalMediaPlayer"]
+	path = packages/apps/UniversalMediaPlayer
+	url = ../packages/apps/UniversalMediaPlayer
 [submodule "platform/packages/apps/WallpaperPicker"]
-	branch = simpleperf-release
 	path = packages/apps/WallpaperPicker
 	url = ../packages/apps/WallpaperPicker
+[submodule "platform/packages/apps/WallpaperPicker2"]
+	path = packages/apps/WallpaperPicker2
+	url = ../packages/apps/WallpaperPicker2
 [submodule "platform/packages/inputmethods/LatinIME"]
-	branch = simpleperf-release
 	path = packages/inputmethods/LatinIME
 	url = ../packages/inputmethods/LatinIME
+[submodule "platform/packages/modules/CaptivePortalLogin"]
+	path = packages/modules/CaptivePortalLogin
+	url = ../packages/modules/CaptivePortalLogin
+[submodule "platform/packages/modules/CellBroadcastService"]
+	path = packages/modules/CellBroadcastService
+	url = ../packages/modules/CellBroadcastService
+[submodule "platform/packages/modules/Cronet"]
+	path = packages/modules/Cronet
+	url = ../packages/modules/Cronet
+[submodule "platform/packages/modules/DnsResolver"]
+	path = packages/modules/DnsResolver
+	url = ../packages/modules/DnsResolver
+[submodule "platform/packages/modules/ExtServices"]
+	path = packages/modules/ExtServices
+	url = ../packages/modules/ExtServices
 [submodule "platform/packages/modules/ModuleMetadata"]
-	branch = simpleperf-release
 	path = packages/modules/ModuleMetadata
 	url = ../packages/modules/ModuleMetadata
+[submodule "platform/packages/modules/NetworkPermissionConfig"]
+	path = packages/modules/NetworkPermissionConfig
+	url = ../packages/modules/NetworkPermissionConfig
+[submodule "platform/packages/modules/NetworkStack"]
+	path = packages/modules/NetworkStack
+	url = ../packages/modules/NetworkStack
+[submodule "platform/packages/modules/TestModule"]
+	path = packages/modules/TestModule
+	url = ../packages/modules/TestModule
+[submodule "platform/packages/modules/vndk"]
+	path = packages/modules/vndk
+	url = ../packages/modules/vndk
 [submodule "platform/packages/providers/ApplicationsProvider"]
-	branch = simpleperf-release
 	path = packages/providers/ApplicationsProvider
 	url = ../packages/providers/ApplicationsProvider
 [submodule "platform/packages/providers/BlockedNumberProvider"]
-	branch = simpleperf-release
 	path = packages/providers/BlockedNumberProvider
 	url = ../packages/providers/BlockedNumberProvider
 [submodule "platform/packages/providers/BookmarkProvider"]
-	branch = simpleperf-release
 	path = packages/providers/BookmarkProvider
 	url = ../packages/providers/BookmarkProvider
 [submodule "platform/packages/providers/CalendarProvider"]
-	branch = simpleperf-release
 	path = packages/providers/CalendarProvider
 	url = ../packages/providers/CalendarProvider
 [submodule "platform/packages/providers/CallLogProvider"]
-	branch = simpleperf-release
 	path = packages/providers/CallLogProvider
 	url = ../packages/providers/CallLogProvider
 [submodule "platform/packages/providers/ContactsProvider"]
-	branch = simpleperf-release
 	path = packages/providers/ContactsProvider
 	url = ../packages/providers/ContactsProvider
 [submodule "platform/packages/providers/DownloadProvider"]
-	branch = simpleperf-release
 	path = packages/providers/DownloadProvider
 	url = ../packages/providers/DownloadProvider
 [submodule "platform/packages/providers/MediaProvider"]
-	branch = simpleperf-release
 	path = packages/providers/MediaProvider
 	url = ../packages/providers/MediaProvider
 [submodule "platform/packages/providers/PartnerBookmarksProvider"]
-	branch = simpleperf-release
 	path = packages/providers/PartnerBookmarksProvider
 	url = ../packages/providers/PartnerBookmarksProvider
 [submodule "platform/packages/providers/TelephonyProvider"]
-	branch = simpleperf-release
 	path = packages/providers/TelephonyProvider
 	url = ../packages/providers/TelephonyProvider
 [submodule "platform/packages/providers/TvProvider"]
-	branch = simpleperf-release
 	path = packages/providers/TvProvider
 	url = ../packages/providers/TvProvider
 [submodule "platform/packages/providers/UserDictionaryProvider"]
-	branch = simpleperf-release
 	path = packages/providers/UserDictionaryProvider
 	url = ../packages/providers/UserDictionaryProvider
 [submodule "platform/packages/screensavers/Basic"]
-	branch = simpleperf-release
 	path = packages/screensavers/Basic
 	url = ../packages/screensavers/Basic
 [submodule "platform/packages/screensavers/PhotoTable"]
-	branch = simpleperf-release
 	path = packages/screensavers/PhotoTable
 	url = ../packages/screensavers/PhotoTable
-[submodule "platform/packages/screensavers/WebView"]
-	branch = simpleperf-release
-	path = packages/screensavers/WebView
-	url = ../packages/screensavers/WebView
 [submodule "platform/packages/services/AlternativeNetworkAccess"]
-	branch = simpleperf-release
 	path = packages/services/AlternativeNetworkAccess
 	url = ../packages/services/AlternativeNetworkAccess
 [submodule "platform/packages/services/BuiltInPrintService"]
-	branch = simpleperf-release
 	path = packages/services/BuiltInPrintService
 	url = ../packages/services/BuiltInPrintService
 [submodule "platform/packages/services/Car"]
-	branch = simpleperf-release
 	path = packages/services/Car
 	url = ../packages/services/Car
 [submodule "platform/packages/services/Mms"]
-	branch = simpleperf-release
 	path = packages/services/Mms
 	url = ../packages/services/Mms
-[submodule "platform/packages/services/NetworkRecommendation"]
-	branch = simpleperf-release
-	path = packages/services/NetworkRecommendation
-	url = ../packages/services/NetworkRecommendation
 [submodule "platform/packages/services/Telecomm"]
-	branch = simpleperf-release
 	path = packages/services/Telecomm
 	url = ../packages/services/Telecomm
 [submodule "platform/packages/services/Telephony"]
-	branch = simpleperf-release
 	path = packages/services/Telephony
 	url = ../packages/services/Telephony
 [submodule "platform/packages/wallpapers/LivePicker"]
-	branch = simpleperf-release
 	path = packages/wallpapers/LivePicker
 	url = ../packages/wallpapers/LivePicker
 [submodule "platform/pdk"]
-	branch = simpleperf-release
 	path = pdk
 	url = ../pdk
 [submodule "platform/platform_testing"]
-	branch = simpleperf-release
 	path = platform_testing
 	url = ../platform_testing
 [submodule "platform/prebuilts/abi-dumps/ndk"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/abi-dumps/ndk
 	url = ../prebuilts/abi-dumps/ndk
+[submodule "platform/prebuilts/abi-dumps/platform"]
+	path = prebuilts/abi-dumps/platform
+	url = ../prebuilts/abi-dumps/platform
 [submodule "platform/prebuilts/abi-dumps/vndk"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/abi-dumps/vndk
 	url = ../prebuilts/abi-dumps/vndk
 [submodule "platform/prebuilts/android-emulator"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/android-emulator
 	url = ../prebuilts/android-emulator
 [submodule "platform/prebuilts/asuite"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/asuite
 	url = ../prebuilts/asuite
 [submodule "platform/prebuilts/build-tools"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/build-tools
 	url = ../prebuilts/build-tools
 [submodule "platform/prebuilts/bundletool"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/bundletool
 	url = ../prebuilts/bundletool
 [submodule "platform/prebuilts/checkcolor"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/checkcolor
 	url = ../prebuilts/checkcolor
 [submodule "platform/prebuilts/checkstyle"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/checkstyle
 	url = ../prebuilts/checkstyle
 [submodule "platform/prebuilts/clang-tools"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/clang-tools
 	url = ../prebuilts/clang-tools
 [submodule "platform/prebuilts/clang/host/darwin-x86"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/clang/host/darwin-x86
 	url = ../prebuilts/clang/host/darwin-x86
 [submodule "platform/prebuilts/clang/host/linux-x86"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/clang/host/linux-x86
 	url = ../prebuilts/clang/host/linux-x86
-[submodule "platform/prebuilts/deqp"]
-	branch = simpleperf-release
-	shallow = true
-	path = prebuilts/deqp
-	url = ../prebuilts/deqp
 [submodule "platform/prebuilts/devtools"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/devtools
 	url = ../prebuilts/devtools
 [submodule "platform/prebuilts/fuchsia_sdk"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/fuchsia_sdk
 	url = ../prebuilts/fuchsia_sdk
 [submodule "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 	url = ../prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1
 [submodule "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9
 [submodule "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 	url = ../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9
 [submodule "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 	url = ../prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9
 [submodule "platform/prebuilts/gdb/darwin-x86"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gdb/darwin-x86
 	url = ../prebuilts/gdb/darwin-x86
 [submodule "platform/prebuilts/gdb/linux-x86"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gdb/linux-x86
 	url = ../prebuilts/gdb/linux-x86
 [submodule "platform/prebuilts/go/darwin-x86"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/go/darwin-x86
 	url = ../prebuilts/go/darwin-x86
 [submodule "platform/prebuilts/go/linux-x86"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../prebuilts/go/linux-x86
 [submodule "platform/prebuilts/gradle-plugin"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../prebuilts/gradle-plugin
+[submodule "platform/prebuilts/jdk/jdk11"]
+	path = prebuilts/jdk/jdk11
+	url = ../prebuilts/jdk/jdk11
 [submodule "platform/prebuilts/jdk/jdk8"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/jdk/jdk8
 	url = ../prebuilts/jdk/jdk8
 [submodule "platform/prebuilts/jdk/jdk9"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/jdk/jdk9
 	url = ../prebuilts/jdk/jdk9
 [submodule "platform/prebuilts/ktlint"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/ktlint
 	url = ../prebuilts/ktlint
-[submodule "platform/prebuilts/libs/libedit"]
-	branch = simpleperf-release
-	shallow = true
-	path = prebuilts/libs/libedit
-	url = ../prebuilts/libs/libedit
 [submodule "platform/prebuilts/manifest-merger"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/manifest-merger
 	url = ../prebuilts/manifest-merger
 [submodule "platform/prebuilts/maven_repo/android"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/maven_repo/android
 	url = ../prebuilts/maven_repo/android
 [submodule "platform/prebuilts/maven_repo/bumptech"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/maven_repo/bumptech
 	url = ../prebuilts/maven_repo/bumptech
 [submodule "platform/prebuilts/maven_repo/google-play-service-client-libraries-3p"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/maven_repo/google-play-service-client-libraries-3p
 	url = ../prebuilts/maven_repo/google-play-service-client-libraries-3p
 [submodule "platform/prebuilts/misc"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/misc
 	url = ../prebuilts/misc
+[submodule "platform/prebuilts/module_sdk/art"]
+	path = prebuilts/module_sdk/art
+	url = ../prebuilts/module_sdk/art
 [submodule "platform/prebuilts/ndk"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/ndk
 	url = ../prebuilts/ndk
 [submodule "platform/prebuilts/python/darwin-x86/2.7.5"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/python/darwin-x86/2.7.5
 	url = ../prebuilts/python/darwin-x86/2.7.5
 [submodule "platform/prebuilts/python/linux-x86/2.7.5"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/python/linux-x86/2.7.5
 	url = ../prebuilts/python/linux-x86/2.7.5
 [submodule "platform/prebuilts/qemu-kernel"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/qemu-kernel
 	url = ../prebuilts/qemu-kernel
 [submodule "platform/prebuilts/r8"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/r8
 	url = ../prebuilts/r8
+[submodule "platform/prebuilts/remoteexecution-client"]
+	path = prebuilts/remoteexecution-client
+	url = ../prebuilts/remoteexecution-client
+[submodule "platform/prebuilts/rust"]
+	path = prebuilts/rust
+	url = ../prebuilts/rust
 [submodule "platform/prebuilts/sdk"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/sdk
 	url = ../prebuilts/sdk
 [submodule "platform/prebuilts/tools"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/tools
 	url = ../prebuilts/tools
 [submodule "platform/prebuilts/vndk/v27"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/vndk/v27
 	url = ../prebuilts/vndk/v27
 [submodule "platform/prebuilts/vndk/v28"]
-	branch = simpleperf-release
-	shallow = true
 	path = prebuilts/vndk/v28
 	url = ../prebuilts/vndk/v28
+[submodule "platform/prebuilts/vndk/v29"]
+	path = prebuilts/vndk/v29
+	url = ../prebuilts/vndk/v29
 [submodule "platform/sdk"]
-	branch = simpleperf-release
 	path = sdk
 	url = ../sdk
 [submodule "platform/system/apex"]
-	branch = simpleperf-release
 	path = system/apex
 	url = ../system/apex
-[submodule "platform/system/ashmemd"]
-	branch = simpleperf-release
-	path = system/ashmemd
-	url = ../system/ashmemd
 [submodule "platform/system/bpf"]
-	branch = simpleperf-release
 	path = system/bpf
 	url = ../system/bpf
 [submodule "platform/system/bpfprogs"]
-	branch = simpleperf-release
 	path = system/bpfprogs
 	url = ../system/bpfprogs
 [submodule "platform/system/bt"]
-	branch = simpleperf-release
 	path = system/bt
 	url = ../system/bt
 [submodule "platform/system/ca-certificates"]
-	branch = simpleperf-release
 	path = system/ca-certificates
 	url = ../system/ca-certificates
 [submodule "platform/system/chre"]
-	branch = simpleperf-release
 	path = system/chre
 	url = ../system/chre
 [submodule "platform/system/connectivity/wificond"]
-	branch = simpleperf-release
 	path = system/connectivity/wificond
 	url = ../system/connectivity/wificond
 [submodule "platform/system/connectivity/wifilogd"]
-	branch = simpleperf-release
 	path = system/connectivity/wifilogd
 	url = ../system/connectivity/wifilogd
 [submodule "platform/system/core"]
-	branch = simpleperf-release
 	path = system/core
 	url = ../system/core
 [submodule "platform/system/extras"]
-	branch = simpleperf-release
 	path = system/extras
 	url = ../system/extras
 [submodule "platform/system/gatekeeper"]
-	branch = simpleperf-release
 	path = system/gatekeeper
 	url = ../system/gatekeeper
 [submodule "platform/system/gsid"]
-	branch = simpleperf-release
 	path = system/gsid
 	url = ../system/gsid
 [submodule "platform/system/hardware/interfaces"]
-	branch = simpleperf-release
 	path = system/hardware/interfaces
 	url = ../system/hardware/interfaces
 [submodule "platform/system/hwservicemanager"]
-	branch = simpleperf-release
 	path = system/hwservicemanager
 	url = ../system/hwservicemanager
+[submodule "platform/system/incremental_delivery"]
+	path = system/incremental_delivery
+	url = ../system/incremental_delivery
 [submodule "platform/system/iorap"]
-	branch = simpleperf-release
 	path = system/iorap
 	url = ../system/iorap
-[submodule "platform/system/iot/attestation"]
-	branch = simpleperf-release
-	path = system/iot/attestation
-	url = ../system/iot/attestation
 [submodule "platform/system/keymaster"]
-	branch = simpleperf-release
 	path = system/keymaster
 	url = ../system/keymaster
+[submodule "platform/system/libartpalette"]
+	path = system/libartpalette
+	url = ../system/libartpalette
 [submodule "platform/system/libfmq"]
-	branch = simpleperf-release
 	path = system/libfmq
 	url = ../system/libfmq
 [submodule "platform/system/libhidl"]
-	branch = simpleperf-release
 	path = system/libhidl
 	url = ../system/libhidl
 [submodule "platform/system/libhwbinder"]
-	branch = simpleperf-release
 	path = system/libhwbinder
 	url = ../system/libhwbinder
 [submodule "platform/system/libsysprop"]
-	branch = simpleperf-release
 	path = system/libsysprop
 	url = ../system/libsysprop
 [submodule "platform/system/libufdt"]
-	branch = simpleperf-release
 	path = system/libufdt
 	url = ../system/libufdt
 [submodule "platform/system/libvintf"]
-	branch = simpleperf-release
 	path = system/libvintf
 	url = ../system/libvintf
 [submodule "platform/system/linkerconfig"]
-	branch = simpleperf-release
 	path = system/linkerconfig
 	url = ../system/linkerconfig
 [submodule "platform/system/media"]
-	branch = simpleperf-release
 	path = system/media
 	url = ../system/media
+[submodule "platform/system/memory/libion"]
+	path = system/memory/libion
+	url = ../system/memory/libion
+[submodule "platform/system/memory/libmeminfo"]
+	path = system/memory/libmeminfo
+	url = ../system/memory/libmeminfo
+[submodule "platform/system/memory/libmemtrack"]
+	path = system/memory/libmemtrack
+	url = ../system/memory/libmemtrack
+[submodule "platform/system/memory/libmemunreachable"]
+	path = system/memory/libmemunreachable
+	url = ../system/memory/libmemunreachable
+[submodule "platform/system/memory/lmkd"]
+	path = system/memory/lmkd
+	url = ../system/memory/lmkd
 [submodule "platform/system/netd"]
-	branch = simpleperf-release
 	path = system/netd
 	url = ../system/netd
 [submodule "platform/system/nfc"]
-	branch = simpleperf-release
 	path = system/nfc
 	url = ../system/nfc
 [submodule "platform/system/nvram"]
-	branch = simpleperf-release
 	path = system/nvram
 	url = ../system/nvram
 [submodule "platform/system/security"]
-	branch = simpleperf-release
 	path = system/security
 	url = ../system/security
 [submodule "platform/system/sepolicy"]
-	branch = simpleperf-release
 	path = system/sepolicy
 	url = ../system/sepolicy
 [submodule "platform/system/server_configurable_flags"]
-	branch = simpleperf-release
 	path = system/server_configurable_flags
 	url = ../system/server_configurable_flags
+[submodule "platform/system/teeui"]
+	path = system/teeui
+	url = ../system/teeui
 [submodule "platform/system/testing/gtest_extras"]
-	branch = simpleperf-release
 	path = system/testing/gtest_extras
 	url = ../system/testing/gtest_extras
 [submodule "platform/system/timezone"]
-	branch = simpleperf-release
 	path = system/timezone
 	url = ../system/timezone
 [submodule "platform/system/tools/aidl"]
-	branch = simpleperf-release
 	path = system/tools/aidl
 	url = ../system/tools/aidl
 [submodule "platform/system/tools/hidl"]
-	branch = simpleperf-release
 	path = system/tools/hidl
 	url = ../system/tools/hidl
+[submodule "platform/system/tools/mkbootimg"]
+	path = system/tools/mkbootimg
+	url = ../system/tools/mkbootimg
 [submodule "platform/system/tools/sysprop"]
-	branch = simpleperf-release
 	path = system/tools/sysprop
 	url = ../system/tools/sysprop
 [submodule "platform/system/tools/xsdc"]
-	branch = simpleperf-release
 	path = system/tools/xsdc
 	url = ../system/tools/xsdc
 [submodule "platform/system/ucontainer"]
-	branch = simpleperf-release
 	path = system/ucontainer
 	url = ../system/ucontainer
 [submodule "platform/system/update_engine"]
-	branch = simpleperf-release
 	path = system/update_engine
 	url = ../system/update_engine
 [submodule "platform/system/vold"]
-	branch = simpleperf-release
 	path = system/vold
 	url = ../system/vold
+[submodule "platform/test/app_compat/csuite"]
+	path = test/app_compat/csuite
+	url = ../test/app_compat/csuite
 [submodule "platform/test/framework"]
-	branch = simpleperf-release
 	path = test/framework
 	url = ../test/framework
 [submodule "platform/test/mlts/benchmark"]
-	branch = simpleperf-release
 	path = test/mlts/benchmark
 	url = ../test/mlts/benchmark
 [submodule "platform/test/mlts/models"]
-	branch = simpleperf-release
 	path = test/mlts/models
 	url = ../test/mlts/models
+[submodule "platform/test/mts"]
+	path = test/mts
+	url = ../test/mts
 [submodule "platform/test/suite_harness"]
-	branch = simpleperf-release
 	path = test/suite_harness
 	url = ../test/suite_harness
 [submodule "platform/test/vti/alert"]
-	branch = simpleperf-release
 	path = test/vti/alert
 	url = ../test/vti/alert
 [submodule "platform/test/vti/dashboard"]
-	branch = simpleperf-release
 	path = test/vti/dashboard
 	url = ../test/vti/dashboard
 [submodule "platform/test/vti/fuzz_test_serving"]
-	branch = simpleperf-release
 	path = test/vti/fuzz_test_serving
 	url = ../test/vti/fuzz_test_serving
 [submodule "platform/test/vti/test_serving"]
-	branch = simpleperf-release
 	path = test/vti/test_serving
 	url = ../test/vti/test_serving
 [submodule "platform/test/vts"]
-	branch = simpleperf-release
 	path = test/vts
 	url = ../test/vts
 [submodule "platform/test/vts-testcase/fuzz"]
-	branch = simpleperf-release
 	path = test/vts-testcase/fuzz
 	url = ../test/vts-testcase/fuzz
 [submodule "platform/test/vts-testcase/hal"]
-	branch = simpleperf-release
 	path = test/vts-testcase/hal
 	url = ../test/vts-testcase/hal
 [submodule "platform/test/vts-testcase/hal-trace"]
-	branch = simpleperf-release
 	path = test/vts-testcase/hal-trace
 	url = ../test/vts-testcase/hal-trace
 [submodule "platform/test/vts-testcase/kernel"]
-	branch = simpleperf-release
 	path = test/vts-testcase/kernel
 	url = ../test/vts-testcase/kernel
 [submodule "platform/test/vts-testcase/nbu"]
-	branch = simpleperf-release
 	path = test/vts-testcase/nbu
 	url = ../test/vts-testcase/nbu
 [submodule "platform/test/vts-testcase/performance"]
-	branch = simpleperf-release
 	path = test/vts-testcase/performance
 	url = ../test/vts-testcase/performance
 [submodule "platform/test/vts-testcase/security"]
-	branch = simpleperf-release
 	path = test/vts-testcase/security
 	url = ../test/vts-testcase/security
 [submodule "platform/test/vts-testcase/vndk"]
-	branch = simpleperf-release
 	path = test/vts-testcase/vndk
 	url = ../test/vts-testcase/vndk
 [submodule "platform/tools/acloud"]
-	branch = simpleperf-release
 	path = tools/acloud
 	url = ../tools/acloud
 [submodule "platform/tools/adt/idea"]
-	branch = simpleperf-release
 	path = tools/adt/idea
 	url = ../tools/adt/idea
+[submodule "platform/tools/apifinder"]
+	path = tools/apifinder
+	url = ../tools/apifinder
 [submodule "platform/tools/apksig"]
-	branch = simpleperf-release
 	path = tools/apksig
 	url = ../tools/apksig
 [submodule "platform/tools/apkzlib"]
-	branch = simpleperf-release
 	path = tools/apkzlib
 	url = ../tools/apkzlib
 [submodule "platform/tools/asuite"]
-	branch = simpleperf-release
 	path = tools/asuite
 	url = ../tools/asuite
 [submodule "platform/tools/base"]
-	branch = simpleperf-release
 	path = tools/base
 	url = ../tools/base
 [submodule "platform/tools/build"]
-	branch = simpleperf-release
 	path = tools/build
 	url = ../tools/build
 [submodule "platform/tools/currysrc"]
-	branch = simpleperf-release
 	path = tools/currysrc
 	url = ../tools/currysrc
 [submodule "platform/tools/dexter"]
-	branch = simpleperf-release
 	path = tools/dexter
 	url = ../tools/dexter
+[submodule "platform/tools/doc_generation"]
+	path = tools/doc_generation
+	url = ../tools/doc_generation
 [submodule "platform/tools/external/fat32lib"]
-	branch = simpleperf-release
 	path = tools/external/fat32lib
 	url = ../tools/external/fat32lib
-[submodule "platform/tools/external/gradle"]
-	branch = simpleperf-release
-	shallow = true
-	path = tools/external/gradle
-	url = ../tools/external/gradle
 [submodule "platform/tools/external_updater"]
-	branch = simpleperf-release
 	path = tools/external_updater
 	url = ../tools/external_updater
 [submodule "platform/tools/idea"]
-	branch = simpleperf-release
 	path = tools/idea
 	url = ../tools/idea
 [submodule "platform/tools/loganalysis"]
-	branch = simpleperf-release
 	path = tools/loganalysis
 	url = ../tools/loganalysis
 [submodule "platform/tools/metalava"]
-	branch = simpleperf-release
 	path = tools/metalava
 	url = ../tools/metalava
 [submodule "platform/tools/motodev"]
-	branch = simpleperf-release
 	path = tools/motodev
 	url = ../tools/motodev
 [submodule "platform/tools/ndkports"]
-	branch = simpleperf-release
 	path = tools/ndkports
 	url = ../tools/ndkports
 [submodule "platform/tools/repohooks"]
-	branch = simpleperf-release
 	path = tools/repohooks
 	url = ../tools/repohooks
 [submodule "platform/tools/security"]
-	branch = simpleperf-release
 	path = tools/security
 	url = ../tools/security
 [submodule "platform/tools/studio/cloud"]
-	branch = simpleperf-release
 	path = tools/studio/cloud
 	url = ../tools/studio/cloud
 [submodule "platform/tools/swt"]
-	branch = simpleperf-release
 	path = tools/swt
 	url = ../tools/swt
 [submodule "platform/tools/test/connectivity"]
-	branch = simpleperf-release
 	path = tools/test/connectivity
 	url = ../tools/test/connectivity
 [submodule "platform/tools/test/graphicsbenchmark"]
-	branch = simpleperf-release
 	path = tools/test/graphicsbenchmark
 	url = ../tools/test/graphicsbenchmark
 [submodule "platform/tools/tradefederation"]
-	branch = simpleperf-release
 	path = tools/tradefederation/core
 	url = ../tools/tradefederation
 [submodule "platform/tools/tradefederation/contrib"]
-	branch = simpleperf-release
 	path = tools/tradefederation/contrib
 	url = ../tools/tradefederation/contrib
+[submodule "platform/tools/treble"]
+	path = tools/treble
+	url = ../tools/treble
 [submodule "platform/tools/trebuchet"]
-	branch = simpleperf-release
 	path = tools/trebuchet
 	url = ../tools/trebuchet
 [submodule "toolchain/benchmark"]
-	branch = simpleperf-release
 	path = toolchain/benchmark
 	url = ../../toolchain/benchmark
 [submodule "toolchain/pgo-profiles"]
-	branch = simpleperf-release
 	path = toolchain/pgo-profiles
 	url = ../../toolchain/pgo-profiles
+[submodule "tools/platform-compat"]
+	path = tools/platform-compat
+	url = ../../tools/platform-compat
