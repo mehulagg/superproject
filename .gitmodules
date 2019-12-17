@@ -1159,6 +1159,11 @@
 	shallow = true
 	path = external/libfuse
 	url = ../external/libfuse
+[submodule "platform/external/libgav1"]
+	branch = master
+	shallow = true
+	path = external/libgav1
+	url = ../external/libgav1
 [submodule "platform/external/libgsm"]
 	branch = master
 	shallow = true
@@ -3449,6 +3454,11 @@
 	shallow = true
 	path = system/hwservicemanager
 	url = ../system/hwservicemanager
+[submodule "platform/system/incremental_delivery"]
+	branch = master
+	shallow = true
+	path = system/incremental_delivery
+	url = ../system/incremental_delivery
 [submodule "platform/system/iorap"]
 	branch = master
 	shallow = true
@@ -3499,6 +3509,30 @@
 	shallow = true
 	path = system/media
 	url = ../system/media
+[submodule "platform/system/memory/libion"]
+	branch = master
+	shallow = true
+	path = system/memory/libion
+	url = ../system/memory/libion
+[submodule "platform/system/memory/libmeminfo"]
+	branch = master
+	shallow = true
+	path = system/memory/libmeminfo
+	url = ../system/memory/libmeminfo
+[submodule "platform/system/memory/libmemtrack"]
+	branch = master
+	shallow = true
+	path = system/memory/libmemtrack
+	url = ../system/memory/libmemtrack
+[submodule "platform/system/memory/libmemunreachable"]
+	branch = master
+	shallow = true
+	path = system/memory/libmemunreachable
+	url = ../system/memory/libmemunreachable
+[submodule "platform/system/memory/lmkd"]
+	branch = master
+	path = system/memory/lmkd
+	url = ../system/memory/lmkd
 [submodule "platform/system/netd"]
 	branch = master
 	shallow = true
