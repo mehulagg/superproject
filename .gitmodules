@@ -328,6 +328,10 @@
 	branch = master
 	path = external/safe-iop
 	url = ../external/safe-iop
+[submodule "platform/external/scudo"]
+	branch = master
+	path = external/scudo
+	url = ../external/scudo
 [submodule "platform/external/selinux"]
 	branch = master
 	path = external/selinux

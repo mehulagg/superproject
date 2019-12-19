@@ -80,6 +80,7 @@
 /external/python/cpython3 pdk
 /external/python/six pdk
 /external/safe-iop pdk
+/external/scudo pdk
 /external/selinux pdk
 /external/slf4j pdk
 /external/smali pdk
