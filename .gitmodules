@@ -50,10 +50,22 @@
 	branch = master
 	path = external/gflags
 	url = ../external/gflags
+[submodule "platform/external/go-creachadair-stringset"]
+	branch = master
+	path = external/go-creachadair-stringset
+	url = ../external/go-creachadair-stringset
 [submodule "platform/external/golang-protobuf"]
 	branch = master
 	path = external/golang-protobuf
 	url = ../external/golang-protobuf
+[submodule "platform/external/golang-x-sync"]
+	branch = master
+	path = external/golang-x-sync
+	url = ../external/golang-x-sync
+[submodule "platform/external/golang-x-tools"]
+	branch = master
+	path = external/golang-x-tools
+	url = ../external/golang-x-tools
 [submodule "platform/external/googletest"]
 	branch = master
 	path = external/googletest

@@ -11,7 +11,10 @@
 /external/compiler-rt
 /external/fmtlib
 /external/gflags pdk
+/external/go-creachadair-stringset
 /external/golang-protobuf
+/external/golang-x-sync
+/external/golang-x-tools
 /external/googletest
 /external/jsoncpp
 /external/kythe
