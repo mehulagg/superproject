@@ -306,6 +306,11 @@
 	shallow = true
 	path = prebuilts/ninja/linux-x86
 	url = ../prebuilts/ninja/linux-x86
+[submodule "platform/prebuilts/remoteexecution-client"]
+	branch = master
+	shallow = true
+	path = prebuilts/remoteexecution-client
+	url = ../prebuilts/remoteexecution-client
 [submodule "platform/prebuilts/tools"]
 	branch = master
 	shallow = true
